@@ -1,0 +1,700 @@
+# Hotstar API Documentation - Complete Analysis
+
+Based on the analysis of all four batches of network captures, I've compiled a comprehensive documentation of the key APIs used by Hotstar's streaming platform. This documentation focuses on the most relevant endpoints for content extraction and provides a clear understanding of the API structure and dependencies.
+
+## Common Headers Required for All Requests
+
+```
+x-request-id: [unique-request-id]
+x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g
+x-hs-platform: web
+x-country-code: in
+x-hs-accept-language: eng
+x-hs-device-id: [device-id]
+x-hs-app: 250306001
+x-hs-request-id: [request-id]
+x-hs-usertoken: [user-token]
+```
+
+## Key API Endpoints
+
+### 1. GET /api/internal/bff/v2/slugs/{country}/home
+
+**API NAME AND ENDPOINT:**
+GET https://www.hotstar.com/api/internal/bff/v2/slugs/{country}/home
+
+**PURPOSE:**
+Retrieves the homepage structure and content for a specific country, including navigation menu, featured content, and content trays.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns a comprehensive structure of the homepage, including navigation menu items, featured content, and multiple content trays organized by categories. This is the entry point for content discovery.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `country`: Country code (e.g., "in" for India)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.hotstar.com/api/internal/bff/v2/slugs/in/home
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.hotstar.com/api/internal/bff/v2/slugs/in/home" \
+  -H "x-request-id: 40c987-5dd65d-4981ab-4072a8" \
+  -H "x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g" \
+  -H "x-hs-platform: web" \
+  -H "x-country-code: in" \
+  -H "x-hs-accept-language: eng" \
+  -H "x-hs-device-id: 219a06-92f4d3-3cf707-a5941" \
+  -H "x-hs-app: 250306001" \
+  -H "x-hs-request-id: 40c987-5dd65d-4981ab-4072a8" \
+  -H "x-hs-usertoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." \
+  --cookie "geo=IN,MH,MUMBAI,18.98,72.83,38266; SELECTED__LANGUAGE=eng; deviceId=219a06-92f4d3-3cf707-a5941; userUP=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...; userHID=31f0af4b240a4c8788ceb807e70c2029; userPID=416bbe1710e24d3db2ebd8a5a7c68c36; loc=EKKx9cEGKAMixwHuze8vbMrZBtw..."
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "success": {
+    "page": {
+      "id": "home",
+      "template": "LandingPage",
+      "spaces": {
+        "footer": {
+          "id": "footer",
+          "template": "FooterSpace"
+        },
+        "header": {
+          "id": "header",
+          "template": "HeaderSpace",
+          "widget_wrappers": [
+            {
+              "template": "BrandedLogoHeaderWidget",
+              "widget": {
+                "@type": "type.googleapis.com/widget.BrandedLogoHeaderWidget",
+                "widget_commons": {
+                  "id": "BrandedLogoHeaderWidget",
+                  "version": "1"
+                },
+                "data": {
+                  "widgets": [
+                    {
+                      "help_settings_button": {
+                        "data": {
+                          "text": "Help & Settings",
+                          "actions": {
+                            "on_click": [
+                              {
+                                "page_navigation": {
+                                  "page_type": "SettingsPage",
+                                  "page_url": "/v1/settings",
+                                  "page_slug": "/in/settings"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "content": {
+          "id": "content",
+          "template": "ContentSpace",
+          "widget_wrappers": [
+            // Content trays and widgets
+          ]
+        }
+      }
+    }
+  }
+}
+```
+
+### 2. GET /api/internal/bff/v2/pages/{page_id}/spaces/{space_id}
+
+**API NAME AND ENDPOINT:**
+GET https://www.hotstar.com/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}
+
+**PURPOSE:**
+Retrieves content for a specific space within a page, typically used for loading content trays with pagination support.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns a collection of content trays or widgets for a specific space, often containing multiple content items organized by categories or recommendations.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `page_id`: Page identifier (e.g., "2169")
+- `space_id`: Space identifier within the page (e.g., "8451")
+- `anchor-session-token`: Session token for pagination (query parameter)
+- `offset`: Starting position for content items (query parameter)
+- `page_enum`: Page type (query parameter)
+- `rws`: List of widget IDs to exclude (query parameter)
+- `size`: Number of items to return (query parameter)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.hotstar.com/api/internal/bff/v2/pages/2169/spaces/8451?anchor-session-token=1748850880247-2xRyT_dHBmeT0yNQ&offset=44&page_enum=home&rws=66207%2C66208%2C71031%2C66214%2C66217%2C66219%2C66232%2C66220%2C66233%2C66223%2C71033%2C66221%2C67274%2C66215%2C66245%2C66228%2C71036%2C66237%2C75495%2C66239%2C66258%2C66241%2C66242%2C71040%2C71041%2C66229%2C66224%2C71075%2C66252&size=10
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.hotstar.com/api/internal/bff/v2/pages/2169/spaces/8451?anchor-session-token=1748850880247-2xRyT_dHBmeT0yNQ&offset=44&page_enum=home&rws=66207%2C66208%2C71031%2C66214%2C66217%2C66219%2C66232%2C66220%2C66233%2C66223%2C71033%2C66221%2C67274%2C66215%2C66245%2C66228%2C71036%2C66237%2C75495%2C66239%2C66258%2C66241%2C66242%2C71040%2C71041%2C66229%2C66224%2C71075%2C66252&size=10" \
+  -H "x-request-id: 2946c6-26d796-871207-473e65" \
+  -H "x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g" \
+  -H "x-hs-platform: web" \
+  -H "x-country-code: in" \
+  -H "x-hs-accept-language: eng" \
+  -H "x-hs-device-id: 219a06-92f4d3-3cf707-a5941" \
+  -H "x-hs-app: 250306001" \
+  -H "x-hs-request-id: 2946c6-26d796-871207-473e65" \
+  -H "referer: https://www.hotstar.com/in/home" \
+  -H "x-hs-usertoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." \
+  --cookie "geo=IN,MH,MUMBAI,18.98,72.83,38266; SELECTED__LANGUAGE=eng; deviceId=219a06-92f4d3-3cf707-a5941; userUP=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...; userHID=31f0af4b240a4c8788ceb807e70c2029; userPID=416bbe1710e24d3db2ebd8a5a7c68c36; loc=EKKx9cEGKAMixwHuze8vbMrZBtw..."
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "success": {
+    "space": {
+      "id": "tray",
+      "template": "TraySpace",
+      "widget_wrappers": [
+        {
+          "template": "ScrollableTrayWidget",
+          "widget": {
+            "@type": "type.googleapis.com/widget.ScrollableTrayWidget",
+            "widget_commons": {
+              "id": "ScrollableTrayWidget",
+              "version": "1",
+              "instrumentation": {
+                "override_referrer": true,
+                "impression_events": [
+                  {
+                    "event_name": "Tray Viewed"
+                  }
+                ],
+                "instrumentation_context_v2": {
+                  "url": "type.googleapis.com/server.context.widget.TrayContext",
+                  "value": "CkESFFNjcm9sbGFibGVUcmF5V2lkZ2V0GiZDb250ZW50Q29sbGVjdGlvbi9TY3JvbGxhYmxlVHJheVdpZGdldCIBMRqZAQolcmVjby1wb3BfQ2dsTmVYUm9iMnh2WjNrYUEwRnNiQ0lEUVd4cxIUUG9wdWxhciBpbiBNeXRob2xvZ3kaBFRyYXkgASoLcmVjb21tZW5kZWQyA2VuZ2JAZHluYW1pYy1yYW5raW5nX192MV9fMTc0ODg1MDg4..."
+                }
+              },
+              "name": "ContentCollection"
+            },
+            "data": {
+              "title": "Popular in Mythology",
+              "items": [
+                // Content items
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
+```
+
+**PAGINATION HANDLING:**
+This endpoint supports pagination through the `anchor-session-token`, `offset`, and `size` parameters. The `rws` parameter contains a list of widget IDs that have already been retrieved, allowing the server to return only new content. To paginate:
+
+1. Make the initial request with a starting offset (e.g., 0 or 14)
+2. For subsequent requests, increment the offset by the size value
+3. Add the widget IDs from the previous response to the `rws` parameter
+4. Continue until no more content is returned or the response indicates the end of content
+
+### 3. GET /api/internal/bff/v2/slugs/{country}/browse/{category}/{subcategory}/{tray_id}
+
+**API NAME AND ENDPOINT:**
+GET https://www.hotstar.com/api/internal/bff/v2/slugs/{country}/browse/{category}/{subcategory}/{tray_id}
+
+**PURPOSE:**
+Retrieves detailed content items for a specific category, subcategory, or tray.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns a collection of content items organized in a grid format, with detailed metadata for each item including title, description, images, and content IDs.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `country`: Country code (e.g., "in" for India)
+- `category`: Content category (e.g., "reco-editorial")
+- `subcategory`: Content subcategory (e.g., "hotstar-specials")
+- `tray_id`: Identifier for the specific tray (e.g., "tp-ed_COHLn94EEAEaAQA")
+- `card_type`: Type of card layout (query parameter, e.g., "VERTICAL_LARGE")
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.hotstar.com/api/internal/bff/v2/slugs/in/browse/reco-editorial/hotstar-specials/tp-ed_COHLn94EEAEaAQA?card_type=VERTICAL_LARGE
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.hotstar.com/api/internal/bff/v2/slugs/in/browse/reco-editorial/hotstar-specials/tp-ed_COHLn94EEAEaAQA?card_type=VERTICAL_LARGE" \
+  -H "x-request-id: 18734d-515fc1-8885b4-6543c8" \
+  -H "x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g" \
+  -H "x-hs-platform: web" \
+  -H "x-country-code: in" \
+  -H "x-hs-accept-language: eng" \
+  -H "x-hs-device-id: 219a06-92f4d3-3cf707-a5941" \
+  -H "x-hs-app: 250306001" \
+  -H "x-hs-request-id: 18734d-515fc1-8885b4-6543c8" \
+  -H "referer: https://www.hotstar.com/in/home" \
+  -H "x-hs-usertoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." \
+  --cookie "geo=IN,MH,MUMBAI,18.98,72.83,38266; SELECTED__LANGUAGE=eng; deviceId=219a06-92f4d3-3cf707-a5941; userUP=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...; userHID=31f0af4b240a4c8788ceb807e70c2029; userPID=416bbe1710e24d3db2ebd8a5a7c68c36; loc=EKKx9cEGKAMixwHuze8vbMrZBtw..."
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "success": {
+    "page": {
+      "id": "tray_details",
+      "template": "TrayDetailsPage",
+      "spaces": {
+        "content": {
+          "id": "content",
+          "template": "ContentSpace",
+          "widget_wrappers": [
+            {
+              "template": "GridWidget",
+              "widget": {
+                "@type": "type.googleapis.com/widget.GridWidget",
+                "widget_commons": {
+                  "version": "1",
+                  "name": "GridWidget"
+                },
+                "data": {
+                  "column_number": 7,
+                  "more_grid_items_url": "/v2/pages/2032/spaces/7455/widgets/54233/items?token=%7B%22offset%22%3A21%2C%22limit%22%3A10%2C%22bloomFilter%22%3A%22AQcAAAAPAEgQAIAEIAQUBEJEACIAUAACgAMEEkHGGCEAAFAIAAQAAAEAgAAQACARggEAEgIACAEAoAkAAAAEAAIHAACMDAqIBAAACsQIiQRAACAAeEwIwEAiIAEAgABwEQBAAAIAAxIEEAAxBAKgCBQQAwECAACgIAAgIAgQ%22%7D&tray_id=tp-ed_COHLn94EEAEaAQA&tray_type=reco-editorial",
+                  "items": [
+                    // Content items
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```
+
+### 4. GET /api/internal/bff/v2/pages/{page_id}/spaces/{space_id}/widgets/{widget_id}/items
+
+**API NAME AND ENDPOINT:**
+GET https://www.hotstar.com/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}/widgets/{widget_id}/items
+
+**PURPOSE:**
+Retrieves additional content items for a specific widget, typically used for pagination of content grids.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns additional content items for a specific widget, allowing for pagination through large content collections.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `page_id`: Page identifier (e.g., "2032")
+- `space_id`: Space identifier within the page (e.g., "7455")
+- `widget_id`: Widget identifier (e.g., "54233")
+- `token`: Pagination token containing offset, limit, and bloom filter (query parameter)
+- `tray_id`: Identifier for the specific tray (query parameter)
+- `tray_type`: Type of the tray (query parameter)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.hotstar.com/api/internal/bff/v2/pages/2032/spaces/7455/widgets/54233/items?token=%7B%22offset%22%3A21%2C%22limit%22%3A10%2C%22bloomFilter%22%3A%22AQcAAAAPAEgQAIAEIAQUBEJEACIAUAACgAMEEkHGGCEAAFAIAAQAAAEAgAAQACARggEAEgIACAEAoAkAAAAEAAIHAACMDAqIBAAACsQIiQRAACAAeEwIwEAiIAEAgABwEQBAAAIAAxIEEAAxBAKgCBQQAwECAACgIAAgIAgQ%22%7D&tray_id=tp-ed_COHLn94EEAEaAQA&tray_type=reco-editorial
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.hotstar.com/api/internal/bff/v2/pages/2032/spaces/7455/widgets/54233/items?token=%7B%22offset%22%3A21%2C%22limit%22%3A10%2C%22bloomFilter%22%3A%22AQcAAAAPAEgQAIAEIAQUBEJEACIAUAACgAMEEkHGGCEAAFAIAAQAAAEAgAAQACARggEAEgIACAEAoAkAAAAEAAIHAACMDAqIBAAACsQIiQRAACAAeEwIwEAiIAEAgABwEQBAAAIAAxIEEAAxBAKgCBQQAwECAACgIAAgIAgQ%22%7D&tray_id=tp-ed_COHLn94EEAEaAQA&tray_type=reco-editorial" \
+  -H "x-request-id: 4b61c9-87c835-1d7516-2f127e" \
+  -H "x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g" \
+  -H "x-hs-platform: web" \
+  -H "x-country-code: in" \
+  -H "x-hs-accept-language: eng" \
+  -H "x-hs-device-id: 219a06-92f4d3-3cf707-a5941" \
+  -H "x-hs-app: 250306001" \
+  -H "x-hs-request-id: 4b61c9-87c835-1d7516-2f127e" \
+  -H "referer: https://www.hotstar.com/in/browse/reco-editorial/hotstar-specials/tp-ed_COHLn94EEAEaAQA?card_type=VERTICAL_LARGE" \
+  -H "x-hs-usertoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." \
+  --cookie "geo=IN,MH,MUMBAI,18.98,72.83,38266; SELECTED__LANGUAGE=eng; deviceId=219a06-92f4d3-3cf707-a5941; userUP=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...; userHID=31f0af4b240a4c8788ceb807e70c2029; userPID=416bbe1710e24d3db2ebd8a5a7c68c36; loc=EKKx9cEGKAMixwHuze8vbMrZBtw..."
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "success": {
+    "widget_wrapper": {
+      "template": "GridWidget",
+      "widget": {
+        "@type": "type.googleapis.com/widget.GridWidget",
+        "widget_commons": {
+          "version": "1",
+          "name": "GridWidget"
+        },
+        "data": {
+          "column_number": 7,
+          "more_grid_items_url": "/v2/pages/2032/spaces/7455/widgets/54233/items?token=%7B%22offset%22%3A31%2C%22limit%22%3A10%2C%22bloomFilter%22%3A%22AQcAAAAPCEhYBIAEIQQWBE5EAKIAcCACgAMEEkHGGCEEAFAIAAQAAIEAgQQQAKCRgoEAEhMQCAEAqCmgqIAG0AIHCACMTAqIBAwACsQIiQRAACYgeE4awkBiIAEAgABwEQBAogIA41IEEAAxBAKgCBRQAwECACGgIAQgoIwQ%22%7D&tray_id=tp-ed_COHLn94EEAEaAQA&tray_type=reco-editorial",
+          "items": [
+            // Additional content items
+          ]
+        }
+      }
+    }
+  }
+}
+```
+
+**PAGINATION HANDLING:**
+This endpoint supports pagination through the `token` parameter, which contains offset, limit, and a bloom filter. The response includes a `more_grid_items_url` field that contains the URL for fetching the next page. To paginate:
+
+1. Make the initial request using the URL from the `more_grid_items_url` field in the parent response
+2. Extract the next `more_grid_items_url` from the response
+3. Continue until no more `more_grid_items_url` is provided or it's empty
+
+### 5. GET /api/internal/bff/v2/slugs/{country}/{content_type}/{content_slug}/{content_id}
+
+**API NAME AND ENDPOINT:**
+GET https://www.hotstar.com/api/internal/bff/v2/slugs/{country}/{content_type}/{content_slug}/{content_id}
+
+**PURPOSE:**
+Retrieves detailed information about a specific content item, such as a movie, TV show, or episode.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns comprehensive details about a specific content item, including title, description, genres, cast, crew, related content, and available seasons/episodes for TV shows.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `country`: Country code (e.g., "in" for India)
+- `content_type`: Type of content (e.g., "shows", "movies")
+- `content_slug`: URL-friendly name of the content (e.g., "criminal-justice-a-family-matter")
+- `content_id`: Unique identifier for the content (e.g., "1271316088")
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.hotstar.com/api/internal/bff/v2/slugs/in/shows/criminal-justice-a-family-matter/1271316088
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.hotstar.com/api/internal/bff/v2/slugs/in/shows/criminal-justice-a-family-matter/1271316088" \
+  -H "x-request-id: 6437c6-42f559-4813a6-496c1a" \
+  -H "x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g" \
+  -H "x-hs-platform: web" \
+  -H "x-country-code: in" \
+  -H "x-hs-accept-language: eng" \
+  -H "x-hs-device-id: 219a06-92f4d3-3cf707-a5941" \
+  -H "x-hs-app: 250306001" \
+  -H "x-hs-request-id: 6437c6-42f559-4813a6-496c1a" \
+  -H "referer: https://www.hotstar.com/in/shows/criminal-justice-a-family-matter/1271316088" \
+  -H "x-hs-usertoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." \
+  --cookie "geo=IN,MH,MUMBAI,18.98,72.83,38266; SELECTED__LANGUAGE=eng; deviceId=219a06-92f4d3-3cf707-a5941; userUP=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...; userHID=31f0af4b240a4c8788ceb807e70c2029; userPID=416bbe1710e24d3db2ebd8a5a7c68c36; loc=EKKx9cEGKAMixwHuze8vbMrZBtw..."
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "success": {
+    "page": {
+      "id": "detail",
+      "template": "DesktopDetailsPage",
+      "spaces": {
+        "footer": {
+          "id": "footer",
+          "template": "FooterSpace"
+        },
+        "hero": {
+          "id": "hero",
+          "template": "TraySpace",
+          "widget_wrappers": [
+            {
+              "template": "HeroGECWidget",
+              "widget": {
+                "@type": "type.googleapis.com/widget.HeroGECWidget",
+                "template": {
+                  "name": "HeroGECWidget",
+                  "version": "1"
+                },
+                "widget_commons": {
+                  "id": "HeroGECWidget",
+                  "version": "1",
+                  "instrumentation": {
+                    "impression_events": [
+                      {
+                        "event_name": "Content Viewed"
+                      }
+                    ]
+                  }
+                },
+                "data": {
+                  "content_id": "1271316088",
+                  "title": "Criminal Justice: A Family Matter",
+                  "description": "Madhav Mishra returns to fight for Avantika Ahuja, who is accused of murdering her own daughter. As the case unfolds, Madhav discovers that the truth is far more complex than it appears.",
+                  "content_type": "show",
+                  "genre": [
+                    "Drama",
+                    "Thriller"
+                  ],
+                  "lang": [
+                    "Hindi"
+                  ],
+                  "images": {
+                    "h_thumb": "https://img10.hotstar.com/image/upload/f_auto,h_148/sources/r1/cms/prod/5088/1271316088_h_2023052310084",
+                    "v_thumb": "https://img10.hotstar.com/image/upload/f_auto,w_240/sources/r1/cms/prod/5088/1271316088_v_2023052310084",
+                    "cover": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5088/1271316088_hs_2023052310084"
+                  },
+                  "seasons": [
+                    {
+                      "season_num": 1,
+                      "episodes": [
+                        // Episode details
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```
+
+### 6. GET /api/internal/bff/v2/pages/{page_id}/spaces/{space_id}/widgets/{widget_id}
+
+**API NAME AND ENDPOINT:**
+GET https://www.hotstar.com/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}/widgets/{widget_id}
+
+**PURPOSE:**
+Retrieves detailed information about a specific media asset, including streaming URLs and playback information for trailers, previews, or full content.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns comprehensive details about a media asset, including streaming URLs (DASH/HLS), content duration, thumbnail information, and playback parameters. This endpoint is crucial for accessing the actual video content.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `page_id`: Page identifier (e.g., "666")
+- `space_id`: Space identifier within the page (e.g., "334")
+- `widget_id`: Widget identifier (e.g., "244")
+- `content_id`: ID of the specific content item (Required query parameter)
+- `client_capabilities`: JSON string of client capabilities including supported codecs, resolutions, and formats (Required query parameter)
+- `drm_parameters`: JSON string of DRM parameters for protected content (Required query parameter)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.hotstar.com/api/internal/bff/v2/pages/666/spaces/334/widgets/244?content_id=1271421296&client_capabilities=%7B%22ads%22%3A%5B%22non_ssai%22%5D%2C%22audio_channel%22%3A%5B%22stereo%22%5D%2C%22container%22%3A%5B%22fmp4%22%2C%22fmp4br%22%2C%22ts%22%5D%2C%22dvr%22%3A%5B%22short%22%5D%2C%22dynamic_range%22%3A%5B%22sdr%22%5D%2C%22encryption%22%3A%5B%22plain%22%5D%2C%22ladder%22%3A%5B%22web%22%2C%22tv%22%2C%22phone%22%5D%2C%22package%22%3A%5B%22dash%22%2C%22hls%22%5D%2C%22resolution%22%3A%5B%22sd%22%2C%22hd%22%2C%22fhd%22%5D%2C%22video_codec%22%3A%5B%22h264%22%5D%2C%22video_codec_non_secure%22%3A%5B%22h264%22%5D%7D&drm_parameters=%7B%22hdcp_version%22%3A%5B%22HDCP_V2_2%22%5D%2C%22widevine_security_level%22%3A%5B%5D%2C%22playready_security_level%22%3A%5B%5D%7D
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.hotstar.com/api/internal/bff/v2/pages/666/spaces/334/widgets/244?content_id=1271421296&client_capabilities=%7B%22ads%22%3A%5B%22non_ssai%22%5D%2C%22audio_channel%22%3A%5B%22stereo%22%5D%2C%22container%22%3A%5B%22fmp4%22%2C%22fmp4br%22%2C%22ts%22%5D%2C%22dvr%22%3A%5B%22short%22%5D%2C%22dynamic_range%22%3A%5B%22sdr%22%5D%2C%22encryption%22%3A%5B%22plain%22%5D%2C%22ladder%22%3A%5B%22web%22%2C%22tv%22%2C%22phone%22%5D%2C%22package%22%3A%5B%22dash%22%2C%22hls%22%5D%2C%22resolution%22%3A%5B%22sd%22%2C%22hd%22%2C%22fhd%22%5D%2C%22video_codec%22%3A%5B%22h264%22%5D%2C%22video_codec_non_secure%22%3A%5B%22h264%22%5D%7D&drm_parameters=%7B%22hdcp_version%22%3A%5B%22HDCP_V2_2%22%5D%2C%22widevine_security_level%22%3A%5B%5D%2C%22playready_security_level%22%3A%5B%5D%7D" \
+  -H "x-request-id: 600eba-7aba19-327376-6c79d6" \
+  -H "x-hs-client: platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g" \
+  -H "x-hs-platform: web" \
+  -H "x-country-code: in" \
+  -H "x-hs-accept-language: eng" \
+  -H "x-hs-device-id: 219a06-92f4d3-3cf707-a5941" \
+  -H "x-hs-app: 250306001" \
+  -H "x-hs-request-id: 600eba-7aba19-327376-6c79d6" \
+  -H "referer: https://www.hotstar.com/in/shows/criminal-justice-a-family-matter/1271316088" \
+  -H "x-hs-usertoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." \
+  --cookie "geo=IN,MH,MUMBAI,18.98,72.83,38266; SELECTED__LANGUAGE=eng; deviceId=219a06-92f4d3-3cf707-a5941; userUP=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...; userHID=31f0af4b240a4c8788ceb807e70c2029; userPID=416bbe1710e24d3db2ebd8a5a7c68c36; loc=EKKx9cEGKAMixwHuze8vbMrZBtw..."
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "success": {
+    "widget_wrapper": {
+      "template": "AutoplayWidget",
+      "widget": {
+        "@type": "type.googleapis.com/widget.AutoplayWidget",
+        "widget_commons": {
+          "version": "1",
+          "name": "AutoPlayWidget"
+        },
+        "data": {
+          "media_asset": {
+            "primary": {
+              "content_url": "https://hses8.hotstar.com/videos/hotstarint/criminaljusticeafamilymattertrailer/1271316088/1271421296/v3/1748350250781/c811af9e895e40605b055c0c2c4227f1/master-04f02a3394-1748352519562.mpd?hdnea=exp=1748851400~acl=%2fvideos%2fhotstarint%2fcriminaljusticeafamilymattertrailer%2f1271316088%2f1271421296%2fv3%2f1748350250781%2fc811af9e895e40605b055c0c2c4227f1%2a~data=ip%3dqibLsBsfX3CyPOBHgrYXKbzJXbCFEIIM7qSaKgw6TqVDeFCDIZhVR8o-userid%3dJ7x0H5mZothDeF7c38CubqadqyRJfC7v1V3JfG3Baa7p-did%3d0k7wGbHDo7FLYydODtBofK9M7j8P6zNKXthRwziuE6kg-cc%3din-de%3d1-pl%3dweb-ap%3d25.03.06.1-ut%3dguest-ttl%3d86400-type%3dfree-~hmac=97fd7544dc81b3deacbddc6f0508abfb..."
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+### 7. GET /videos/{content-path}/video-meta.json
+
+**API NAME AND ENDPOINT:**
+GET https://hses8.hotstar.com/videos/{content-path}/video-meta.json
+
+**PURPOSE:**
+Retrieves detailed technical metadata about a video asset, including encoding information, available resolutions, bitrates, and thumbnail details.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns comprehensive technical details about the video asset, including available resolutions, bitrates, codecs, audio tracks, and thumbnail information. This information is essential for selecting the appropriate video quality and understanding the available formats.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `content-path`: Path to the content, including content type, content ID, and version information
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://hses8.hotstar.com/videos/hotstarint/criminaljusticeafamilymattertrailer/1271316088/1271421296/v3/1748350250781/video-meta.json
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://hses8.hotstar.com/videos/hotstarint/criminaljusticeafamilymattertrailer/1271316088/1271421296/v3/1748350250781/video-meta.json" \
+  -H "referer: https://www.hotstar.com/" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "seekThumbnailInfo": {
+    "frameInterval": 10,
+    "thumbnailCount": 12,
+    "availableFormats": [
+      {
+        "width": 256,
+        "height": 144,
+        "bifUrl": "https://hses8.hotstar.com/videos/hotstarint/criminaljusticeafamilymattertrailer/1271316088/1271421296/v3/1748350250781/bif/sd.bif"
+      },
+      {
+        "width": 320,
+        "height": 180,
+        "bifUrl": "https://hses8.hotstar.com/videos/hotstarint/criminaljusticeafamilymattertrailer/1271316088/1271421296/v3/1748350250781/bif/hd.bif"
+      }
+    ]
+  },
+  "roi": {
+    "width": 1.0,
+    "height": 0.8666666666666667,
+    "xoffset": 0.0,
+    "yoffset": 0.06666666666666667
+  },
+  "encodeStats": {
+    "phone-h264": [
+      {
+        "video": {
+          "width": 320,
+          "height": 180,
+          "video_br": 98.169,
+          "video_codec": "h264"
+        },
+        "audio": [
+          {
+            "language": "hin",
+            "audio_br": 48.027,
+            "audio_codec": "aac",
+            "channel": 2
+          }
+        ],
+        "total_avg_br": 150.4
+      },
+      // Additional encoding options
+    ]
+  }
+}
+```
+
+## API Dependency Mapping
+
+Based on the analysis of all four batches, here's a comprehensive API dependency mapping:
+
+1. **Authentication Flow**:
+   - First, the system makes a POST request to `/api/internal/bff/v2/freshstart` to initialize the session
+   - This returns user tokens and session information needed for subsequent requests
+
+2. **Content Discovery Flow**:
+   - Start with GET `/api/internal/bff/v2/slugs/{country}/home` to get the homepage content structure
+   - This returns trays and content collections that can be further explored
+   - For each tray, use GET `/api/internal/bff/v2/slugs/{country}/browse/{category}/{subcategory}/{tray_id}` to get detailed content items
+   - For paginated content trays, use GET `/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}` with appropriate pagination parameters
+   - For additional content items within a widget, use GET `/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}/widgets/{widget_id}/items` with the token from the previous response
+
+3. **Content Detail Flow**:
+   - Once a specific content ID is identified, use GET `/api/internal/bff/v2/slugs/{country}/{content_type}/{content_slug}/{content_id}` to get detailed metadata
+   - For TV shows, this response includes season and episode information
+   - For streaming details, use GET `/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}/widgets/{widget_id}?content_id={content_id}` 
+   - For technical metadata about the video, use GET `/videos/{content-path}/video-meta.json`
+
+4. **Video Playback Flow**:
+   - After obtaining the content URL from the widget endpoint, the client can directly access the streaming URL
+   - For additional technical metadata about the video, request the video-meta.json endpoint
+   - The streaming URL typically points to a DASH or HLS manifest that contains multiple quality levels
+
+## Content Traversal Strategy
+
+1. **Start with Homepage**:
+   - Fetch the homepage using `/api/internal/bff/v2/slugs/{country}/home` to get the main content structure and trays
+
+2. **Iterate Through Content Categories**:
+   - The homepage response contains navigation menu items that represent content categories
+   - For each category, fetch its content using the appropriate slug endpoint
+
+3. **Process Content Trays**:
+   - For each tray on the homepage or category page, fetch its detailed content
+   - Handle pagination using the spaces endpoint with appropriate pagination parameters
+   - Keep track of already processed widget IDs using the `rws` parameter
+
+4. **Extract Content Details**:
+   - For each content item, extract the content ID and slug
+   - Use the content ID and slug to fetch detailed information
+   - For streaming information, use the widget endpoint with the content ID
+
+5. **Process Different Content Types**:
+   - Movies: Direct content details and streaming information
+   - TV Shows: Need to fetch seasons and episodes hierarchically
+   - Sports: May have additional metadata like match details
+
+6. **Access Video Content**:
+   - Use the streaming URL obtained from the widget endpoint to access the video content
+   - For technical details about the video, fetch the video-meta.json
+
+## Pagination Handling
+
+The Hotstar API uses two main pagination mechanisms:
+
+1. **Token-based Pagination** (for content items within a widget):
+   - The response includes a `more_grid_items_url` field that contains the URL for fetching the next page
+   - This URL includes parameters like offset, limit, and a bloom filter
+   - Example: `/v2/pages/2032/spaces/7455/widgets/54233/items?token=%7B%22offset%22%3A21%2C%22limit%22%3A10%2C%22bloomFilter%22%3A%22AQcAAAAPAEgQAIAEIAQUBEJEACIAUAACgAMEEkHGGCEAAFAIAAQAAAEAgAAQACARggEAEgIACAEAoAkAAAAEAAIHAACMDAqIBAAACsQIiQRAACAAeEwIwEAiIAEAgABwEQBAAAIAAxIEEAAxBAKgCBQQAwECAACgIAAgIAgQ%22%7D&tray_id=tp-ed_COHLn94EEAEaAQA&tray_type=reco-editorial`
+
+2. **Offset-based Pagination** (for content trays within a space):
+   - Use the `anchor-session-token`, `offset`, and `size` parameters
+   - The `rws` parameter contains a list of widget IDs that have already been retrieved
+   - Example: `?anchor-session-token=1748850880247-2xRyT_dHBmeT0yNQ&offset=44&page_enum=home&rws=66207%2C66208%2C71031%2C66214%2C66217%2C66219%2C66232%2C66220%2C66233%2C66223%2C71033%2C66221%2C67274%2C66215%2C66245%2C66228%2C71036%2C66237%2C75495%2C66239%2C66258%2C66241%2C66242%2C71040%2C71041%2C66229%2C66224%2C71075%2C66252&size=10`
+
+To paginate through all content:
+1. Make the initial request
+2. Extract pagination information from the response
+3. Make subsequent requests with updated pagination parameters
+4. Continue until no more content is returned or the response indicates the end of content
+
+## Authentication and Session Management
+
+Hotstar uses JWT (JSON Web Token) for authentication and session management. The key components are:
+
+1. **User Token**: A JWT token provided in the `x-hs-usertoken` header for authenticated requests
+2. **Device ID**: A unique identifier for the device, provided in the `x-hs-device-id` header
+3. **Cookies**: Several cookies are used for session management, including:
+   - `userUP`: User profile information
+   - `userHID` and `userPID`: User identifiers
+   - `loc`: Location information
+   - `geo`: Geographic information
+
+The authentication flow starts with a request to `/api/internal/bff/v2/freshstart`, which initializes the session and returns the necessary tokens and cookies. These tokens and cookies are then used in subsequent requests to maintain the session.
+
+## Conclusion
+
+The Hotstar API provides a comprehensive set of endpoints for content discovery, metadata retrieval, and video playback. By following the content traversal strategy outlined above and properly handling pagination and authentication, it's possible to systematically extract all available content metadata from the platform.
+
+The API structure follows a hierarchical pattern, starting from the homepage and drilling down to specific content items. The use of slugs, IDs, and tokens provides a flexible and efficient way to navigate through the content structure and access detailed information about movies, TV shows, and other media assets.
