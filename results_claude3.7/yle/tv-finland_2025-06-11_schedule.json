@@ -1,0 +1,1879 @@
+[
+  {
+    "title": "Suomi on suomalainen",
+    "description": "7/10 Valtio. Milloin itsen\u00e4isyys oikeastaan alkoi - ja mit\u00e4 itsen\u00e4isyys tarkoittaa Euroopan unionissa? Ovatko suomalainen valtio ja kansa erkaantumassa toisistaan? (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4058138"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.00",
+        "raw": "2025-06-11T09:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T09:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3965964"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4058138.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Uusimaa",
+    "description": "Uutisia Uudeltamaalta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72547403"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.00",
+        "raw": "2025-06-11T11:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:03:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3830350"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Kaakkois-Suomi",
+    "description": "Uutisia Kaakkois-Suomesta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72549384"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.03",
+        "raw": "2025-06-11T11:03:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:06:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3863205"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Lounais-Suomi",
+    "description": "Uutisia Lounais-Suomesta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72549763"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.06",
+        "raw": "2025-06-11T11:06:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:09:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3828353"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset H\u00e4me",
+    "description": "Uutisia Kanta- ja P\u00e4ij\u00e4t-H\u00e4meest\u00e4",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72551517"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.09",
+        "raw": "2025-06-11T11:09:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:12:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3829020"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Pirkanmaa",
+    "description": "Uutisia Pirkanmaalta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72547135"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.12",
+        "raw": "2025-06-11T11:12:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3142190"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Keski-Suomi ja Etel\u00e4-Savo",
+    "description": "Uutisia Keski-Suomeen ja Etel\u00e4-Savoon",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72546230"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.15",
+        "raw": "2025-06-11T11:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:18:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3829587"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset It\u00e4-Suomi",
+    "description": "Uutisia It\u00e4-Suomesta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72549003"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.18",
+        "raw": "2025-06-11T11:18:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:21:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3834946"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Pohjanmaa",
+    "description": "Uutisia Pohjanmaalta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72550610"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.21",
+        "raw": "2025-06-11T11:21:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:24:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3834691"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Pohjois-Suomi",
+    "description": "Uutisia Pohjois-Suomesta",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72550178"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.24",
+        "raw": "2025-06-11T11:24:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:27:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3835054"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset Lappi",
+    "description": "Uutisia Lapista",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72552665"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.27",
+        "raw": "2025-06-11T11:27:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT180S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3142275"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Oddasat",
+    "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72548177"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.30",
+        "raw": "2025-06-11T11:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:34:30+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "4 min",
+        "raw": "PT270S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3238937"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Oddasat",
+    "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72547955"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.34",
+        "raw": "2025-06-11T11:34:30+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "15 min",
+        "raw": "PT930S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3830094"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Kandit",
+    "description": "Kausi 2, 6/8. Erika ja Jussi valistavat alkoholin vaaroista. Miskalla mukava p\u00e4iv\u00e4: potilaan kotiuttamista ja aikidoa. Heikki musisoi vanhuksille. Raskas ty\u00f6 vaatii raskasta rautaa. yle.fi/kandit (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2233071"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.20",
+        "raw": "2025-06-11T13:20:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T13:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3146793"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-2233071.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Jumppahetki",
+    "description": "Rauhallisessa jumpassa voimaa reisiin. Apuv\u00e4linein\u00e4 k\u00e4ytet\u00e4\u00e4n vessapaperirullia ja kirjoja. Loppuun rauhallinen venyttely.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72482594"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.50",
+        "raw": "2025-06-11T13:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "10 min",
+        "raw": "PT600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50489724"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72482594.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Suopursu kukkii (7)",
+    "description": "Salaper\u00e4inen kulkuri kietoo maalla sijaitsevan t\u00e4ysihoitolan naiset pauloihinsa. O: Toivo S\u00e4rkk\u00e4. N: Rauli Tuomi, Ritva Arvelo, Ghedi L\u00f6nnberg, Eeva-Kaarina Volanen. T: SF (1947) (Mv) (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-112685"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.00",
+        "raw": "2025-06-11T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T15:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 25 min",
+        "raw": "PT5100S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "aspectRatio",
+        "formatted": "kuvasuhde 4:3",
+        "raw": "4:3"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "highlight",
+        "formatted": "ELOKUVA",
+        "raw": "movie"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "A-studio",
+    "description": "Mit\u00e4 Donald Trumpin ja Elon Muskin v\u00e4lirikosta seuraa? Juontajana Sakari Sirkkanen.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72480905"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "15.25",
+        "raw": "2025-06-11T15:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T16:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "35 min",
+        "raw": "PT2100S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3229465"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Ellan matkassa: roomalaisten j\u00e4ljill\u00e4",
+    "description": "Kausi 2, 3/7. P\u00e4hkin\u00e4hiirt\u00e4 ja musikaaleja. Ellan matka jatkuu Trentoon, joka oli legioonalaisten risteys- ja leiripaikka. K\u00e4velty\u00e4\u00e4n yli 2000 vuotta vanhaa kivetyst\u00e4 Ella jatkaa Alppien yli Saksaan ja pys\u00e4htyy Tonavalle. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4469155"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "16.00",
+        "raw": "2025-06-11T16:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T16:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4303204"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4469155.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Nimip\u00e4iv\u00e4onnittelu: 11.6.",
+    "description": "Onnea, Impi ja Immi!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2086793"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.00",
+        "raw": "2025-06-11T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T17:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "5 min",
+        "raw": "PT300S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808368"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Latela",
+    "description": "Kausi 1, 10/10. Tallien autot ovat yleis\u00f6n n\u00e4ht\u00e4vill\u00e4 American Car Show'ssa. Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 ja vihdoin selvi\u00e4\u00e4, kumpi talli voittaa. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1857139"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.00",
+        "raw": "2025-06-11T18:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T18:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2826936"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-1857139.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Ahvenanmaan sankarit",
+    "description": "8/8. Ahvenanmaan poliisissa Nicolai l\u00e4htee kohti omakotitaloalueella pidett\u00e4vi\u00e4 kova\u00e4\u00e4nisi\u00e4 kotibileit\u00e4, joissa on mukana alaik\u00e4isi\u00e4 p\u00e4ihtyneit\u00e4. H\u00e4nen kollegansa Timo puntaroi koronapandemian johdosta tehty\u00e4 p\u00e4\u00e4t\u00f6st\u00e4. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50500891"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.30",
+        "raw": "2025-06-11T18:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T19:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "40 min",
+        "raw": "PT2400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50640919"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50500891.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Modernit miehet (12)",
+    "description": "Kausi 3, 8/12. Vartijakortin hankkinut Pete p\u00e4\u00e4tt\u00e4\u00e4 uudistaa turvallisuusalan. Matti turvautuu nykyp\u00e4iv\u00e4n teknologiaan pit\u00e4\u00e4kseen silm\u00e4ll\u00e4 lapsia ja perheen taloutta. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50612301"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "19.10",
+        "raw": "2025-06-11T19:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T19:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "20 min",
+        "raw": "PT1200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4530023"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "englanti",
+        "raw": "en"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50612301.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Yle Nyheter TV-nytt 19.30",
+    "description": "Viimeisimm\u00e4t uutiset, uutisanalyysit ja reportaasit ruotsinkieliselt\u00e4 rannikkoseudulta, muualta Suomesta ja maailmalta.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-71958088"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "19.30",
+        "raw": "2025-06-11T19:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T19:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "25 min",
+        "raw": "PT1500S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3295837"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Kes\u00e4kasvo",
+    "description": "Kes\u00e4kasvo on virkist\u00e4v\u00e4 ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkil\u00f6kuvia ajankohtaisista vieraista koko kes\u00e4n ajan. Sarja korostaa positiivisuutta ja kes\u00e4ist\u00e4 iloa. Vieraat jakavat henkil\u00f6kohtaisia vinkkej\u00e4 kes\u00e4n viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkej\u00e4. Ylen aamun Kes\u00e4kasvo tuo piristyst\u00e4 ja inspiraatiota aamuihin. Ohjelman uusinta esitet\u00e4\u00e4n TV1:ss\u00e4 samana p\u00e4iv\u00e4n\u00e4 klo 18.20.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74390995"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "19.55",
+        "raw": "2025-06-11T19:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T20:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "10 min",
+        "raw": "PT600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-74461052"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Kullannuput (12)",
+    "description": "Kausi 2, 3/10. Mist\u00e4 tyt\u00f6t tykk\u00e4\u00e4? Tessalla on tytt\u00f6yst\u00e4v\u00e4, mutta s\u00e4ngyss\u00e4 iskee ep\u00e4varmuus. Anna saa kuulla olevansa estynyt.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50972713"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.05",
+        "raw": "2025-06-11T20:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T20:29:55+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "24 min",
+        "raw": "PT1495S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50453249"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "englanti",
+        "raw": "en"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50972713.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset 20.30",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72361887"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.29",
+        "raw": "2025-06-11T20:29:55+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T20:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "25 min",
+        "raw": "PT1505S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3235352"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Urheiluruutu",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72256109"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.55",
+        "raw": "2025-06-11T20:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T21:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "10 min",
+        "raw": "PT600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3062727"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Karjalan kunnailla (7)",
+    "description": "Kausi 3, 2/12. Jotain aivan uutta t\u00e4lle kes\u00e4lle. Miikkulan kes\u00e4teatteri perustetaan Sahiojan ja Anton johdolla. Saaraa ahdistaa ja Kirsti on ymm\u00e4ll\u00e4\u00e4n miehist\u00e4. T: Selkie-Filmi Oy. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1334787"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "21.05",
+        "raw": "2025-06-11T21:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T21:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "50 min",
+        "raw": "PT3000S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50513322"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-1334787.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Ilonen talo (12)",
+    "description": "2/3. Sijaiskotiin. Ruut ja Birge l\u00e4hetet\u00e4\u00e4n sijaiskotiin, kun \u00e4idin alkoholismi pahenee. Kun he palaavat kotiin, riidat \u00e4idin kanssa ajaa sisaret erilleen. (2006) (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-64229"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "21.55",
+        "raw": "2025-06-11T21:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T22:48:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "53 min",
+        "raw": "PT3187S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50974826"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-64229.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+]

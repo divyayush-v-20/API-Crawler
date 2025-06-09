@@ -1,0 +1,2919 @@
+[
+  {
+    "title": "Pikku Kakkonen",
+    "description": "Ohjelmaa perheen pienimmille.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-66756502"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "6.50",
+        "raw": "2025-06-11T06:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T06:51:01+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 min",
+        "raw": "PT61S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3371178"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Nimip\u00e4iv\u00e4onnittelu: 11.6.",
+    "description": "Onnea, Impi ja Immi!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2086793"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "6.51",
+        "raw": "2025-06-11T06:51:01+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T06:52:46+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 min",
+        "raw": "PT105S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808368"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Martta puhuu (S)",
+    "description": "N\u00e4yttelyn paras. M\u00f6sj\u00f6\u00f6 Ruudolf on tullut kaupunkiin j\u00e4rjest\u00e4m\u00e4\u00e4n koiran\u00e4ttelyn. Francoisekin osallistuu, joten Marttakin ilmoittautuu. / Tuomo palloilee. Tuomo haluaa ryhty\u00e4 kulkuriksi ja pyyt\u00e4\u00e4 Marttaa mukaansa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-636329"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "6.52",
+        "raw": "2025-06-11T06:52:46+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T07:16:17+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "23 min",
+        "raw": "PT1411S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3859681"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-636329.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Nallen laulut",
+    "description": "Heit\u00e4, Nalle! Musiikkinumero Nalle-sarjasta. S\u00e4v. Soili Perki\u00f6, san. Eppu Nuotio, sov. Matti Kallio.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-3140833"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.16",
+        "raw": "2025-06-11T07:16:17+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T07:17:28+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 min",
+        "raw": "PT71S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-3140833.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Tulipop (S)",
+    "description": "Jumissa. H\u00e4my ja Jere etsiv\u00e4t aarretta uudelta saarelta. Mutta onko saari sit\u00e4, milt\u00e4 se n\u00e4ytt\u00e4\u00e4?",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-61884759"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.17",
+        "raw": "2025-06-11T07:17:28+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T07:24:47+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "7 min",
+        "raw": "PT439S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-61884773"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Arvaa kuinka paljon sinua rakastan (S)",
+    "description": "Kausi 1. Oma koti kullan kallis. Pikku Pupu l\u00e4htee pyyt\u00e4m\u00e4\u00e4n yst\u00e4vi\u00e4\u00e4n aamupalalle luokseen. Samalla h\u00e4n vierailee yst\u00e4vien erilaisissa kodeissa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1945744"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.24",
+        "raw": "2025-06-11T07:24:47+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T07:35:43+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "10 min",
+        "raw": "PT656S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3304904"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-1945744.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Pikku Kakkonen",
+    "description": "Iina esittelee Tyynen, Aavon, Julian, Siljan, Main ja Eevin hauskuustehdaspostit.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50646308"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.35",
+        "raw": "2025-06-11T07:35:43+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T07:37:18+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 min",
+        "raw": "PT95S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808632"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Mauno (S)",
+    "description": "Herra Vatkain. Maunon \u00e4iti vatkaa kermaa kakkua varten. Vatkain py\u00f6rii vinhasti, mutta se voi aiheuttaa sotkuakin.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4339990"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.37",
+        "raw": "2025-06-11T07:37:18+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T07:48:27+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "11 min",
+        "raw": "PT669S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4341968"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Ritari Mikke (S)",
+    "description": "Ritari Mikke ja peikonherkkupiirakka. Is\u00e4peikko l\u00f6yt\u00e4\u00e4 peikonherkun piirakkaa varten, ja vaikka ohjeessa niin sanotaan, Mikke ei jaa piirakkaa h\u00e4nen kanssaan. Pian Mikke oppii, ett\u00e4 ritari jakaa kaiken!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2201617"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.48",
+        "raw": "2025-06-11T07:48:27+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:00:37+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "12 min",
+        "raw": "PT730S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-2201617.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Pikku Kakkonen",
+    "description": "Jaakko urakoi U-kirjaimen.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50646277"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.00",
+        "raw": "2025-06-11T08:00:37+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:02:22+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 min",
+        "raw": "PT105S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808632"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Mit\u00e4 ihmett\u00e4? (S)",
+    "description": "Taide. Mit\u00e4 on taide?",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2162565"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.02",
+        "raw": "2025-06-11T08:02:22+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:07:32+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "5 min",
+        "raw": "PT310S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3719458"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Ruso ja rihmalat (S)",
+    "description": "Maat\u00e4hden matkassa. Ruso tahtoisi olla isona samanlainen kuin Maat\u00e4hti, koska t\u00e4m\u00e4n mahtavan rihmahapsen el\u00e4m\u00e4 kuuluu olevan yht\u00e4 seikkailua. H\u00e4n p\u00e4\u00e4tt\u00e4\u00e4 heti ly\u00f6tt\u00e4yty\u00e4 t\u00e4m\u00e4n seuraan, mutta onko totuus tarujen veroinen?",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50365958"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.07",
+        "raw": "2025-06-11T08:07:32+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:19:14+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "11 min",
+        "raw": "PT702S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50369223"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Nimip\u00e4iv\u00e4onnittelu: 11.6.",
+    "description": "Onnea, Impi ja Immi!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2086793"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.19",
+        "raw": "2025-06-11T08:19:14+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:20:59+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 min",
+        "raw": "PT105S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808368"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Pikku Kakkonen",
+    "description": "Ohjelmaa perheen pienimmille.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50690410"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.20",
+        "raw": "2025-06-11T08:20:59+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:21:57+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "58 s",
+        "raw": "PT58S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4460901"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Galaxi ",
+    "description": "Koulululaisten oma ohjelma!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72744228"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.21",
+        "raw": "2025-06-11T08:21:57+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:22:27+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 s",
+        "raw": "PT30S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Athleticus",
+    "description": "Pomppupatjatemput. Kilpikonna ja pikku norsu ottavat oppia muiden vesitempuista.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-67474336"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.22",
+        "raw": "2025-06-11T08:22:27+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:24:52+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 min",
+        "raw": "PT145S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-67474336.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Haukku ja Poku (7)",
+    "description": "Ajetaan tandemilla! Sointulaan iskee myrsky ja katkaisee kaupungista s\u00e4hk\u00f6t. Py\u00f6r\u00e4retkell\u00e4 olevilla Haukulla ja Pokulla on ratkaisu t\u00e4h\u00e4nkin pulmaan, taikah\u00e4nn\u00e4n avustuksella toki.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50754087"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.24",
+        "raw": "2025-06-11T08:24:52+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:36:25+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "11 min",
+        "raw": "PT693S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50754791"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50754087.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "N\u00e4in meill\u00e4 (7)",
+    "description": "Reviirikiista. Kustin pelit ja pizza on Luukaksen kaveriporukan suosikkipaikka. He eiv\u00e4t halua jakaa sit\u00e4 kenenk\u00e4\u00e4n muun kanssa, varsinkaan Lenin teinikavereiden.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50886201"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.36",
+        "raw": "2025-06-11T08:36:25+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:50:05+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "13 min",
+        "raw": "PT820S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808447"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Jumppahetki",
+    "description": "Rauhallisessa jumpassa voimaa reisiin. Apuv\u00e4linein\u00e4 k\u00e4ytet\u00e4\u00e4n vessapaperirullia ja kirjoja. Loppuun rauhallinen venyttely.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72482594"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.50",
+        "raw": "2025-06-11T08:50:05+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T09:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "9 min",
+        "raw": "PT595S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50489724"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72482594.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Saaren nuoret asukkaat",
+    "description": "1/6. Oslolaiset Ida ja Martin muuttavat pienelle Notholmenin saarelle. Saarella n\u00e4ytt\u00e4isi asuvan my\u00f6s muita, ainakin lauma villilampaita ja jokunen hanhi. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50786363"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.00",
+        "raw": "2025-06-11T09:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T09:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "40 min",
+        "raw": "PT2400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50791608"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50786363.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Latela",
+    "description": "Kausi 1, 10/10. Tallien autot ovat yleis\u00f6n n\u00e4ht\u00e4vill\u00e4 American Car Show'ssa. Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 ja vihdoin selvi\u00e4\u00e4, kumpi talli voittaa. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1857139"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.40",
+        "raw": "2025-06-11T09:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T10:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2826936"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-1857139.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Riistamets\u00e4ll\u00e4 Pohjolassa",
+    "description": "Osa 6/8. Kokki ja er\u00e4nk\u00e4vij\u00e4 retkeilev\u00e4t pohjoisen kauniissa luonnossa, pyyt\u00e4v\u00e4t riistaa ja valmistavat siit\u00e4 avotulella aterian. Se nautitaan villiyrttien, marjojen tai muiden luonnon antimien kera. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1943097"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.10",
+        "raw": "2025-06-11T10:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T10:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "40 min",
+        "raw": "PT2400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808725"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Veljesten keitti\u00f6ss\u00e4",
+    "description": "Kausi 3, 9/10. Veljesten on luotava puitteet romanttiselle illalliselle. Ja kun t\u00e4ydellisyytt\u00e4 tavoitellaan, ruokalistalla on oltava v\u00e4hint\u00e4\u00e4n nelj\u00e4 ruokalajia. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1428413"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.50",
+        "raw": "2025-06-11T10:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:20:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3511342"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Kandit",
+    "description": "Kausi 2, 6/8. Erika ja Jussi valistavat alkoholin vaaroista. Miskalla mukava p\u00e4iv\u00e4: potilaan kotiuttamista ja aikidoa. Heikki musisoi vanhuksille. Raskas ty\u00f6 vaatii raskasta rautaa. yle.fi/kandit (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2233071"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.20",
+        "raw": "2025-06-11T11:20:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T11:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3146793"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-2233071.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Karjalan kunnailla (7)",
+    "description": "Kausi 3, 3/12. Salaper\u00e4inen nainen, sopimuksia salassa ja rakkauskirje. Vilman kaivausten syy paljastuu. Jake sotkee asioitaan, ja Kirstille saapuu rakkauskirje. T: Selkie-Filmi Oy. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1343769"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.50",
+        "raw": "2025-06-11T11:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T12:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "50 min",
+        "raw": "PT3000S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50513322"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-1343769.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Tanskalainen maajussi",
+    "description": "Osa 7/9. Kasvihuone ja Dallas. Frank kokeilee uutta konstia puutarhan kivetyksen puhdistamiseksi. Kasvihuoneelle Frank rakentaa suuren altaan sadeveden ker\u00e4\u00e4mist\u00e4 varten. T: DR, 2022.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-62696154"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.40",
+        "raw": "2025-06-11T12:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T13:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3516778"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-62696154.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "6 p\u00e4iv\u00e4\u00e4 zeniin",
+    "description": "2/4. Kokeen toisena p\u00e4iv\u00e4n\u00e4 nuorten on halattava puuta. Se osoittautuu haastavaksi Sallylle ja Mathiakselle, jotka saavat harjoituksen aikana naurukohtauksen. Nuorten v\u00e4lille on syntym\u00e4ss\u00e4 ryhm\u00e4henke\u00e4, ja Bertram etsii paikkaansa joukossa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-68087645"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.10",
+        "raw": "2025-06-11T13:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T13:41:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "31 min",
+        "raw": "PT1867S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-68087788"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-68087645.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Syntynyt vuonna 2010",
+    "description": "Kausi 1, 2/4. Jon-Kristianin ja Malinin viides lapsi syntyy olohuoneen lattialle. Tove ja John saavat esikoispoikansa kev\u00e4\u00e4n viimeisen\u00e4 p\u00e4iv\u00e4n\u00e4. Dokumenttisarja yhdeks\u00e4n lapsen ensimm\u00e4isest\u00e4 elinvuodesta. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-3991405"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.41",
+        "raw": "2025-06-11T13:41:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T14:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "58 min",
+        "raw": "PT3533S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4056820"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-3991405.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Modernit miehet (12)",
+    "description": "Kausi 3, 7/12. Matti panostaa tunneyhteyteen Tainan kanssa ja t\u00f6rm\u00e4\u00e4 avoimuuden haasteisiin. Jarkko p\u00e4ivitt\u00e4\u00e4 some-imagonsa nykyp\u00e4iv\u00e4\u00e4n. Pete aloittaa psykoanalyysin. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50612308"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.40",
+        "raw": "2025-06-11T14:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T15:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "25 min",
+        "raw": "PT1500S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4530023"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "englanti",
+        "raw": "en"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50612308.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Retki pohjoisnavalle",
+    "description": "3/3. Hiiht\u00e4en pohjoisella napaj\u00e4\u00e4ll\u00e4 etenev\u00e4n norjalaisen retkikunnan maali alkaa jo h\u00e4\u00e4m\u00f6tt\u00e4\u00e4. Yll\u00e4tt\u00e4en B\u00f8rge Ouslandin ja Mike Hornin eteen avautuu kuitenkin railo.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50787800"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "15.05",
+        "raw": "2025-06-11T15:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T15:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "40 min",
+        "raw": "PT2400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50927778"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50787800.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Itse valtiaat (7)",
+    "description": "Kausi 11, 9/16. Siniharmaa eminenssi. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50282764"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "15.45",
+        "raw": "2025-06-11T15:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T16:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "15 min",
+        "raw": "PT900S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50552097"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50282764.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Talot huokuvat historiaa",
+    "description": "Kausi 3, 3/8. Sanotaan, ett\u00e4 Uplannissa sijaitsevan Harbon\u00e4sin kartanon rakennutti 1600-luvulla el\u00e4nyt Tukholman kuninkaanlinnan ylihovinainen G\u00f6rvel Posse. Christian selvitt\u00e4\u00e4 kartanon salaisuuksia. Ruotsalaissarja, jossa tutustutaan vanhojen talojen historiaan. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4355737"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "16.00",
+        "raw": "2025-06-11T16:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "60 min",
+        "raw": "PT3600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3810103"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4355737.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Pikku Kakkonen",
+    "description": "Katsellaan Sadun kanssa Pikku Tuutti, Kielimatkaajat: Henkil\u00f6kuvat, Simo, Kiri ja Lolo, Malla Mahtava, Luonto yll\u00e4tt\u00e4\u00e4 aina sek\u00e4 Kaarle.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-73145381"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.00",
+        "raw": "2025-06-11T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T18:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "60 min",
+        "raw": "PT3600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3371178"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Egenlandin matkakohteet",
+    "description": "T\u00e4m\u00e4 yhdentoista neli\u00f6n \"kirkko\" on ylistys rakkaudelle.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4446245"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.00",
+        "raw": "2025-06-11T18:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T18:05:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "5 min",
+        "raw": "PT307S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4475500"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4446245.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Modernit miehet (12)",
+    "description": "Kausi 3, 8/12. Vartijakortin hankkinut Pete p\u00e4\u00e4tt\u00e4\u00e4 uudistaa turvallisuusalan. Matti turvautuu nykyp\u00e4iv\u00e4n teknologiaan pit\u00e4\u00e4kseen silm\u00e4ll\u00e4 lapsia ja perheen taloutta. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50612301"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.05",
+        "raw": "2025-06-11T18:05:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T18:24:59+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "19 min",
+        "raw": "PT1192S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4530023"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "englanti",
+        "raw": "en"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50612301.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Pirjo (S)",
+    "description": "Pirjo (Pirjo Heikkil\u00e4) yll\u00e4ttyy myyjien (Mimosa Willamo, Salla Juntunen) palvelualttiudesta. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4446529"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.24",
+        "raw": "2025-06-11T18:24:59+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T18:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "5 min",
+        "raw": "PT301S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4446513"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yleisurheilun GP: Lahti",
+    "description": "Yleisurheilun GP-sarjan ensimm\u00e4inen osakilpailu, selostus Kimmo Porttila, asiantuntija Jesse Jokinen, Lahti. Ruotsinkielinen selostus Niklas Henrichson.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-73485873"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.30",
+        "raw": "2025-06-11T18:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T21:30:36+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10836S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4417097"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Ilonen talo (12)",
+    "description": "2/3. Sijaiskotiin. Ruut ja Birge l\u00e4hetet\u00e4\u00e4n sijaiskotiin, kun \u00e4idin alkoholismi pahenee. Kun he palaavat kotiin, riidat \u00e4idin kanssa ajaa sisaret erilleen. (2006) (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-64229"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "21.30",
+        "raw": "2025-06-11T21:30:36+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T22:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "54 min",
+        "raw": "PT3264S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50974826"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-64229.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Amandaland - yh-\u00e4idin arkea (12)",
+    "description": "Kausi 1, 5/6. Telttailua. Anne j\u00e4rjest\u00e4\u00e4 vanhemmille ja nuorille yhteisen telttaretken. Amanda yritt\u00e4\u00e4 luikerrella retkest\u00e4 eroon, mutta h\u00e4nen uusi poikayst\u00e4v\u00e4ns\u00e4 haluaa ehdottomasti heid\u00e4n osallistuvan. Millaiseksi viikonloppu muodostuu?",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72366724"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "22.25",
+        "raw": "2025-06-11T22:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T22:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72366569"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72366724.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Vaarallinen hakkeripoika",
+    "description": "Sigurdur Thordarson, Siggi, hakkeroi koulun tietoj\u00e4rjestelm\u00e4n 12-vuotiaana. 14-vuotiaana h\u00e4n paljasti Islannin pankkien korruptiorikokset ja p\u00e4\u00e4tyi Julian Assangen l\u00e4hipiiriin. Wikileaksissa h\u00e4n julkisti salaisia dokumentteja, Yhdysvaltojen hallinnon kauhuksi. Sitten ristiriidat maanisen Assangen kanssa k\u00e4\u00e4nt\u00e4v\u00e4t Siggin Wikileaksia vastaan, ja t\u00e4ytetty\u00e4\u00e4n 18 vuotta h\u00e4n alkaa vakoilla heit\u00e4 FBI:n toimeksiannosta. T\u00e4m\u00e4n j\u00e4lkeen Siggin el\u00e4m\u00e4 saa uuden, dramaattisen k\u00e4\u00e4nteen: h\u00e4net tuomitaan useista v\u00e4\u00e4renn\u00f6s-, kiristys- ja alaik\u00e4isiin kohdistuneista seksuaalirikoksista.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72464957"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "22.55",
+        "raw": "2025-06-11T22:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T00:27:19+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 32 min",
+        "raw": "PT5539S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72464957.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+]

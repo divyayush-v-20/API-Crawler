@@ -1,0 +1,332 @@
+[
+  {
+    "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+    "description": "Poikelus, Pehkonen ja Parikka: TI 10.6.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74829237"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "6.30",
+        "raw": "2025-06-10T06:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 30 min",
+        "raw": "PT12600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-63147846"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Kuka lohduttaisi esihenkil\u00f6\u00e4?",
+    "description": "Ylen yhteisty\u00f6kumppanin tuottamaa sis\u00e4lt\u00f6\u00e4.\n\nMiten esihenkil\u00f6t voisivat parhaiten edist\u00e4\u00e4 mielenterveytt\u00e4 ja ty\u00f6kyky\u00e4 ty\u00f6paikoillaan \u2013 ja mist\u00e4 he itse saavat tarvittaessa tukea? Ty\u00f6puntari-webinaarissa ty\u00f6el\u00e4m\u00e4n tutkijat hakevat ratkaisuja tasapainon palauttamiseksi ty\u00f6el\u00e4m\u00e4\u00e4n. Ohjelmassa pureudutaan ty\u00f6n muokkaukseen ja kuullaan kansalaisten n\u00e4kemyksi\u00e4 hyv\u00e4st\u00e4 esihenkil\u00f6ty\u00f6st\u00e4.\n\nOhjelman esiintyj\u00e4t: \nJohtaja Kirsti Ahola, johtava asiantuntija Pauliina Mattila-Holappa, erityisasiantuntija Anniina Virtanen, johtava konsultti Susanna Kalavainen ja vanhempi konsultti Nina Olin Ty\u00f6terveyslaitoksesta sek\u00e4 ty\u00f6hyvinvointiasiantuntija Eeva Nieminen Nokian kaupungista. Videogallupissa esiintyy joukko kansalaisia. Juontajana Juha Hietanen\n\nSuorana suomalaisilta \u2013 Direkt fr\u00e5n finl\u00e4ndarna esittelee Ylen yhteisty\u00f6kumppaneiden tarjoamia sis\u00e4lt\u00f6j\u00e4 eri puolilta Suomea. Ylen vastaava p\u00e4\u00e4toimittaja on Panu Pokkinen. \n",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74802364"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.30",
+        "raw": "2025-06-10T08:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 30 min",
+        "raw": "PT5400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-73155362"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Uuden musiikin X: Ella Ossi",
+    "description": "YleX:n musiikkitoimittaja Ella Ossi soittaa t\u00e4rkeimm\u00e4t uutuusjulkaisut tulevaisuuden hiteist\u00e4 kiinnostavimpiin vaihtoehtoihin sek\u00e4 haastattelevat ajankohtaisimmat artistivieraat.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74790247"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.00",
+        "raw": "2025-06-10T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069899"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "YleX Etusivu Sikke",
+    "description": "P\u00e4iv\u00e4n parhaat puheenaiheet maanantaista perjantaihin!\nYleX Etusivu tarjoaa analyysia ja n\u00e4k\u00f6kulmia uutisiin ja popkulttuuriin.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74829255"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.00",
+        "raw": "2025-06-10T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069903"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Eduskunnan t\u00e4ysistunto 10.6.2025",
+    "description": "\n\n",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74824738"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.00",
+        "raw": "2025-06-10T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T23:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "9 h 45 min",
+        "raw": "PT35100S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3411685"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "YleX Dream: Lina Schiffer ja Taika Mannila",
+    "description": "Dream-ohjelmassa Taika Mannila ja Lina Schiffer soittavat sulle tulevat lempparibiisisi ja huomisen seksikk\u00e4imm\u00e4t soundit ensimm\u00e4ist\u00e4 kertaa. Dream radio-ohjelman juuret ovat rnb:n ja hip hopin maailmassa, mutta nyky\u00e4\u00e4n ohjelmassa kuullaan kaikkea hyperpopista jersey clubiin. Taika ja Lina analysoivat viikoittain fiilistelem\u00e4\u00e4ns\u00e4 musiikkia, eiv\u00e4tk\u00e4 unohda tehd\u00e4 sit\u00e4 nauramatta itselleen.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830995"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.00",
+        "raw": "2025-06-10T20:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T22:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069911"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+]

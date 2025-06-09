@@ -1,0 +1,222 @@
+[
+  {
+    "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+    "description": "Poikelus, Pehkonen ja Parikka: LA 14.6.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74829252"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.00",
+        "raw": "2025-06-14T08:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T11:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-63147846"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Pyht\u00e4\u00e4lt\u00e4 P\u00f6yd\u00e4lt\u00e4 2025",
+    "description": "Ylen yhteisty\u00f6kumppanin tuottamaa sis\u00e4lt\u00f6\u00e4.\n\nPyht\u00e4\u00e4lt\u00e4 P\u00f6yd\u00e4lt\u00e4 on yhteiskunnallinen keskustelutapahtuma. Toisen p\u00e4iv\u00e4n keskustelut painottuvat ajankohtaisiin aiheisiin, historiaan ja kulttuuriin. Keskustelijat ovat maan eturivin asiantuntijoita, mutta ilmapiiri kotoisan intiimi.\n\nToimitusjohtaja Timo Toropainen, El\u00e4kes\u00e4\u00e4ti\u00f6yhdistys, yhteiskuntasuhdejohtaja Panu Laturi, Seurana, p\u00e4\u00e4sihteeri Rosa Meril\u00e4inen, KULTA ry, toiminnanjohtaja Jari Jokinen, TEK, yritt\u00e4j\u00e4 Marko Kulmala, Insano, ex-europarlamentaarikko Nils Torvalds, valokuvaaja Juha Metso, toimittaja Marjo N\u00e4kki, juontajat Jari Korkki, Jussi L\u00e4hde ja Sallamaari Muhonen.\n\n\nSuorana suomalaisilta \u2013 Direkt fr\u00e5n finl\u00e4ndarna esittelee Ylen yhteisty\u00f6kumppaneiden tarjoamia sis\u00e4lt\u00f6j\u00e4 eri puolilta Suomea. Ylen vastaava p\u00e4\u00e4toimittaja on Panu Pokkinen. \n",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74817392"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.00",
+        "raw": "2025-06-14T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T16:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "6 h 0 min",
+        "raw": "PT21600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-73155362"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "X3M p\u00e5 Klacken Party",
+    "description": "Kjell och Seesar underh\u00e5ller dig live fr\u00e5n Klacken Party i Lillby. Du kan delta i diskussionen via v\u00e5r chatt eller via Whatsapp p\u00e5 numret 044 7800 180.\n\nRedakt\u00f6rer: Kjell Simosas & Joel R\u00f6nn\nProducent: Mathilda Korpela\nAnsvarig producent: Oliver Kivi\nAnsvarig utgivare: Anna Forth 2025\n",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74774477"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "16.55",
+        "raw": "2025-06-14T16:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T20:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 35 min",
+        "raw": "PT12900S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-65648167"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Suunnistuksen Jukolan viesti 2025",
+    "description": "Selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74550591"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "22.45",
+        "raw": "2025-06-14T22:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T08:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "9 h 15 min",
+        "raw": "PT33300S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4113091"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+]

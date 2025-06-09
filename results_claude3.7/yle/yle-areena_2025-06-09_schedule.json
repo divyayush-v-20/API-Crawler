@@ -1,0 +1,498 @@
+[
+  {
+    "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+    "description": "Poikelus, Pehkonen ja Parikka: MA 9.6.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74828474"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "6.30",
+        "raw": "2025-06-09T06:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 30 min",
+        "raw": "PT12600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-63147846"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74828474.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": " H\u00e5rd teater",
+    "description": "X3M Live: X3M Morgon",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830121"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.00",
+        "raw": "2025-06-09T07:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T11:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "4 h 0 min",
+        "raw": "PT14400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50426381"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74830121.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "Uuden musiikin X: Taika Mannila",
+    "description": "YleX:n musiikkitoimittaja Ella Ossi soittaa t\u00e4rkeimm\u00e4t uutuusjulkaisut tulevaisuuden hiteist\u00e4 kiinnostavimpiin vaihtoehtoihin sek\u00e4 haastattelevat ajankohtaisimmat artistivieraat.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74790176"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.00",
+        "raw": "2025-06-09T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069899"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "X3M Live: Supernova",
+    "description": "Supernova med Krippe ger dig den nya musiken, artistintervjuer och intressanta fakta om fenomen i musikv\u00e4rlden. Vi lovar, du f\u00e5r n\u00e5gonting nytt precis varenda g\u00e5ng. Varje m\u00e5ndag och onsdag mellan kl 11 och 14.\n\nH\u00f6r av dig till studion via whatsapp 044 7800 180!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830126"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.00",
+        "raw": "2025-06-09T11:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-62104982"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "current"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74830126.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso suorana",
+        "backgroundColor": "#E90E43"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "YleX Etusivu Sikke",
+    "description": "P\u00e4iv\u00e4n parhaat puheenaiheet maanantaista perjantaihin!\nYleX Etusivu tarjoaa analyysia ja n\u00e4k\u00f6kulmia uutisiin ja popkulttuuriin.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74829249"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.00",
+        "raw": "2025-06-09T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069903"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "current"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74829249.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso suorana",
+        "backgroundColor": "#E90E43"
+      }
+    ],
+    "type": "card"
+  },
+  {
+    "title": "X3M Live: X3M Eftermiddag",
+    "description": "X3M Eftermiddag",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830118"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.00",
+        "raw": "2025-06-09T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T16:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 30 min",
+        "raw": "PT9000S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-62004565"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "SeesarGames LIVE",
+    "description": "Ny simulator + Splitgate 2 BATTLE ROYALE!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830133"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.55",
+        "raw": "2025-06-09T14:55:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T19:05:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "4 h 10 min",
+        "raw": "PT15000S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-74390461"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "YleX Ilta: Womma",
+    "description": "YleX:n iltavuoroa ohjastaa Womma. Energiajuomaharrastaja, wrestling-fani ja japanilaisen pop-kulttuurin konoss\u00f6\u00f6ri. T\u00e4rkeimpien hittien lis\u00e4ksi tarjolla on mm. rautaisannos lakonista huumoria ja v\u00e4\u00e4rien vastausten mets\u00e4styst\u00e4.\n\nVartin valtauksessa musiikkip\u00e4\u00e4llikk\u00f6n\u00e4 toimivat YleX:n kuuntelijat.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74827894"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.00",
+        "raw": "2025-06-09T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-09T20:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069907"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Suunnistuksen Jukolan viesti 2025",
+    "description": "Selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74550591"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "raw": "2025-06-14T22:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T08:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "9 h 15 min",
+        "raw": "PT33300S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4113091"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+    "description": "Poikelus, Pehkonen ja Parikka: SU 15.6.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74829258"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.00",
+        "raw": "2025-06-15T08:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T11:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-63147846"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "YleX Viikonloppu: Videot",
+    "description": "YleX Viikonloppu: Sonny Kyl\u00e4-Liuhala sunnuntai 15.6.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830999"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.00",
+        "raw": "2025-06-15T13:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "4 h 0 min",
+        "raw": "PT14400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-66761893"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  },
+  {
+    "title": "Yle Uutiset erikoisl\u00e4hetys: Kultaranta-keskustelut viitottuna",
+    "description": "Toimittajana Annika Damstr\u00f6m.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74821559"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "21.00",
+        "raw": "2025-06-15T21:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T21:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "45 min",
+        "raw": "PT2700S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2855851"
+        }
+      },
+      {
+        "type": "highlight",
+        "formatted": "VIITOTTU"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+]
