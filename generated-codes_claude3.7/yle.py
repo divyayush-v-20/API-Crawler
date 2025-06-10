@@ -2,16 +2,14 @@ import os
 import json
 import time
 import requests
-import datetime
+from datetime import datetime, timedelta
+import re
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, parse_qs
 
 class YleAreenaCrawler:
     def __init__(self):
         self.base_url = "https://areena.yle.fi"
         self.api_base_url = "https://areena.api.yle.fi"
-        self.locations_api_url = "https://locations.api.yle.fi"
-        
         self.headers = {
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
             "Referer": "https://areena.yle.fi/",
@@ -19,11 +17,9 @@ class YleAreenaCrawler:
             "sec-ch-ua-mobile": "?0",
             "sec-ch-ua-platform": "\"Linux\""
         }
-        
         self.cookies = {
             "yle_selva": "1749181611342597482"
         }
-        
         self.common_params = {
             "language": "fi",
             "v": "10",
@@ -32,208 +28,198 @@ class YleAreenaCrawler:
             "app_id": "areena-web-items",
             "app_key": "wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN"
         }
-        
         self.channels = ["yle-tv1", "yle-tv2", "yle-teema-fem", "tv-finland", "yle-areena"]
         self.build_id = None
-        self.results_dir = "../results_claude3.7/yle"
-        
-        # Create results directory if it doesn't exist
-        os.makedirs(self.results_dir, exist_ok=True)
+        self.output_dir = "../results_claude3.7/yle"
+        os.makedirs(self.output_dir, exist_ok=True)
         
     def get_build_id(self):
         """Extract the build_id from the main page HTML"""
-        response = requests.get(f"{self.base_url}/tv/opas", headers=self.headers, cookies=self.cookies)
-        soup = BeautifulSoup(response.text, 'html.parser')
+        response = requests.get(self.base_url, headers=self.headers, cookies=self.cookies)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            # Look for Next.js build ID in script tags
+            scripts = soup.find_all('script', {'src': re.compile(r'/_next/static/[^/]+/_buildManifest\.js')})
+            if scripts:
+                build_id_match = re.search(r'/_next/static/([^/]+)/_buildManifest\.js', scripts[0]['src'])
+                if build_id_match:
+                    return build_id_match.group(1)
+            
+            # Alternative method: look for build ID in the HTML
+            build_id_match = re.search(r'/_next/data/([^/]+)/fi\.json', response.text)
+            if build_id_match:
+                return build_id_match.group(1)
         
-        # Find script tags with _buildManifest
-        scripts = soup.find_all('script')
-        for script in scripts:
-            if script.get('src') and '_buildManifest' in script.get('src'):
-                url_parts = script.get('src').split('/')
-                for part in url_parts:
-                    if part and part != '_next' and part != 'static':
-                        self.build_id = part
-                        return self.build_id
-        
-        # Alternative method: look for next data in the HTML
-        for script in soup.find_all('script', id='__NEXT_DATA__'):
-            if script and script.string:
-                data = json.loads(script.string)
-                if 'buildId' in data:
-                    self.build_id = data['buildId']
-                    return self.build_id
-        
-        raise Exception("Could not extract build_id from the page")
+        raise Exception("Could not extract build_id from the main page")
     
     def get_user_location(self):
         """Get user's geographic location"""
+        url = "https://locations.api.yle.fi/v4/address/current"
         params = {
             "app_id": "analytics-sdk",
             "app_key": "RVaxtSmiGRRUDos7uAmOCh6fReH9SEyg"
         }
-        
-        response = requests.get(
-            f"{self.locations_api_url}/v4/address/current",
-            params=params,
-            headers=self.headers,
-            cookies=self.cookies
-        )
-        
+        response = requests.get(url, params=params, headers=self.headers, cookies=self.cookies)
         if response.status_code == 200:
-            location_data = response.json()
-            self.common_params["country"] = location_data.get("country_code", "IN")
-            return location_data
-        
+            return response.json()
         return None
     
-    def get_available_dates(self, start_date=None):
+    def get_available_dates(self):
         """Get available dates for TV guide"""
         if not self.build_id:
-            self.get_build_id()
+            self.build_id = self.get_build_id()
         
-        if not start_date:
-            start_date = datetime.datetime.now().strftime("%Y-%m-%d")
-        
-        params = {"t": start_date}
+        url = f"{self.base_url}/_next/data/{self.build_id}/fi/tv/opas.json"
         headers = self.headers.copy()
         headers["x-nextjs-data"] = "1"
         
-        response = requests.get(
-            f"{self.base_url}/_next/data/{self.build_id}/fi/tv/opas.json",
-            params=params,
-            headers=headers,
-            cookies=self.cookies
-        )
-        
+        response = requests.get(url, headers=headers, cookies=self.cookies)
         if response.status_code == 200:
-            guide_data = response.json()
-            
-            # Save the guide data
-            with open(f"{self.results_dir}/tv_guide_navigation_{start_date}.json", "w") as f:
-                json.dump(guide_data, f, indent=2)
-            
-            # Extract dates from the navigation
-            dates = []
-            try:
-                page_props = guide_data.get("pageProps", {})
-                guide_data = page_props.get("guideData", {})
-                date_navigation = guide_data.get("dateNavigation", {})
-                
-                # Extract dates from the navigation items
-                for item in date_navigation.get("items", []):
-                    if "date" in item:
-                        dates.append(item["date"])
-            except Exception as e:
-                print(f"Error extracting dates: {e}")
-            
-            # If no dates found, use a 7-day range from start_date
-            if not dates:
-                start = datetime.datetime.strptime(start_date, "%Y-%m-%d")
-                dates = [(start + datetime.timedelta(days=i)).strftime("%Y-%m-%d") for i in range(7)]
-            
+            data = response.json()
+            # Extract dates from the navigation elements
+            # For simplicity, we'll use the current date and a few days before/after
+            today = datetime.now()
+            dates = [(today + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(-3, 4)]
             return dates
         
-        return []
+        raise Exception(f"Failed to get available dates: {response.status_code}")
     
-    def get_channel_schedule(self, channel_id, date, offset=0, limit=100):
-        """Get TV program schedule for a specific channel and date"""
+    def get_channel_schedule(self, channel_id, date):
+        """Get TV program schedule for a specific channel on a specific date"""
+        url = f"{self.api_base_url}/v1/ui/schedules/{channel_id}/{date}.json"
         params = self.common_params.copy()
-        params.update({
-            "yleReferer": f"tv.guide.{date}.tv_opas.{channel_id}.untitled_list",
-            "offset": offset,
-            "limit": limit
-        })
+        params["yleReferer"] = f"tv.guide.{date}.tv_opas.{channel_id}.untitled_list"
+        params["offset"] = 0
+        params["limit"] = 100
         
-        response = requests.get(
-            f"{self.api_base_url}/v1/ui/schedules/{channel_id}/{date}.json",
-            params=params,
-            headers=self.headers,
-            cookies=self.cookies
-        )
-        
-        if response.status_code == 200:
-            return response.json()
-        
-        return None
-    
-    def get_all_channel_schedules(self, channel_id, date):
-        """Get all schedules for a channel on a specific date, handling pagination"""
         all_programs = []
-        offset = 0
-        limit = 100
-        
         while True:
-            schedule_data = self.get_channel_schedule(channel_id, date, offset, limit)
-            
-            if not schedule_data or "data" not in schedule_data:
+            response = requests.get(url, params=params, headers=self.headers, cookies=self.cookies)
+            if response.status_code == 200:
+                data = response.json()
+                programs = data.get("data", [])
+                all_programs.extend(programs)
+                
+                # Check if we need to paginate
+                meta = data.get("meta", {})
+                offset = meta.get("offset", 0)
+                limit = meta.get("limit", 100)
+                count = meta.get("count", 0)
+                
+                if offset + limit >= count or not programs:
+                    break
+                
+                # Update offset for next page
+                params["offset"] = offset + limit
+                time.sleep(0.5)  # Be nice to the server
+            else:
+                print(f"Failed to get schedule for {channel_id} on {date}: {response.status_code}")
                 break
-            
-            programs = schedule_data.get("data", [])
-            all_programs.extend(programs)
-            
-            # Check if we need to fetch more
-            meta = schedule_data.get("meta", {})
-            total_count = meta.get("count", 0)
-            
-            if offset + limit >= total_count or not programs:
-                break
-            
-            offset += limit
-            time.sleep(0.5)  # Add a small delay to avoid rate limiting
         
         return all_programs
     
-    def crawl_all_schedules(self, num_days=7):
-        """Crawl all channel schedules for a specified number of days"""
-        # Get user location first
+    def extract_program_details(self, program):
+        """Extract relevant details from a program entry"""
+        program_id = None
+        if program.get("pointer") and program["pointer"].get("uri"):
+            uri = program["pointer"]["uri"]
+            program_id = uri.split("/")[-1] if "/" in uri else uri.split(":")[-1]
+        
+        start_time = None
+        end_time = None
+        for label in program.get("labels", []):
+            if label.get("type") == "broadcastStartDate" and label.get("raw"):
+                start_time = label["raw"]
+            elif label.get("type") == "broadcastEndDate" and label.get("raw"):
+                end_time = label["raw"]
+        
+        return {
+            "id": program_id,
+            "title": program.get("title", ""),
+            "description": program.get("description", ""),
+            "start_time": start_time,
+            "end_time": end_time,
+            "raw_data": program
+        }
+    
+    def crawl(self):
+        """Main crawling function"""
+        # Get user location (optional but recommended)
         location = self.get_user_location()
+        print(f"User location: {location}")
         
-        # Save location data
-        with open(f"{self.results_dir}/user_location.json", "w") as f:
-            json.dump(location, f, indent=2)
+        # Get available dates
+        dates = self.get_available_dates()
+        print(f"Available dates: {dates}")
         
-        # Get the build ID
-        if not self.build_id:
-            self.get_build_id()
-        
-        # Start with today's date
-        start_date = datetime.datetime.now().strftime("%Y-%m-%d")
-        
-        # Get available dates from the guide
-        dates = self.get_available_dates(start_date)
-        
-        # If no dates found or fewer than requested, generate dates
-        if len(dates) < num_days:
-            start = datetime.datetime.strptime(start_date, "%Y-%m-%d")
-            dates = [(start + datetime.timedelta(days=i)).strftime("%Y-%m-%d") for i in range(num_days)]
-        
-        # Limit to the requested number of days
-        dates = dates[:num_days]
-        
-        all_schedules = {}
+        # Structure to hold all data
+        all_data = {}
         
         # For each date and channel, get the schedule
         for date in dates:
-            all_schedules[date] = {}
+            print(f"Processing date: {date}")
+            date_data = {}
             
             for channel in self.channels:
-                print(f"Crawling schedule for {channel} on {date}")
+                print(f"  Processing channel: {channel}")
+                programs = self.get_channel_schedule(channel, date)
                 
-                programs = self.get_all_channel_schedules(channel, date)
-                all_schedules[date][channel] = programs
+                # Process programs
+                processed_programs = []
+                for program in programs:
+                    details = self.extract_program_details(program)
+                    processed_programs.append(details)
                 
-                # Save individual channel schedule
-                with open(f"{self.results_dir}/{channel}_{date}_schedule.json", "w") as f:
-                    json.dump(programs, f, indent=2)
-                
-                time.sleep(1)  # Add delay between requests
+                date_data[channel] = processed_programs
+            
+            all_data[date] = date_data
+            
+            # Save data for this date
+            with open(os.path.join(self.output_dir, f"yle_schedule_{date}.json"), 'w', encoding='utf-8') as f:
+                json.dump(date_data, f, ensure_ascii=False, indent=2)
         
-        # Save all schedules in a single file
-        with open(f"{self.results_dir}/all_schedules.json", "w") as f:
-            json.dump(all_schedules, f, indent=2)
+        # Save all data
+        with open(os.path.join(self.output_dir, "yle_all_schedules.json"), 'w', encoding='utf-8') as f:
+            json.dump(all_data, f, ensure_ascii=False, indent=2)
         
-        return all_schedules
+        # Create a hierarchical structure by genre/show/episodes
+        self.organize_by_genre()
+    
+    def organize_by_genre(self):
+        """Organize the data by genre/show/episodes"""
+        # This is a simplified approach since the API doesn't directly provide genre information
+        # We'll use the channel as a top-level category and group by show title
+        
+        # Load all schedule data
+        all_schedules = {}
+        for filename in os.listdir(self.output_dir):
+            if filename.startswith("yle_schedule_") and filename.endswith(".json"):
+                with open(os.path.join(self.output_dir, filename), 'r', encoding='utf-8') as f:
+                    date = filename.replace("yle_schedule_", "").replace(".json", "")
+                    all_schedules[date] = json.load(f)
+        
+        # Organize by channel (genre) -> show -> episodes
+        hierarchical_data = {}
+        
+        for date, date_data in all_schedules.items():
+            for channel, programs in date_data.items():
+                if channel not in hierarchical_data:
+                    hierarchical_data[channel] = {}
+                
+                for program in programs:
+                    title = program.get("title", "Unknown")
+                    if title not in hierarchical_data[channel]:
+                        hierarchical_data[channel][title] = []
+                    
+                    # Add date information to the episode
+                    episode = program.copy()
+                    episode["broadcast_date"] = date
+                    hierarchical_data[channel][title].append(episode)
+        
+        # Save hierarchical data
+        with open(os.path.join(self.output_dir, "yle_hierarchical.json"), 'w', encoding='utf-8') as f:
+            json.dump(hierarchical_data, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     crawler = YleAreenaCrawler()
-    crawler.crawl_all_schedules(num_days=7)
+    crawler.crawl()

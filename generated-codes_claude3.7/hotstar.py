@@ -1,354 +1,527 @@
-import os
-import json
-import time
 import requests
+import json
+import os
+import time
 import logging
 from urllib.parse import urljoin, urlparse, parse_qs
-from pathlib import Path
+import random
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 class HotstarCrawler:
-    def __init__(self, user_token, device_id):
+    def __init__(self):
         self.base_url = "https://www.hotstar.com"
-        self.results_dir = Path("../results_claude3.7/hotstar")
-        self.results_dir.mkdir(parents=True, exist_ok=True)
-        
-        self.user_token = user_token
-        self.device_id = device_id
-        self.country_code = "in"
-        self.processed_urls = set()
-        self.processed_content_ids = set()
-        self.processed_tray_ids = set()
-        
+        self.api_base_url = "https://www.hotstar.com/api/internal/bff/v2"
         self.headers = {
-            "x-request-id": "40c987-5dd65d-4981ab-4072a8",
+            "x-request-id": self._generate_request_id(),
             "x-hs-client": "platform:web;app_version:25.03.06.1;browser:Chrome;schema_version:0.0.1429;os:Linux;os_version:x86_64;browser_version:136;network_data:4g",
             "x-hs-platform": "web",
-            "x-country-code": self.country_code,
+            "x-country-code": "in",
             "x-hs-accept-language": "eng",
-            "x-hs-device-id": self.device_id,
+            "x-hs-device-id": "3623b1-20d753-3cc29c-11bb32",
             "x-hs-app": "250306001",
-            "x-hs-request-id": "40c987-5dd65d-4981ab-4072a8",
-            "x-hs-usertoken": self.user_token,
+            "x-hs-usertoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IiIsImF1ZCI6InVtX2FjY2VzcyIsImV4cCI6MTc0OTU1MzQ1MSwiaWF0IjoxNzQ5NDY3MDUxLCJpc3MiOiJUUyIsImp0aSI6IjhmMWJhOTNmNTMxYjRmOTJhOWJiODNlNDE3MzRmNmFlIiwic3ViIjoie1wiaElkXCI6XCJlZmRlM2IzYjA1Nzg0MGE3ODIzNDdmZWNkYTE5YjM5N1wiLFwicElkXCI6XCJmODJjNWM4MjhmOTQ0ZDdkOTgzMjI4MjFiNDFlYjRmZFwiLFwiZHdIaWRcIjpcIjdiODVhZWE1NzI0NTNkMjJkMTVkZWFiOGVkODA5OWY5N2Y2MmI4YzE2ZWZmYTQwMDQ1YzEwOGM3NGQ3YjI4NGRcIixcImR3UGlkXCI6XCI0MjY4MTEwYjc2NjA4ZTIxZTA0OTRlMzQxZGFhMDg5MjE2ZmRjNDc4ZGM5NTQ0NTg4OWUwNmU5MTIxYjg2ZGViXCIsXCJvbGRIaWRcIjpcImVmZGUzYjNiMDU3ODQwYTc4MjM0N2ZlY2RhMTliMzk3XCIsXCJvbGRQaWRcIjpcImY4MmM1YzgyOGY5NDRkN2Q5ODMyMjgyMWI0MWViNGZkXCIsXCJpc1BpaVVzZXJNaWdyYXRlZFwiOmZhbHNlLFwibmFtZVwiOlwiWW91XCIsXCJpcFwiOlwiMjAzLjE5OS41Ny45OFwiLFwiY291bnRyeUNvZGVcIjpcImluXCIsXCJjdXN0b21lclR5cGVcIjpcIm51XCIsXCJ0eXBlXCI6XCJndWVzdFwiLFwiaXNFbWFpbFZlcmlmaWVkXCI6ZmFsc2UsXCJpc1Bob25lVmVyaWZpZWRcIjpmYWxzZSxcImRldmljZUlkXCI6XCIzNjIzYjEtMjBkNzUzLTNjYzI5Yy0xMWJiMzJcIixcInByb2ZpbGVcIjpcIkFEVUxUXCIsXCJ2ZXJzaW9uXCI6XCJ2MlwiLFwic3Vic2NyaXB0aW9uc1wiOntcImluXCI6e319LFwiaXNzdWVkQXRcIjoxNzQ5NDY3MDUxNzkzLFwiZHBpZFwiOlwiZjgyYzVjODI4Zjk0NGQ3ZDk4MzIyODIxYjQxZWI0ZmRcIixcInN0XCI6MSxcImRhdGFcIjpcIkNnUUlBRElBQ2dRSUFDb0FDZ1FJQUJJQUNnUUlBRG9BQ2dRSUFFSUFDZ3dJQUNJSWtBSDk3ZktpOVRJPVwifSIsInZlcnNpb24iOiIxXzAifQ.CAIHUw9TelTQ1wn4aUz4Myahhkk5A9ihbC9r0qwuez0"
         }
+        self.results_dir = "../results_claude3.7/hotstar"
+        self.processed_content_ids = set()
+        self.processed_trays = set()
+        self.country = "in"
         
-        self.client_capabilities = {
-            "ads": ["non_ssai"],
-            "audio_channel": ["stereo"],
-            "container": ["fmp4", "fmp4br", "ts"],
-            "dvr": ["short"],
-            "dynamic_range": ["sdr"],
-            "encryption": ["plain"],
-            "ladder": ["web", "tv", "phone"],
-            "package": ["dash", "hls"],
-            "resolution": ["sd", "hd", "fhd"],
-            "video_codec": ["h264"],
-            "video_codec_non_secure": ["h264"]
-        }
+        # Create results directory if it doesn't exist
+        os.makedirs(self.results_dir, exist_ok=True)
         
-        self.drm_parameters = {
-            "hdcp_version": ["HDCP_V2_2"],
-            "widevine_security_level": [],
-            "playready_security_level": []
-        }
-
+    def _generate_request_id(self):
+        """Generate a random request ID in the format used by Hotstar"""
+        parts = []
+        for length in [6, 6, 6, 6]:
+            part = ''.join(random.choice('0123456789abcdef') for _ in range(length))
+            parts.append(part)
+        return '-'.join(parts)
+    
+    def _update_request_headers(self):
+        """Update request headers with a new request ID"""
+        request_id = self._generate_request_id()
+        self.headers["x-request-id"] = request_id
+        self.headers["x-hs-request-id"] = request_id
+        
     def make_request(self, url, params=None):
-        """Make a GET request to the API with proper error handling and rate limiting"""
-        if url in self.processed_urls:
-            logger.info(f"Skipping already processed URL: {url}")
-            return None
+        """Make a request to the API with error handling and rate limiting"""
+        self._update_request_headers()
         
-        self.processed_urls.add(url)
+        max_retries = 3
+        retry_count = 0
         
-        # Add base URL if it's a relative URL
-        if not url.startswith("http"):
-            url = urljoin(self.base_url, url)
+        while retry_count < max_retries:
+            try:
+                response = requests.get(url, headers=self.headers, params=params)
+                response.raise_for_status()
+                return response.json()
+            except requests.exceptions.RequestException as e:
+                retry_count += 1
+                wait_time = 2 ** retry_count  # Exponential backoff
+                logger.error(f"Request failed: {e}. Retrying in {wait_time} seconds... (Attempt {retry_count}/{max_retries})")
+                time.sleep(wait_time)
         
-        try:
-            logger.info(f"Making request to: {url}")
-            response = requests.get(url, headers=self.headers, params=params)
-            response.raise_for_status()
-            
-            # Rate limiting
-            time.sleep(1)
-            
-            return response.json()
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Request failed: {e}")
-            return None
-        except json.JSONDecodeError:
-            logger.error(f"Failed to decode JSON from response")
-            return None
-
-    def save_json(self, data, filename):
-        """Save data as JSON file"""
-        filepath = self.results_dir / filename
+        logger.error(f"Failed to make request to {url} after {max_retries} attempts")
+        return None
+    
+    def save_to_json(self, data, filename):
+        """Save data to a JSON file"""
+        filepath = os.path.join(self.results_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         logger.info(f"Saved data to {filepath}")
-
-    def crawl_home(self):
-        """Crawl the homepage to get the main content structure"""
-        url = f"/api/internal/bff/v2/slugs/{self.country_code}/home"
-        data = self.make_request(url)
+    
+    def extract_content_from_widget(self, widget):
+        """Extract content items from a widget"""
+        content_items = []
         
-        if not data:
-            logger.error("Failed to fetch homepage data")
-            return
+        if not widget or "@type" not in widget:
+            return content_items
         
-        self.save_json(data, "homepage.json")
+        widget_type = widget.get("@type", "")
         
-        # Process content trays from homepage
-        if 'success' in data and 'page' in data['success'] and 'spaces' in data['success']['page']:
-            spaces = data['success']['page']['spaces']
+        if "ScrollableTrayWidget" in widget_type:
+            items = widget.get("data", {}).get("items", [])
+            for item in items:
+                content_item = self._extract_content_item(item)
+                if content_item:
+                    content_items.append(content_item)
+        
+        elif "GridWidget" in widget_type:
+            items = widget.get("data", {}).get("items", [])
+            for item in items:
+                content_item = self._extract_content_item(item)
+                if content_item:
+                    content_items.append(content_item)
+        
+        elif "HeroGECWidget" in widget_type:
+            data = widget.get("data", {})
+            content_item = {
+                "content_id": data.get("content_id"),
+                "title": data.get("title"),
+                "description": data.get("description"),
+                "content_type": data.get("content_type"),
+                "genre": data.get("genre", []),
+                "language": data.get("lang", []),
+                "images": data.get("images", {})
+            }
             
-            # Process content space
-            if 'content' in spaces and 'widget_wrappers' in spaces['content']:
-                for widget_wrapper in spaces['content']['widget_wrappers']:
-                    self.process_widget_wrapper(widget_wrapper)
-
-    def process_widget_wrapper(self, widget_wrapper):
-        """Process a widget wrapper to extract content information"""
-        if 'widget' not in widget_wrapper:
-            return
-        
-        widget = widget_wrapper['widget']
-        widget_type = widget.get('@type', '').split('.')[-1] if '@type' in widget else ''
-        
-        # Process different widget types
-        if widget_type == 'ScrollableTrayWidget' and 'data' in widget and 'items' in widget['data']:
-            self.process_tray_items(widget['data'])
+            # Add seasons and episodes if available
+            if "seasons" in data:
+                content_item["seasons"] = data.get("seasons", [])
             
-            # Check for tray ID to fetch more details
-            if 'title' in widget['data']:
-                tray_title = widget['data']['title']
-                tray_id = self.extract_tray_id_from_widget(widget)
-                if tray_id and tray_id not in self.processed_tray_ids:
-                    self.processed_tray_ids.add(tray_id)
-                    self.crawl_tray(tray_id, tray_title)
+            content_items.append(content_item)
         
-        elif widget_type == 'GridWidget' and 'data' in widget and 'items' in widget['data']:
-            self.process_tray_items(widget['data'])
-            
-            # Handle pagination for grid widgets
-            if 'more_grid_items_url' in widget['data']:
-                self.process_grid_pagination(widget['data']['more_grid_items_url'])
+        return content_items
+    
+    def _extract_content_item(self, item):
+        """Extract content information from an item"""
+        if not item:
+            return None
         
-        # Process other widget types as needed
-        elif widget_type in ['HeroGECWidget', 'AutoplayWidget'] and 'data' in widget:
-            if 'content_id' in widget['data']:
-                content_id = widget['data']['content_id']
-                self.crawl_content_details(content_id)
-            elif 'media_asset' in widget['data'] and 'primary' in widget['data']['media_asset']:
-                # Extract content URL if available
-                content_url = widget['data']['media_asset']['primary'].get('content_url')
-                if content_url:
-                    self.save_json({'content_url': content_url}, f"media_asset_{int(time.time())}.json")
-
-    def extract_tray_id_from_widget(self, widget):
-        """Extract tray ID from widget data"""
-        if 'widget_commons' in widget and 'instrumentation' in widget['widget_commons']:
-            instrumentation = widget['widget_commons']['instrumentation']
-            if 'instrumentation_context_v2' in instrumentation and 'value' in instrumentation['instrumentation_context_v2']:
-                context_value = instrumentation['instrumentation_context_v2']['value']
-                # Try to extract tray_id from the context value
-                if 'tp-' in context_value:
-                    parts = context_value.split('tp-')
-                    if len(parts) > 1:
-                        tray_part = parts[1].split('_')[0]
-                        return f"tp-{tray_part}"
-        return None
-
-    def process_tray_items(self, data):
-        """Process items in a content tray"""
-        if 'items' not in data:
-            return
+        content_id = item.get("content_id")
+        if not content_id:
+            return None
         
-        for item in data['items']:
-            if 'content_id' in item:
-                content_id = item['content_id']
-                if content_id not in self.processed_content_ids:
-                    self.processed_content_ids.add(content_id)
-                    self.crawl_content_details(content_id)
-
-    def process_grid_pagination(self, pagination_url):
-        """Process pagination for grid widgets"""
-        if not pagination_url or pagination_url in self.processed_urls:
-            return
-        
-        data = self.make_request(pagination_url)
-        if not data:
-            return
-        
-        # Save pagination data
-        parsed_url = urlparse(pagination_url)
-        query_params = parse_qs(parsed_url.query)
-        tray_id = query_params.get('tray_id', ['unknown'])[0]
-        self.save_json(data, f"grid_pagination_{tray_id}_{int(time.time())}.json")
-        
-        # Process widget wrapper from pagination response
-        if 'success' in data and 'widget_wrapper' in data['success']:
-            self.process_widget_wrapper(data['success']['widget_wrapper'])
-
-    def crawl_tray(self, tray_id, tray_title):
-        """Crawl a specific content tray"""
-        # Construct a URL for the tray based on tray_id
-        # This is an approximation as the exact category/subcategory might vary
-        url = f"/api/internal/bff/v2/slugs/{self.country_code}/browse/reco-editorial/all/{tray_id}?card_type=VERTICAL_LARGE"
-        
-        data = self.make_request(url)
-        if not data:
-            return
-        
-        self.save_json(data, f"tray_{tray_id}.json")
-        
-        # Process content from the tray
-        if 'success' in data and 'page' in data['success'] and 'spaces' in data['success']['page']:
-            spaces = data['success']['page']['spaces']
-            if 'content' in spaces and 'widget_wrappers' in spaces['content']:
-                for widget_wrapper in spaces['content']['widget_wrappers']:
-                    self.process_widget_wrapper(widget_wrapper)
-
-    def crawl_content_details(self, content_id):
-        """Crawl details for a specific content item"""
-        # First try to get content type and slug
-        content_type = "shows"  # Default to shows, but we'll try to determine the actual type
-        
-        # Try different content types
-        for type_guess in ["shows", "movies", "sports"]:
-            url = f"/api/internal/bff/v2/slugs/{self.country_code}/{type_guess}/content/{content_id}"
-            data = self.make_request(url)
-            
-            if data and 'success' in data:
-                content_type = type_guess
-                self.save_json(data, f"content_{content_id}.json")
-                
-                # Process content details
-                self.process_content_details(data, content_id)
-                
-                # Get streaming information
-                self.get_streaming_info(content_id)
-                
-                break
-
-    def process_content_details(self, data, content_id):
-        """Process details of a content item"""
-        if 'success' not in data or 'page' not in data['success'] or 'spaces' not in data['success']['page']:
-            return
-        
-        spaces = data['success']['page']['spaces']
-        
-        # Process hero space which typically contains content metadata
-        if 'hero' in spaces and 'widget_wrappers' in spaces['hero']:
-            for widget_wrapper in spaces['hero']['widget_wrappers']:
-                self.process_widget_wrapper(widget_wrapper)
-        
-        # Process related content if available
-        if 'related' in spaces and 'widget_wrappers' in spaces['related']:
-            for widget_wrapper in spaces['related']['widget_wrappers']:
-                self.process_widget_wrapper(widget_wrapper)
-        
-        # Process seasons and episodes for TV shows
-        if 'seasons' in spaces and 'widget_wrappers' in spaces['seasons']:
-            for widget_wrapper in spaces['seasons']['widget_wrappers']:
-                if 'widget' in widget_wrapper and 'data' in widget_wrapper['widget']:
-                    widget_data = widget_wrapper['widget']['data']
-                    if 'seasons' in widget_data:
-                        for season in widget_data['seasons']:
-                            if 'episodes' in season:
-                                for episode in season['episodes']:
-                                    if 'content_id' in episode:
-                                        episode_id = episode['content_id']
-                                        if episode_id not in self.processed_content_ids:
-                                            self.processed_content_ids.add(episode_id)
-                                            self.get_streaming_info(episode_id)
-
-    def get_streaming_info(self, content_id):
-        """Get streaming information for a content item"""
-        url = "/api/internal/bff/v2/pages/666/spaces/334/widgets/244"
-        params = {
+        return {
             "content_id": content_id,
-            "client_capabilities": json.dumps(self.client_capabilities),
-            "drm_parameters": json.dumps(self.drm_parameters)
+            "title": item.get("title"),
+            "description": item.get("description", ""),
+            "content_type": item.get("content_type", ""),
+            "images": item.get("images", {}),
+            "genre": item.get("genre", []),
+            "language": item.get("lang", [])
         }
+    
+    def crawl_home(self):
+        """Crawl the homepage to get initial content structure"""
+        url = f"{self.api_base_url}/slugs/{self.country}/home"
+        logger.info(f"Crawling homepage: {url}")
         
-        data = self.make_request(url, params)
-        if not data:
-            return
+        response = self.make_request(url)
+        if not response or "success" not in response:
+            logger.error("Failed to get homepage data")
+            return None
         
-        self.save_json(data, f"streaming_{content_id}.json")
+        # Save the homepage data
+        self.save_to_json(response, "homepage.json")
         
-        # Extract video metadata URL if available
-        if 'success' in data and 'widget_wrapper' in data['success'] and 'widget' in data['success']['widget_wrapper']:
-            widget = data['success']['widget_wrapper']['widget']
-            if 'data' in widget and 'media_asset' in widget['data'] and 'primary' in widget['data']['media_asset']:
-                content_url = widget['data']['media_asset']['primary'].get('content_url')
-                if content_url:
-                    # Try to get video metadata
-                    parsed_url = urlparse(content_url)
-                    path_parts = parsed_url.path.split('/')
-                    if len(path_parts) >= 7:
-                        # Construct video-meta.json URL
-                        base_path = '/'.join(path_parts[:-1])
-                        video_meta_url = f"{parsed_url.scheme}://{parsed_url.netloc}{base_path}/video-meta.json"
-                        
-                        # Make request without using make_request to avoid adding to processed_urls
-                        try:
-                            response = requests.get(video_meta_url, headers={"referer": self.base_url})
-                            if response.status_code == 200:
-                                video_meta = response.json()
-                                self.save_json(video_meta, f"video_meta_{content_id}.json")
-                        except Exception as e:
-                            logger.error(f"Failed to fetch video metadata: {e}")
-
-    def crawl_spaces(self, page_id, space_id, offset=0, size=10):
-        """Crawl spaces with pagination support"""
-        url = f"/api/internal/bff/v2/pages/{page_id}/spaces/{space_id}"
-        params = {
-            "anchor-session-token": f"{int(time.time() * 1000)}-{self.device_id[:10]}",
-            "offset": offset,
-            "page_enum": "home",
-            "size": size
-        }
+        # Extract content from the homepage
+        content_data = {"categories": []}
         
-        data = self.make_request(url, params)
-        if not data:
-            return
-        
-        self.save_json(data, f"space_{page_id}_{space_id}_offset_{offset}.json")
-        
-        # Process widget wrappers
-        if 'success' in data and 'space' in data['success'] and 'widget_wrappers' in data['success']['space']:
-            for widget_wrapper in data['success']['space']['widget_wrappers']:
-                self.process_widget_wrapper(widget_wrapper)
+        # Extract navigation menu items (categories)
+        try:
+            spaces = response["success"]["page"]["spaces"]
+            header_space = spaces.get("header", {})
+            widget_wrappers = header_space.get("widget_wrappers", [])
             
-            # Paginate if there are likely more items
-            if len(data['success']['space']['widget_wrappers']) >= size:
-                self.crawl_spaces(page_id, space_id, offset + size, size)
-
-    def run(self):
-        """Run the crawler"""
+            for wrapper in widget_wrappers:
+                if "BrandedLogoHeaderWidget" in wrapper.get("template", ""):
+                    widget = wrapper.get("widget", {})
+                    data = widget.get("data", {})
+                    nav_items = data.get("nav_items", [])
+                    
+                    for nav_item in nav_items:
+                        if "title" in nav_item and "actions" in nav_item:
+                            actions = nav_item.get("actions", {})
+                            on_click = actions.get("on_click", [])
+                            
+                            for action in on_click:
+                                if "page_navigation" in action:
+                                    page_nav = action["page_navigation"]
+                                    category = {
+                                        "title": nav_item["title"],
+                                        "page_slug": page_nav.get("page_slug", ""),
+                                        "page_url": page_nav.get("page_url", "")
+                                    }
+                                    content_data["categories"].append(category)
+        except Exception as e:
+            logger.error(f"Error extracting navigation menu: {e}")
+        
+        # Extract content trays
+        content_trays = []
+        try:
+            content_space = spaces.get("content", {})
+            widget_wrappers = content_space.get("widget_wrappers", [])
+            
+            for wrapper in widget_wrappers:
+                widget = wrapper.get("widget", {})
+                if "@type" in widget and "ScrollableTrayWidget" in widget["@type"]:
+                    tray_data = widget.get("data", {})
+                    tray = {
+                        "title": tray_data.get("title", ""),
+                        "items": []
+                    }
+                    
+                    items = tray_data.get("items", [])
+                    for item in items:
+                        content_item = self._extract_content_item(item)
+                        if content_item:
+                            tray["items"].append(content_item)
+                    
+                    content_trays.append(tray)
+        except Exception as e:
+            logger.error(f"Error extracting content trays: {e}")
+        
+        content_data["trays"] = content_trays
+        self.save_to_json(content_data, "content_structure.json")
+        
+        # Process each content tray to get more details
+        for tray in content_trays:
+            self.process_tray_items(tray)
+        
+        # Process categories
+        for category in content_data["categories"]:
+            if category["page_slug"] and category["title"] != "Home":
+                self.crawl_category(category)
+        
+        return content_data
+    
+    def crawl_category(self, category):
+        """Crawl a specific category page"""
+        page_slug = category["page_slug"]
+        if not page_slug.startswith("/"):
+            page_slug = f"/{page_slug}"
+        
+        # Extract category and subcategory from the slug
+        parts = page_slug.strip("/").split("/")
+        if len(parts) < 2:
+            logger.warning(f"Invalid page slug format: {page_slug}")
+            return
+        
+        category_name = parts[1]  # e.g., "movies", "shows", "sports"
+        
+        url = f"{self.api_base_url}/slugs/{self.country}/{category_name}"
+        logger.info(f"Crawling category: {category_name}, URL: {url}")
+        
+        response = self.make_request(url)
+        if not response or "success" not in response:
+            logger.error(f"Failed to get data for category: {category_name}")
+            return
+        
+        # Save the category data
+        self.save_to_json(response, f"category_{category_name}.json")
+        
+        # Extract content trays from the category page
+        content_trays = []
+        try:
+            spaces = response["success"]["page"]["spaces"]
+            content_space = spaces.get("content", {})
+            widget_wrappers = content_space.get("widget_wrappers", [])
+            
+            for wrapper in widget_wrappers:
+                widget = wrapper.get("widget", {})
+                if "@type" in widget and "ScrollableTrayWidget" in widget["@type"]:
+                    tray_data = widget.get("data", {})
+                    tray_id = tray_data.get("tray_id", "")
+                    
+                    if tray_id and tray_id not in self.processed_trays:
+                        self.processed_trays.add(tray_id)
+                        
+                        tray = {
+                            "title": tray_data.get("title", ""),
+                            "tray_id": tray_id,
+                            "items": []
+                        }
+                        
+                        items = tray_data.get("items", [])
+                        for item in items:
+                            content_item = self._extract_content_item(item)
+                            if content_item:
+                                tray["items"].append(content_item)
+                        
+                        content_trays.append(tray)
+                        
+                        # Process the tray to get more details
+                        self.process_tray_items(tray)
+                        
+                        # Crawl the tray details if it has a valid tray_id
+                        if tray_id and "/" in tray_id:
+                            self.crawl_tray_details(category_name, tray_id)
+        except Exception as e:
+            logger.error(f"Error extracting content trays from category {category_name}: {e}")
+        
+        category_content = {
+            "category": category_name,
+            "trays": content_trays
+        }
+        
+        self.save_to_json(category_content, f"{category_name}_content.json")
+    
+    def crawl_tray_details(self, category, tray_id):
+        """Crawl details for a specific tray"""
+        # Parse the tray_id to extract necessary components
+        parts = tray_id.split("_")
+        if len(parts) < 2:
+            logger.warning(f"Invalid tray_id format: {tray_id}")
+            return
+        
+        tray_type = parts[0]
+        tray_code = parts[1]
+        
+        # Determine subcategory based on tray_type
+        subcategory_mapping = {
+            "tp-ed": "editorial",
+            "tp-reco": "recommended",
+            "tp-genre": "genre"
+        }
+        
+        subcategory = subcategory_mapping.get(tray_type, "general")
+        
+        url = f"{self.api_base_url}/slugs/{self.country}/browse/{category}/{subcategory}/{tray_id}?card_type=VERTICAL_LARGE"
+        logger.info(f"Crawling tray details: {tray_id}, URL: {url}")
+        
+        response = self.make_request(url)
+        if not response or "success" not in response:
+            logger.error(f"Failed to get data for tray: {tray_id}")
+            return
+        
+        # Save the tray details
+        self.save_to_json(response, f"tray_{tray_id.replace('/', '_')}.json")
+        
+        # Extract content items from the tray
+        content_items = []
+        try:
+            spaces = response["success"]["page"]["spaces"]
+            content_space = spaces.get("content", {})
+            widget_wrappers = content_space.get("widget_wrappers", [])
+            
+            for wrapper in widget_wrappers:
+                widget = wrapper.get("widget", {})
+                if "@type" in widget and "GridWidget" in widget["@type"]:
+                    grid_data = widget.get("data", {})
+                    items = grid_data.get("items", [])
+                    
+                    for item in items:
+                        content_item = self._extract_content_item(item)
+                        if content_item:
+                            content_items.append(content_item)
+                            
+                            # Process the content item to get more details
+                            self.process_content_item(content_item)
+                    
+                    # Handle pagination if more_grid_items_url is available
+                    more_url = grid_data.get("more_grid_items_url")
+                    if more_url:
+                        self.process_pagination(more_url, tray_id)
+        except Exception as e:
+            logger.error(f"Error extracting content items from tray {tray_id}: {e}")
+        
+        tray_content = {
+            "tray_id": tray_id,
+            "category": category,
+            "subcategory": subcategory,
+            "items": content_items
+        }
+        
+        self.save_to_json(tray_content, f"tray_content_{tray_id.replace('/', '_')}.json")
+    
+    def process_pagination(self, more_url, tray_id, depth=0):
+        """Process pagination for grid items"""
+        if depth > 5:  # Limit pagination depth to avoid infinite loops
+            return
+        
+        # Construct the full URL
+        if more_url.startswith("/"):
+            more_url = f"{self.base_url}{more_url}"
+        
+        logger.info(f"Processing pagination: {more_url}")
+        
+        response = self.make_request(more_url)
+        if not response or "success" not in response:
+            logger.error(f"Failed to get pagination data for URL: {more_url}")
+            return
+        
+        # Extract content items from the pagination response
+        content_items = []
+        try:
+            widget_wrapper = response["success"]["widget_wrapper"]
+            widget = widget_wrapper.get("widget", {})
+            if "@type" in widget and "GridWidget" in widget["@type"]:
+                grid_data = widget.get("data", {})
+                items = grid_data.get("items", [])
+                
+                for item in items:
+                    content_item = self._extract_content_item(item)
+                    if content_item:
+                        content_items.append(content_item)
+                        
+                        # Process the content item to get more details
+                        self.process_content_item(content_item)
+                
+                # Handle further pagination
+                more_url = grid_data.get("more_grid_items_url")
+                if more_url:
+                    self.process_pagination(more_url, tray_id, depth + 1)
+        except Exception as e:
+            logger.error(f"Error extracting content items from pagination: {e}")
+        
+        pagination_content = {
+            "tray_id": tray_id,
+            "page": depth + 1,
+            "items": content_items
+        }
+        
+        self.save_to_json(pagination_content, f"pagination_{tray_id.replace('/', '_')}_{depth + 1}.json")
+    
+    def process_tray_items(self, tray):
+        """Process items in a content tray"""
+        for item in tray.get("items", []):
+            self.process_content_item(item)
+    
+    def process_content_item(self, content_item):
+        """Process a content item to get more details"""
+        content_id = content_item.get("content_id")
+        content_type = content_item.get("content_type", "")
+        
+        if not content_id or content_id in self.processed_content_ids:
+            return
+        
+        self.processed_content_ids.add(content_id)
+        
+        # Map content_type to API path
+        content_type_mapping = {
+            "MOVIE": "movies",
+            "SHOW": "shows",
+            "SPORT": "sports",
+            "CHANNEL": "channels",
+            "movie": "movies",
+            "show": "shows",
+            "sport": "sports",
+            "channel": "channels"
+        }
+        
+        api_content_type = content_type_mapping.get(content_type, "content")
+        
+        # Generate a slug from the title
+        title = content_item.get("title", "")
+        slug = title.lower().replace(" ", "-").replace(":", "").replace("'", "")
+        
+        url = f"{self.api_base_url}/slugs/{self.country}/{api_content_type}/{slug}/{content_id}"
+        logger.info(f"Processing content item: {title} ({content_id}), URL: {url}")
+        
+        response = self.make_request(url)
+        if not response or "success" not in response:
+            logger.warning(f"Failed to get details for content: {content_id}")
+            return
+        
+        # Save the content details
+        self.save_to_json(response, f"content_{content_id}.json")
+        
+        # Extract detailed content information
+        content_details = {}
+        try:
+            spaces = response["success"]["page"]["spaces"]
+            hero_space = spaces.get("hero", {})
+            widget_wrappers = hero_space.get("widget_wrappers", [])
+            
+            for wrapper in widget_wrappers:
+                widget = wrapper.get("widget", {})
+                content_items = self.extract_content_from_widget(widget)
+                
+                if content_items:
+                    content_details = content_items[0]
+                    
+                    # If it's a show, process its seasons and episodes
+                    if content_type.lower() == "show" and "seasons" in content_details:
+                        self.process_show_seasons(content_details)
+        except Exception as e:
+            logger.error(f"Error extracting details for content {content_id}: {e}")
+        
+        self.save_to_json(content_details, f"details_{content_id}.json")
+    
+    def process_show_seasons(self, show_details):
+        """Process seasons and episodes of a TV show"""
+        content_id = show_details.get("content_id")
+        seasons = show_details.get("seasons", [])
+        
+        for season in seasons:
+            season_num = season.get("season_num")
+            episodes = season.get("episodes", [])
+            
+            for episode in episodes:
+                episode_id = episode.get("content_id")
+                if episode_id and episode_id not in self.processed_content_ids:
+                    self.processed_content_ids.add(episode_id)
+                    
+                    # Process the episode to get more details
+                    episode_item = {
+                        "content_id": episode_id,
+                        "title": episode.get("title"),
+                        "description": episode.get("description", ""),
+                        "content_type": "episode",
+                        "images": episode.get("images", {})
+                    }
+                    
+                    self.process_content_item(episode_item)
+        
+        # Save the processed show with seasons and episodes
+        show_content = {
+            "content_id": content_id,
+            "title": show_details.get("title"),
+            "description": show_details.get("description"),
+            "content_type": "show",
+            "genre": show_details.get("genre", []),
+            "language": show_details.get("language", []),
+            "images": show_details.get("images", {}),
+            "seasons": seasons
+        }
+        
+        self.save_to_json(show_content, f"show_{content_id}.json")
+    
+    def crawl(self):
+        """Main crawling function"""
         logger.info("Starting Hotstar crawler")
         
         # Start with the homepage
-        self.crawl_home()
+        home_data = self.crawl_home()
         
-        # Crawl some common spaces
-        self.crawl_spaces("2169", "8451")
-        
-        logger.info(f"Crawling completed. Processed {len(self.processed_urls)} URLs and {len(self.processed_content_ids)} content items.")
+        logger.info("Crawling completed")
+        return home_data
 
 if __name__ == "__main__":
-    # User token and device ID from the provided documentation
-    USER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IiIsImF1ZCI6InVtX2FjY2VzcyIsImV4cCI6MTc0OTUzMzY4MSwiaWF0IjoxNzQ5NDQ3MjgxLCJpc3MiOiJUUyIsImp0aSI6IjlhOTEzMTc1OGI4ODQ5MTE4MjBmMjgzOGI1OTVmNTBlIiwic3ViIjoie1wiaElkXCI6XCJjMWIyMDk5MzVmMzM0MDU3ODZmNWRlYzFlZTA4NmRkYlwiLFwicElkXCI6XCIyODY0NGJhOWNlZWU0MGVhOTMzODgzMjhkMTc5ZTNkZlwiLFwiZHdIaWRcIjpcImVkNTc2YTA2ZDFjZDY1Y2I3NTgwNTk3NzM4YzBlMDI0ZGE4N2U0NWQ2NTk1MTBhODM1OGI4OGFhNmQ4ZDdlYzBcIixcImR3UGlkXCI6XCJhOGM0Y2E0ZTU5M2NhYjNlZmNkZGY0ZjgyM2U4OTdlM2NlMjYxYjg4ODE4ZDE5Y2ZjMWZiYzNmOTk4OTlhY2FkXCIsXCJvbGRIaWRcIjpcImMxYjIwOTkzNWYzMzQwNTc4NmY1ZGVjMWVlMDg2ZGRiXCIsXCJvbGRQaWRcIjpcIjI4NjQ0YmE5Y2VlZTQwZWE5MzM4ODMyOGQxNzllM2RmXCIsXCJpc1BpaVVzZXJNaWdyYXRlZFwiOmZhbHNlLFwibmFtZVwiOlwiWW91XCIsXCJpcFwiOlwiMjAzLjE5OS41Ny45OFwiLFwiY291bnRyeUNvZGVcIjpcImluXCIsXCJjdXN0b21lclR5cGVcIjpcIm51XCIsXCJ0eXBlXCI6XCJndWVzdFwiLFwiaXNFbWFpbFZlcmlmaWVkXCI6ZmFsc2UsXCJpc1Bob25lVmVyaWZpZWRcIjpmYWxzZSxcImRldmljZUlkXCI6XCI3NTM5OWEtN2FmOTNjLTQ1OWY3ZS0yMDU3ZGZcIixcInByb2ZpbGVcIjpcIkFEVUxUXCIsXCJ2ZXJzaW9uXCI6XCJ2MlwiLFwic3Vic2NyaXB0aW9uc1wiOntcImluXCI6e319LFwiaXNzdWVkQXRcIjoxNzQ5NDQ3MjgxMTM2LFwibWF0dXJpdHlMZXZlbFwiOlwiQVwiLFwiZHBpZFwiOlwiMjg2NDRiYTljZWVlNDBlYTkzMzg4MzI4ZDE3OWUzZGZcIixcInN0XCI6MSxcImRhdGFcIjpcIkNnUUlBQklBQ2dRSUFDb0FDZ3dJQUNJSWtBR1FtTmZMOURJS0JBZ0FPZ0FLQkFnQU1nQUtCQWdBUWdBPVwifSIsInZlcnNpb24iOiIxXzAifQ.Tpm9Xb6v0iQOCvHz31kmSXlhWjOIZ5nxMWwnobcpKCM"
-    DEVICE_ID = "75399a-7af93c-459f7e-2057df"
-    
-    crawler = HotstarCrawler(USER_TOKEN, DEVICE_ID)
-    crawler.run()
-    
+    crawler = HotstarCrawler()
+    crawler.crawl()
