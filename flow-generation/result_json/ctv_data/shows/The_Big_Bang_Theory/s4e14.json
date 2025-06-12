@@ -1,0 +1,25 @@
+{
+  "title": "The Thespian Catalyst",
+  "description": "Sheldon takes acting lessons from Penny in hope of becoming a better teacher.",
+  "season": 4,
+  "episode": "14",
+  "air_time": "2025-06-13T03:00:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_a1d16081-546f-41e1-ae7a-bd680c1144cb_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

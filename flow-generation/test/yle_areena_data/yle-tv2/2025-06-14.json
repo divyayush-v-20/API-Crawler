@@ -1,0 +1,310 @@
+{
+  "channel": "yle-tv2",
+  "date": "2025-06-14",
+  "programs": [
+    {
+      "id": "1-3795521",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-14T06:50:28+03:00",
+      "end_time": "2025-06-14T06:51:00+03:00",
+      "uri": "yleareena://items/1-3795521"
+    },
+    {
+      "id": "1-1739791",
+      "title": "Nimipäiväonnittelu: 14.6.",
+      "description": "Onnea, Kielo ja Pihla!",
+      "start_time": "2025-06-14T06:51:00+03:00",
+      "end_time": "2025-06-14T06:52:58+03:00",
+      "uri": "yleareena://items/1-1739791"
+    },
+    {
+      "id": "1-50749423",
+      "title": "Nappulat",
+      "description": "Muks ja pallo. Luukun takaa kuuluu \"Haa!\" - on siis Muksin päivä! Lauran ja Jonnen kanssa lauletaan, leikitään, ihmetellään ja oivalletaan.",
+      "start_time": "2025-06-14T06:52:58+03:00",
+      "end_time": "2025-06-14T07:03:01+03:00",
+      "uri": "yleareena://items/1-50749423"
+    },
+    {
+      "id": "1-61744994",
+      "title": "Leppäkerttu ja Mehiläinen (S)",
+      "description": "Metsäniityn laulu. Leppäkerttu ja Mehiläinen saavat ihastella metsän eläinten kuoroa.",
+      "start_time": "2025-06-14T07:03:01+03:00",
+      "end_time": "2025-06-14T07:05:34+03:00",
+      "uri": "yleareena://items/1-61744994"
+    },
+    {
+      "id": "1-68100286",
+      "title": "Pipsa Possu (S)",
+      "description": "Kausi 4. Neiti Jäniksen vapaapäivä. Neiti Jänis on loukannut nilkkansa, joten hänen siskonsa Äiti Jänis ja muut aikuiset tuuraavat Neiti Jänistä jäätelökioskilla, ruokakaupassa ja kaikissa muissa töissä!",
+      "start_time": "2025-06-14T07:05:34+03:00",
+      "end_time": "2025-06-14T07:10:34+03:00",
+      "uri": "yleareena://items/1-68100286"
+    },
+    {
+      "id": "1-3167614",
+      "title": "Rikke (S)",
+      "description": "Kirppuja turkissa. Rikke rapsuttaa itseään. Ei kai hänellä vain ole kirppuja? Henrietta ja Topias eivät halua leikkiä hänen kanssaan, mutta äidillä on keinonsa päästä niistä eroon.",
+      "start_time": "2025-06-14T07:10:34+03:00",
+      "end_time": "2025-06-14T07:15:45+03:00",
+      "uri": "yleareena://items/1-3167614"
+    },
+    {
+      "id": "1-2169549",
+      "title": "Franklin ja ystävät (S)",
+      "description": "Franklin ja karatetunti. Konna-täti järjestää ystävyksille karatekurssin. Franklinillä ja Hanhella on niin kiire oppia hurjimmat temput, että he päättävät opiskella karatea itse.",
+      "start_time": "2025-06-14T07:15:45+03:00",
+      "end_time": "2025-06-14T07:27:32+03:00",
+      "uri": "yleareena://items/1-2169549"
+    },
+    {
+      "id": "1-70140484",
+      "title": "Hiiritalon Sam ja Julia (S)",
+      "description": "Tarina vailla loppua. Samilta jää jännittävä kirja kesken, kun Julia vahingossa tuhoaa sen viimeiset sivut. Samin on saatava kuulla, miten tarina päättyy, mutta kukaan ei tunnu tietävän",
+      "start_time": "2025-06-14T07:27:32+03:00",
+      "end_time": "2025-06-14T07:34:36+03:00",
+      "uri": "yleareena://items/1-70140484"
+    },
+    {
+      "id": "1-4228258",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-14T07:34:36+03:00",
+      "end_time": "2025-06-14T07:35:30+03:00",
+      "uri": "yleareena://items/1-4228258"
+    },
+    {
+      "id": "1-962637",
+      "title": "Postimies Pate, erikoislähettipalvelu (S)",
+      "description": "Paten erikoiskuljetus: diskokone. Koululla järjestetään disko. Paten tehtävä on kuljettaa diskokone ajoissa paikalle. Matkaan tulee kuitenkin ongelmia.",
+      "start_time": "2025-06-14T07:35:30+03:00",
+      "end_time": "2025-06-14T07:50:30+03:00",
+      "uri": "yleareena://items/1-962637"
+    },
+    {
+      "id": "1-4305060",
+      "title": "Pikku Kakkonen: Seikkailukone",
+      "description": "Liikennepuisto. Kaikkien seikkailujen sankari Reppu-Heppu kutsuu Sinut mukaan. Seikkailukone arpoo kartan ja yhdessä selvitämme tehtävät. Seikkailuseurana Veera, Jaakko, Maltti ja Valtti sekä Isa-Eerika ja Janne.",
+      "start_time": "2025-06-14T07:50:30+03:00",
+      "end_time": "2025-06-14T08:14:47+03:00",
+      "uri": "yleareena://items/1-4305060"
+    },
+    {
+      "id": "1-66393084",
+      "title": "Tuuri (S)",
+      "description": "Grillijuhlat. Vanhemmat kutsuvat Rontin veljen perheineen grillijuhliin. Serkukset leikkivät omia grillijuhlia, joissa Tuuri grillaa ja Pommon tehtävänä on valmistaa salaatti.",
+      "start_time": "2025-06-14T08:14:47+03:00",
+      "end_time": "2025-06-14T08:21:57+03:00",
+      "uri": "yleareena://items/1-66393084"
+    },
+    {
+      "id": "1-72017758",
+      "title": "Barbapapa (S)",
+      "description": "Robopakkaaja. Barbalapset pääsevät ensimmäistä kertaa isoon supermarkettiin. Siellä on valtavasti erilaisia tuotteita, mutta miksi melkein kaikki on pakattu muoviin? Voisiko se olla Robopakkaajan tekosia?",
+      "start_time": "2025-06-14T08:21:57+03:00",
+      "end_time": "2025-06-14T08:33:03+03:00",
+      "uri": "yleareena://items/1-72017758"
+    },
+    {
+      "id": "1-70474221",
+      "title": "Rollen remmi (S)",
+      "description": "Remmi rakentaa autopesulan. Pormestari valmistautuu kilpa-ajoon. Pikamestari sabotoi pormestarin kilpailua likaamalla tämän moottoripyörän, mutta Rollen remmi rakentaa pesulan, joka poistaa kulkuneuvoista kaikki liat.",
+      "start_time": "2025-06-14T08:33:03+03:00",
+      "end_time": "2025-06-14T08:44:48+03:00",
+      "uri": "yleareena://items/1-70474221"
+    },
+    {
+      "id": "1-62070810",
+      "title": "Pelastajapartio (S)",
+      "description": "Siperianhuskyt pinteessä. Prinsessa Riiveliini kaappaa siperianhuskyvaljakon kiskomaan vaunuaan. Hän ajaa koiraparat läkähdyksiin, ja Pelastajapartion on puututtava peliin.",
+      "start_time": "2025-06-14T08:44:48+03:00",
+      "end_time": "2025-06-14T08:56:57+03:00",
+      "uri": "yleareena://items/1-62070810"
+    },
+    {
+      "id": "1-1739791",
+      "title": "Nimipäiväonnittelu: 14.6.",
+      "description": "Onnea, Kielo ja Pihla!",
+      "start_time": "2025-06-14T08:56:57+03:00",
+      "end_time": "2025-06-14T08:58:55+03:00",
+      "uri": "yleareena://items/1-1739791"
+    },
+    {
+      "id": "1-3795703",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-14T08:58:55+03:00",
+      "end_time": "2025-06-14T09:00:05+03:00",
+      "uri": "yleareena://items/1-3795703"
+    },
+    {
+      "id": "1-72744228",
+      "title": "Galaxi ",
+      "description": "Koulululaisten oma ohjelma!",
+      "start_time": "2025-06-14T09:00:05+03:00",
+      "end_time": "2025-06-14T09:00:35+03:00",
+      "uri": "yleareena://items/1-72744228"
+    },
+    {
+      "id": "1-4401423",
+      "title": "Patu-koira (7)",
+      "description": "Tähdenlento. Yöksi on luvattu tähdenlentoja, joita Lola ja Verneri valvovat pihalla odottamassa. Patu taas ajautuu seikkailuun öiseen kaupunkiin, kun pulut vievät Lolan eväät.",
+      "start_time": "2025-06-14T09:00:35+03:00",
+      "end_time": "2025-06-14T09:08:27+03:00",
+      "uri": "yleareena://items/1-4401423"
+    },
+    {
+      "id": "1-50470365",
+      "title": "Voihan Poni (7)",
+      "description": "Lemmikki. Annin ja Ponin kerrostalossa kielletään lemmikit. Poni pöyristyy havahtuessaan siihen tosiasiaan, että hän on itsekin lemmikki!",
+      "start_time": "2025-06-14T09:08:27+03:00",
+      "end_time": "2025-06-14T09:20:34+03:00",
+      "uri": "yleareena://items/1-50470365"
+    },
+    {
+      "id": "1-66895461",
+      "title": "Auri ja maailman eläimet (7)",
+      "description": "Päivä äidin kanssa. Aurilla on ollut ikävä tutkimusmatkalla ollutta äitiä, joten äiti lupaa viettää Aurin kanssa kokonaisen päivän. Yhteisen ajan järjestäminen vaikuttaa kuitenkin hankalalta.",
+      "start_time": "2025-06-14T09:20:34+03:00",
+      "end_time": "2025-06-14T09:32:05+03:00",
+      "uri": "yleareena://items/1-66895461"
+    },
+    {
+      "id": "1-71304098",
+      "title": "Alex Player (7)",
+      "description": "Kombojen perässä. Mangustit ottavat osaa kampanjaan, jossa pelissä saavutetuilla kombopisteillä autetaan paikallista yritystä kunnostamaan vanhoja tietokoneita uusiokäyttöön.",
+      "start_time": "2025-06-14T09:32:05+03:00",
+      "end_time": "2025-06-14T09:54:18+03:00",
+      "uri": "yleareena://items/1-71304098"
+    },
+    {
+      "id": "1-67713450",
+      "title": "Antiikin aikaan keksittyä (7)",
+      "description": "Puhumisen taito. Jo antiikin Kreikassa kansa kokoontui neuvottelemaan kaupunkien pulmista. Tullakseen kuulluksi Pnyksin kukkulalla puhujalta vaadittiin taitoja, joita Arkala alkaa hioa Sohvin valmennuksessa.",
+      "start_time": "2025-06-14T09:54:18+03:00",
+      "end_time": "2025-06-14T10:00:00+03:00",
+      "uri": "yleareena://items/1-67713450"
+    },
+    {
+      "id": "1-4393428",
+      "title": "Yliopistollinen eläinsairaala: Nesta-gekkon iho-ongelma",
+      "description": "18/40. Berninpaimenkoiraveljekset ovat tulleet Porista saakka saamaan akupunktiohoitoa eläinsairaalaan. Nesta-gekolla on vaikeuksia nahanluonnin kanssa. Siiri-koira oireilee edelleen, vaikka korvakäytävänpoiston toivottiin helpottavan sen elämää. (U)",
+      "start_time": "2025-06-14T10:00:00+03:00",
+      "end_time": "2025-06-14T10:30:00+03:00",
+      "uri": "yleareena://items/1-4393428"
+    },
+    {
+      "id": "1-2649241",
+      "title": "Luontomatkalla",
+      "description": "Kausi 1, 3/8. Kaupungin betoniviidakossakin vilisee luonnonvaraisia eläimiä. Martin Emtenäs tutustuu New Yorkin uusimpiin asukkaisiin, kojootteihin. Yvette Hermundstad tapaa Tukholmassa lintumaailman jätehuoltajan, kanahaukan. Tuotanto: SVT, 2014. (U)",
+      "start_time": "2025-06-14T10:30:00+03:00",
+      "end_time": "2025-06-14T11:25:02+03:00",
+      "uri": "yleareena://items/1-2649241"
+    },
+    {
+      "id": "1-50996963",
+      "title": "Huippuvuoret yläilmoista",
+      "description": "Näkymiä Huippuvuorilta droonilla kuvattuna.",
+      "start_time": "2025-06-14T11:25:02+03:00",
+      "end_time": "2025-06-14T11:30:00+03:00",
+      "uri": "yleareena://items/1-50996963"
+    },
+    {
+      "id": "1-4672417",
+      "title": "Aivan yksin",
+      "description": "4/4. Thor Håkon, 24, rakastaa kotikaupunkiaan Osloa. Nyt hän haluaa tutkia sekä omia rajojaan että kaupungin raja-alueita niin maalla kuin merellä. Niinpä hän lähtee kiertämään koko Oslon, mukanaan vain rinkka ja riippumatto. Seikkailusta tulee kuitenkin paljon rankempi kuin hän luuli. (U)",
+      "start_time": "2025-06-14T11:30:00+03:00",
+      "end_time": "2025-06-14T12:10:00+03:00",
+      "uri": "yleareena://items/1-4672417"
+    },
+    {
+      "id": "1-73534980",
+      "title": "Suuri keramiikkakisa",
+      "description": "Kausi 8, 1/10. Salaattisetti. Kilpailijat aloittavat keramiikkataistelun luomalla salaattisetin ja identtiset sangriakannut.",
+      "start_time": "2025-06-14T12:10:00+03:00",
+      "end_time": "2025-06-14T13:05:54+03:00",
+      "uri": "yleareena://items/1-73534980"
+    },
+    {
+      "id": "1-2254533",
+      "title": "Tarinoita metsästä: Hirvi",
+      "description": "14/20. Metsän valtias, tuttu suurnisäkkäämme. O: Kim Saarniluoto. T: Matila Röhr Nordisk Oy. (U)",
+      "start_time": "2025-06-14T13:05:54+03:00",
+      "end_time": "2025-06-14T13:10:08+03:00",
+      "uri": "yleareena://items/1-2254533"
+    },
+    {
+      "id": "1-2254534",
+      "title": "Tarinoita metsästä: Karhu, ahma, korppi",
+      "description": "15/20. Kaikkiruokainen mesikämmen. O: Kim Saarniluoto. T: Matila Röhr Nordisk Oy. (U)",
+      "start_time": "2025-06-14T13:10:08+03:00",
+      "end_time": "2025-06-14T13:15:00+03:00",
+      "uri": "yleareena://items/1-2254534"
+    },
+    {
+      "id": "1-74447193",
+      "title": "Suunnistuksen Jukolan viesti: Venlojen viesti",
+      "description": "Suora lähetys suunnistuksen Venlojen viestistä, selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli. Ruotsinkielinen selostus Magnus Eklöv, asiantuntija Fredric Portin.",
+      "start_time": "2025-06-14T13:15:00+03:00",
+      "end_time": "2025-06-14T17:20:00+03:00",
+      "uri": "yleareena://items/1-74447193"
+    },
+    {
+      "id": "1-71968684",
+      "title": "Sportliv ",
+      "description": "Kun suurlupaus Antti Sainio ylitti maaliviivan 400 metrin aitojen Suomen mestarina, hän nosti Raamatun kohti taivasta ja kiitti Jumalaa. Suomessa ihmiset katsovat oudosti jos uskot, sanoo aitajuoksija ja lisää, että Suomessa monet eivät osaa käsitellä sitä että jotkut erottuvat joukosta.",
+      "start_time": "2025-06-14T17:20:00+03:00",
+      "end_time": "2025-06-14T17:29:31+03:00",
+      "uri": "yleareena://items/1-71968684"
+    },
+    {
+      "id": "1-1823479",
+      "title": "Kummeli (7)",
+      "description": "Kausi 4. 4/8. Potilas Saarinen, Musavisa, Speedy ja Saku, Luomisen tuskaa jäätanssi, Älykääpiöt, Työkoneiden arvonta, Martti Mielikäinen ja paljon muuta älämölöä. (U)",
+      "start_time": "2025-06-14T17:35:01+03:00",
+      "end_time": "2025-06-14T18:00:14+03:00",
+      "uri": "yleareena://items/1-1823479"
+    },
+    {
+      "id": "1-74321594",
+      "title": "Cheerleadingin SM",
+      "description": "Kooste vuoden 2025 SM-kilpailuista Vaasassa, selostus Niklas Hagel, asiantuntija Nita Rikstöm. Mukana kaikki Suomen parhaat joukkueet 17 eri seurasta. Mestaruudet ratkottiin kuudessa eri sarjassa.",
+      "start_time": "2025-06-14T18:00:14+03:00",
+      "end_time": "2025-06-14T18:45:37+03:00",
+      "uri": "yleareena://items/1-74321594"
+    },
+    {
+      "id": "1-73014210",
+      "title": "Jalkapallon Veikkausliiga: SJK - Jaro",
+      "description": "Selostus Matti Härkönen, asiantuntija Henri Aalto, Seinäjoki. Ruotsinkielinen selostus Walter Kronqvist.",
+      "start_time": "2025-06-14T18:45:37+03:00",
+      "end_time": "2025-06-14T21:20:37+03:00",
+      "uri": "yleareena://items/1-73014210"
+    },
+    {
+      "id": "1-74273029",
+      "title": "Kohti jalkapallon EURO 2025 -kisoja, osa 5",
+      "description": "Pelaajat kuten Daphne van Domselaar ja Jule Brand kertovat, kuinka heistä on tullut roolimalleja nuoremmille sukupolville. He puhuvat uransa haasteista ja saavutuksista.",
+      "start_time": "2025-06-14T21:20:37+03:00",
+      "end_time": "2025-06-14T21:45:47+03:00",
+      "uri": "yleareena://items/1-74273029"
+    },
+    {
+      "id": "1-64229",
+      "title": "Ilonen talo (12)",
+      "description": "2/3. Sijaiskotiin. Ruut ja Birge lähetetään sijaiskotiin, kun äidin alkoholismi pahenee. Kun he palaavat kotiin, riidat äidin kanssa ajaa sisaret erilleen. (2006) (U)",
+      "start_time": "2025-06-14T21:45:47+03:00",
+      "end_time": "2025-06-14T22:39:34+03:00",
+      "uri": "yleareena://items/1-64229"
+    },
+    {
+      "id": "1-74447194",
+      "title": "Jukolan viesti",
+      "description": "Suora lähetys suunnistuksen Jukolan viestistä, selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli. Ruotsinkielinen selostus Magnus Eklöv, asiantuntija Fredric Portin.",
+      "start_time": "2025-06-14T22:45:00+03:00",
+      "end_time": "2025-06-15T07:00:00+03:00",
+      "uri": "yleareena://items/1-74447194"
+    }
+  ]
+}

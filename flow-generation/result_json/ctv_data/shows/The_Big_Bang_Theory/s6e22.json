@@ -1,0 +1,25 @@
+{
+  "title": "The Proton Resurgence",
+  "description": "Leonard and Sheldon hire the host of their favorite childhood TV show to perform.",
+  "season": 6,
+  "episode": "22",
+  "air_time": "2025-06-13T05:05:00+00:00",
+  "duration": 32,
+  "release_year": "2013",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_f6a0bc46-92cc-47aa-a609-87ced12fc2d9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

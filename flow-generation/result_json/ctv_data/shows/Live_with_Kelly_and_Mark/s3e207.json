@@ -1,0 +1,23 @@
+{
+  "title": "Live with Kelly and Mark",
+  "description": "Jessica Alba; Theo James; Dr. Muneeb Shah gives advice on how to prevent skin cancer.",
+  "season": 3,
+  "episode": "207",
+  "air_time": "2025-06-18T16:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_bb48ea24-c3e8-48f3-b06f-4cdce4afc4a3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "kelly ripa",
+    "mark consuelos",
+    "jessica alba"
+  ],
+  "directors": []
+}

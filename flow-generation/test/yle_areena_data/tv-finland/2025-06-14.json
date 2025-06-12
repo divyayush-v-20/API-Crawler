@@ -1,0 +1,230 @@
+{
+  "channel": "tv-finland",
+  "date": "2025-06-14",
+  "programs": [
+    {
+      "id": "1-1739791",
+      "title": "Nimipäiväonnittelu: 14.6.",
+      "description": "Onnea, Kielo ja Pihla!",
+      "start_time": "2025-06-14T09:30:00+03:00",
+      "end_time": "2025-06-14T09:31:58+03:00",
+      "uri": "yleareena://items/1-1739791"
+    },
+    {
+      "id": "1-4305060",
+      "title": "Pikku Kakkonen: Seikkailukone",
+      "description": "Liikennepuisto. Kaikkien seikkailujen sankari Reppu-Heppu kutsuu Sinut mukaan. Seikkailukone arpoo kartan ja yhdessä selvitämme tehtävät. Seikkailuseurana Veera, Jaakko, Maltti ja Valtti sekä Isa-Eerika ja Janne.",
+      "start_time": "2025-06-14T09:31:58+03:00",
+      "end_time": "2025-06-14T10:00:00+03:00",
+      "uri": "yleareena://items/1-4305060"
+    },
+    {
+      "id": "1-72547383",
+      "title": "Yle Uutiset Uusimaa",
+      "description": "Uutisia Uudeltamaalta",
+      "start_time": "2025-06-14T11:00:00+03:00",
+      "end_time": "2025-06-14T11:03:00+03:00",
+      "uri": "yleareena://items/1-72547383"
+    },
+    {
+      "id": "1-72549370",
+      "title": "Yle Uutiset Kaakkois-Suomi",
+      "description": "Uutisia Kaakkois-Suomesta",
+      "start_time": "2025-06-14T11:03:00+03:00",
+      "end_time": "2025-06-14T11:06:00+03:00",
+      "uri": "yleareena://items/1-72549370"
+    },
+    {
+      "id": "1-72549749",
+      "title": "Yle Uutiset Lounais-Suomi",
+      "description": "Uutisia Lounais-Suomesta",
+      "start_time": "2025-06-14T11:06:00+03:00",
+      "end_time": "2025-06-14T11:09:00+03:00",
+      "uri": "yleareena://items/1-72549749"
+    },
+    {
+      "id": "1-72551675",
+      "title": "Yle Uutiset Häme",
+      "description": "Uutisia Kanta- ja Päijät-Hämeestä",
+      "start_time": "2025-06-14T11:09:00+03:00",
+      "end_time": "2025-06-14T11:12:00+03:00",
+      "uri": "yleareena://items/1-72551675"
+    },
+    {
+      "id": "1-72547841",
+      "title": "Yle Uutiset Pirkanmaa",
+      "description": "Uutisia Pirkanmaalta",
+      "start_time": "2025-06-14T11:12:00+03:00",
+      "end_time": "2025-06-14T11:15:00+03:00",
+      "uri": "yleareena://items/1-72547841"
+    },
+    {
+      "id": "1-72546250",
+      "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+      "description": "Uutisia Keski-Suomeen ja Etelä-Savoon",
+      "start_time": "2025-06-14T11:15:00+03:00",
+      "end_time": "2025-06-14T11:18:00+03:00",
+      "uri": "yleareena://items/1-72546250"
+    },
+    {
+      "id": "1-72549141",
+      "title": "Yle Uutiset Itä-Suomi",
+      "description": "Uutisia Itä-Suomesta",
+      "start_time": "2025-06-14T11:18:00+03:00",
+      "end_time": "2025-06-14T11:21:00+03:00",
+      "uri": "yleareena://items/1-72549141"
+    },
+    {
+      "id": "1-72551075",
+      "title": "Yle Uutiset Pohjanmaa",
+      "description": "Uutisia Pohjanmaalta",
+      "start_time": "2025-06-14T11:21:00+03:00",
+      "end_time": "2025-06-14T11:24:00+03:00",
+      "uri": "yleareena://items/1-72551075"
+    },
+    {
+      "id": "1-72550148",
+      "title": "Yle Uutiset Pohjois-Suomi",
+      "description": "Uutisia Pohjois-Suomesta",
+      "start_time": "2025-06-14T11:24:00+03:00",
+      "end_time": "2025-06-14T11:27:00+03:00",
+      "uri": "yleareena://items/1-72550148"
+    },
+    {
+      "id": "1-72552663",
+      "title": "Yle Uutiset Lappi",
+      "description": "Uutisia Lapista",
+      "start_time": "2025-06-14T11:27:00+03:00",
+      "end_time": "2025-06-14T11:30:00+03:00",
+      "uri": "yleareena://items/1-72552663"
+    },
+    {
+      "id": "1-72548168",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-14T11:30:00+03:00",
+      "end_time": "2025-06-14T11:34:30+03:00",
+      "uri": "yleareena://items/1-72548168"
+    },
+    {
+      "id": "1-72548109",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-14T11:34:30+03:00",
+      "end_time": "2025-06-14T11:50:00+03:00",
+      "uri": "yleareena://items/1-72548109"
+    },
+    {
+      "id": "1-4058143",
+      "title": "Suomi on suomalainen",
+      "description": "10/10 Nationalismi. Sarjan viimeisessä jaksossa pureudutaan suomalaiseen nationalismiin. Kaipaako se puolustuspuheita vai historian romukoppaa? Miten yhdistetään maailmankansalaisuus ja suomalaisuus? (U)",
+      "start_time": "2025-06-14T11:50:00+03:00",
+      "end_time": "2025-06-14T12:20:00+03:00",
+      "uri": "yleareena://items/1-4058143"
+    },
+    {
+      "id": "1-4347269",
+      "title": "Elävät puut",
+      "description": "Osa 4/4. Puiden elämässä kaikki on hidastettua, myös vanheneminen. Ne voivat elää satoja, jopa tuhansia vuosia. Suomen virallisesti vanhin elossa oleva puu löytyy Lapista. Mikä on puiden salaisuus pitkään ikään? (U)",
+      "start_time": "2025-06-14T12:20:00+03:00",
+      "end_time": "2025-06-14T12:50:00+03:00",
+      "uri": "yleareena://items/1-4347269"
+    },
+    {
+      "id": "1-4393428",
+      "title": "Yliopistollinen eläinsairaala: Nesta-gekkon iho-ongelma",
+      "description": "18/40. Berninpaimenkoiraveljekset ovat tulleet Porista saakka saamaan akupunktiohoitoa eläinsairaalaan. Nesta-gekolla on vaikeuksia nahanluonnin kanssa. Siiri-koira oireilee edelleen, vaikka korvakäytävänpoiston toivottiin helpottavan sen elämää. (U)",
+      "start_time": "2025-06-14T12:50:00+03:00",
+      "end_time": "2025-06-14T13:20:00+03:00",
+      "uri": "yleareena://items/1-4393428"
+    },
+    {
+      "id": "1-65766312",
+      "title": "Kurkien äiti (7)",
+      "description": "Ellen Vuosalo (1931 - 2025) eli uskomattoman elämän. Hän oli lintutieteilijä ja asui vuosikymmeniä Iranissa tehden itsenäisestä elämästään omannäköisensä seikkailun. O: Iiris Härmä (Suomi 2024) Kuvailutulkattu (U)",
+      "start_time": "2025-06-14T16:35:00+03:00",
+      "end_time": "2025-06-14T17:55:00+03:00",
+      "uri": "yleareena://items/1-65766312"
+    },
+    {
+      "id": "1-62827695",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "3/8. Pelastuslaitoksella Sebastian saa hälytyksen nokkakolarista Vaasan ulkopuolella. Poliisit Johanna ja Fredrik lähtevät sorsanmetsästyskauden avajaisiin tarkastamaan metsästäjien aseita ja raittiutta. Ensihoitajat Samuel ja Vendi huolehtivat henkilöstä, joka kuulee ääniä. (U)(2022)",
+      "start_time": "2025-06-14T17:55:00+03:00",
+      "end_time": "2025-06-14T18:25:00+03:00",
+      "uri": "yleareena://items/1-62827695"
+    },
+    {
+      "id": "1-68346702",
+      "title": "Puoli seiskan kesäilta",
+      "description": "Valoa, kesäihmisiä, paikallisia erikoisuuksia ja lavatanssitunnelmaa Mikko Kekäläisen ja Tuulianna Tolan seurassa Ämyrin lavalla Somerolla. Kansaa tanssittavat suosikkiyhtyeet Taikakuu ja Sinitaivas.",
+      "start_time": "2025-06-14T18:25:00+03:00",
+      "end_time": "2025-06-14T19:30:00+03:00",
+      "uri": "yleareena://items/1-68346702"
+    },
+    {
+      "id": "1-71958418",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-14T19:30:00+03:00",
+      "end_time": "2025-06-14T19:40:00+03:00",
+      "uri": "yleareena://items/1-71958418"
+    },
+    {
+      "id": "1-4565068",
+      "title": "Karppi (12)",
+      "description": "Kausi 2, 5/8. Paldiski. Tunneliin kaapatun pormestari Tulisuon pelätään kuolleen. Hennan salakuljetuskeikka päättyy yllättävällä tavalla. Karppi saa haudan takaa viestin, joka muuttaa murhatutimuksen suunnan. (U).",
+      "start_time": "2025-06-14T19:40:00+03:00",
+      "end_time": "2025-06-14T20:29:55+03:00",
+      "uri": "yleareena://items/1-4565068"
+    },
+    {
+      "id": "1-72364552",
+      "title": "Yle Uutiset 20.30 ",
+      "description": "",
+      "start_time": "2025-06-14T20:29:55+03:00",
+      "end_time": "2025-06-14T20:45:00+03:00",
+      "uri": "yleareena://items/1-72364552"
+    },
+    {
+      "id": "1-72256497",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-14T20:45:00+03:00",
+      "end_time": "2025-06-14T21:00:00+03:00",
+      "uri": "yleareena://items/1-72256497"
+    },
+    {
+      "id": "1-64877957",
+      "title": "Raha-Suomi: Nörttien kosto",
+      "description": "2/8. Nörtit ovat maailmanvaltiaita. Kaikki alkoi kun Commodore 64 tuli ja muutti koulukiusattujen teinien elämän. Ilkka Paananen, Sami Järvi, Jussi Laakkonen ja Samuli Syvähuoko kertovat miten nousivat maailman huipulle.",
+      "start_time": "2025-06-14T21:00:00+03:00",
+      "end_time": "2025-06-14T22:00:00+03:00",
+      "uri": "yleareena://items/1-64877957"
+    },
+    {
+      "id": "1-64229",
+      "title": "Ilonen talo (12)",
+      "description": "2/3. Sijaiskotiin. Ruut ja Birge lähetetään sijaiskotiin, kun äidin alkoholismi pahenee. Kun he palaavat kotiin, riidat äidin kanssa ajaa sisaret erilleen. (2006) (U)",
+      "start_time": "2025-06-14T22:00:00+03:00",
+      "end_time": "2025-06-14T22:55:00+03:00",
+      "uri": "yleareena://items/1-64229"
+    },
+    {
+      "id": "1-3844991",
+      "title": "Naissotilaat",
+      "description": "3/9. Pelko. Kokelaat palaavat Niinisaloon aiheuttaen pelkoa alokkaissa. Edessä on myös polttotaistelurata, jossa Piritalla on vaikeuksia selviytyä eräästä rastista. Moona ja Jenni saavat yllättävän tehtävän. (U)",
+      "start_time": "2025-06-14T22:55:00+03:00",
+      "end_time": "2025-06-14T23:22:58+03:00",
+      "uri": "yleareena://items/1-3844991"
+    },
+    {
+      "id": "1-3844992",
+      "title": "Naissotilaat",
+      "description": "4/9. Sota ja selviytyminen. Alokkaiden jatkokoulutuspaikat alkavat hahmottua ja yksi joutuu pettymään. Ensimmäisellä metsäleirillä Moona ei tule toimeen konekiväärin kanssa. Ja miksi yöllisessä metsässä näkyy mörköjä? (U)",
+      "start_time": "2025-06-14T23:22:58+03:00",
+      "end_time": "2025-06-14T23:51:08+03:00",
+      "uri": "yleareena://items/1-3844992"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "channel": "yle-areena",
+  "date": "2025-06-16",
+  "programs": [
+    {
+      "id": "1-74861284",
+      "title": "Uuden musiikin X: Ella Ossi",
+      "description": "YleX:n musiikkitoimittaja Ella Ossi soittaa tärkeimmät uutuusjulkaisut tulevaisuuden hiteistä kiinnostavimpiin vaihtoehtoihin sekä haastattelevat ajankohtaisimmat artistivieraat.",
+      "start_time": "2025-06-16T10:00:00+03:00",
+      "end_time": "2025-06-16T12:00:00+03:00",
+      "uri": "yleareena://items/1-74861284"
+    },
+    {
+      "id": "1-74893194",
+      "title": "Kultaranta-keskustelut 2025 viitottuna",
+      "description": "Tasavallan presidentti Alexander Stubbin isännöimä ulko- ja turvallisuuspoliittinen keskustelutilaisuus Kultarannassa. ",
+      "start_time": "2025-06-16T11:15:00+03:00",
+      "end_time": "2025-06-16T15:15:00+03:00",
+      "uri": "yleareena://items/1-74893194"
+    },
+    {
+      "id": "1-74915597",
+      "title": "Kultaranta-keskustelut englanniksi 2025 ",
+      "description": "Tasavallan presidentti Alexander Stubbin isännöimä ulko- ja turvallisuuspoliittinen keskustelutilaisuus Kultarannassa. ",
+      "start_time": "2025-06-16T15:30:00+03:00",
+      "end_time": "2025-06-16T18:35:00+03:00",
+      "uri": "yleareena://items/1-74915597"
+    },
+    {
+      "id": "1-74827868",
+      "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut suomeksi simultaanitulkattuna",
+      "description": "Tasavallan presidentti Alexander Stubbin isännöimä ulko- ja turvallisuuspoliittinen keskustelutilaisuus Kultarannassa.",
+      "start_time": "2025-06-16T15:35:00+03:00",
+      "end_time": "2025-06-16T18:30:00+03:00",
+      "uri": "yleareena://items/1-74827868"
+    },
+    {
+      "id": "1-74901306",
+      "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut viitottuna",
+      "description": "Toimittajana Annika Damström.",
+      "start_time": "2025-06-16T21:00:00+03:00",
+      "end_time": "2025-06-16T21:40:00+03:00",
+      "uri": "yleareena://items/1-74901306"
+    }
+  ]
+}

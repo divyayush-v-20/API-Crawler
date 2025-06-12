@@ -1,0 +1,25 @@
+{
+  "title": "The Deception Verification",
+  "description": "Leonard and Sheldon's friendship is tested; Wolowitz's masculinity is threatened.",
+  "season": 7,
+  "episode": "2",
+  "air_time": "2025-06-17T05:05:00+00:00",
+  "duration": 32,
+  "release_year": "2013",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_61a3724e-4f0a-4c65-9921-3cc98d0a1dc0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

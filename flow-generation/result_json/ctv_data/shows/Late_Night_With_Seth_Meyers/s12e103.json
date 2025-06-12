@@ -1,0 +1,23 @@
+{
+  "title": "Arnold Schwarzenegger; Barry Diller",
+  "description": "Actor Arnold Schwarzenegger; businessman Barry Diller.",
+  "season": 12,
+  "episode": "103",
+  "air_time": "2025-06-17T05:37:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_2bc9c6c1-b6c5-48d5-9922-89d607d10eb1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "seth meyers",
+    "arnold schwarzenegger",
+    "barry diller"
+  ],
+  "directors": []
+}

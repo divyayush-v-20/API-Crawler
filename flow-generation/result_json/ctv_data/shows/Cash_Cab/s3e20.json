@@ -1,0 +1,21 @@
+{
+  "title": "Cash Cab",
+  "description": "Love birds hope their love will be enough to get them to their destination.",
+  "season": 3,
+  "episode": "20",
+  "air_time": "2025-06-12T08:00:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_4a072355-4428-46d5-be17-47efa7633ca8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "adam growe"
+  ],
+  "directors": []
+}

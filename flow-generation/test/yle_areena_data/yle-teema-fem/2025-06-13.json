@@ -1,0 +1,262 @@
+{
+  "channel": "yle-teema-fem",
+  "date": "2025-06-13",
+  "programs": [
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-13T07:50:02+03:00",
+      "end_time": "2025-06-13T07:50:02+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-72316033",
+      "title": "BUU-klubben",
+      "description": "Tänään luodaan katsaus BUU-klubbenin viimeisimpiin tapahtumiin. Sen jälkeen Lurkki ja Sebbe katsovat sarjoja Cowboyhamsteri Billy ja Pingu.",
+      "start_time": "2025-06-13T07:50:02+03:00",
+      "end_time": "2025-06-13T08:19:15+03:00",
+      "uri": "yleareena://items/1-72316033"
+    },
+    {
+      "id": "1-50735661",
+      "title": "Maailmaa muuttavia eläimiä",
+      "description": "Majava on niin Ruotsin kuin Suomen suurin jyrsijä, joka käyttää ravinnokseen puiden kuorta ja nuoria versoja, erityisesti haapaa ja koivua. Ne pääsevät käsiksi nuoriin versoihin kaatamalla puita, joita ne sitten käyttävät myös pesänsä rakennusmateriaalina. Kun majavaperhe alkaa rakentaa pesää, se myös muuttaa maisemaa luomalla kosteikkoja, mikä hyödyttää monia muita lajeja. Samalla majavaperheen luomat lammikot vaikuttavat ilmastoon. Toimimalla vesisäiliöinä ne voivat ehkäistä kuivuutta, ja kovalla sateella ne voivat toimia puskureina.",
+      "start_time": "2025-06-13T08:19:15+03:00",
+      "end_time": "2025-06-13T08:29:22+03:00",
+      "uri": "yleareena://items/1-50735661"
+    },
+    {
+      "id": "1-50687169",
+      "title": "Kesäjumppaa Sofian kanssa",
+      "description": "Jumppaa SVT:n kotitreeneissä!",
+      "start_time": "2025-06-13T08:29:22+03:00",
+      "end_time": "2025-06-13T08:50:15+03:00",
+      "uri": "yleareena://items/1-50687169"
+    },
+    {
+      "id": "1-73651919",
+      "title": "Toinen maailmansota ruotsalaisten silmin (12)",
+      "description": "5/5. Rauha. Eletään kesää, kun junakuljetukset Ruotsin läpi loppuvat. Maa ei enää voi ummistaa silmiään tuhoamisleireiltä. Rintamilla Saksa kärsii tappion toisensa jälkeen, mutta Euroopan juutalaisten karkotukset jatkuvat yhä. Suomesta pakenee kymmeniä tuhansia ihmisiä karjoineen Ruotsiin, kun natsit vetäytyessään polttavat kyliä ja taloja.",
+      "start_time": "2025-06-13T08:50:15+03:00",
+      "end_time": "2025-06-13T09:50:32+03:00",
+      "uri": "yleareena://items/1-73651919"
+    },
+    {
+      "id": "1-50844447",
+      "title": "Antiikkimakasiini",
+      "description": "Kausi 3, 4/12. Valokuvataide on saavuttanut arvostetun aseman taiteen salongeissa. Antiikkimakasiini sukeltaa juontaja Anne Lundbergin mukana valokuvataiteen taianomaiseen maailmaan. Antikmagasinet, SVT, 2021",
+      "start_time": "2025-06-13T09:50:32+03:00",
+      "end_time": "2025-06-13T10:20:00+03:00",
+      "uri": "yleareena://items/1-50844447"
+    },
+    {
+      "id": "1-50544130",
+      "title": "Jens erämaaseikkailulla",
+      "description": "3/5. Jens pääsee lähikontaktiin karhun kanssa, kun tämä tassuttelee Jensin ja kanootin välistä. Jensin koira Tarzan pelästyy karhua niin, että karkaa metsään. Jens pelkää pahinta sitä etsiessään. Jens Kvernmo tekee pitkiä ja vaativia erämaavaelluksia Kanadassa. Hän elää unelmaansa teltan, kalastustarvikkeiden ja koiran kanssa ja haastaa luonnonvoimien lisäksi myös itsensä.(U)",
+      "start_time": "2025-06-13T10:20:00+03:00",
+      "end_time": "2025-06-13T11:00:00+03:00",
+      "uri": "yleareena://items/1-50544130"
+    },
+    {
+      "id": "1-50459662",
+      "title": "Unelmakoti",
+      "description": "Kausi 7, 1/10. Uusi kausi aloitetaan jälleen vierailemalla taloissa, jotka ovat olleet mukana aiemmilla kausilla. Onko kodeissa tai perheissä tapahtunut muutoksia sitten viime näkemän? Lisäksi seurataan ohjelman toisen juontajan, arkkitehti Gert Wingårdhin sekä hänen vaimonsa Karin Wingårdhin omaa rakennusprojektia, Äggdal-kesämökin rakentamista Bohuslänissä. Mitä voi mennä pieleen, kun Ruotsin ansiokkain arkkitehti piirtää talon itselleen? Ohjelman juontavat Anne Lundberg ja Gert Wingårdh.",
+      "start_time": "2025-06-13T11:00:00+03:00",
+      "end_time": "2025-06-13T11:59:21+03:00",
+      "uri": "yleareena://items/1-50459662"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-13T12:00:00+03:00",
+      "end_time": "2025-06-13T12:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-64587214",
+      "title": "Alexander Ekman: Hammer",
+      "description": "Ruotsalaisen huippukoreografin teos sai loistoarviot, kun se kantaesitettiin lokakuussa 2022 Göteborgin oopperassa. Ekmanin pyrkimyksenä oli luoda iloinen, energinen, ihmisyyteen uskova teos nykyisen ajan tarpeeseen. (U)",
+      "start_time": "2025-06-13T12:00:00+03:00",
+      "end_time": "2025-06-13T13:24:43+03:00",
+      "uri": "yleareena://items/1-64587214"
+    },
+    {
+      "id": "1-356016",
+      "title": "Kunnanjohtaja (S)",
+      "description": "Lyhytelokuva kunnanjohtaja Koskisesta, jonka on vaikean paikan edessä: pienen Juupion kunnan asukkaat vanhenevat ja taloudellinen tilanne on heikko. Tarvitaan ihme pelastamaan Juupio. N: Sulevi Peltola. O: Zaida Bergroth (U)",
+      "start_time": "2025-06-13T13:24:43+03:00",
+      "end_time": "2025-06-13T13:40:00+03:00",
+      "uri": "yleareena://items/1-356016"
+    },
+    {
+      "id": "1-65766312",
+      "title": "Kurkien äiti (7)",
+      "description": "Ellen Vuosalo (1931 - 2025) eli uskomattoman elämän. Hän oli lintutieteilijä ja asui vuosikymmeniä Iranissa tehden itsenäisestä elämästään omannäköisensä seikkailun. O: Iiris Härmä (Suomi 2024) Kuvailutulkattu (U)",
+      "start_time": "2025-06-13T13:40:00+03:00",
+      "end_time": "2025-06-13T15:00:00+03:00",
+      "uri": "yleareena://items/1-65766312"
+    },
+    {
+      "id": "1-68978314",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 229/250. Neuvottelukysymys. Alonso lupaa Cruzille lähteä juhliin vain yhdellä ehdolla. Markiisitar palkkaa yllättäen kotiopettajan Janalle. Martina ja Petra ovat napit vastakkain Ayalan kanssa.",
+      "start_time": "2025-06-13T15:00:00+03:00",
+      "end_time": "2025-06-13T16:00:00+03:00",
+      "uri": "yleareena://items/1-68978314"
+    },
+    {
+      "id": "1-3738641",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 3/7. Rouva Madsenin korut. Tukkukauppias Madsen on pantannut vaimonsa korut, mistä seuraa aviokriisi. Herra Weyse tekee voitavansa suojellakseen Kittyä tehtailija Frighin lähentelyiltä. Molly ja Fie saavat aiheen ottaa yhteyttä Morteniin. (U)",
+      "start_time": "2025-06-13T16:00:00+03:00",
+      "end_time": "2025-06-13T16:45:17+03:00",
+      "uri": "yleareena://items/1-3738641"
+    },
+    {
+      "id": "1-50104857",
+      "title": "Egenlandin matkakohteet: Tarinoita ja outoja ääniä Hailuodossa",
+      "description": "Lossimatkan päässä on Hailuodon ainutlaatuinen saari, jossa luonnon ja maisemien lisäksi voi törmätä betoniseen äänibunkkeriin, perinneneuleisiin, olutpanimoon, kulttuuritapahtumiin, tai jäällä laulavaan mieskuoroon. (U)",
+      "start_time": "2025-06-13T16:45:17+03:00",
+      "end_time": "2025-06-13T17:00:00+03:00",
+      "uri": "yleareena://items/1-50104857"
+    },
+    {
+      "id": "1-62642667",
+      "title": "Vaikuttajien miljoonabisnes",
+      "description": "Osa 4/5. Oman menestyksensä seppä. Influenssereiden agenttina toimiva Pernille Lotus saa tilaisuuden ansaita työllään huikeita summia. Kuinka hän onnistuu siinä? Tuotanto: DR, 2022 (U)",
+      "start_time": "2025-06-13T17:00:00+03:00",
+      "end_time": "2025-06-13T17:25:00+03:00",
+      "uri": "yleareena://items/1-62642667"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-13T17:25:00+03:00",
+      "end_time": "2025-06-13T17:25:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-71193966",
+      "title": "Malory Towers (12)",
+      "description": "Kausi 5, 11/20. Uusi emäntä. Hoitaja Jane vaatii, että Darrell lepää, vaikka lacrosse-koepelit lähestyvätkin. Osalla oppilaita löytyy täitä, eikä kukaan haluaisi käydä läpi pahanhajuista hoitoa.",
+      "start_time": "2025-06-13T17:25:00+03:00",
+      "end_time": "2025-06-13T17:50:23+03:00",
+      "uri": "yleareena://items/1-71193966"
+    },
+    {
+      "id": "1-50323720",
+      "title": "Norja ilmasta nähtynä",
+      "description": "Koe Norja ilmasta käsin.",
+      "start_time": "2025-06-13T17:50:23+03:00",
+      "end_time": "2025-06-13T17:55:00+03:00",
+      "uri": "yleareena://items/1-50323720"
+    },
+    {
+      "id": "1-71958716",
+      "title": "Yle Nyheter TV-nytt 17.55",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-13T17:55:00+03:00",
+      "end_time": "2025-06-13T18:00:00+03:00",
+      "uri": "yleareena://items/1-71958716"
+    },
+    {
+      "id": "1-72316033",
+      "title": "BUU-klubben",
+      "description": "Tänään luodaan katsaus BUU-klubbenin viimeisimpiin tapahtumiin. Sen jälkeen Lurkki ja Sebbe katsovat sarjoja Cowboyhamsteri Billy ja Pingu.",
+      "start_time": "2025-06-13T18:00:00+03:00",
+      "end_time": "2025-06-13T18:29:13+03:00",
+      "uri": "yleareena://items/1-72316033"
+    },
+    {
+      "id": "1-72361445",
+      "title": "Metsän minisankarit (S)",
+      "description": "1/26. Syyhynpoistokukka. Kesken leikin Alvinia alkaa yhtäkkiä kutittaa hirmuisesti. Ystävät koettavat auttaa Alvinia, mutta syyhy näyttää vain leviävän muihinkin.",
+      "start_time": "2025-06-13T18:29:13+03:00",
+      "end_time": "2025-06-13T18:36:39+03:00",
+      "uri": "yleareena://items/1-72361445"
+    },
+    {
+      "id": "1-50911901",
+      "title": "Villikot (12)",
+      "description": "1/13. Säpinää satamassa. Joku tönäisee Olen mereen, kylään on muuttanut uusi poika, ja maantiejyrään on jäänyt tauon ajaksi avaimet. Siitä syntyy säpinää satamassa.",
+      "start_time": "2025-06-13T18:36:39+03:00",
+      "end_time": "2025-06-13T18:50:09+03:00",
+      "uri": "yleareena://items/1-50911901"
+    },
+    {
+      "id": "1-50786363",
+      "title": "Saaren nuoret asukkaat",
+      "description": "1/6. Oslolaiset Ida ja Martin muuttavat pienelle Notholmenin saarelle. Saarella näyttäisi asuvan myös muita, ainakin lauma villilampaita ja jokunen hanhi. (U)",
+      "start_time": "2025-06-13T18:50:09+03:00",
+      "end_time": "2025-06-13T19:30:00+03:00",
+      "uri": "yleareena://items/1-50786363"
+    },
+    {
+      "id": "1-71958084",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-13T19:30:00+03:00",
+      "end_time": "2025-06-13T19:46:15+03:00",
+      "uri": "yleareena://items/1-71958084"
+    },
+    {
+      "id": "1-67019157",
+      "title": "Maailman parhaat curryt",
+      "description": "David yrittää pärjätä chilin tulisuuden kanssa. Malin kerää puutarhasta pinaattia ja kertoo parhaat vinkkinsä ihanan miedon palak paneerin valmistamiseksi. Stand up -koomikko David Batra ja toimittaja Malin Mendel suunnittelevat perustavansa ravintolan Intiaan - vaan mitä herkkuja he siellä tarjoaisivat?",
+      "start_time": "2025-06-13T19:46:15+03:00",
+      "end_time": "2025-06-13T20:00:00+03:00",
+      "uri": "yleareena://items/1-67019157"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-13T20:00:00+03:00",
+      "end_time": "2025-06-13T20:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-3738642",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 4/7. Kulissiliitto. Amanda ja Ditmar sopivat, kuinka he toimivat kulissiavioliittonsa kanssa. Neiti Vetterstrøm ja rouva Fjeldsø puhuvat lopulta asiat selviksi. Herra Weyse saa teatteriin uraansa uhkaavan nimettömän kirjeen. (U)",
+      "start_time": "2025-06-13T20:00:00+03:00",
+      "end_time": "2025-06-13T20:45:11+03:00",
+      "uri": "yleareena://items/1-3738642"
+    },
+    {
+      "id": "1-66409858",
+      "title": "Jane Birkin Charlotte Gainsbourgin silmin",
+      "description": "Heinäkuussa 2023 menehtynyt Jane Birkin oli yksi 1900-luvun suurimmista popikoneista: näyttelijätär, laulaja ja esiintyjä. Birkinin tytär, tunnettu taiteilija Charlotte Gainsbourg kuvaa jo vanhenevaa äitiään intiimissä dokumentissa julkkisperheen elämästä, äidin ja tyttären sydämellisestä suhteesta, vanhenemisesta, sairastumisesta ja peloista. Ohjaus: Charlotte Gainsbourg. (U)",
+      "start_time": "2025-06-13T20:45:11+03:00",
+      "end_time": "2025-06-13T22:13:20+03:00",
+      "uri": "yleareena://items/1-66409858"
+    },
+    {
+      "id": "1-71656252",
+      "title": "Mikä mua tanssittaa?",
+      "description": "Pääsy Teatterikorkeakoulun tanssilinjalle tarkoitti Tiina Huczkowskille, ettei hänen tarvinnut enää pestä tanssikoulun ikkunoita saadakseen treenata. Tanssista tulisi hänelle ammatti - mutta millaiselle matkalle se hänet veisi, sitä hän ei osannut arvata.",
+      "start_time": "2025-06-13T22:13:20+03:00",
+      "end_time": "2025-06-13T22:20:00+03:00",
+      "uri": "yleareena://items/1-71656252"
+    },
+    {
+      "id": "1-74447868",
+      "title": "Kesäkonsertti Schönbrunnista 2025",
+      "description": "Wienin filharmonikot juhlistavat perinteiseen tapaan kesää Schönbrunnin linnan edustalla Wienissä. Kapellimestarina ensimmäistä kertaa Tugan Sokhiev, solistina Piotr Beczała. Ohjelmassa mm. aarioita oopperoista Carmen, Turandot ja operetista Kreivitär Mariza. Konsertin selostaa Lauri Itäkannas.",
+      "start_time": "2025-06-13T22:20:00+03:00",
+      "end_time": "2025-06-14T00:05:25+03:00",
+      "uri": "yleareena://items/1-74447868"
+    },
+    {
+      "id": "1-65927172",
+      "title": "Francon jälkeen - Alcántaran perhe (12)",
+      "description": "Kausi 22, 13/20. Esirippu nousee. Nuoriso suree idolinsa kuolemaa. Inés saa harmaita hiuksia näytelmänsä roolituksesta - kukaan ei osaa esittää itseään Antonio Alcántaraa! Merche saa vieraan. Osa 400 (Arriba el telón). (U)",
+      "start_time": "2025-06-14T00:05:25+03:00",
+      "end_time": "2025-06-14T01:15:00+03:00",
+      "uri": "yleareena://items/1-65927172"
+    }
+  ]
+}

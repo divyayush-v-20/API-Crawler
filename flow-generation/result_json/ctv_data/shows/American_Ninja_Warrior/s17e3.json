@@ -1,0 +1,23 @@
+{
+  "title": "Qualifiers 3",
+  "description": "Qualifying rounds continue in Las Vegas; the top 20 athletes of the night will advance.",
+  "season": 17,
+  "episode": "3",
+  "air_time": "2025-06-17T00:00:00+00:00",
+  "duration": 120,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_9cb80a4b-4019-41df-beb3-05d9e122ca44_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "matt iseman",
+    "akbar gbajabiamila",
+    "zuri hall"
+  ],
+  "directors": []
+}

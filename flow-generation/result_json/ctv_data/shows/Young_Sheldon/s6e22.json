@@ -1,0 +1,25 @@
+{
+  "title": "A Tornado, a Ten-Hour Flight and a Darn Fine Ring",
+  "description": "The Cooper family braves a tornado that is heading straight for Medford.",
+  "season": 6,
+  "episode": "22",
+  "air_time": "2025-06-13T18:00:00+00:00",
+  "duration": 30,
+  "release_year": "2023",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_ba35c674-657f-4702-ab71-b18303732c5d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "directors": [
+    "alex reid"
+  ]
+}

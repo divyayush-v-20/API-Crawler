@@ -1,0 +1,23 @@
+{
+  "title": "Ellen Pompeo; Jason Isaacs",
+  "description": "Actress Ellen Pompeo; actor Jason Isaacs.",
+  "season": 12,
+  "episode": "102",
+  "air_time": "2025-06-13T05:37:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_98f804b5-c70e-49a6-b331-187f7ee267cd_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "seth meyers",
+    "ellen pompeo",
+    "jason isaacs"
+  ],
+  "directors": []
+}

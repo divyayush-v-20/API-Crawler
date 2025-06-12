@@ -1,0 +1,21 @@
+{
+  "title": "Cash Cab",
+  "description": "Brian, Dylan, Barbara and Brett rely on their excellent teamwork to make it to their destination.",
+  "season": 4,
+  "episode": "12",
+  "air_time": "2025-06-18T08:30:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_06b8ccdc-a228-4afb-8a2e-822fd3b9dfd0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "adam growe"
+  ],
+  "directors": []
+}

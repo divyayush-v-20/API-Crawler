@@ -1,0 +1,262 @@
+{
+  "channel": "tv-finland",
+  "date": "2025-06-17",
+  "programs": [
+    {
+      "id": "1-62653911",
+      "title": "Kuningattaren kuolema",
+      "description": "Pölyttäjäkato uhkaa maailman ruoantuotantoa. Yhtenä syynä pidetään torjunta-aineita. Nuori tutkija Lotta Kaila lähtee selvittämään aineiden vaikutusta mehiläisiin ja kimalaisiin. O: Riikka Kaihovaara. (U)(2022)",
+      "start_time": "2025-06-17T04:00:00+03:00",
+      "end_time": "2025-06-17T04:55:35+03:00",
+      "uri": "yleareena://items/1-62653911"
+    },
+    {
+      "id": "1-1765055",
+      "title": "Suomi on ruotsalainen",
+      "description": "1/10. Identiteetti. Monet suomalaisen identiteetin symboleista ovat peräisin ajalta, jolloin kuuluimme Ruotsiin. Onko esimerkiksi Suomen leijona sittenkin ruotsalainen? Mukana mm. kirjailija Miika Nousiainen. (U)",
+      "start_time": "2025-06-17T09:00:00+03:00",
+      "end_time": "2025-06-17T09:30:00+03:00",
+      "uri": "yleareena://items/1-1765055"
+    },
+    {
+      "id": "1-73318296",
+      "title": "Kirkkovieras ",
+      "description": "Kirjailija, vammaisaktivisti Riikka Leinonen osallistuu juontaja Elina Vaittisen kanssa nuorten kesäkirkkoon Pispalassa. Keskustelussa pappi Marika Villikka ja ammattiopistosta valmistuva Anna. Musiikissa HaNu-bändi.",
+      "start_time": "2025-06-17T09:30:00+03:00",
+      "end_time": "2025-06-17T10:29:07+03:00",
+      "uri": "yleareena://items/1-73318296"
+    },
+    {
+      "id": "1-72546866",
+      "title": "Yle Uutiset Uusimaa",
+      "description": "Uutisia Uudeltamaalta",
+      "start_time": "2025-06-17T11:00:00+03:00",
+      "end_time": "2025-06-17T11:03:00+03:00",
+      "uri": "yleareena://items/1-72546866"
+    },
+    {
+      "id": "1-72549321",
+      "title": "Yle Uutiset Kaakkois-Suomi",
+      "description": "Uutisia Kaakkois-Suomesta",
+      "start_time": "2025-06-17T11:03:00+03:00",
+      "end_time": "2025-06-17T11:06:00+03:00",
+      "uri": "yleareena://items/1-72549321"
+    },
+    {
+      "id": "1-72549769",
+      "title": "Yle Uutiset Lounais-Suomi",
+      "description": "Uutisia Lounais-Suomesta",
+      "start_time": "2025-06-17T11:06:00+03:00",
+      "end_time": "2025-06-17T11:09:00+03:00",
+      "uri": "yleareena://items/1-72549769"
+    },
+    {
+      "id": "1-72551669",
+      "title": "Yle Uutiset Häme",
+      "description": "Uutisia Kanta- ja Päijät-Hämeestä",
+      "start_time": "2025-06-17T11:09:00+03:00",
+      "end_time": "2025-06-17T11:12:00+03:00",
+      "uri": "yleareena://items/1-72551669"
+    },
+    {
+      "id": "1-72547820",
+      "title": "Yle Uutiset Pirkanmaa",
+      "description": "Uutisia Pirkanmaalta",
+      "start_time": "2025-06-17T11:12:00+03:00",
+      "end_time": "2025-06-17T11:15:00+03:00",
+      "uri": "yleareena://items/1-72547820"
+    },
+    {
+      "id": "1-72546287",
+      "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+      "description": "Uutisia Keski-Suomeen ja Etelä-Savoon",
+      "start_time": "2025-06-17T11:15:00+03:00",
+      "end_time": "2025-06-17T11:18:00+03:00",
+      "uri": "yleareena://items/1-72546287"
+    },
+    {
+      "id": "1-72549115",
+      "title": "Yle Uutiset Itä-Suomi",
+      "description": "Uutisia Itä-Suomesta",
+      "start_time": "2025-06-17T11:18:00+03:00",
+      "end_time": "2025-06-17T11:21:00+03:00",
+      "uri": "yleareena://items/1-72549115"
+    },
+    {
+      "id": "1-72551059",
+      "title": "Yle Uutiset Pohjanmaa",
+      "description": "Uutisia Pohjanmaalta",
+      "start_time": "2025-06-17T11:21:00+03:00",
+      "end_time": "2025-06-17T11:24:00+03:00",
+      "uri": "yleareena://items/1-72551059"
+    },
+    {
+      "id": "1-72550122",
+      "title": "Yle Uutiset Pohjois-Suomi",
+      "description": "Uutisia Pohjois-Suomesta",
+      "start_time": "2025-06-17T11:24:00+03:00",
+      "end_time": "2025-06-17T11:27:00+03:00",
+      "uri": "yleareena://items/1-72550122"
+    },
+    {
+      "id": "1-72552662",
+      "title": "Yle Uutiset Lappi",
+      "description": "Uutisia Lapista",
+      "start_time": "2025-06-17T11:27:00+03:00",
+      "end_time": "2025-06-17T11:30:00+03:00",
+      "uri": "yleareena://items/1-72552662"
+    },
+    {
+      "id": "1-72547964",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-17T11:30:00+03:00",
+      "end_time": "2025-06-17T11:44:20+03:00",
+      "uri": "yleareena://items/1-72547964"
+    },
+    {
+      "id": "1-72548138",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-17T11:44:00+03:00",
+      "end_time": "2025-06-17T11:49:05+03:00",
+      "uri": "yleareena://items/1-72548138"
+    },
+    {
+      "id": "1-2736454",
+      "title": "Kandit",
+      "description": "Kausi 3, 2/8. Lohkeamia, reikiä, pelkääviä potilaita. Kandit tarttuvat tosi toimiin ja kohtaavat ensimmäiset potilaansa. Hennan ja Jonnan vasenkätisyys tulee hammashoitolan väelle yllätyksenä. yle.fi/kandit (U)",
+      "start_time": "2025-06-17T13:20:00+03:00",
+      "end_time": "2025-06-17T13:50:00+03:00",
+      "uri": "yleareena://items/1-2736454"
+    },
+    {
+      "id": "1-72482580",
+      "title": "Jumppahetki",
+      "description": "Tässä jaksossa kehitetään keskivartalon voimaa ja harjoitellaan tasapainoa koko kehoa käyttäen. Reisi ja pakara saa myös osansa.",
+      "start_time": "2025-06-17T13:50:00+03:00",
+      "end_time": "2025-06-17T14:00:00+03:00",
+      "uri": "yleareena://items/1-72482580"
+    },
+    {
+      "id": "1-2185364",
+      "title": "Latela",
+      "description": "Kausi 2, 3/9. Työssä päästään vauhtiin, mutta madallus ja johtosarjan asennus tuottavat ongelmia. Rahakirstun päällä istuva tuottaja katoaa ulkomaille ja pihtaa rahaa. (U)",
+      "start_time": "2025-06-17T14:00:00+03:00",
+      "end_time": "2025-06-17T14:30:00+03:00",
+      "uri": "yleareena://items/1-2185364"
+    },
+    {
+      "id": "1-1735630",
+      "title": "Nimipäiväonnittelu: 17.6.",
+      "description": "Onnea, Urho!",
+      "start_time": "2025-06-17T17:01:00+03:00",
+      "end_time": "2025-06-17T17:02:58+03:00",
+      "uri": "yleareena://items/1-1735630"
+    },
+    {
+      "id": "1-3096772",
+      "title": "Askarrellaan",
+      "description": "Vilja askartelee Martan suunnitteleman talon. Askarteluohjeet löytyvät yle.fi/lapset -sivustolta.",
+      "start_time": "2025-06-17T17:02:58+03:00",
+      "end_time": "2025-06-17T17:08:49+03:00",
+      "uri": "yleareena://items/1-3096772"
+    },
+    {
+      "id": "1-71169340",
+      "title": "Salpalinja - viimeinen este",
+      "description": "Heti talvisodan jälkeen suomalaiseen metsämaastoon rakennettiin 1200 km pitkä puolustusketju. Salpalinja oli Suomen suurin työmaa ja rakentamiseen osallistui 35 000 työmiestä ja 2000 lottaa. O: Vesa Saarinen.",
+      "start_time": "2025-06-17T17:25:00+03:00",
+      "end_time": "2025-06-17T18:25:00+03:00",
+      "uri": "yleareena://items/1-71169340"
+    },
+    {
+      "id": "1-62827693",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "4/8. Puistosta on löytynyt tajuton henkilö, ja Samuel ja Magnus hälytetään paikalle. Mattias tekee pelastajien vuosittaisen fyysisen kunnon testin ja lähtee liikkeelle kahdesti. (U)(2022)",
+      "start_time": "2025-06-17T18:30:00+03:00",
+      "end_time": "2025-06-17T19:00:00+03:00",
+      "uri": "yleareena://items/1-62827693"
+    },
+    {
+      "id": "1-50972718",
+      "title": "Kullannuput (12)",
+      "description": "Kausi 2, 4/10. Anna kyllästyy miehiin ja päättää viettää romanttista aikaa yksin. Marla innostuu järkiavioliiton ajatuksesta.",
+      "start_time": "2025-06-17T19:05:00+03:00",
+      "end_time": "2025-06-17T19:30:00+03:00",
+      "uri": "yleareena://items/1-50972718"
+    },
+    {
+      "id": "1-71958076",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.  ",
+      "start_time": "2025-06-17T19:30:00+03:00",
+      "end_time": "2025-06-17T19:44:40+03:00",
+      "uri": "yleareena://items/1-71958076"
+    },
+    {
+      "id": "1-74391007",
+      "title": "Kesäkasvo",
+      "description": "Kesäkasvo on virkistävä ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkilökuvia ajankohtaisista vieraista koko kesän ajan. Sarja korostaa positiivisuutta ja kesäistä iloa. Vieraat jakavat henkilökohtaisia vinkkejä kesän viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkejä. Ylen aamun Kesäkasvo tuo piristystä ja inspiraatiota aamuihin. Ohjelman uusinta esitetään TV1:ssä samana päivänä klo 18.20.",
+      "start_time": "2025-06-17T19:50:00+03:00",
+      "end_time": "2025-06-17T20:00:00+03:00",
+      "uri": "yleareena://items/1-74391007"
+    },
+    {
+      "id": "1-50931324",
+      "title": "Akuutti: Resilienssi auttaa selviytymään",
+      "description": "Katja Tamminen kävi todella lähellä kuolemaa, kun nopeasti etenevä kuolio tuhosi viidesosan hänen ihostaan. Tuomas Mustikainen menetti näkönsä yllättäen vain muutamassa päivässä. Miten sellaisesta selviää?",
+      "start_time": "2025-06-17T20:00:29+03:00",
+      "end_time": "2025-06-17T20:29:55+03:00",
+      "uri": "yleareena://items/1-50931324"
+    },
+    {
+      "id": "1-72361882",
+      "title": "Yle Uutiset 20.30",
+      "description": "",
+      "start_time": "2025-06-17T20:29:55+03:00",
+      "end_time": "2025-06-17T20:55:00+03:00",
+      "uri": "yleareena://items/1-72361882"
+    },
+    {
+      "id": "1-72256026",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-17T20:55:00+03:00",
+      "end_time": "2025-06-17T20:59:45+03:00",
+      "uri": "yleareena://items/1-72256026"
+    },
+    {
+      "id": "1-74740174",
+      "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut",
+      "description": "Toimittajana Annika Damström.",
+      "start_time": "2025-06-17T21:00:00+03:00",
+      "end_time": "2025-06-17T21:35:10+03:00",
+      "uri": "yleareena://items/1-74740174"
+    },
+    {
+      "id": "1-1355200",
+      "title": "Karjalan kunnailla (7)",
+      "description": "Kausi 3, 5/12. Suurten muutosten edessä. Arja kauhistuu Harrin ehdotusta. Puhakan ja Sahiojan muutokset. Hanna näkee suudelman, jota ei usko todeksi. T: Selkie-Filmi Oy. (U).",
+      "start_time": "2025-06-17T21:35:00+03:00",
+      "end_time": "2025-06-17T22:25:07+03:00",
+      "uri": "yleareena://items/1-1355200"
+    },
+    {
+      "id": "1-72250791",
+      "title": "Efter Nio ",
+      "description": "Kesä. Yeboyahin alter egot, Sebastian Holm tutkii trendejä, Eva-Li Teir ja Marie Lindblom kiipesivät Kebnekaiselle, Alexander Wessberg freestyle-jalkapallosta, Hanna Himanka grillaa kesäruokaa. Parad Media.",
+      "start_time": "2025-06-17T22:25:00+03:00",
+      "end_time": "2025-06-17T23:25:00+03:00",
+      "uri": "yleareena://items/1-72250791"
+    },
+    {
+      "id": "1-4565068",
+      "title": "Karppi (12)",
+      "description": "Kausi 2, 5/8. Paldiski. Tunneliin kaapatun pormestari Tulisuon pelätään kuolleen. Hennan salakuljetuskeikka päättyy yllättävällä tavalla. Karppi saa haudan takaa viestin, joka muuttaa murhatutimuksen suunnan. (U).",
+      "start_time": "2025-06-17T23:25:00+03:00",
+      "end_time": "2025-06-18T00:10:07+03:00",
+      "uri": "yleareena://items/1-4565068"
+    }
+  ]
+}

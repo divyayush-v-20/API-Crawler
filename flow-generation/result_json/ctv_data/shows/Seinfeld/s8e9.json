@@ -1,0 +1,23 @@
+{
+  "title": "The Abstinence",
+  "description": "George's intellect benefits when his girlfriend's illness requires their abstinence.",
+  "season": 8,
+  "episode": "9",
+  "air_time": "2025-06-18T08:37:00+00:00",
+  "duration": 30,
+  "release_year": "1996",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_6112e870-14ad-4f63-93f8-efcd06166a93_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "jerry seinfeld",
+    "julia louis-dreyfus",
+    "jason alexander"
+  ],
+  "directors": []
+}

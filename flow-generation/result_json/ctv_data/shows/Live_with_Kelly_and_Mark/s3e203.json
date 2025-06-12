@@ -1,0 +1,23 @@
+{
+  "title": "Shopping Day at Live",
+  "description": "Orlando Bloom; Shopping Day with Monica Mangin; Jason Isaacs (\"The White Lotus\").",
+  "season": 3,
+  "episode": "203",
+  "air_time": "2025-06-12T14:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_818b54ed-5c3c-4106-b8b2-527894ed2f90_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "kelly ripa",
+    "mark consuelos",
+    "orlando bloom"
+  ],
+  "directors": []
+}

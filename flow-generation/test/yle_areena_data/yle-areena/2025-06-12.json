@@ -1,0 +1,86 @@
+{
+  "channel": "yle-areena",
+  "date": "2025-06-12",
+  "programs": [
+    {
+      "id": "1-74829243",
+      "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+      "description": "Poikelus, Pehkonen ja Parikka: TO 12.6.",
+      "start_time": "2025-06-12T06:30:00+03:00",
+      "end_time": "2025-06-12T10:00:00+03:00",
+      "uri": "yleareena://items/1-74829243"
+    },
+    {
+      "id": "1-74832490",
+      "title": "X3M Live: X3M Morgon",
+      "description": "X3M Live: X3M Morgon",
+      "start_time": "2025-06-12T07:00:00+03:00",
+      "end_time": "2025-06-12T11:00:00+03:00",
+      "uri": "yleareena://items/1-74832490"
+    },
+    {
+      "id": "1-74861252",
+      "title": "Uuden musiikin X: Ella Ossi",
+      "description": "YleX:n musiikkitoimittaja Ella Ossi soittaa tärkeimmät uutuusjulkaisut tulevaisuuden hiteistä kiinnostavimpiin vaihtoehtoihin sekä haastattelevat ajankohtaisimmat artistivieraat.",
+      "start_time": "2025-06-12T10:00:00+03:00",
+      "end_time": "2025-06-12T12:00:00+03:00",
+      "uri": "yleareena://items/1-74861252"
+    },
+    {
+      "id": "1-74906965",
+      "title": "X3M Live: Supernova",
+      "description": "Supernova med Alva ger dig den nya musiken, artistintervjuer och intressanta fakta om fenomen i musikvärlden. Vi lovar, du får någonting nytt precis varenda gång. Varje måndag och onsdag mellan kl 11 och 14.\n\nHör av dig till studion via whatsapp 044 7800 180!",
+      "start_time": "2025-06-12T11:00:00+03:00",
+      "end_time": "2025-06-12T14:00:00+03:00",
+      "uri": "yleareena://items/1-74906965"
+    },
+    {
+      "id": "1-74832580",
+      "title": "SeesarGames LIVE",
+      "description": "Välkommen till SeesarGames! Spela och häng med Seesar live.",
+      "start_time": "2025-06-12T11:55:00+03:00",
+      "end_time": "2025-06-12T16:05:00+03:00",
+      "uri": "yleareena://items/1-74832580"
+    },
+    {
+      "id": "1-74829264",
+      "title": "YleX Etusivu: Sikke",
+      "description": "Päivän parhaat puheenaiheet maanantaista perjantaihin!\nYleX Etusivu tarjoaa analyysia ja näkökulmia uutisiin ja popkulttuuriin.",
+      "start_time": "2025-06-12T12:00:00+03:00",
+      "end_time": "2025-06-12T14:00:00+03:00",
+      "uri": "yleareena://items/1-74829264"
+    },
+    {
+      "id": "1-74832571",
+      "title": "X3M Live: X3M Eftermiddag",
+      "description": "X3M Live: X3M Eftermiddag",
+      "start_time": "2025-06-12T14:00:00+03:00",
+      "end_time": "2025-06-12T16:30:00+03:00",
+      "uri": "yleareena://items/1-74832571"
+    },
+    {
+      "id": "1-74825367",
+      "title": "Eduskunnan täysistunto 12.6.2025",
+      "description": "\n\n",
+      "start_time": "2025-06-12T16:00:00+03:00",
+      "end_time": "2025-06-12T23:45:00+03:00",
+      "uri": "yleareena://items/1-74825367"
+    },
+    {
+      "id": "1-74834368",
+      "title": "YleX Ilta: Womma",
+      "description": "YleX:n iltavuoroa ohjastaa Womma. Energiajuomaharrastaja, wrestling-fani ja japanilaisen pop-kulttuurin konossööri. Tärkeimpien hittien lisäksi tarjolla on mm. rautaisannos lakonista huumoria ja väärien vastausten metsästystä.\n\nVartin valtauksessa musiikkipäällikkönä toimivat YleX:n kuuntelijat.",
+      "start_time": "2025-06-12T17:00:00+03:00",
+      "end_time": "2025-06-12T20:00:00+03:00",
+      "uri": "yleareena://items/1-74834368"
+    },
+    {
+      "id": "1-74862665",
+      "title": "Raskain terveisin, Sonny striimi",
+      "description": "Raskas musiikki on vihdoin palannut YleX:lle! ",
+      "start_time": "2025-06-12T21:00:00+03:00",
+      "end_time": "2025-06-12T23:00:00+03:00",
+      "uri": "yleareena://items/1-74862665"
+    }
+  ]
+}

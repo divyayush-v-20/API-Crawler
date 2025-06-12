@@ -1,0 +1,25 @@
+{
+  "title": "The Expedition Approximation",
+  "description": "Raj and Sheldon try to simulate a dark-matter research expedition; Penny and Leonard have a fight.",
+  "season": 8,
+  "episode": "6",
+  "air_time": "2025-06-13T21:30:00+00:00",
+  "duration": 30,
+  "release_year": "2014",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e558503a-b134-4c73-9f2f-aa6aa959b357_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

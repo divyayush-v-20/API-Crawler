@@ -1,0 +1,382 @@
+{
+  "channel": "yle-tv2",
+  "date": "2025-06-18",
+  "programs": [
+    {
+      "id": "1-2371124",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-18T06:50:00+03:00",
+      "end_time": "2025-06-18T06:51:05+03:00",
+      "uri": "yleareena://items/1-2371124"
+    },
+    {
+      "id": "1-1627997",
+      "title": "Nimipäiväonnittelu: 18.6.",
+      "description": "Onnea, Tapio!",
+      "start_time": "2025-06-18T06:51:05+03:00",
+      "end_time": "2025-06-18T06:53:03+03:00",
+      "uri": "yleareena://items/1-1627997"
+    },
+    {
+      "id": "1-649006",
+      "title": "Martta puhuu (S)",
+      "description": "Martta ja kummitukset. Naapuruston kummitustaloon on pyydetty toimittamaan kukkia. Martta lähtee hoitamaan asiaa. / Martan onni kääntyy. Karoliina on taikauskoinen. Martta kävelee tikkaiden alitse.",
+      "start_time": "2025-06-18T06:53:03+03:00",
+      "end_time": "2025-06-18T07:16:34+03:00",
+      "uri": "yleareena://items/1-649006"
+    },
+    {
+      "id": "1-50646206",
+      "title": "Pikku Kakkonen",
+      "description": "Nalle tekee kuperkeikkoja.",
+      "start_time": "2025-06-18T07:16:34+03:00",
+      "end_time": "2025-06-18T07:17:01+03:00",
+      "uri": "yleareena://items/1-50646206"
+    },
+    {
+      "id": "1-61884767",
+      "title": "Tulipop (S)",
+      "description": "Yövalo. Ystävykset tutustuvat uusiin otuksiin, hillohilaajiin. Saavatko he vietyä otukset turvaan luolaan?",
+      "start_time": "2025-06-18T07:17:01+03:00",
+      "end_time": "2025-06-18T07:24:17+03:00",
+      "uri": "yleareena://items/1-61884767"
+    },
+    {
+      "id": "1-1953315",
+      "title": "Arvaa kuinka paljon sinua rakastan (S)",
+      "description": "Kausi 1. Lempijuttu. Pikku Hiiri löytää erityisen kauniin kukan. Pikku Pupu saa sen lainaksi, jotta voi näyttää sitä Isolle Pupulle.",
+      "start_time": "2025-06-18T07:24:17+03:00",
+      "end_time": "2025-06-18T07:35:13+03:00",
+      "uri": "yleareena://items/1-1953315"
+    },
+    {
+      "id": "1-64120310",
+      "title": "Pikku Kakkonen",
+      "description": "Lassin juhannusleikki. Lassi miettii mitä voisi leikkiä juhannuksena ja päättää rakentaa juhannusmajan.",
+      "start_time": "2025-06-18T07:35:13+03:00",
+      "end_time": "2025-06-18T07:37:55+03:00",
+      "uri": "yleareena://items/1-64120310"
+    },
+    {
+      "id": "1-4339984",
+      "title": "Mauno (S)",
+      "description": "Riitelevää ruokaa. Mauno tilaa lounaspaikassa paistetun kananmunan ja spagettirenkaita. Kun ruoka saapuu, ruoka-aineet ovat hankalasti kosketuksissa keskenään.",
+      "start_time": "2025-06-18T07:37:55+03:00",
+      "end_time": "2025-06-18T07:49:04+03:00",
+      "uri": "yleareena://items/1-4339984"
+    },
+    {
+      "id": "1-2258705",
+      "title": "Ritari Mikke (S)",
+      "description": "Ritari Mikke ja velhon aarre. Mikke ei halua Viiviä mukaan velhon aarteen etsintään. Mutta kun hän luulee luolahirviön kaapanneen siskonsa, hän muuttaa mielensä ja oppii, että ritari tarvitsee joskus velhon apua.",
+      "start_time": "2025-06-18T07:49:04+03:00",
+      "end_time": "2025-06-18T08:01:14+03:00",
+      "uri": "yleareena://items/1-2258705"
+    },
+    {
+      "id": "1-2386027",
+      "title": "Jyrki ja Neponen",
+      "description": "Jyrkin ja Neposen mopokisa.",
+      "start_time": "2025-06-18T08:01:14+03:00",
+      "end_time": "2025-06-18T08:01:57+03:00",
+      "uri": "yleareena://items/1-2386027"
+    },
+    {
+      "id": "1-2162564",
+      "title": "Mitä ihmettä? (S)",
+      "description": "Koti. Mikä on koti?",
+      "start_time": "2025-06-18T08:01:57+03:00",
+      "end_time": "2025-06-18T08:07:07+03:00",
+      "uri": "yleareena://items/1-2162564"
+    },
+    {
+      "id": "1-50365947",
+      "title": "Ruso ja rihmalat (S)",
+      "description": "Et varmaan uskalla. Ruso, Sepi ja Mesi leikkivät uskallusleikkiä, jossa keksitään jänniä tehtäviä toisille, mutta Fungin ja Miffin mielestä haasteet ovat liian helppoja. Niinpä Ruso suostuu hiukan kovempiin haasteisiin.",
+      "start_time": "2025-06-18T08:07:07+03:00",
+      "end_time": "2025-06-18T08:18:49+03:00",
+      "uri": "yleareena://items/1-50365947"
+    },
+    {
+      "id": "1-1627997",
+      "title": "Nimipäiväonnittelu: 18.6.",
+      "description": "Onnea, Tapio!",
+      "start_time": "2025-06-18T08:18:49+03:00",
+      "end_time": "2025-06-18T08:20:47+03:00",
+      "uri": "yleareena://items/1-1627997"
+    },
+    {
+      "id": "1-71833242",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-18T08:20:47+03:00",
+      "end_time": "2025-06-18T08:21:51+03:00",
+      "uri": "yleareena://items/1-71833242"
+    },
+    {
+      "id": "1-72744228",
+      "title": "Galaxi ",
+      "description": "Koulululaisten oma ohjelma!",
+      "start_time": "2025-06-18T08:21:51+03:00",
+      "end_time": "2025-06-18T08:22:21+03:00",
+      "uri": "yleareena://items/1-72744228"
+    },
+    {
+      "id": "1-67474316",
+      "title": "Athleticus",
+      "description": "Uppokiekko. Kirahvi pistää sorkkansa peliin norsujen uppopallo-ottelussa.",
+      "start_time": "2025-06-18T08:22:21+03:00",
+      "end_time": "2025-06-18T08:24:46+03:00",
+      "uri": "yleareena://items/1-67474316"
+    },
+    {
+      "id": "1-50754085",
+      "title": "Haukku ja Poku (7)",
+      "description": "Koirankuonolaiset. Maikku valmistelee kukkanäytöstä. Poku herättää taikahännällään leikkikentän vieterieläimet eloon, ja Maikun kukka-asetelmat uhkaavat tallautua rymistelevän lauman jalkoihin.",
+      "start_time": "2025-06-18T08:24:46+03:00",
+      "end_time": "2025-06-18T08:36:19+03:00",
+      "uri": "yleareena://items/1-50754085"
+    },
+    {
+      "id": "1-50886206",
+      "title": "Näin meillä (7)",
+      "description": "Yön kuningatar. Lusian hautajaiskerho joutuu värväämään uuden jäsenen, jotta kerhoa ei lakkautettaisi. Ainoa kiinnostunut on Lola, ja Lusia pelkää jäävänsä pirskahtelevan siskon jalkoihin.",
+      "start_time": "2025-06-18T08:36:19+03:00",
+      "end_time": "2025-06-18T08:50:00+03:00",
+      "uri": "yleareena://items/1-50886206"
+    },
+    {
+      "id": "1-72482583",
+      "title": "Jumppahetki",
+      "description": "Haastetaan tasapainoa erilaisilla liikkeillä.",
+      "start_time": "2025-06-18T08:50:00+03:00",
+      "end_time": "2025-06-18T09:00:00+03:00",
+      "uri": "yleareena://items/1-72482583"
+    },
+    {
+      "id": "1-50786362",
+      "title": "Saaren nuoret asukkaat",
+      "description": "6/6. Ida ja Martin ovat asuneet Notholmenin saarella puoli vuotta ja heidän on tarkoitus lähteä pois. Miten elämä ulkosaaristossa on muuttanut pariskuntaa? (U)",
+      "start_time": "2025-06-18T09:00:00+03:00",
+      "end_time": "2025-06-18T09:40:00+03:00",
+      "uri": "yleareena://items/1-50786362"
+    },
+    {
+      "id": "1-2185365",
+      "title": "Latela",
+      "description": "Kausi 2, 4/9. Latelat laittavat tuottajan koville ja YleX:n porukka tulee kylään. Auto saadaan maalatuksi ja valaisimet paikoilleen. (U)",
+      "start_time": "2025-06-18T09:40:00+03:00",
+      "end_time": "2025-06-18T10:10:05+03:00",
+      "uri": "yleareena://items/1-2185365"
+    },
+    {
+      "id": "1-2183225",
+      "title": "Riistametsällä",
+      "description": "Muntjakki. Jørgen ja Nikolaj ovat lähteneet autolautalla Englantiin. Saaliiksi kaverit haaveilevat saavansa muntjakin. Onnistuuko Jørgen kaatamaan pienen ja äkäisen hirvieläimen?",
+      "start_time": "2025-06-18T10:10:05+03:00",
+      "end_time": "2025-06-18T10:50:00+03:00",
+      "uri": "yleareena://items/1-2183225"
+    },
+    {
+      "id": "1-1818543",
+      "title": "Veljesten keittiössä",
+      "description": "Kausi 4, 4/6. Aamiainen ruohikolla. Manet'n maalaus inspiroi veljeksiä valmistamaan retkieväät. Eväskori täyttyy eksoottisista herkuista. Mukaan tulee tietysti mustekalaa ja vasikanmunuaisia. (U)",
+      "start_time": "2025-06-18T10:50:00+03:00",
+      "end_time": "2025-06-18T11:20:00+03:00",
+      "uri": "yleareena://items/1-1818543"
+    },
+    {
+      "id": "1-2736455",
+      "title": "Kandit",
+      "description": "Kausi 3, 3/8. Uutta ja yllättävää on tulossa juuri silloin, kun päivä näyttää aamulla helpolta. Hampaan poisto voi vaatia kekseliäisyyttä ja hermoja. Varsinkin jos valo on taskulampun varassa. yle.fi/kandit (U)",
+      "start_time": "2025-06-18T11:20:00+03:00",
+      "end_time": "2025-06-18T11:50:00+03:00",
+      "uri": "yleareena://items/1-2736455"
+    },
+    {
+      "id": "1-1724073",
+      "title": "Siivouspäivä",
+      "description": "Dokumentti hotellisiivoojista on myös kertomus kovenevasta suomalaisesta työelämästä. On niin kiire, ettei töitä enää ehdi tehdä kunnolla. Hotellisiivoojan työ huomataan vasta, jos se on tehty huonosti. O: Kati Juurus (2012).(U)",
+      "start_time": "2025-06-18T11:50:00+03:00",
+      "end_time": "2025-06-18T12:45:00+03:00",
+      "uri": "yleareena://items/1-1724073"
+    },
+    {
+      "id": "1-65169002",
+      "title": "Tanskalainen maajussi",
+      "description": "3/10: Jättimäinen heinäsuova. Syksy lähestyy, ja lapset auttavat uusien sadonkuivaustelineiden rakentamisessa. Minilastaajaan pitää vaihtaa öljynsuodatin. Ja sitten Frank pelastaa Johanin heinäsuovan päältä.",
+      "start_time": "2025-06-18T12:45:00+03:00",
+      "end_time": "2025-06-18T13:15:00+03:00",
+      "uri": "yleareena://items/1-65169002"
+    },
+    {
+      "id": "1-4438632",
+      "title": "Petra saa vauvan",
+      "description": "3/8. Petra ja Asbjørn kokeilevat vanhemmuutta robottivauvan avulla, ja jo ensimmäisen yön jälkeen Asbjørn on valmis heittämään nuken ulos ikkunasta. Petra pohtii, kuinka olla äiti ja puoliso samaan aikaan. Sarja tanskalaistoimittajan matkasta kohti äitiyttä. (U)",
+      "start_time": "2025-06-18T13:15:00+03:00",
+      "end_time": "2025-06-18T13:45:00+03:00",
+      "uri": "yleareena://items/1-4438632"
+    },
+    {
+      "id": "1-3991411",
+      "title": "Syntynyt vuonna 2010",
+      "description": "Kausi 2, 3/5. Edith ja Maria palaavat kokopäivätöihin ja kamppailevat univajeen kanssa. Calle ja Helena pohtivat ainoan tyttärensä kasvatusta. Dokumenttisarjan toisella tuotantokaudella seurataan lapsia viisivuotiaiksi asti. (U)",
+      "start_time": "2025-06-18T13:45:00+03:00",
+      "end_time": "2025-06-18T14:45:25+03:00",
+      "uri": "yleareena://items/1-3991411"
+    },
+    {
+      "id": "1-1823479",
+      "title": "Kummeli (7)",
+      "description": "Kausi 4. 4/8. Potilas Saarinen, Musavisa, Speedy ja Saku, Luomisen tuskaa jäätanssi, Älykääpiöt, Työkoneiden arvonta, Martti Mielikäinen ja paljon muuta älämölöä. (U)",
+      "start_time": "2025-06-18T14:45:25+03:00",
+      "end_time": "2025-06-18T15:10:35+03:00",
+      "uri": "yleareena://items/1-1823479"
+    },
+    {
+      "id": "1-66137859",
+      "title": "Jens ja Isak ohuella jäällä",
+      "description": "5/5: Merten yksisarvinen. Seikkailu inuittien parissa lähenee loppuaan, kun kaverukset tulevat jään reunalle valaanpyyntiin. Siellä he saavat kokea syvyyksien voiman.",
+      "start_time": "2025-06-18T15:10:35+03:00",
+      "end_time": "2025-06-18T15:40:05+03:00",
+      "uri": "yleareena://items/1-66137859"
+    },
+    {
+      "id": "1-50299607",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 14/16. Eero poliittisessa puntarissa. (U)",
+      "start_time": "2025-06-18T15:45:00+03:00",
+      "end_time": "2025-06-18T16:00:00+03:00",
+      "uri": "yleareena://items/1-50299607"
+    },
+    {
+      "id": "1-4355741",
+      "title": "Talot huokuvat historiaa",
+      "description": "Kausi 3, 8/8. Sanotaan, että västerbottensost-juuston keksijä Ulrika Eleonora Lindström varttui tässä Burträsketin rannalla sijaitsevassa puutalossa. Oliko asia todella näin? Ruotsalaissarja, jossa tutustutaan vanhojen talojen historiaan. (U)",
+      "start_time": "2025-06-18T16:00:00+03:00",
+      "end_time": "2025-06-18T17:00:00+03:00",
+      "uri": "yleareena://items/1-4355741"
+    },
+    {
+      "id": "1-73148791",
+      "title": "Pikku Kakkonen",
+      "description": "Katsellaan Sadun kanssa Pikku Tuutti, Simo, Kiri ja Lolo, Malla Mahtava, Luonto yllättää aina sekä Kaarle.",
+      "start_time": "2025-06-18T17:00:00+03:00",
+      "end_time": "2025-06-18T18:00:00+03:00",
+      "uri": "yleareena://items/1-73148791"
+    },
+    {
+      "id": "1-4446253",
+      "title": "Egenlandin matkakohteet",
+      "description": "Peuran polku tarjoaa 115 kilometriä eritasoisia vaelluspolkuja Pohjois-Pohjanmaan ja Keski-Suomen rajamailla. Metsäpeura viihtyy näissä metsissä.",
+      "start_time": "2025-06-18T18:00:00+03:00",
+      "end_time": "2025-06-18T18:06:07+03:00",
+      "uri": "yleareena://items/1-4446253"
+    },
+    {
+      "id": "1-4446250",
+      "title": "Egenlandin matkakohteet",
+      "description": "Tässä kauniisti ja perinteitä kunnioittavasti kunnostetussa 1800-luvun rakennuksessa kauppahuoneen emäntä piikoineen tarjoilee kahvia ja kakkua.",
+      "start_time": "2025-06-18T18:06:07+03:00",
+      "end_time": "2025-06-18T18:10:48+03:00",
+      "uri": "yleareena://items/1-4446250"
+    },
+    {
+      "id": "1-1363267",
+      "title": "Karjalan kunnailla (7)",
+      "description": "Kausi 3, 6/12. Juhla, juhannus ja ihana Camilla. Juhannusaatto valkenee kauniina. Hanna ja Jake sopivat tapaamisesta, jossa asiat selvitetään. T: Selkie- Filmi Oy. (U).",
+      "start_time": "2025-06-18T18:10:44+03:00",
+      "end_time": "2025-06-18T19:00:32+03:00",
+      "uri": "yleareena://items/1-1363267"
+    },
+    {
+      "id": "1-50612309",
+      "title": "Modernit miehet (12)",
+      "description": "Kausi 3, 10/12. Pete tapaa käsityökurssilla naisoletetun, jolla on kuukautiset. Jarkko tajuaa, ettei hänestä ole ajamaan kelillä kuin kelillä. (U)",
+      "start_time": "2025-06-18T19:00:32+03:00",
+      "end_time": "2025-06-18T19:21:00+03:00",
+      "uri": "yleareena://items/1-50612309"
+    },
+    {
+      "id": "1-4446515",
+      "title": "Pirjo (S)",
+      "description": "Pirjo (Pirjo Heikkilä) törmää puistossa vanhaan tuttuun (Petra Ahola). (U)",
+      "start_time": "2025-06-18T19:21:00+03:00",
+      "end_time": "2025-06-18T19:25:19+03:00",
+      "uri": "yleareena://items/1-4446515"
+    },
+    {
+      "id": "1-4446532",
+      "title": "Pirjo (S)",
+      "description": "Pirjo (Pirjo Heikkilä) kertoo lapsille, kuinka ajat ovat muuttuneet hänen lapsuudestaan. (U)",
+      "start_time": "2025-06-18T19:25:19+03:00",
+      "end_time": "2025-06-18T19:30:01+03:00",
+      "uri": "yleareena://items/1-4446532"
+    },
+    {
+      "id": "1-4469156",
+      "title": "Ellan matkassa: roomalaisten jäljillä",
+      "description": "Kausi 2, 5/7. Vartiotorneja ja jokilaivoja. Ella siirtyy matkallaan vesille ja kokeilee, millaista oli soutaa roomalaisten partiovenettä. (U)",
+      "start_time": "2025-06-18T19:30:01+03:00",
+      "end_time": "2025-06-18T20:00:00+03:00",
+      "uri": "yleareena://items/1-4469156"
+    },
+    {
+      "id": "1-3644983",
+      "title": "Menneisyyden metsästäjät",
+      "description": "2/8. Hauhon salaisuudet. Menneisyyden metsästäjät lähtevät etsimään Hauholta kadonneita rautakautisia kyliä, joissa uskotaan edelleen olevan maahan kätkettyjä aarteita. (2016)(U)",
+      "start_time": "2025-06-18T20:00:00+03:00",
+      "end_time": "2025-06-18T20:30:02+03:00",
+      "uri": "yleareena://items/1-3644983"
+    },
+    {
+      "id": "1-4092059",
+      "title": "Rikostarinoita Suomesta",
+      "description": "Kännykkämurhat. Perjantaina 24. elokuuta 2001 klo 17.59 tuli Kanta-Hämeen hätäkeskukseen puhelu, jossa hätääntynyt naishenkilö kertoi, että hänen miestään on ammuttu päähän. Puhelu käynnisti laajamittaisen poliisioperaation, tekijän tai tekijöiden kiinnisaamiseksi. (21.9.2006) (U)",
+      "start_time": "2025-06-18T20:30:02+03:00",
+      "end_time": "2025-06-18T21:00:00+03:00",
+      "uri": "yleareena://items/1-4092059"
+    },
+    {
+      "id": "1-76522",
+      "title": "Ilonen talo (12)",
+      "description": "3/3. Surua ja häpeää. Äiti vajoaa yhä syvemmälle alkoholin tuomiin ongelmiin. Tyttäristä Birge muuttaa pois ja Ruut vetäytyy yksinäisyyteen. (2006) (U)",
+      "start_time": "2025-06-18T21:00:00+03:00",
+      "end_time": "2025-06-18T21:55:00+03:00",
+      "uri": "yleareena://items/1-76522"
+    },
+    {
+      "id": "1-72366721",
+      "title": "Amandaland - yh-äidin arkea (12)",
+      "description": "Kausi 1, 6/6. Palkintoja. Jalkapallokausi lähenee loppuaan. Amanda tarjoutuu järjestämään kauden päättäjäiset tänä vuonna. Juhlat ovat kuitenkin liian hienostuneet muiden makuun, joten paremmat bileet löytyvät ihan muualta. ",
+      "start_time": "2025-06-18T21:55:00+03:00",
+      "end_time": "2025-06-18T22:25:00+03:00",
+      "uri": "yleareena://items/1-72366721"
+    },
+    {
+      "id": "1-50281441",
+      "title": "Play Rape (12)",
+      "description": "\"Sano vaan, jos tuntuu pahalta\". Ammatissaan kunnianhimoinen nuori näyttelijä valmistautuu raiskauskohtaukseen. N: Julia Lappalainen. K+O: Anna Paavilainen. (2019)(U)",
+      "start_time": "2025-06-18T22:25:00+03:00",
+      "end_time": "2025-06-18T22:45:00+03:00",
+      "uri": "yleareena://items/1-50281441"
+    },
+    {
+      "id": "1-50996797",
+      "title": "Pää puristuksessa",
+      "description": "Kausi 1, 6/8: Kaikki pelissä. Grace Bullenilla ja muilla Norjan painimaajoukkueen jäsenillä on vain yksi tilaisuus selvittää tiensä Olympialaisiin. Onnistuvatko he pitämään hermonsa kurissa kun tosi on kysymyksessä. T: NRK 2021",
+      "start_time": "2025-06-18T22:45:00+03:00",
+      "end_time": "2025-06-18T23:35:00+03:00",
+      "uri": "yleareena://items/1-50996797"
+    },
+    {
+      "id": "1-50089577",
+      "title": "Koukussa strippaukseen (12)",
+      "description": "3/5. Niels on saanut ensimmäisen työpaikkansa stripparina paikallisella klubilla, ja on aika riisua vaatteet kaikkien edessä. Antaako se onnen, josta hän on haaveillut? Kim joutuu käymään sairaalassa katsomassa isäänsä, mutta illan keikka auttaa pääsemään huonoista fiiliksistä. Martin saa viimein debyyttinsä, mutta jotain menee todella pieleen. (U)",
+      "start_time": "2025-06-18T23:35:00+03:00",
+      "end_time": "2025-06-19T00:06:00+03:00",
+      "uri": "yleareena://items/1-50089577"
+    }
+  ]
+}

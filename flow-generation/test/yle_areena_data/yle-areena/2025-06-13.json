@@ -1,0 +1,86 @@
+{
+  "channel": "yle-areena",
+  "date": "2025-06-13",
+  "programs": [
+    {
+      "id": "1-74829246",
+      "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+      "description": "Poikelus, Pehkonen ja Parikka: PE 13.6.",
+      "start_time": "2025-06-13T06:30:00+03:00",
+      "end_time": "2025-06-13T10:00:00+03:00",
+      "uri": "yleareena://items/1-74829246"
+    },
+    {
+      "id": "1-74832498",
+      "title": "X3M Live: X3M Morgon",
+      "description": "X3M Live: X3M Morgon",
+      "start_time": "2025-06-13T07:00:00+03:00",
+      "end_time": "2025-06-13T11:00:00+03:00",
+      "uri": "yleareena://items/1-74832498"
+    },
+    {
+      "id": "1-74861271",
+      "title": "Uuden musiikin X: Ella Ossi",
+      "description": "YleX:n musiikkitoimittaja Ella Ossi soittaa tärkeimmät uutuusjulkaisut tulevaisuuden hiteistä kiinnostavimpiin vaihtoehtoihin sekä haastattelevat ajankohtaisimmat artistivieraat.",
+      "start_time": "2025-06-13T10:00:00+03:00",
+      "end_time": "2025-06-13T12:00:00+03:00",
+      "uri": "yleareena://items/1-74861271"
+    },
+    {
+      "id": "1-74907046",
+      "title": "X3M Live: Supernova",
+      "description": "Supernova med Walt ger dig den nya musiken, artistintervjuer och intressanta fakta om fenomen i musikvärlden. Vi lovar, du får någonting nytt precis varenda gång. Varje tisdag, torsdag och fredag mellan kl 11 och 14.\n\nHör av dig till studion via whatsapp 044 7800 180!",
+      "start_time": "2025-06-13T11:00:00+03:00",
+      "end_time": "2025-06-13T14:00:00+03:00",
+      "uri": "yleareena://items/1-74907046"
+    },
+    {
+      "id": "1-74829267",
+      "title": "YleX Etusivu Sikke",
+      "description": "Päivän parhaat puheenaiheet maanantaista perjantaihin!\nYleX Etusivu tarjoaa analyysia ja näkökulmia uutisiin ja popkulttuuriin.",
+      "start_time": "2025-06-13T12:00:00+03:00",
+      "end_time": "2025-06-13T14:00:00+03:00",
+      "uri": "yleareena://items/1-74829267"
+    },
+    {
+      "id": "1-74817181",
+      "title": "Pyhtäältä Pöydältä 2025",
+      "description": "Ylen yhteistyökumppanin tuottamaa sisältöä.\n\nPyhtäältä Pöydältä on yhteiskunnallinen keskustelutapahtuma. Ensimmäisen päivän keskustelut painottuvat turvallisuuteen ja talouteen. Keskustelijat ovat maan eturivin asiantuntijoita, mutta ilmapiiri kotoisan intiimi.\n\nJohtaja Hiski Haukkala, Ulkopoliittinen instituutti, johtaja Mika Maliranta, Labore, johtaja Taina Vallander, STTK, kansanedustajat Antti Kaikkonen, Jarno Limnéll ja Paula Werning, toimitusjohtaja Juho Romakkaniemi, Keskuskauppakamari, ex-europarlamentaarikko Nils Torvalds. Juontajat Jari Korkki, Jussi Lähde ja Sallamaari Muhonen.\n\nSuorana suomalaisilta – Direkt från finländarna esittelee Ylen yhteistyökumppaneiden tarjoamia sisältöjä eri puolilta Suomea. Ylen vastaava päätoimittaja on Panu Pokkinen. \n",
+      "start_time": "2025-06-13T12:30:00+03:00",
+      "end_time": "2025-06-13T17:00:00+03:00",
+      "uri": "yleareena://items/1-74817181"
+    },
+    {
+      "id": "1-74827883",
+      "title": "Eduskunnan täysistunto 13.6.2025",
+      "description": "\n\n",
+      "start_time": "2025-06-13T13:00:00+03:00",
+      "end_time": "2025-06-13T23:45:00+03:00",
+      "uri": "yleareena://items/1-74827883"
+    },
+    {
+      "id": "1-74832574",
+      "title": "X3M Live: X3M Eftermiddag",
+      "description": "X3M Live: X3M Eftermiddag",
+      "start_time": "2025-06-13T14:00:00+03:00",
+      "end_time": "2025-06-13T17:00:00+03:00",
+      "uri": "yleareena://items/1-74832574"
+    },
+    {
+      "id": "1-74832577",
+      "title": "X3M Live: X3M Förfest",
+      "description": "DJ PTL & Henzo",
+      "start_time": "2025-06-13T17:00:00+03:00",
+      "end_time": "2025-06-13T21:00:00+03:00",
+      "uri": "yleareena://items/1-74832577"
+    },
+    {
+      "id": "1-74834370",
+      "title": "YleX Throwback: Womma Seppälä",
+      "description": "Womma Seppälä käynnistää YleX:n perjantai-illan etkot 2000-luvun kovimpien Throwback-biisien tahtiin. Biisejä joiden lyriikoilla täytit mesestatuksesi, kappaleita joiden musavideot näit aikoinaan MTV:ltä ja artisteja, joille löytyi oma galtsuyhteisö. Throwback-hittejä, joita et edes muistanut haluavasi kuulla!",
+      "start_time": "2025-06-13T17:00:00+03:00",
+      "end_time": "2025-06-13T20:00:00+03:00",
+      "uri": "yleareena://items/1-74834370"
+    }
+  ]
+}

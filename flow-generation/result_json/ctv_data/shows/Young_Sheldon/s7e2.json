@@ -1,0 +1,25 @@
+{
+  "title": "A Roulette Wheel and a Piano Playing Dog",
+  "description": "Sheldon realizes he is the weakest student in his class; Meemaw looks to expand her business.",
+  "season": 7,
+  "episode": "2",
+  "air_time": "2025-06-17T18:00:00+00:00",
+  "duration": 30,
+  "release_year": "2024",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_ffc2068f-2eb4-4615-9c24-cef6cce4b967_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "directors": [
+    "nikki lorre"
+  ]
+}

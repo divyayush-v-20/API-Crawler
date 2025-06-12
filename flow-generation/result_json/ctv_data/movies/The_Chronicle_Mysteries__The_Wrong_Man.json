@@ -1,0 +1,27 @@
+{
+  "title": "The Chronicle Mysteries: The Wrong Man",
+  "description": "The body of a woman who had been missing for three years is discovered. Her husband, acquitted for lack of evidence but now seen as guilty, asks Alex for help to clear his name.",
+  "air_time": "2025-06-17T23:00:00+00:00",
+  "duration": 120,
+  "release_year": "2019",
+  "genres": [
+    "mystery",
+    "crime drama"
+  ],
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_11_8866c797-4a8d-4fb1-813f-30eddccf25f8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "alison sweeney",
+    "benjamin ayres",
+    "dave collette"
+  ],
+  "directors": [
+    "terry ingram"
+  ]
+}

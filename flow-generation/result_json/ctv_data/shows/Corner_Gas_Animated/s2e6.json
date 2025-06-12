@@ -1,0 +1,23 @@
+{
+  "title": "Oedipus Hex",
+  "description": "Ike's barn burns down and Lacey wants to help; Lacey organizes a bachelor auction to raise money.",
+  "season": 2,
+  "episode": "6",
+  "air_time": "2025-06-15T08:00:00+00:00",
+  "duration": 30,
+  "release_year": "2019",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0282eedc-66b5-4c9f-ace4-d0250cb0cd99_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "directors": []
+}

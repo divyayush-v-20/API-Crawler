@@ -1,0 +1,134 @@
+{
+  "channel": "tv-finland",
+  "date": "2025-06-16",
+  "programs": [
+    {
+      "id": "1-4651116",
+      "title": "Rattikärpäset",
+      "description": "Vappu pyyhkäisee yli Suomen ja Magdalenen autossa isää ei päästetä helpolla. (U)",
+      "start_time": "2025-06-16T09:00:00+03:00",
+      "end_time": "2025-06-16T09:30:00+03:00",
+      "uri": "yleareena://items/1-4651116"
+    },
+    {
+      "id": "1-4469155",
+      "title": "Ellan matkassa: roomalaisten jäljillä",
+      "description": "Kausi 2, 3/7. Pähkinähiirtä ja musikaaleja. Ellan matka jatkuu Trentoon, joka oli legioonalaisten risteys- ja leiripaikka. Käveltyään yli 2000 vuotta vanhaa kivetystä Ella jatkaa Alppien yli Saksaan ja pysähtyy Tonavalle. (U)",
+      "start_time": "2025-06-16T09:30:00+03:00",
+      "end_time": "2025-06-16T09:57:34+03:00",
+      "uri": "yleareena://items/1-4469155"
+    },
+    {
+      "id": "1-4469153",
+      "title": "Ellan matkassa: roomalaisten jäljillä",
+      "description": "Kausi 2, 4/7. Legioonalaisia ja parsaa. Ellan matka Rooman germaaniprovinsseissa etenee Etelä-Saksassa. Näillä seuduilla antiikin perintö on vahvasti läsnä. Ella vierailee mm. roomalaisjuhlissa. (U)",
+      "start_time": "2025-06-16T10:00:00+03:00",
+      "end_time": "2025-06-16T10:30:26+03:00",
+      "uri": "yleareena://items/1-4469153"
+    },
+    {
+      "id": "1-2736452",
+      "title": "Kandit",
+      "description": "Kausi 3, 1/8. Kandit porautuu syvemmälle. Hammaskandit Heikki, Elina, Jonna ja Henna joutuvat vielä viimeiseen käytännön tenttiin, ennen kuin ovet kesätyöhön avautuvat. yle.fi/kandit (U)",
+      "start_time": "2025-06-16T13:20:00+03:00",
+      "end_time": "2025-06-16T13:50:00+03:00",
+      "uri": "yleareena://items/1-2736452"
+    },
+    {
+      "id": "1-72482581",
+      "title": "Jumppahetki",
+      "description": "Tanssillista jumppaa rytmikkään musiikin tahtiin.",
+      "start_time": "2025-06-16T13:50:00+03:00",
+      "end_time": "2025-06-16T13:59:58+03:00",
+      "uri": "yleareena://items/1-72482581"
+    },
+    {
+      "id": "1-1627924",
+      "title": "Nimipäiväonnittelu: 16.6.",
+      "description": "Onnea, Päivi, Päivikki ja Päivä!",
+      "start_time": "2025-06-16T17:00:21+03:00",
+      "end_time": "2025-06-16T17:02:18+03:00",
+      "uri": "yleareena://items/1-1627924"
+    },
+    {
+      "id": "1-4379151",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 12/16. Valtaa Tarjalle! (U)",
+      "start_time": "2025-06-16T18:15:00+03:00",
+      "end_time": "2025-06-16T18:30:00+03:00",
+      "uri": "yleareena://items/1-4379151"
+    },
+    {
+      "id": "1-2185363",
+      "title": "Latela",
+      "description": "Kausi 2, 2/9. Karu totuus paljastuu, kun urakkaan lähtemistä katuvat Latelat alkavat purkaa ostamaansa autonraatoa. Ruostekasa ei innosta, ja korjaus alkaa nihkeästi. (U)",
+      "start_time": "2025-06-16T19:00:00+03:00",
+      "end_time": "2025-06-16T19:30:00+03:00",
+      "uri": "yleareena://items/1-2185363"
+    },
+    {
+      "id": "1-71958276",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-16T19:30:00+03:00",
+      "end_time": "2025-06-16T19:45:00+03:00",
+      "uri": "yleareena://items/1-71958276"
+    },
+    {
+      "id": "1-4446260",
+      "title": "Egenlandin matkakohteet",
+      "description": "Fiskets natt -tapahtumaa varten Ähtävänjoki täytetään forelleilla, sen jälkeen voikin kalastaa ja kisata yötä myöten. Kylätapahtuman erikoinen kohokohta on vedonlyönti palavasta autosta!",
+      "start_time": "2025-06-16T19:50:00+03:00",
+      "end_time": "2025-06-16T19:56:11+03:00",
+      "uri": "yleareena://items/1-4446260"
+    },
+    {
+      "id": "1-68259804",
+      "title": "Eränkävijät: Äijän retket",
+      "description": "Kausi 2. Tommi Manninen ja Rane. Somevaikuttaja Tommi Manninen saapuu Kilpisjärvelle norwichinterrierinsä Ranen kanssa. Tunturin talvi ja kaamos näyttävät kyntensä jo alkumatkasta. Kestääkö teltta puhurin yltyessä yöllä?",
+      "start_time": "2025-06-16T20:00:00+03:00",
+      "end_time": "2025-06-16T20:29:55+03:00",
+      "uri": "yleareena://items/1-68259804"
+    },
+    {
+      "id": "1-72362029",
+      "title": "Yle Uutiset 20.30",
+      "description": "",
+      "start_time": "2025-06-16T20:29:55+03:00",
+      "end_time": "2025-06-16T20:55:00+03:00",
+      "uri": "yleareena://items/1-72362029"
+    },
+    {
+      "id": "1-72255911",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-16T20:55:00+03:00",
+      "end_time": "2025-06-16T21:00:00+03:00",
+      "uri": "yleareena://items/1-72255911"
+    },
+    {
+      "id": "1-71326318",
+      "title": "Sani - voittamaton (S)",
+      "description": "Kausi 1, 1/6. Mä tiedän että tuun dominoimaan. Sani, 19, valmistautuu vapaaottelun EM-kisoihin Serbiassa. Tuomarinpäätökset nostattavat jännitystä. Ennen lähtöä äiti muistelee Sanin vakavaa vesimyrkytystä. Uusi sarja.",
+      "start_time": "2025-06-16T21:00:00+03:00",
+      "end_time": "2025-06-16T21:22:16+03:00",
+      "uri": "yleareena://items/1-71326318"
+    },
+    {
+      "id": "1-71326319",
+      "title": "Sani - voittamaton (S)",
+      "description": "Kausi 1, 2/6. Fuck, meni huonosti. Pääseekö Sani vapaaksi polvilukosta ja eteneekö finaaliin? Matsien välissä naiset pohtivat, miten yhdistää naisellisuus ja urheilu. Sani haluaa siilin, mutta Janika kieltää.",
+      "start_time": "2025-06-16T21:23:47+03:00",
+      "end_time": "2025-06-16T21:40:00+03:00",
+      "uri": "yleareena://items/1-71326319"
+    },
+    {
+      "id": "1-71326317",
+      "title": "Sani - voittamaton (S)",
+      "description": "Kausi 1, 3/6. Unelmien parisuhde, mut ei lesbolla tavalla. Onko Sani EM-voittaja? Leirillä mietitään, onko vapaaottelijalla \"pimeä\" puoli. Sanilla on vaikeuksia ilmaista tunteitaan vaikka arvostaa Janikaa.",
+      "start_time": "2025-06-16T21:40:00+03:00",
+      "end_time": "2025-06-16T22:01:31+03:00",
+      "uri": "yleareena://items/1-71326317"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Mr. Popular",
+  "description": "When a high school quarterback is attacked, the investigation reveals how far people will go to win.",
+  "season": 1,
+  "episode": "3",
+  "air_time": "2025-06-13T01:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b69fec92-af36-45e5-ad97-c5a19e747c09_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "leighton meester",
+    "luke cook",
+    "clancy brown"
+  ],
+  "directors": [
+    "gracie otto"
+  ]
+}

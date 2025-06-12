@@ -1,0 +1,25 @@
+{
+  "title": "Of Course",
+  "description": "With Robin angry at Barney, she enlists the help of an author to beat Barney at his own game.",
+  "season": 5,
+  "episode": "17",
+  "air_time": "2025-06-15T04:30:00+00:00",
+  "duration": 30,
+  "release_year": "2010",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_d0d03bbc-a139-4fe1-ab70-a8dfc56e7572_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "josh radnor",
+    "jason segel",
+    "neil patrick harris"
+  ],
+  "directors": [
+    "pamela fryman"
+  ]
+}

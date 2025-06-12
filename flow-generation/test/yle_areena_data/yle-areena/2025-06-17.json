@@ -1,0 +1,14 @@
+{
+  "channel": "yle-areena",
+  "date": "2025-06-17",
+  "programs": [
+    {
+      "id": "1-74904347",
+      "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut viitottuna",
+      "description": "",
+      "start_time": "2025-06-17T21:00:00+03:00",
+      "end_time": "2025-06-17T21:40:00+03:00",
+      "uri": "yleareena://items/1-74904347"
+    }
+  ]
+}

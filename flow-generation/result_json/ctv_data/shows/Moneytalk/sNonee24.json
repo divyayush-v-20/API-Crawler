@@ -1,0 +1,21 @@
+{
+  "title": "Moneytalk",
+  "description": "Industry players provide vital finance information.",
+  "season": null,
+  "episode": "24",
+  "air_time": "2025-06-14T15:30:00+00:00",
+  "duration": 30,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_55912f29-9654-4745-8ec8-c49d65d5a4cd_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "cast": [
+    "kim parlee"
+  ],
+  "directors": []
+}

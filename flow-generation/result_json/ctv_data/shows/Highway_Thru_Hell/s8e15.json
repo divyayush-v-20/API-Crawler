@@ -1,0 +1,23 @@
+{
+  "title": "Fried Chicken",
+  "description": "Cam and Jamie race to move a burning truck hauling frozen chicken off the highway.",
+  "season": 8,
+  "episode": "15",
+  "air_time": "2025-06-14T17:00:00+00:00",
+  "duration": 60,
+  "release_year": "2020",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_c401f254-5646-47b0-81c1-7b5a6781b8e3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "directors": []
+}

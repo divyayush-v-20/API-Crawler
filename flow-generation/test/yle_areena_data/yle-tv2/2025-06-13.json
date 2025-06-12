@@ -1,0 +1,326 @@
+{
+  "channel": "yle-tv2",
+  "date": "2025-06-13",
+  "programs": [
+    {
+      "id": "1-2371117",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-13T06:50:00+03:00",
+      "end_time": "2025-06-13T06:51:06+03:00",
+      "uri": "yleareena://items/1-2371117"
+    },
+    {
+      "id": "1-1739876",
+      "title": "Nimipäiväonnittelu: 13.6.",
+      "description": "Onnea, Raili ja Raila!",
+      "start_time": "2025-06-13T06:51:06+03:00",
+      "end_time": "2025-06-13T06:52:52+03:00",
+      "uri": "yleareena://items/1-1739876"
+    },
+    {
+      "id": "1-787894",
+      "title": "Humps (S)",
+      "description": "Lunan vieteriukko. Lunalla on hassu lelu, joka ei Humpsin mielestä olekaan kiva.",
+      "start_time": "2025-06-13T06:52:52+03:00",
+      "end_time": "2025-06-13T07:00:08+03:00",
+      "uri": "yleareena://items/1-787894"
+    },
+    {
+      "id": "1-3918643",
+      "title": "Poppelikumpu (S)",
+      "description": "Outo purkki. Poppelit ihmettelevät kummallista purkkia. Olisiko siellä aarre?",
+      "start_time": "2025-06-13T07:00:08+03:00",
+      "end_time": "2025-06-13T07:05:18+03:00",
+      "uri": "yleareena://items/1-3918643"
+    },
+    {
+      "id": "1-50936020",
+      "title": "Pikku Kakkonen",
+      "description": "Pyöräilyposteja. Iina näyttää Aunen, Viljon, Julian ja Akselin lähettämät postit.",
+      "start_time": "2025-06-13T07:05:18+03:00",
+      "end_time": "2025-06-13T07:06:38+03:00",
+      "uri": "yleareena://items/1-50936020"
+    },
+    {
+      "id": "1-50513427",
+      "title": "Pipsa Possu (S)",
+      "description": "Kausi 1. Salaisuuksia. Äitipossu on tehnyt Pipsalle oman salaisen laatikon. Jyri haluaa tietää, mitä Pipsan laatikossa on. Jyrikin saa oman salaisen laatikkonsa, ja Pipsa haluaisi tietää, mitä siellä on.",
+      "start_time": "2025-06-13T07:06:38+03:00",
+      "end_time": "2025-06-13T07:11:40+03:00",
+      "uri": "yleareena://items/1-50513427"
+    },
+    {
+      "id": "1-2178212",
+      "title": "Olivia (S)",
+      "description": "Kausi 2. Olivia Villissä lännessä. Olivian luokka tekee retken kullankaivajien kylään. Seamus McGeezer on kätkenyt Tomukylään aarteen, jota ei ole vielä löydetty. Kaiken lisäksi bussin avaimetkin katoavat jonnekin.",
+      "start_time": "2025-06-13T07:11:40+03:00",
+      "end_time": "2025-06-13T07:22:17+03:00",
+      "uri": "yleareena://items/1-2178212"
+    },
+    {
+      "id": "1-50410866",
+      "title": "Pikku Kakkonen",
+      "description": "Susanna näyttää, kuinka viitotaan ampiainen.",
+      "start_time": "2025-06-13T07:22:17+03:00",
+      "end_time": "2025-06-13T07:22:40+03:00",
+      "uri": "yleareena://items/1-50410866"
+    },
+    {
+      "id": "1-2049987",
+      "title": "Stella ja Sami (S)",
+      "description": "Näkymättömissä. Sami haluaisi olla näkymätön. Onneksi Stella keksii keinon siihenkin. Miten käy Retun, onnistuuko sekin tulemaan näkymättömäksi?",
+      "start_time": "2025-06-13T07:22:40+03:00",
+      "end_time": "2025-06-13T07:34:34+03:00",
+      "uri": "yleareena://items/1-2049987"
+    },
+    {
+      "id": "1-50151531",
+      "title": "Petran poppoo (S)",
+      "description": "Västäräkkilän ennätysten kirja. Petran poppoo haluaa päästä Västäräkkilän ennätysten kirjaan ennätyksellisellä hiekkaveistoksella.",
+      "start_time": "2025-06-13T07:34:34+03:00",
+      "end_time": "2025-06-13T07:46:01+03:00",
+      "uri": "yleareena://items/1-50151531"
+    },
+    {
+      "id": "1-2548641",
+      "title": "Tie tähtiin (S)",
+      "description": "Kuun hämärässä. Kouluttaja Kyyhky on vienyt kadetit Kuuhun harjoittelemaan hämärälentoja. Sähköjen katkettua Kuussa on liiankin hämärää. Mistä sähköä saadaan?",
+      "start_time": "2025-06-13T07:46:01+03:00",
+      "end_time": "2025-06-13T07:57:56+03:00",
+      "uri": "yleareena://items/1-2548641"
+    },
+    {
+      "id": "1-50831023",
+      "title": "Pikku Kakkonen",
+      "description": "Jaakkoset: kakkonen. Jaakko numeroiden ihmeellisessä maailmassa.",
+      "start_time": "2025-06-13T07:57:56+03:00",
+      "end_time": "2025-06-13T07:58:46+03:00",
+      "uri": "yleareena://items/1-50831023"
+    },
+    {
+      "id": "1-4118214",
+      "title": "Emmi ja Kuru (S)",
+      "description": "Muotopuu. Emmi ystävineen löytää metsästä omituisen, aivastelevan puun. Herra Taikala auttaa selvittämään, että kyseessä on harvinainen Muotopuu.",
+      "start_time": "2025-06-13T07:58:46+03:00",
+      "end_time": "2025-06-13T08:09:51+03:00",
+      "uri": "yleareena://items/1-4118214"
+    },
+    {
+      "id": "1-3535099",
+      "title": "Retki-Roope (S)",
+      "description": "Kausi 1. Päivänpaisteen puiston aavikkokivet. Roopea odottaa yllätys, kunhan hän vain ensin ratkaisee äidin rakentaman palapeliarvoituksen.",
+      "start_time": "2025-06-13T08:09:51+03:00",
+      "end_time": "2025-06-13T08:21:10+03:00",
+      "uri": "yleareena://items/1-3535099"
+    },
+    {
+      "id": "1-1739876",
+      "title": "Nimipäiväonnittelu: 13.6.",
+      "description": "Onnea, Raili ja Raila!",
+      "start_time": "2025-06-13T08:21:10+03:00",
+      "end_time": "2025-06-13T08:22:56+03:00",
+      "uri": "yleareena://items/1-1739876"
+    },
+    {
+      "id": "1-71833243",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-13T08:22:56+03:00",
+      "end_time": "2025-06-13T08:24:08+03:00",
+      "uri": "yleareena://items/1-71833243"
+    },
+    {
+      "id": "1-72744228",
+      "title": "Galaxi ",
+      "description": "Koulululaisten oma ohjelma!",
+      "start_time": "2025-06-13T08:24:08+03:00",
+      "end_time": "2025-06-13T08:24:38+03:00",
+      "uri": "yleareena://items/1-72744228"
+    },
+    {
+      "id": "1-50787739",
+      "title": "Eka & Helmi (7)",
+      "description": "Rahaa tyhjästä. Eka muuttuu liimapuikoksi ja Helmi käteisautomaatiksi.",
+      "start_time": "2025-06-13T08:24:38+03:00",
+      "end_time": "2025-06-13T08:36:18+03:00",
+      "uri": "yleareena://items/1-50787739"
+    },
+    {
+      "id": "1-50464233",
+      "title": "Romppu, Rasse ja Sikuriina (7)",
+      "description": "Motivaatio hukassa. Rasse koettaa onneaan motivointimestaruuskisassa. Onnistuuko hän kannustamaan maailman laiskinta miestä?",
+      "start_time": "2025-06-13T08:36:18+03:00",
+      "end_time": "2025-06-13T08:50:00+03:00",
+      "uri": "yleareena://items/1-50464233"
+    },
+    {
+      "id": "1-72482589",
+      "title": "Jumppahetki",
+      "description": "Rauhalliseen tahtiin venyttelyä ja rentotusta koko vartalolle.",
+      "start_time": "2025-06-13T08:50:00+03:00",
+      "end_time": "2025-06-13T09:00:00+03:00",
+      "uri": "yleareena://items/1-72482589"
+    },
+    {
+      "id": "1-50786365",
+      "title": "Saaren nuoret asukkaat",
+      "description": "3/6. Elämä kahdestaan pienellä saarella ulkosaaristossa voi kuulostaa romanttiselta. Ida ja Martin joutuvat kuitenkin huomaamaan, että yhteiselo on joskus vaativaa. (U)",
+      "start_time": "2025-06-13T09:00:00+03:00",
+      "end_time": "2025-06-13T09:40:00+03:00",
+      "uri": "yleareena://items/1-50786365"
+    },
+    {
+      "id": "1-2185362",
+      "title": "Latela",
+      "description": "Kausi 2, 1/9. YleX tilaa Lateloilta avolava-auton Justin Bieberin etkoille. Pojilla on vaivaiset 21 päivää aikaa rakentaa tyylikäs pick-up. (U)",
+      "start_time": "2025-06-13T09:40:00+03:00",
+      "end_time": "2025-06-13T10:10:00+03:00",
+      "uri": "yleareena://items/1-2185362"
+    },
+    {
+      "id": "1-1956323",
+      "title": "Riistametsällä Pohjolassa",
+      "description": "Osa 8/8. Kokki ja eränkävijä retkeilevät pohjoisen kauniissa luonnossa, pyytävät riistaa ja valmistavat siitä avotulella aterian. Se nautitaan villiyrttien, marjojen tai muiden luonnon antimien kera. (U)",
+      "start_time": "2025-06-13T10:10:00+03:00",
+      "end_time": "2025-06-13T10:50:00+03:00",
+      "uri": "yleareena://items/1-1956323"
+    },
+    {
+      "id": "1-1793038",
+      "title": "Veljesten keittiössä",
+      "description": "Kausi 4, 1/6. Uusi keittiö. Adam ja James kutsuvat vieraita uuden keittiönsä tupaantuliaisiin. Tarjolla on yllättäviäkin ruokalajeja. Terveysintoilusta on luovuttu kokonaan. Voita sen sijaan käytetään runsaasti. (U)",
+      "start_time": "2025-06-13T10:50:00+03:00",
+      "end_time": "2025-06-13T11:20:00+03:00",
+      "uri": "yleareena://items/1-1793038"
+    },
+    {
+      "id": "1-2233076",
+      "title": "Kandit",
+      "description": "Kausi 2, 8/8. Kauden päätösjaksossa Kandit pohtivat, kuinka kesä vastuussa lääkärinä on sujunut. Koetukselle ovat joutuneet mielikuvat itsestä lääkärinä ja odotukset työn kiehtovuudesta. yle.fi/kandit (U)",
+      "start_time": "2025-06-13T11:20:00+03:00",
+      "end_time": "2025-06-13T11:50:00+03:00",
+      "uri": "yleareena://items/1-2233076"
+    },
+    {
+      "id": "1-1350963",
+      "title": "Karjalan kunnailla (7)",
+      "description": "Kausi 3, 4/12. Sekaannuksia suhteissa, kirjeissä ja työpaikoissa. Anton kesä muuttuu hullunmyllyksi. Jake ja Jonna pulassa. Jorma ja Vilman salaisuus. T: Selkie-Filmi Oy. (U)",
+      "start_time": "2025-06-13T11:50:00+03:00",
+      "end_time": "2025-06-13T12:40:00+03:00",
+      "uri": "yleareena://items/1-1350963"
+    },
+    {
+      "id": "1-62696152",
+      "title": "Tanskalainen maajussi",
+      "description": "Osa 9/9. Mansikoita ja lampaiden muutto. Mansikkasesonki on parhaimmillaan ja sadosta on tulossa valtava. Lampaitten on muutettava muualle, kun myllyn rakentajille tarvitaan yösijaa. T: DR, 2022.",
+      "start_time": "2025-06-13T12:40:00+03:00",
+      "end_time": "2025-06-13T13:10:00+03:00",
+      "uri": "yleareena://items/1-62696152"
+    },
+    {
+      "id": "1-68087644",
+      "title": "6 päivää zeniin",
+      "description": "4/4. Kokeilu lähestyy loppuaan. Luontoterapeutit painostavat nuoria yhä pidemmälle ennen kuin antavat heille puhelimet takaisin. Julie joutuu kohtaamaan avomeren pelkonsa, ja Mathias kamppailee saavuttaakseen itsekunnioituksensa. Josephine miettii, miten elää elämäänsä tästä eteenpäin.",
+      "start_time": "2025-06-13T13:10:00+03:00",
+      "end_time": "2025-06-13T13:40:00+03:00",
+      "uri": "yleareena://items/1-68087644"
+    },
+    {
+      "id": "1-3991407",
+      "title": "Syntynyt vuonna 2010",
+      "description": "Kausi 1, 4/4. Lapset alkavat lähestyä vuoden ikää. Monica joutuu hoitamaan viittä lasta yksin. Jack joutuu yllättäen leikkaukseen kasvaimen takia. Dokumenttisarja yhdeksän lapsen ensimmäisestä elinvuodesta. (U)",
+      "start_time": "2025-06-13T13:40:00+03:00",
+      "end_time": "2025-06-13T14:40:00+03:00",
+      "uri": "yleareena://items/1-3991407"
+    },
+    {
+      "id": "1-50612303",
+      "title": "Modernit miehet (12)",
+      "description": "Kausi 3, 9/12. Matti ja Taina tutustuvat dynaamiseen Heikkisten perheeseen. Kohtaaminen horjuttaa Matin uskoa jälkikasvunsa potentiaaliin elämän globaalilla pelikentällä. (U)",
+      "start_time": "2025-06-13T14:40:00+03:00",
+      "end_time": "2025-06-13T15:05:00+03:00",
+      "uri": "yleareena://items/1-50612303"
+    },
+    {
+      "id": "1-66137861",
+      "title": "Jens ja Isak ohuella jäällä",
+      "description": "2/5: Koiranelämää. 18 puolivilliä ja tappelualtista koiraa. Siinä ovat ne voimat, jotka Jensin ja Isakin on hallittava, jotta unelma koiravaljakosta Grönlannissa toteutuisi.",
+      "start_time": "2025-06-13T15:05:00+03:00",
+      "end_time": "2025-06-13T15:36:00+03:00",
+      "uri": "yleareena://items/1-66137861"
+    },
+    {
+      "id": "1-50282765",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 11/16. Poliittinen valtayhjiö.(U)",
+      "start_time": "2025-06-13T15:45:00+03:00",
+      "end_time": "2025-06-13T16:00:00+03:00",
+      "uri": "yleareena://items/1-50282765"
+    },
+    {
+      "id": "1-4355740",
+      "title": "Talot huokuvat historiaa",
+      "description": "Kausi 3, 5/8. Lindgrenin perhe muutti kolme vuotta sitten vanhaan pappilaan. Christopher selvittää, keitä talossa on asunut aiemmin. Heidän joukkoonsa mahtuukin mielenkiintoisia pappeja. Ruotsalaissarja, jossa tutustutaan vanhojen talojen historiaan. (U)",
+      "start_time": "2025-06-13T16:00:00+03:00",
+      "end_time": "2025-06-13T17:00:00+03:00",
+      "uri": "yleareena://items/1-4355740"
+    },
+    {
+      "id": "1-72553088",
+      "title": "Pikku Kakkonen",
+      "description": "Katsellaan Jaakon kanssa Kaapo, Paloman Sanaton muskari, Fantti ja työkoneet, Super-Senja, Kettu ja Jänö, Helmin vedenalainen maailma sekä Vegesaurukset.",
+      "start_time": "2025-06-13T17:00:00+03:00",
+      "end_time": "2025-06-13T17:59:58+03:00",
+      "uri": "yleareena://items/1-72553088"
+    },
+    {
+      "id": "1-70202457",
+      "title": "Penan Erikoiskuljetus (S)",
+      "description": "Pena on ajanut rekkaa jo 50 vuotta ja aikoo niin tehdä jatkossakin. Hänen muistiongelmansa on vain pikku kuoppa elämän valtatiellä. O: Anssi Kasitonni (Suomi, 2024). (U)",
+      "start_time": "2025-06-13T17:59:58+03:00",
+      "end_time": "2025-06-13T18:15:00+03:00",
+      "uri": "yleareena://items/1-70202457"
+    },
+    {
+      "id": "1-73682836",
+      "title": "Superpesis",
+      "description": "Perjantaipesis: Naisten superpesiksen ottelu Pesäkarhut - Manse PP, selostus Henri Pitkänen, Pori.",
+      "start_time": "2025-06-13T18:15:00+03:00",
+      "end_time": "2025-06-13T21:00:45+03:00",
+      "uri": "yleareena://items/1-73682836"
+    },
+    {
+      "id": "1-4565068",
+      "title": "Karppi (12)",
+      "description": "Kausi 2, 5/8. Paldiski. Tunneliin kaapatun pormestari Tulisuon pelätään kuolleen. Hennan salakuljetuskeikka päättyy yllättävällä tavalla. Karppi saa haudan takaa viestin, joka muuttaa murhatutimuksen suunnan. (U).",
+      "start_time": "2025-06-13T21:00:45+03:00",
+      "end_time": "2025-06-13T21:45:17+03:00",
+      "uri": "yleareena://items/1-4565068"
+    },
+    {
+      "id": "1-71698827",
+      "title": "Liam Gallagher Knebworthissä",
+      "description": "Brittirokkari Liam Gallagher esiintyi jättikeikalla kesällä 2022. Konsertissa kuullaan sekä Gallagherin soolotuotantoa että Oasiksen hiteistä mm. Wonderwall, Cigarettes & Alcohol, Supersonic ja Champagne Supernova. (U)",
+      "start_time": "2025-06-13T21:45:17+03:00",
+      "end_time": "2025-06-13T23:01:11+03:00",
+      "uri": "yleareena://items/1-71698827"
+    },
+    {
+      "id": "1-50848953",
+      "title": "Parempaa seksiä",
+      "description": "Tanskalainen seksologi ja toimittaja Sara Skaarup antaa vinkkejä ja neuvoo hyviä konsteja, joilla voi parantaa seksielämää. Miten rutiininomaiseen seksiin voi löytää rentouden ja halun? T: Tanskan televisio, 2021.",
+      "start_time": "2025-06-13T23:01:11+03:00",
+      "end_time": "2025-06-14T00:00:05+03:00",
+      "uri": "yleareena://items/1-50848953"
+    },
+    {
+      "id": "1-62012242",
+      "title": "Ei naurata (7)",
+      "description": "Koomikko Teemu Vesterinen paloi loppuun ja vetäytyi mökkiin Saarijärvelle. Vesterinen kertoo uupumuksesta, masennuksesta ja erityisherkkyydestä. Miten kipeistä aiheista syntyy yleisöjä naurattavaa huumoria? (U)",
+      "start_time": "2025-06-14T00:00:05+03:00",
+      "end_time": "2025-06-14T00:23:33+03:00",
+      "uri": "yleareena://items/1-62012242"
+    }
+  ]
+}

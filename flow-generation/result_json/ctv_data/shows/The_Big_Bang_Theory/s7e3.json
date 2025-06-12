@@ -1,0 +1,25 @@
+{
+  "title": "The Scavenger Vortex",
+  "description": "Raj designs a scavenger hunt that brings out the best -- and the worst -- in the whole gang.",
+  "season": 7,
+  "episode": "3",
+  "air_time": "2025-06-18T07:05:00+00:00",
+  "duration": 32,
+  "release_year": "2013",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_6417f015-c574-4f8f-94bb-46a63db4e0ba_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

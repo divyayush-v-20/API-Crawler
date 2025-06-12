@@ -1,0 +1,23 @@
+{
+  "title": "Wedding Card",
+  "description": "Brent finds out his parents never married; Lacey's mission to help Oscar.",
+  "season": 2,
+  "episode": "2",
+  "air_time": "2025-06-16T00:30:00+00:00",
+  "duration": 30,
+  "release_year": "2004",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_aa22a35f-8f0a-4402-9867-c294f7e1afc0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "directors": []
+}

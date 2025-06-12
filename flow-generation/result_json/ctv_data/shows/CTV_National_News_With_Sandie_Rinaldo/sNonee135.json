@@ -1,0 +1,21 @@
+{
+  "title": "CTV National News With Sandie Rinaldo",
+  "description": "The biggest news stories of the day with discussions and chat panels.",
+  "season": null,
+  "episode": "135",
+  "air_time": "2025-06-17T22:30:00+00:00",
+  "duration": 29,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_91c5cbe8-edfd-4998-a443-11ce331aa5bd_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "sandie rinaldo"
+  ],
+  "directors": []
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Focus Attenuation",
+  "description": "During their weekend in Las Vegas, Bernadette and Amy accuse Penny of being a buzz kill.",
+  "season": 8,
+  "episode": "5",
+  "air_time": "2025-06-13T21:00:00+00:00",
+  "duration": 30,
+  "release_year": "2014",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_35387f7f-11bb-4cb5-a25a-7568eed06f09_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

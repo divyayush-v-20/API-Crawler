@@ -1,0 +1,25 @@
+{
+  "title": "The Closure Alternative",
+  "description": "Amy tries to help Sheldon get over his need for closure; Raj discovers a secret about Lucy.",
+  "season": 6,
+  "episode": "21",
+  "air_time": "2025-06-12T05:05:00+00:00",
+  "duration": 32,
+  "release_year": "2013",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_32536b88-f842-4ac1-8ca1-a4ce09356a52_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "channel": "yle-teema-fem",
+  "date": "2025-06-15",
+  "programs": [
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-15T07:56:38+03:00",
+      "end_time": "2025-06-15T07:56:38+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-4438622",
+      "title": "Petra saa vauvan",
+      "description": "4/8. Petra on aina haaveillut muuttavansa lähelle sukulaisiaan, kun perheen perustaminen tulee ajankohtaiseksi. Hän testaa puolisonsa kanssa elämää kaupungin ulkopuolella vuokraamalla talon maalta. Sarja tanskalaistoimittajan matkasta kohti äitiyttä. (U)",
+      "start_time": "2025-06-15T07:56:38+03:00",
+      "end_time": "2025-06-15T08:25:46+03:00",
+      "uri": "yleareena://items/1-4438622"
+    },
+    {
+      "id": "1-3984676",
+      "title": "Tyttöjen erämaaseikkailu",
+      "description": "Kausi 2, 1/6. Viisi norjalaistyttöä lähtee uhmaamaan luonnonvoimia. Tonje, Else, Guro, Hilde ja Marthe ottavat kamerat matkaseuraksi ja suuntaavat Ruijan ylängölle, Huippuvuorille ja Alaskaan karhunkarkottimet repuissaan. (U)",
+      "start_time": "2025-06-15T08:25:46+03:00",
+      "end_time": "2025-06-15T09:05:12+03:00",
+      "uri": "yleareena://items/1-3984676"
+    },
+    {
+      "id": "1-50677679",
+      "title": "Elias on pelastettava",
+      "description": "Osa 1/3. Kahdeksanvuotias Elias on kadonnut jäljettömiin. Koulussa hänen pulpettinsa on ollut tyhjä jo monta viikkoa. Toimittaja Bo-Göran Bodin kuulee tapahtuneesta kaksi versiota, jotka poikkeavat toisistaan täysin. Tuotanto: SVT, 2020. (U)",
+      "start_time": "2025-06-15T09:05:12+03:00",
+      "end_time": "2025-06-15T10:03:50+03:00",
+      "uri": "yleareena://items/1-50677679"
+    },
+    {
+      "id": "1-4261032",
+      "title": "Ruokamakasiini",
+      "description": "9/10. Mette tutkii, mitä tapahtuu lihakaupan sisäelimille, jotka eivät oikein tahdo maistua tanskalaisille. Hän järjestää myös neljäsluokkalaisille sokkomaistelun, jossa herkutellaan lasten tietämättä porsaansydämellä. Ruokamakasiini tutkii tanskalaisen ruokakulttuurin myyttejä. (U)",
+      "start_time": "2025-06-15T10:03:50+03:00",
+      "end_time": "2025-06-15T10:32:17+03:00",
+      "uri": "yleareena://items/1-4261032"
+    },
+    {
+      "id": "1-3323369",
+      "title": "Antiikkikaksintaistelu",
+      "description": "Kausi 2, 16/20. Tänään Betinnan ja Michaelin löytämät aarteet joutuvat Svendborgin huutokaupassa vasaran alle. Kumman löydöt ovat arvokkaammat? Kumpi heistä voittaa kilpailun? (U)",
+      "start_time": "2025-06-15T10:32:17+03:00",
+      "end_time": "2025-06-15T11:01:24+03:00",
+      "uri": "yleareena://items/1-3323369"
+    },
+    {
+      "id": "1-73594212",
+      "title": "Tuntematon perillinen",
+      "description": "Kausi 4, 6/6. Onko bostonilainen Pietra konservaattori Ulf Leijonin tytär? Lopullinen vastaus selviää vasta DNA-testin jälkeen. Ferenc Várszegi pakeni Unkarista ja menetti yhteyden sukulaisiinsa. Etsinnät hänen perijöidensä löytämiseksi johtavat uuden yhteisön luokse.",
+      "start_time": "2025-06-15T11:01:24+03:00",
+      "end_time": "2025-06-15T12:00:00+03:00",
+      "uri": "yleareena://items/1-73594212"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-15T12:00:00+03:00",
+      "end_time": "2025-06-15T12:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-2997156",
+      "title": "Kino Suomi: Cha cha cha (S)",
+      "description": "Hyvän mielen komedia siitä, kuinka rantojen mies nousee siltojen alta sofistikoituneeksi perijäksi. Farssin päärooleissa Matti Pellonpää ja Kari Väänänen. O: Mika Kaurismäki. (1989)",
+      "start_time": "2025-06-15T12:00:00+03:00",
+      "end_time": "2025-06-15T13:30:00+03:00",
+      "uri": "yleareena://items/1-2997156"
+    },
+    {
+      "id": "1-51013652",
+      "title": "Lewerentz - elämän ja kuoleman arkkitehti",
+      "description": "Ruotsalainen Sigurd Lewerentz (1885 - 1975) on yksi arvostetuimmista ja myyttisimmistä arkkitehdeistä. Hänen suunnittelemiaan rakennuksia ja alueita kuten Skogskyrkogårdenin hautausmaata rakastetaan, mutta kuka oli julkisuudesta poissa pysytellyt Sigurd Lewerentz? Se paljastui, kun kellarista löytyi 16 mm kuvanauhoja ja äänitteitä, joissa tapamme myyttisen Sigurd Lewerentzin ensimmäistä kertaa. Ohjaus: Sven Blume. (Lewerentz - Divine Darkness, Ruotsi 2023)",
+      "start_time": "2025-06-15T13:30:00+03:00",
+      "end_time": "2025-06-15T14:30:00+03:00",
+      "uri": "yleareena://items/1-51013652"
+    },
+    {
+      "id": "1-74447868",
+      "title": "Kesäkonsertti Schönbrunnista 2025",
+      "description": "Wienin filharmonikot juhlistavat perinteiseen tapaan kesää Schönbrunnin linnan edustalla Wienissä. Kapellimestarina ensimmäistä kertaa Tugan Sokhiev, solistina Piotr Beczała. Ohjelmassa mm. aarioita oopperoista Carmen, Turandot ja operetista Kreivitär Mariza. Konsertin selostaa Lauri Itäkannas.",
+      "start_time": "2025-06-15T14:30:00+03:00",
+      "end_time": "2025-06-15T16:15:15+03:00",
+      "uri": "yleareena://items/1-74447868"
+    },
+    {
+      "id": "1-65302177",
+      "title": "Musiikkia kuvina",
+      "description": "Uusi tulkinta Karjalan kunnailla -sävelmästä peilaa luonnon tilaa ja tulevaisuutta. Leonardo Rojnićin harmonikka soi suuren tammen juurella ja karussa tehdasmiljöössä. Videon ohjaus Joonas Josefsson.",
+      "start_time": "2025-06-15T16:15:15+03:00",
+      "end_time": "2025-06-15T16:18:52+03:00",
+      "uri": "yleareena://items/1-65302177"
+    },
+    {
+      "id": "1-70148122",
+      "title": "Matkalla sukulaisten luo Haminaan (S)",
+      "description": "Juha Koirasen lyhytelokuvassa parisuhteen ja auton kipinä on kadoksissa. Päättyykö matka, vai onko luvassa vielä jotain, jotain villiä, ehkä jopa makeaa? Pääosissa Tiina Pirhonen ja Pertti Sveholm. T: Kimey Oy, 2025",
+      "start_time": "2025-06-15T16:19:12+03:00",
+      "end_time": "2025-06-15T16:30:18+03:00",
+      "uri": "yleareena://items/1-70148122"
+    },
+    {
+      "id": "1-61919520",
+      "title": "Tabita Berglund johtaa: Lemminkäinen",
+      "description": "Tabita Berglund johtaa Norjan radion sinfoniaorkesteria, joka esittää Jean Sibeliuksen teoksen Lemminkäinen. T: NRK, 2021.",
+      "start_time": "2025-06-15T16:30:18+03:00",
+      "end_time": "2025-06-15T17:20:00+03:00",
+      "uri": "yleareena://items/1-61919520"
+    },
+    {
+      "id": "1-66698974",
+      "title": "Mikä mua tanssittaa?",
+      "description": "Juhani Koivisto ei omasta mielestään ollut erityisen hyvä matematiikassa. Siitä huolimatta hänestä tuli matemaatikko - ja tanssija. Kaikki luovuus, myös matemaattinen luovuus lähtee Koivistolle tanssista.",
+      "start_time": "2025-06-15T17:20:00+03:00",
+      "end_time": "2025-06-15T17:25:00+03:00",
+      "uri": "yleareena://items/1-66698974"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-15T17:25:00+03:00",
+      "end_time": "2025-06-15T17:25:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-73593868",
+      "title": "Uusi elämä Norlannissa",
+      "description": "3/6. Thomas avautuu syövästään. Tazin unelma omasta ravintolasta Tornionlaaksossa kariutuu. Marcin ja Rachelin tarina osoittaa, että kotimaan vaihtuessa myös avioliitto on koetuksella.",
+      "start_time": "2025-06-15T17:25:00+03:00",
+      "end_time": "2025-06-15T17:55:00+03:00",
+      "uri": "yleareena://items/1-73593868"
+    },
+    {
+      "id": "1-71958490",
+      "title": "Yle Nyheter TV-nytt 17.55",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-15T17:55:00+03:00",
+      "end_time": "2025-06-15T18:00:00+03:00",
+      "uri": "yleareena://items/1-71958490"
+    },
+    {
+      "id": "1-50211656",
+      "title": "Uusi perheeni (7)",
+      "description": "Nicon kaverit kiusaavat Sigridiä, mutta lopulta Nico tulee väliin.",
+      "start_time": "2025-06-15T18:00:00+03:00",
+      "end_time": "2025-06-15T18:10:41+03:00",
+      "uri": "yleareena://items/1-50211656"
+    },
+    {
+      "id": "1-63617990",
+      "title": "Karlan mahtava luokka (7)",
+      "description": "Karla ja Heinz ovat sopineet leikkivänsä Heinzin luona koulun jälkeen. Mutta kuinka välttää riitely talon asukkaiden kanssa?",
+      "start_time": "2025-06-15T18:10:41+03:00",
+      "end_time": "2025-06-15T18:17:59+03:00",
+      "uri": "yleareena://items/1-63617990"
+    },
+    {
+      "id": "1-64956467",
+      "title": "Possuli (S)",
+      "description": "Robotti-imuri vie Possulin seikkailuihin.",
+      "start_time": "2025-06-15T18:17:59+03:00",
+      "end_time": "2025-06-15T18:19:54+03:00",
+      "uri": "yleareena://items/1-64956467"
+    },
+    {
+      "id": "1-62146696",
+      "title": "Jengin puolesta (7)",
+      "description": "Kausi 2 6/12. Allasbileet vastaan AK. Jasin ja AK:n pelaaminen on lyönyt kaikki ällikällä ja FC Streetworld etenee turnauksessa. Chris kutsuu koko jengin juhlimaan voittoa allasbileisiin ja vanhoja vihollisuuksia haudataan. Dollar ei kuitenkaan luota AK:hon. Onko tyttö sittenkin Diorin talutusnuorassa?",
+      "start_time": "2025-06-15T18:19:54+03:00",
+      "end_time": "2025-06-15T18:30:00+03:00",
+      "uri": "yleareena://items/1-62146696"
+    },
+    {
+      "id": "1-50840736",
+      "title": "Puutarhakausi",
+      "description": "Kausi 7, 9/9. Ruotsalaisessa sarjassa jaetaan vinkkejä puutarhan ystäville. Suuri kurpitsakilpailu ratkeaa. Kenen kurpitsa on painavin? Lopuksi juhlitaan mennyttä sesonkia, kesää ja puutarhaa. Tuotanto: SVT, 2021. (U)",
+      "start_time": "2025-06-15T18:30:00+03:00",
+      "end_time": "2025-06-15T19:30:00+03:00",
+      "uri": "yleareena://items/1-50840736"
+    },
+    {
+      "id": "1-71958407",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-15T19:30:00+03:00",
+      "end_time": "2025-06-15T19:39:00+03:00",
+      "uri": "yleareena://items/1-71958407"
+    },
+    {
+      "id": "1-71972482",
+      "title": "Sportnytt",
+      "description": "Urheilu-uutisia.",
+      "start_time": "2025-06-15T19:39:00+03:00",
+      "end_time": "2025-06-15T19:48:00+03:00",
+      "uri": "yleareena://items/1-71972482"
+    },
+    {
+      "id": "1-71968662",
+      "title": "Sportliv ",
+      "description": "Kaia Tanskanen on kasvanut voimisteluperheessä Yhdysvalloissa, maailman parhaassa naisten telinevoimistelumaassa. Kun hänen isänsä kuusi vuotta sitten ehdotti, että hän alkaisi edustaa Suomea Yhdysvaltojen sijaan, Kaia ei ollut lainkaan kiinnostunut. Hän kuitenkin muutti mielensä. Nykyään Kaia Tanskanen jakaa aikansa USA:n yliopisto-opintojen ja college-voimistelun, sekä Suomen harjoitusleirien välillä. Maajoukkueeseen hän haluaa tuoda annoksen äänekästä, amerikkalaista energiaa.",
+      "start_time": "2025-06-15T19:48:00+03:00",
+      "end_time": "2025-06-15T20:00:00+03:00",
+      "uri": "yleareena://items/1-71968662"
+    },
+    {
+      "id": "1-71192553",
+      "title": "Kino: Olet aina sydämessäni (7)",
+      "description": "Isabella on 35-vuotias kunnianhimoinen liikenainen Tukholman finanssimaailmassa. Isabella palaa lapsuutensa kotikaupunkiin juhlimaan isänsä 60-vuotispäiviä, ja kokee olevansa voittaja, kouluaikaisen kaveriporukkansa ainoa menestyjä. Isabellan itseluottamus rakoilee, kun hän kuulee suuren teinirakkautensa Simonin olevan menossa naimisiin Isabellan lapsuudenkaverin Mollyn kanssa. Isabellaa ole edes kutsuttu häihin. Isabella on tottunut saamaan haluamansa, ja häntä häiritsee nähdä Simon onnellisena jonkun toisen kanssa. Osa Isabellan sydämestä lyö ikuisesti Simonille.",
+      "start_time": "2025-06-15T20:00:00+03:00",
+      "end_time": "2025-06-15T21:51:17+03:00",
+      "uri": "yleareena://items/1-71192553"
+    },
+    {
+      "id": "1-50754794",
+      "title": "A Place in the Sun (7)",
+      "description": "Visuaalinen kiertomatka miljoonien turistien suosimalle Gran Canarian saarelle. Pastellinsävyinen paratiisisaari ei maineestaan huolimatta kuulu ainoastaan huonoa säätä pakeneville lomailijoille. Saariryhmän tunnetuimpiin kuuluvan saaren ympärivuotiset asukkaat joutuvat kohtaamaan turismin paradoksit ja sen mukanaan tuomat karut realiteetit. Ohjaaja: Mette Carla Albrechtsen, 2021. (U)",
+      "start_time": "2025-06-15T21:51:17+03:00",
+      "end_time": "2025-06-15T23:15:00+03:00",
+      "uri": "yleareena://items/1-50754794"
+    },
+    {
+      "id": "1-4561016",
+      "title": "Kaipaus (12)",
+      "description": "Haluan sinut on draamakomedia rakkauden kaipuusta ja etsimisestä. Elokuva on kolmas osa kolmiosaisesta sarjasta Kaipaus, joka pohjautuu katsojien kertomuksiin. Näyttelijät: Josefin Sonck, Dennis Nylund, Pelle Heikkilä, Alexander Holmlund ja Petra Heinänen. Käsikirjoitus ja ohjaus: Anna Blom. Tuotanto: Ja! Media production, 2019. (U)",
+      "start_time": "2025-06-15T23:15:00+03:00",
+      "end_time": "2025-06-15T23:45:29+03:00",
+      "uri": "yleareena://items/1-4561016"
+    }
+  ]
+}

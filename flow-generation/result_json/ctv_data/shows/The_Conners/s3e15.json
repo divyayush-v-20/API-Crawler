@@ -1,0 +1,25 @@
+{
+  "title": "An Old Dog, New Tricks and a Ticket to Ride",
+  "description": "Becky works double shifts and takes classes at the community college; Dan fosters an elderly dog.",
+  "season": 3,
+  "episode": "15",
+  "air_time": "2025-06-18T22:30:00+00:00",
+  "duration": 30,
+  "release_year": "2021",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_92c56402-ea86-4472-8b22-93b10a2f55b5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "directors": [
+    "jude weng"
+  ]
+}

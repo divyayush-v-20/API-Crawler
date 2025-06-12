@@ -1,0 +1,23 @@
+{
+  "title": "Quarterfinals 3 & 4",
+  "description": "Yogesh Raut; Victoria Groce; Roger Craig; Juveria Zaheer; Isaac Hirsch; Matt Amodio.",
+  "season": 3,
+  "episode": "5",
+  "air_time": "2025-06-14T00:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_84165701-f7d5-4dc8-afae-3e2748cc29b9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "ken jennings",
+    "yogesh raut",
+    "victoria groce"
+  ],
+  "directors": []
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Will and Brent",
+  "description": "Karen buys a new breathalyzer machine; Lacey puts up a new bulletin board.",
+  "season": 3,
+  "episode": "4",
+  "air_time": "2025-06-14T20:30:00+00:00",
+  "duration": 30,
+  "release_year": "2005",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_0c8e8d63-806e-473b-9c3f-53df0497dd07_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "directors": []
+}

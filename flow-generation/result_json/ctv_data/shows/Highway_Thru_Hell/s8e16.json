@@ -1,0 +1,23 @@
+{
+  "title": "The Warrior",
+  "description": "A lost load of lumber pulls Jamie and Colin Mclean into a battle on the banks of the Skagit River.",
+  "season": 8,
+  "episode": "16",
+  "air_time": "2025-06-15T02:00:00+00:00",
+  "duration": 60,
+  "release_year": "2020",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_b1f52aa5-719d-46f4-9edf-89f397211f2b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "directors": []
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Cash Cab",
+  "description": "This gang is stoked and full of confidence when they find out that they have entered the Cash Cab.",
+  "season": 3,
+  "episode": "21",
+  "air_time": "2025-06-12T08:30:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_d06d136b-ba5d-4f7a-904d-9f0835eb0c3f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "adam growe"
+  ],
+  "directors": []
+}

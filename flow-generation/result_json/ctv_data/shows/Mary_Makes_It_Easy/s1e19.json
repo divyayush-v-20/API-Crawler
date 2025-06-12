@@ -1,0 +1,21 @@
+{
+  "title": "Pie in the Sky",
+  "description": "Mary provides a pastry crash course with three different types of dough.",
+  "season": 1,
+  "episode": "19",
+  "air_time": "2025-06-14T15:00:00+00:00",
+  "duration": 30,
+  "release_year": "2022",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_eba6d422-553a-424e-ba53-a144181b08b3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "mary berg"
+  ],
+  "directors": []
+}

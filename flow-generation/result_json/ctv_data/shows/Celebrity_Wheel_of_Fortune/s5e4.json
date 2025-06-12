@@ -1,0 +1,25 @@
+{
+  "title": "Rainn Wilson, Ellie Kemper and Oscar Nu\u00f1ez",
+  "description": "Celebrity contestants Rainn Wilson, Ellie Kemper and Oscar Nu\u00f1ez.",
+  "season": 5,
+  "episode": "4",
+  "air_time": "2025-06-18T00:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_2172ede5-d15a-401f-ba07-251d06cadffc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "pat sajak",
+    "vanna white",
+    "rainn wilson"
+  ],
+  "directors": [
+    "alex van wagner"
+  ]
+}

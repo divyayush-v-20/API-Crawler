@@ -1,0 +1,25 @@
+{
+  "title": "The Prom Equivalency",
+  "description": "Sheldon feels pressured to participate in traditions when the gang re-creates a high-school prom.",
+  "season": 8,
+  "episode": "8",
+  "air_time": "2025-06-16T21:30:00+00:00",
+  "duration": 30,
+  "release_year": "2014",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_36b23c0b-de1c-4862-a006-3ae0a91b83be_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

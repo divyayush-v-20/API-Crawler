@@ -1,0 +1,374 @@
+{
+  "channel": "yle-tv2",
+  "date": "2025-06-15",
+  "programs": [
+    {
+      "id": "1-74447194",
+      "title": "Jukolan viesti",
+      "description": "Suora lähetys suunnistuksen Jukolan viestistä, selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli. Ruotsinkielinen selostus Magnus Eklöv, asiantuntija Fredric Portin.",
+      "start_time": "2025-06-14T22:45:00+03:00",
+      "end_time": "2025-06-15T07:00:00+03:00",
+      "uri": "yleareena://items/1-74447194"
+    },
+    {
+      "id": "1-4332579",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-15T07:00:00+03:00",
+      "end_time": "2025-06-15T07:02:33+03:00",
+      "uri": "yleareena://items/1-4332579"
+    },
+    {
+      "id": "1-71959406",
+      "title": "Nimipäiväonnittelu 15.6.",
+      "description": "Onnea, Vieno, Moona, Viena ja Mona!",
+      "start_time": "2025-06-15T07:02:33+03:00",
+      "end_time": "2025-06-15T07:04:21+03:00",
+      "uri": "yleareena://items/1-71959406"
+    },
+    {
+      "id": "1-61741668",
+      "title": "Minimuksut (S)",
+      "description": "Koira, varis, kissa. Minimuksut ja Fantti tutustuvat maailmaan. Tänään Fantti tapaa koiran, variksen ja kissan.",
+      "start_time": "2025-06-15T07:04:21+03:00",
+      "end_time": "2025-06-15T07:20:38+03:00",
+      "uri": "yleareena://items/1-61741668"
+    },
+    {
+      "id": "1-4664313",
+      "title": "Pikku Kakkonen",
+      "description": "Iina esittelee autokirjan, josta löytyy lasten lähettämiä autokuvia.",
+      "start_time": "2025-06-15T07:20:38+03:00",
+      "end_time": "2025-06-15T07:23:19+03:00",
+      "uri": "yleareena://items/1-4664313"
+    },
+    {
+      "id": "1-70140649",
+      "title": "Dalin leikkiseikkailut (S)",
+      "description": "Astronautti avaruudessa. Astronautti Dali haluaa suojella planeettoja. Onnistuuko hän palauttamaan planeetan takaisin radalleen?",
+      "start_time": "2025-06-15T07:23:19+03:00",
+      "end_time": "2025-06-15T07:35:06+03:00",
+      "uri": "yleareena://items/1-70140649"
+    },
+    {
+      "id": "1-67709434",
+      "title": "Pippa ja Popi (S)",
+      "description": "Höpsöpöpsöt. Pippaan ja Anskuun tarttuu \"höpsöpöpsöt\" ja he käyttäytyvät hyvin höpsösti. Hauskuus menee Popin mielestä liian pitkälle, mutta he pääsevät höpsöpöpsöistä eroon ja saavat Popin taas hyvälle tuulelle.",
+      "start_time": "2025-06-15T07:35:06+03:00",
+      "end_time": "2025-06-15T07:42:16+03:00",
+      "uri": "yleareena://items/1-67709434"
+    },
+    {
+      "id": "1-4664286",
+      "title": "Pikku Kakkonen",
+      "description": "Veera ja Susanna harjoittelevat vuorovaikutustaitoja.",
+      "start_time": "2025-06-15T07:42:16+03:00",
+      "end_time": "2025-06-15T07:44:12+03:00",
+      "uri": "yleareena://items/1-4664286"
+    },
+    {
+      "id": "1-68175171",
+      "title": "Manu Monikone (S)",
+      "description": "Karkuajelu. Risto on suunnitellut kiertoajelun, jossa kuljetaan automaattisilla potkulaudoilla. Niiden kauko-ohjain hajoaa, ja Manu ja Max saavat sännätä karkailevien potkulautojen perään.",
+      "start_time": "2025-06-15T07:44:12+03:00",
+      "end_time": "2025-06-15T07:55:17+03:00",
+      "uri": "yleareena://items/1-68175171"
+    },
+    {
+      "id": "1-2163362",
+      "title": "Oktonautit (S)",
+      "description": "Kausi 2. Oktonautit ja kaino kaskelotti. Peso auttaa nuorta kaskelottia, joka arastelee sukeltamista.",
+      "start_time": "2025-06-15T07:55:17+03:00",
+      "end_time": "2025-06-15T08:06:22+03:00",
+      "uri": "yleareena://items/1-2163362"
+    },
+    {
+      "id": "1-62914298",
+      "title": "HYRRÄ: Tanssivideot",
+      "description": "Kun mä kävelen. Esittäjät Maija Sariola ja Jyri Sariola, sävellys ja sovitus Jyri Sariola, sanat Kaisa Happonen, koreografia Riikka Korpi.",
+      "start_time": "2025-06-15T08:06:22+03:00",
+      "end_time": "2025-06-15T08:08:39+03:00",
+      "uri": "yleareena://items/1-62914298"
+    },
+    {
+      "id": "1-63457236",
+      "title": "Ryhmä Hau (S)",
+      "description": "Kausi 8. Pelastajaritarit: Pennut ja lohikäärmeen hammas. Hurtanlinnan prinsessa lyö Rikun ja pennut ritareiksi. Nokkiinsa ottanut entinen ritari kaappaa lohikäärmeen käskytettäväkseen ja ryhtyy vastatoimiin.",
+      "start_time": "2025-06-15T08:08:39+03:00",
+      "end_time": "2025-06-15T08:31:06+03:00",
+      "uri": "yleareena://items/1-63457236"
+    },
+    {
+      "id": "1-50802703",
+      "title": "Salasaaren seikkailijat",
+      "description": "Kausi 2. Ding dong! Seikkailijat Saku ja Lauri selvittävät, kenelle kuuluu merkillinen matkalaukku, jossa on taikasauva ja partasaippuaa. Maja-Akka tahtoo ottaa omaa aikaa.",
+      "start_time": "2025-06-15T08:31:06+03:00",
+      "end_time": "2025-06-15T08:56:51+03:00",
+      "uri": "yleareena://items/1-50802703"
+    },
+    {
+      "id": "1-71959406",
+      "title": "Nimipäiväonnittelu 15.6.",
+      "description": "Onnea, Vieno, Moona, Viena ja Mona!",
+      "start_time": "2025-06-15T08:56:51+03:00",
+      "end_time": "2025-06-15T08:58:39+03:00",
+      "uri": "yleareena://items/1-71959406"
+    },
+    {
+      "id": "1-4664353",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-15T08:58:39+03:00",
+      "end_time": "2025-06-15T09:00:16+03:00",
+      "uri": "yleareena://items/1-4664353"
+    },
+    {
+      "id": "1-72744228",
+      "title": "Galaxi ",
+      "description": "Koulululaisten oma ohjelma!",
+      "start_time": "2025-06-15T09:00:16+03:00",
+      "end_time": "2025-06-15T09:00:46+03:00",
+      "uri": "yleareena://items/1-72744228"
+    },
+    {
+      "id": "1-50886205",
+      "title": "Näin meillä (7)",
+      "description": "Erittäin salaista. Luukaksen ja Klausin uudessa lempisarjakuvassa seikkailee salainen agentti. Kaverukset ovat varmoja, että Leivon uudet naapurit ovat vakoojia.",
+      "start_time": "2025-06-15T09:00:46+03:00",
+      "end_time": "2025-06-15T09:12:22+03:00",
+      "uri": "yleareena://items/1-50886205"
+    },
+    {
+      "id": "1-50646726",
+      "title": "Keltainen Lumimies (7)",
+      "description": "Jeti-nalle. Valeasun puutteessa Gustav naamioituu nallekarhuksi, jonka Antun vaatelias pikkusisko haluaa ostaa. Pian pikkuinen Veera jo leikkaakin Gustavia kahtia, eikä Osmon auta muu, kuin leikkiä Antun ystävää.",
+      "start_time": "2025-06-15T09:12:22+03:00",
+      "end_time": "2025-06-15T09:24:15+03:00",
+      "uri": "yleareena://items/1-50646726"
+    },
+    {
+      "id": "1-72416766",
+      "title": "Poika, tyttö, koira, kissa, hiiri ja juusto (7)",
+      "description": "Uskomaton Rinkelipoika. Poika riemastuu, kun sporttisankari Mave Päkki pyytää häntä avukseen kisailuohjelmaan, mutta sisarukset aavistelevat, ettei sankarilla ole puhtaita jauhoja pussissan.",
+      "start_time": "2025-06-15T09:24:15+03:00",
+      "end_time": "2025-06-15T09:35:35+03:00",
+      "uri": "yleareena://items/1-72416766"
+    },
+    {
+      "id": "1-67457993",
+      "title": "Eilinen oli leffa (7)",
+      "description": "Elo on kaapattu avaruuteen. Muukalaiset avaruudesta ovat kaapanneet Elon. Kopioimisvimmassaan he näyttävät kopioineen myös Edward-elokuvahiiren. Selviääkö Elo takaisin maahan vai jääkö hän ikuisesti scifi-seikkailuun?",
+      "start_time": "2025-06-15T09:35:35+03:00",
+      "end_time": "2025-06-15T09:40:29+03:00",
+      "uri": "yleareena://items/1-67457993"
+    },
+    {
+      "id": "1-72615313",
+      "title": "Supernormaalia (7)",
+      "description": "Kausi 2, 6/9. Lukas, JG ja Mikko karkaavat yöksi telttailemaan. JG on varma että enneunet liittyvät metsään ja kalliille ghostboxille tulee käyttöä. Yön tunteina retki saa karmean käänteen. Kuvailutulkattu.",
+      "start_time": "2025-06-15T09:40:29+03:00",
+      "end_time": "2025-06-15T09:57:50+03:00",
+      "uri": "yleareena://items/1-72615313"
+    },
+    {
+      "id": "1-4393427",
+      "title": "Yliopistollinen eläinsairaala: Elmo-koira shokkitilassa",
+      "description": "19/40. Pari päivää aiemmin vatsalaukun leikkauksessa ollut landseer Elmo tuodaan päivystykseen shokkitilassa. Eläinsairaalan henkilökunta tekee kaikkensa pelastaakseen Elmon. Klinikkaeläinhoitaja Jenni tuo kissansa Pillin hammashoitoon, ja tukena seuraa koko karvainen perhe. (U)",
+      "start_time": "2025-06-15T10:00:00+03:00",
+      "end_time": "2025-06-15T10:30:00+03:00",
+      "uri": "yleareena://items/1-4393427"
+    },
+    {
+      "id": "1-50647651",
+      "title": "Lauman uusi jäsen",
+      "description": "Osa 2/8. Backströmin perheen lapset saavat kuulla jännittävän uutisen. Ines on vegaani, mutta hänen uusi kissanpentunsa Koivu on puhdas lihansyöjä. Onko kissan tai koiran hankkiminen eettisesti oikein? Tuotanto: Five Corners Production, 2021. (U)",
+      "start_time": "2025-06-15T10:30:00+03:00",
+      "end_time": "2025-06-15T11:00:00+03:00",
+      "uri": "yleareena://items/1-50647651"
+    },
+    {
+      "id": "1-70934287",
+      "title": "Uutta verta eläinpuistossa",
+      "description": "3/7: Susi havaittu. Susien tulevaisuus Langedragin eläinpuistossa täytyy turvata ennen kuin Tuva on valmis luopumaan johtotehtävistä. Uusien susien saaminen osoittautuu kuitenkin arveltua vaikeammaksi.",
+      "start_time": "2025-06-15T11:00:00+03:00",
+      "end_time": "2025-06-15T11:40:00+03:00",
+      "uri": "yleareena://items/1-70934287"
+    },
+    {
+      "id": "1-62711628",
+      "title": "Erityinen kesä",
+      "description": "Kausi 1, osa 2/6. Perhe. Joukko psyykkisesti kehitysvammaisia nuoria kilpailee aikuisten elämään kuuluvissa asioissa. Kuka petaa sängyt nopeimmin? Selviävätkö Stine ja Johnny vauvanuken hoitamisesta? T: UR, Ruotsi, 2022",
+      "start_time": "2025-06-15T11:40:00+03:00",
+      "end_time": "2025-06-15T12:25:00+03:00",
+      "uri": "yleareena://items/1-62711628"
+    },
+    {
+      "id": "1-3988502",
+      "title": "Kekseliäs nikkari",
+      "description": "5/7. Erik perheineen unelmoi omavaraisesta elämästä maatilallaan. Vieraiksi saadaan poni ja aasi. Kanalaan muuttaa kanan- ja kalkkunanpoikia. Postilaatikosta kaivetaan tärkeä kirje: tyssääkö tornihaave byrokratiaan?",
+      "start_time": "2025-06-15T12:25:00+03:00",
+      "end_time": "2025-06-15T13:05:00+03:00",
+      "uri": "yleareena://items/1-3988502"
+    },
+    {
+      "id": "1-50282766",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 10/16. Puoluekartan rajamailla. (U)",
+      "start_time": "2025-06-15T13:05:00+03:00",
+      "end_time": "2025-06-15T13:17:50+03:00",
+      "uri": "yleareena://items/1-50282766"
+    },
+    {
+      "id": "1-50282765",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 11/16. Poliittinen valtayhjiö.(U)",
+      "start_time": "2025-06-15T13:17:50+03:00",
+      "end_time": "2025-06-15T13:32:50+03:00",
+      "uri": "yleareena://items/1-50282765"
+    },
+    {
+      "id": "1-1823480",
+      "title": "Kummeli (7)",
+      "description": "Kausi 4. 5/8. Juhaa sattu leukaan, Likkojen ilta, Musavisa, Aas Weckström kysyy, Esko Mörkö koesoitto, Työsuhdeautojen arvonta ja paljon muuta älämölöä. (U)",
+      "start_time": "2025-06-15T13:30:10+03:00",
+      "end_time": "2025-06-15T13:54:35+03:00",
+      "uri": "yleareena://items/1-1823480"
+    },
+    {
+      "id": "1-1823481",
+      "title": "Kummeli (7)",
+      "description": "Kausi 4. 6/8. Pikaraportti Mauno Ahonen, Älykääpiöt katossa, Musavisa Suomen teurastajien liitto, Tamppaajat, Potilas Saarinen pää irti ja paljon muuta päätöntä. (U)",
+      "start_time": "2025-06-15T13:54:35+03:00",
+      "end_time": "2025-06-15T14:19:16+03:00",
+      "uri": "yleareena://items/1-1823481"
+    },
+    {
+      "id": "1-1929197",
+      "title": "Lomamatka 70-luvulle: Nyt meni hermot!",
+      "description": "5/9. Datsunissa syttyy ilmiriita, mutta onneksi Armi ja Danny auttavat. Kleinbussissa puhutaan politiikkaa. Joensuussa Aijaa odottaa todellinen yllätys. Yöpaikkana Wanha Jokela.(U)",
+      "start_time": "2025-06-15T14:20:00+03:00",
+      "end_time": "2025-06-15T14:50:00+03:00",
+      "uri": "yleareena://items/1-1929197"
+    },
+    {
+      "id": "1-4651116",
+      "title": "Rattikärpäset",
+      "description": "Vappu pyyhkäisee yli Suomen ja Magdalenen autossa isää ei päästetä helpolla. (U)",
+      "start_time": "2025-06-15T14:50:00+03:00",
+      "end_time": "2025-06-15T15:20:00+03:00",
+      "uri": "yleareena://items/1-4651116"
+    },
+    {
+      "id": "1-71015626",
+      "title": "Peltsi ja Osmo",
+      "description": "2/6. Talvipyöräilyn hurmaa. Syötteen kansallispuistossa Peltsi ja Osmo haaveilevat pyöräilystä jäisillä keväthangilla. Lämmin sää uhkaa tuhota suunnitelman. Peltsi opettaa Osmolle puukon käyttöä ja tulentekoa.",
+      "start_time": "2025-06-15T15:20:00+03:00",
+      "end_time": "2025-06-15T15:50:00+03:00",
+      "uri": "yleareena://items/1-71015626"
+    },
+    {
+      "id": "1-4260671",
+      "title": "Elämää meren armoilla",
+      "description": "Kausi 1, 2/6. Kari-Anne on onnistunut jo hankkimaan tilan ja toimeentulon, mutta paljon on vielä opittavaa. Norjalainen kalastaja-maanviljelijä Kari-Anne tekee kaikkensa voidakseen asua Røstin saaren tuulisilla kallioilla. (U)",
+      "start_time": "2025-06-15T15:50:00+03:00",
+      "end_time": "2025-06-15T16:20:17+03:00",
+      "uri": "yleareena://items/1-4260671"
+    },
+    {
+      "id": "1-4546372",
+      "title": "Tuntematon perillinen",
+      "description": "Kausi 1, 4/6. Helena Hurtigin suurin unelma oli rakentaa ikiliikkuja. Löytävätkö Kattis ja Niklas Helenan perilliset sekä ikiliikkujan piirustukset? Kattis Ahlström ja Niklas Källner etsivät käsiinsä yllätysperinnön saavia ihmisiä. (U)",
+      "start_time": "2025-06-15T16:20:17+03:00",
+      "end_time": "2025-06-15T17:20:00+03:00",
+      "uri": "yleareena://items/1-4546372"
+    },
+    {
+      "id": "1-1924796",
+      "title": "Sohvasurffaajat: Libanon 1/2 - Beirutin yö",
+      "description": "Kausi 2, 4/8. Jalla jalla! Sohvasurffaajat suuntaavat Lähi-itään ja aloittavat matkan arabiosuuden Libanonin pääkaupungista Beirutista. Kaduilla törmätään murhaajaan ja biletetään kivenheiton päässä Syyrian sodasta.(U)",
+      "start_time": "2025-06-15T17:20:00+03:00",
+      "end_time": "2025-06-15T17:48:00+03:00",
+      "uri": "yleareena://items/1-1924796"
+    },
+    {
+      "id": "1-50570954",
+      "title": "Peltsin ja Tomin retkeilyvinkit: Rantakalastus",
+      "description": "Rantakalastus on helppoa ja hauskaa. Reippaat miehet Peltsi ja Tom esittelevät tärkeimmät kalastusvarusteet ja heidän suosikkivieheensä. (U)",
+      "start_time": "2025-06-15T17:48:00+03:00",
+      "end_time": "2025-06-15T18:00:00+03:00",
+      "uri": "yleareena://items/1-50570954"
+    },
+    {
+      "id": "1-50328207",
+      "title": "Ei sosiaaliselle medialle",
+      "description": "Useimmat julkisuuden henkilöt käyttävät sosiaalista mediaa apuna uraansa luodessaan, mutta ruotsalaisnäyttelijä Adam Lundgren on kulkenut vastavirtaan. Hän on aina suhtautunut someen skeptisesti ja pelännyt sen vaikutuksia itseensä ja koko maailmaan. Viime vuosina hän on saanut vettä myllyynsä, kun monet tekniikkagurutkin varoittelevat siitä, mitä ovat itse olleet luomassa. Adam lähtee pimeyden ytimeen Kalifornian Silicon Valleyyn nuuskimaan. Mitä siellä tiedetään, mitä me emme tiedä? Adam myös haastaa itsensä ja ennakkoluulonsa ja kokeilee Instagramia. Rakastuuko hän siihen? Ruotsalainen dokumentti vuodelta 2019.",
+      "start_time": "2025-06-15T18:00:00+03:00",
+      "end_time": "2025-06-15T18:41:48+03:00",
+      "uri": "yleareena://items/1-50328207"
+    },
+    {
+      "id": "1-50885580",
+      "title": "Runo: Yö",
+      "description": "YleX Nosteessa -kilpailun voittaneen Runon liveversio kappaleestaan Yö YleXPop-virtuaalifestivaalilla kesäkuussa 2021. Tummasävyisessä spoken word -kappaleessa nähtiin tyylikäs tanssiesitys.",
+      "start_time": "2025-06-15T18:41:48+03:00",
+      "end_time": "2025-06-15T18:47:00+03:00",
+      "uri": "yleareena://items/1-50885580"
+    },
+    {
+      "id": "1-4469155",
+      "title": "Ellan matkassa: roomalaisten jäljillä",
+      "description": "Kausi 2, 3/7. Pähkinähiirtä ja musikaaleja. Ellan matka jatkuu Trentoon, joka oli legioonalaisten risteys- ja leiripaikka. Käveltyään yli 2000 vuotta vanhaa kivetystä Ella jatkaa Alppien yli Saksaan ja pysähtyy Tonavalle. (U)",
+      "start_time": "2025-06-15T18:47:00+03:00",
+      "end_time": "2025-06-15T19:14:34+03:00",
+      "uri": "yleareena://items/1-4469155"
+    },
+    {
+      "id": "1-4469153",
+      "title": "Ellan matkassa: roomalaisten jäljillä",
+      "description": "Kausi 2, 4/7. Legioonalaisia ja parsaa. Ellan matka Rooman germaaniprovinsseissa etenee Etelä-Saksassa. Näillä seuduilla antiikin perintö on vahvasti läsnä. Ella vierailee mm. roomalaisjuhlissa. (U)",
+      "start_time": "2025-06-15T19:14:34+03:00",
+      "end_time": "2025-06-15T19:45:00+03:00",
+      "uri": "yleareena://items/1-4469153"
+    },
+    {
+      "id": "1-71677299",
+      "title": "Maailman kauneimmat junareitit",
+      "description": "Kausi 2B, 6/11. Indian Pacific, Australia. Indian Pacific -juna kulkee Sydneystä Blue Mountains -vuoriston, Bathurstin, Parkesin, Broken Hillin ja Clare Valleyn kautta Adelaiden kaupunkiin.",
+      "start_time": "2025-06-15T19:45:00+03:00",
+      "end_time": "2025-06-15T20:30:00+03:00",
+      "uri": "yleareena://items/1-71677299"
+    },
+    {
+      "id": "1-67459669",
+      "title": "Mökkilaiturit kuntoon",
+      "description": "Kausi 1, 8/8. Lohduttavat muistot. Smithien mökki sijaitsee 800 neliömetrin saarella. He toivovat terassia ja laituria rentoutumiseen ja juhlimiseen. (U)",
+      "start_time": "2025-06-15T20:30:00+03:00",
+      "end_time": "2025-06-15T20:55:02+03:00",
+      "uri": "yleareena://items/1-67459669"
+    },
+    {
+      "id": "1-2185456",
+      "title": "Tarinoita järviltä",
+      "description": "Telkkä. Telkkäperheen elämää järvillä. KK: Maija Flinkman. O: Marko Röhr. T: MRP Matila Röhr Productions Oy. (U)",
+      "start_time": "2025-06-15T20:55:02+03:00",
+      "end_time": "2025-06-15T21:00:00+03:00",
+      "uri": "yleareena://items/1-2185456"
+    },
+    {
+      "id": "1-72495985",
+      "title": "Äärioikeiston ytimessä",
+      "description": "Brittiläinen HOPE not hate -järjestön salaa kuvaama materiaali näyttää äärioikeiston toiminnan Britanniassa ja Euroopassa. Dokumentti paljastaa äärioikeiston toimintaa Britanniassa ja Euroopassa sekä heidän rasistiset näkemyksensä ja mediataktiikkansa. Se nostaa esiin äärioikeiston tarkoitushakuisen vihaa lietsovan toiminnan, joka yllyttää väkivaltaan, sekä paljastaa Piilaaksossa toimivan rahoittajan, joka tukee virheellistä/valheellista rotuoppia levittävää verkkoalustaa. (Undercover: Exposing the far right, Briannia, 2024)",
+      "start_time": "2025-06-15T21:00:00+03:00",
+      "end_time": "2025-06-15T22:40:00+03:00",
+      "uri": "yleareena://items/1-72495985"
+    },
+    {
+      "id": "1-50973706",
+      "title": "Viikinki (12)",
+      "description": "Tony Halme loi itsestään myyttisen Viikingin, joka niitti mainetta kehässä, politiikassa ja julkisuudessa. O: Lauri Anssi Moilanen ja Olli Vuokko T: Danish Bear Productions (Suomi 2022) Kuvailutulkattu. (U)",
+      "start_time": "2025-06-15T22:40:00+03:00",
+      "end_time": "2025-06-16T00:09:46+03:00",
+      "uri": "yleareena://items/1-50973706"
+    }
+  ]
+}

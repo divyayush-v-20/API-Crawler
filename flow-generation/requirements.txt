@@ -1,0 +1,10 @@
+requests
+pytest
+PyYAML
+jsonschema
+loguru
+langchain
+langchain_aws
+bs4
+configparser
+dotenv

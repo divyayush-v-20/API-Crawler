@@ -1,0 +1,238 @@
+{
+  "channel": "tv-finland",
+  "date": "2025-06-12",
+  "programs": [
+    {
+      "id": "1-4058142",
+      "title": "Suomi on suomalainen",
+      "description": "8/10 Talous. Miten maasta, jossa oli Manner-Euroopan viimeinen nälänhätä, tuli yksi maailman vauraimmista, onnellisimmista ja turvallisimmista maista? Haastateltavana mm. professori Sixten Korkman. (U)",
+      "start_time": "2025-06-12T09:00:00+03:00",
+      "end_time": "2025-06-12T09:30:00+03:00",
+      "uri": "yleareena://items/1-4058142"
+    },
+    {
+      "id": "1-72547363",
+      "title": "Yle Uutiset Uusimaa",
+      "description": "Uutisia Uudeltamaalta",
+      "start_time": "2025-06-12T11:00:00+03:00",
+      "end_time": "2025-06-12T11:03:00+03:00",
+      "uri": "yleareena://items/1-72547363"
+    },
+    {
+      "id": "1-72549460",
+      "title": "Yle Uutiset Kaakkois-Suomi",
+      "description": "Uutisia Kaakkois-Suomesta",
+      "start_time": "2025-06-12T11:03:00+03:00",
+      "end_time": "2025-06-12T11:06:00+03:00",
+      "uri": "yleareena://items/1-72549460"
+    },
+    {
+      "id": "1-72549774",
+      "title": "Yle Uutiset Lounais-Suomi",
+      "description": "Uutisia Lounais-Suomesta",
+      "start_time": "2025-06-12T11:06:00+03:00",
+      "end_time": "2025-06-12T11:09:00+03:00",
+      "uri": "yleareena://items/1-72549774"
+    },
+    {
+      "id": "1-72551510",
+      "title": "Yle Uutiset Häme",
+      "description": "Uutisia Kanta- ja Päijät-Hämeestä",
+      "start_time": "2025-06-12T11:09:00+03:00",
+      "end_time": "2025-06-12T11:12:00+03:00",
+      "uri": "yleareena://items/1-72551510"
+    },
+    {
+      "id": "1-72547751",
+      "title": "Yle Uutiset Pirkanmaa",
+      "description": "Uutisia Pirkanmaalta",
+      "start_time": "2025-06-12T11:12:00+03:00",
+      "end_time": "2025-06-12T11:15:00+03:00",
+      "uri": "yleareena://items/1-72547751"
+    },
+    {
+      "id": "1-72546290",
+      "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+      "description": "Uutisia Keski-Suomeen ja Etelä-Savoon",
+      "start_time": "2025-06-12T11:15:00+03:00",
+      "end_time": "2025-06-12T11:18:00+03:00",
+      "uri": "yleareena://items/1-72546290"
+    },
+    {
+      "id": "1-72549202",
+      "title": "Yle Uutiset Itä-Suomi",
+      "description": "Uutisia Itä-Suomesta",
+      "start_time": "2025-06-12T11:18:00+03:00",
+      "end_time": "2025-06-12T11:21:00+03:00",
+      "uri": "yleareena://items/1-72549202"
+    },
+    {
+      "id": "1-72551050",
+      "title": "Yle Uutiset Pohjanmaa",
+      "description": "Uutisia Pohjanmaalta",
+      "start_time": "2025-06-12T11:21:00+03:00",
+      "end_time": "2025-06-12T11:23:59+03:00",
+      "uri": "yleareena://items/1-72551050"
+    },
+    {
+      "id": "1-72550174",
+      "title": "Yle Uutiset Pohjois-Suomi",
+      "description": "Uutisia Pohjois-Suomesta",
+      "start_time": "2025-06-12T11:23:59+03:00",
+      "end_time": "2025-06-12T11:26:59+03:00",
+      "uri": "yleareena://items/1-72550174"
+    },
+    {
+      "id": "1-72552287",
+      "title": "Yle Uutiset Lappi",
+      "description": "Uutisia Lapista",
+      "start_time": "2025-06-12T11:26:59+03:00",
+      "end_time": "2025-06-12T11:29:59+03:00",
+      "uri": "yleareena://items/1-72552287"
+    },
+    {
+      "id": "1-72548163",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-12T11:29:59+03:00",
+      "end_time": "2025-06-12T11:34:29+03:00",
+      "uri": "yleareena://items/1-72548163"
+    },
+    {
+      "id": "1-72547960",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-12T11:34:29+03:00",
+      "end_time": "2025-06-12T11:50:00+03:00",
+      "uri": "yleareena://items/1-72547960"
+    },
+    {
+      "id": "1-2233078",
+      "title": "Kandit",
+      "description": "Kausi 2, 7/8. Miska joutuu pohtimaan osaston rauhaan vaikuttavaa asiaa. Erikan potilas on kadoksissa. Jussi joutuu irroittamaan vieheen potilaan sormesta. Heikillä on potilas hoitokodissa. yle.fi/kandit (U)",
+      "start_time": "2025-06-12T13:20:00+03:00",
+      "end_time": "2025-06-12T13:50:00+03:00",
+      "uri": "yleareena://items/1-2233078"
+    },
+    {
+      "id": "1-72482592",
+      "title": "Jumppahetki",
+      "description": "Alkuun ryhtilihasten venyttely ja rentoutus. Pakaran venytyksissä istutaan lattialla tai tuolilla.",
+      "start_time": "2025-06-12T13:50:00+03:00",
+      "end_time": "2025-06-12T14:00:00+03:00",
+      "uri": "yleareena://items/1-72482592"
+    },
+    {
+      "id": "1-826096",
+      "title": "Anu ja Mikko (S)",
+      "description": "Anu ja Mikko on kertomus karjalaispuuseppä Mikosta ja hänen soreasta rakastetustaan Anusta. O: Ville Salminen. N: Marjatta Kallio, Sakari Jurkka, Kerttu Salmi, Vilho Siivola (1956) (Mv) (U)",
+      "start_time": "2025-06-12T14:00:00+03:00",
+      "end_time": "2025-06-12T15:35:00+03:00",
+      "uri": "yleareena://items/1-826096"
+    },
+    {
+      "id": "1-908286",
+      "title": "Petoeläinten paratiisi",
+      "description": "Kari Kemppainen on kuvannut suurpetoja Itä-Suomessa viitisentoista vuotta. Karhuja, susia, ahmoja ja ilveksiä vainottiin pitkään, mutta nyt määrä on kasvanut (2006). (U)",
+      "start_time": "2025-06-12T15:35:00+03:00",
+      "end_time": "2025-06-12T16:26:43+03:00",
+      "uri": "yleareena://items/1-908286"
+    },
+    {
+      "id": "1-1627922",
+      "title": "Nimipäiväonnittelu: 12.6.",
+      "description": "Onnea, Esko!",
+      "start_time": "2025-06-12T17:00:00+03:00",
+      "end_time": "2025-06-12T17:05:00+03:00",
+      "uri": "yleareena://items/1-1627922"
+    },
+    {
+      "id": "1-2185362",
+      "title": "Latela",
+      "description": "Kausi 2, 1/9. YleX tilaa Lateloilta avolava-auton Justin Bieberin etkoille. Pojilla on vaivaiset 21 päivää aikaa rakentaa tyylikäs pick-up. (U)",
+      "start_time": "2025-06-12T18:00:00+03:00",
+      "end_time": "2025-06-12T18:30:00+03:00",
+      "uri": "yleareena://items/1-2185362"
+    },
+    {
+      "id": "1-62827692",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "1/8. Samuel ja Filippa saavat hälytyksen elottomasta henkilöstä. Emmi ja Oskar huolehtivat bussin lattialle tuupertuneesta. Paloasemalla harjoitellaan savusukellusta palavaan konttiin, ja poliisi hälytetään teräaseella uhatun nuoren luokse. (U)(2022)",
+      "start_time": "2025-06-12T18:30:00+03:00",
+      "end_time": "2025-06-12T19:00:00+03:00",
+      "uri": "yleareena://items/1-62827692"
+    },
+    {
+      "id": "1-1095361",
+      "title": "10 kirjaa rahasta",
+      "description": "Kirjasarjan ensimmäisessä jaksossa poliitikko Sauli Niinistö keskustelee ranskalaisen Honoré de Balzacin romaanista Ukko Goriot Anna Kortelaisen ja Timo Harakan seurassa. (2011)(U)",
+      "start_time": "2025-06-12T19:00:00+03:00",
+      "end_time": "2025-06-12T19:30:00+03:00",
+      "uri": "yleareena://items/1-1095361"
+    },
+    {
+      "id": "1-71958246",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-12T19:30:00+03:00",
+      "end_time": "2025-06-12T19:55:00+03:00",
+      "uri": "yleareena://items/1-71958246"
+    },
+    {
+      "id": "1-74390996",
+      "title": "Kesäkasvo",
+      "description": "Yle täyttää ensi vuonna 100 vuotta ja sen kunniaksi Yle on tilannut tutkimuksen Ylen luovan ohjelmatyön historiasta. Tutkimus julkaistaan tänään, ja kesäkasvona on sen parissa työskennellyt mediatutkija Anu Koivunen.",
+      "start_time": "2025-06-12T19:55:00+03:00",
+      "end_time": "2025-06-12T20:05:00+03:00",
+      "uri": "yleareena://items/1-74390996"
+    },
+    {
+      "id": "1-50612303",
+      "title": "Modernit miehet (12)",
+      "description": "Kausi 3, 9/12. Matti ja Taina tutustuvat dynaamiseen Heikkisten perheeseen. Kohtaaminen horjuttaa Matin uskoa jälkikasvunsa potentiaaliin elämän globaalilla pelikentällä. (U)",
+      "start_time": "2025-06-12T20:05:00+03:00",
+      "end_time": "2025-06-12T20:29:55+03:00",
+      "uri": "yleareena://items/1-50612303"
+    },
+    {
+      "id": "1-72361849",
+      "title": "Yle Uutiset 20.30",
+      "description": "",
+      "start_time": "2025-06-12T20:29:55+03:00",
+      "end_time": "2025-06-12T20:55:00+03:00",
+      "uri": "yleareena://items/1-72361849"
+    },
+    {
+      "id": "1-72256234",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-12T20:55:00+03:00",
+      "end_time": "2025-06-12T21:05:00+03:00",
+      "uri": "yleareena://items/1-72256234"
+    },
+    {
+      "id": "1-72480955",
+      "title": "A-studio",
+      "description": "Suomi on tekemässä historiallisia päätöksiä puolustusmenojen nostosta pikaisella aikataululla. Iskikö vauhtisokeus? Studiossa puolustusministeri Antti Häkkänen (kok.) ja entinen puolustusministeri Antti Kaikkonen (kesk.). Usealla vaalikaudella kiistelty saamelaiskäräjälain uudistus etenee eduskunnassa. Parantaako se saamelaisten oikeuksia? Aiheesta keskustelemassa perustuslakivaliokunnan puheenjohtaja Heikki Vestman (kok.), kansanedustaja Johanna Ojala-Niemelä (sd.) ja saamelaiskäräjien varapuheenjohtaja Tuomas Aslak Juuso. Juontajana Matti Koivisto.",
+      "start_time": "2025-06-12T21:05:00+03:00",
+      "end_time": "2025-06-12T21:40:57+03:00",
+      "uri": "yleareena://items/1-72480955"
+    },
+    {
+      "id": "1-1343769",
+      "title": "Karjalan kunnailla (7)",
+      "description": "Kausi 3, 3/12. Salaperäinen nainen, sopimuksia salassa ja rakkauskirje. Vilman kaivausten syy paljastuu. Jake sotkee asioitaan, ja Kirstille saapuu rakkauskirje. T: Selkie-Filmi Oy. (U)",
+      "start_time": "2025-06-12T21:40:00+03:00",
+      "end_time": "2025-06-12T22:30:00+03:00",
+      "uri": "yleareena://items/1-1343769"
+    },
+    {
+      "id": "1-64877957",
+      "title": "Raha-Suomi: Nörttien kosto",
+      "description": "2/8. Nörtit ovat maailmanvaltiaita. Kaikki alkoi kun Commodore 64 tuli ja muutti koulukiusattujen teinien elämän. Ilkka Paananen, Sami Järvi, Jussi Laakkonen ja Samuli Syvähuoko kertovat miten nousivat maailman huipulle.",
+      "start_time": "2025-06-12T22:30:00+03:00",
+      "end_time": "2025-06-12T23:28:46+03:00",
+      "uri": "yleareena://items/1-64877957"
+    }
+  ]
+}

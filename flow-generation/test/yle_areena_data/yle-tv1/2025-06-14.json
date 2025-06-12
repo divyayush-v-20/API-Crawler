@@ -1,0 +1,390 @@
+{
+  "channel": "yle-tv1",
+  "date": "2025-06-14",
+  "programs": [
+    {
+      "id": "1-50539106",
+      "title": "Kadonneet perijät",
+      "description": "2/4. Yli kolme miljoonaa Tanskan kruunua päätyy Sveitsin valtion kassaan, elleivät Mette Frisk ja Adam Jon Kronegh löydä tanskalaiselle Doralle perillistä. Doran isä lähti aikoinaan ulkomaille Tanskasta, joten etsintä aloitetaan sieltä. Yllätyksiä täynnä oleva matka vie Metten ja Adamin lopulta Atlantin toiselle puolelle. T: DR, 2020. (U)",
+      "start_time": "2025-06-14T07:00:00+03:00",
+      "end_time": "2025-06-14T08:00:00+03:00",
+      "uri": "yleareena://items/1-50539106"
+    },
+    {
+      "id": "1-72364472",
+      "title": "Yle Uutiset 8.00",
+      "description": "",
+      "start_time": "2025-06-14T08:00:00+03:00",
+      "end_time": "2025-06-14T08:05:00+03:00",
+      "uri": "yleareena://items/1-72364472"
+    },
+    {
+      "id": "1-67413608",
+      "title": "Prisma: Concorden tuntematon tarina",
+      "description": "2/2. Viimeinen lento. Jumbo Jet Boeing 747 reittilennot alkoivat vuonna 1970, Pariisin ilmailunäytöksessä vuonna 1973 Tupolevin kone syöksyi maahan ja vuonna 1976 Concorde aloitti reittilennot, jotka jatkuivat vuoteen 2003 asti. Kilpajuoksu kehittää ensimmäinen yliääninen matkustajakone oli 1960-luvulla kovaa ja siihen kytkeytyi kylmä sota, vakoilua ja suurvaltapolitiikkaa. Eurooppalainen Concorde, neuvostoliittolainen Tupolev ja amerikkalainen Boeing halusivat kaikki ensimmäisenä kuljettaa matkustajia yliäänennopeudella maanosasta toiseen. (U)",
+      "start_time": "2025-06-14T08:05:00+03:00",
+      "end_time": "2025-06-14T08:54:05+03:00",
+      "uri": "yleareena://items/1-67413608"
+    },
+    {
+      "id": "1-4575987",
+      "title": "Tarinoita tuntureilta (S)",
+      "description": "Yötön yö ja kesä. Lapin kesä on lyhyt mutta intensiivinen ja se on täynnä valoa. Keskikesällä aurinko on horisontin yläpuolella yölläkin eikä siis vuorokauden aikana laske lainkaan. T: MRP Matila Röhr Productions Oy (U)",
+      "start_time": "2025-06-14T08:54:05+03:00",
+      "end_time": "2025-06-14T09:00:00+03:00",
+      "uri": "yleareena://items/1-4575987"
+    },
+    {
+      "id": "1-72405938",
+      "title": "Yle Uutiset 9.00",
+      "description": "",
+      "start_time": "2025-06-14T09:00:00+03:00",
+      "end_time": "2025-06-14T09:05:00+03:00",
+      "uri": "yleareena://items/1-72405938"
+    },
+    {
+      "id": "1-71074225",
+      "title": "Historia: Titanic väreissä",
+      "description": "2/2 Viimeiset hetket. Miten Titanicin viimeinen päivä ennen uppoamista sujui? Miten matkustajat viettivät aikaansa? Ohjelmassa perehdytään väritetyn arkistomateriaalin avulla Titanicin sisustukseen, sen matkustajiin, henkilökuntaan ja elämään laivalla. Kun Titanic upposi 15.4.1912 koko maailma oli kauhuissaan, miten näin loistelias alus saattoi upota meren syvyyksiin vieden mukanaan noin 1500 ihmistä.",
+      "start_time": "2025-06-14T09:05:00+03:00",
+      "end_time": "2025-06-14T09:54:10+03:00",
+      "uri": "yleareena://items/1-71074225"
+    },
+    {
+      "id": "1-2185468",
+      "title": "Tarinoita järviltä",
+      "description": "Sorsat. Sinisorsa, haapana ja lapasorsa ovat puolisukeltajia. KK: Maija Flinkman. O: Marko Röhr. T: MRP Matila Röhr Productions Oy. (U)",
+      "start_time": "2025-06-14T09:54:10+03:00",
+      "end_time": "2025-06-14T10:00:00+03:00",
+      "uri": "yleareena://items/1-2185468"
+    },
+    {
+      "id": "1-72405985",
+      "title": "Yle Uutiset 10.00",
+      "description": "",
+      "start_time": "2025-06-14T10:00:00+03:00",
+      "end_time": "2025-06-14T10:05:00+03:00",
+      "uri": "yleareena://items/1-72405985"
+    },
+    {
+      "id": "1-67957870",
+      "title": "Unelmapuutarha",
+      "description": "Kausi 1, 2/4: Alati kasvava kukkapenkki. Johan löytää Smålandissa uuden intohimonsa - puutarhanhoidon! Hän muuttaa valtavan nurmikentän jättimäiseksi kukkapenkiksi ja luo isolle tontille useita erilaisia tiloja.",
+      "start_time": "2025-06-14T10:05:00+03:00",
+      "end_time": "2025-06-14T11:05:10+03:00",
+      "uri": "yleareena://items/1-67957870"
+    },
+    {
+      "id": "1-72547383",
+      "title": "Yle Uutiset Uusimaa",
+      "description": "Uutisia Uudeltamaalta",
+      "start_time": "2025-06-14T11:10:00+03:00",
+      "end_time": "2025-06-14T11:13:00+03:00",
+      "uri": "yleareena://items/1-72547383"
+    },
+    {
+      "id": "1-72549370",
+      "title": "Yle Uutiset Kaakkois-Suomi",
+      "description": "Uutisia Kaakkois-Suomesta",
+      "start_time": "2025-06-14T11:13:00+03:00",
+      "end_time": "2025-06-14T11:16:00+03:00",
+      "uri": "yleareena://items/1-72549370"
+    },
+    {
+      "id": "1-72549749",
+      "title": "Yle Uutiset Lounais-Suomi",
+      "description": "Uutisia Lounais-Suomesta",
+      "start_time": "2025-06-14T11:16:00+03:00",
+      "end_time": "2025-06-14T11:19:00+03:00",
+      "uri": "yleareena://items/1-72549749"
+    },
+    {
+      "id": "1-72551675",
+      "title": "Yle Uutiset Häme",
+      "description": "Uutisia Kanta- ja Päijät-Hämeestä",
+      "start_time": "2025-06-14T11:19:00+03:00",
+      "end_time": "2025-06-14T11:22:00+03:00",
+      "uri": "yleareena://items/1-72551675"
+    },
+    {
+      "id": "1-72547841",
+      "title": "Yle Uutiset Pirkanmaa",
+      "description": "Uutisia Pirkanmaalta",
+      "start_time": "2025-06-14T11:22:00+03:00",
+      "end_time": "2025-06-14T11:25:00+03:00",
+      "uri": "yleareena://items/1-72547841"
+    },
+    {
+      "id": "1-72546250",
+      "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+      "description": "Uutisia Keski-Suomeen ja Etelä-Savoon",
+      "start_time": "2025-06-14T11:25:00+03:00",
+      "end_time": "2025-06-14T11:28:00+03:00",
+      "uri": "yleareena://items/1-72546250"
+    },
+    {
+      "id": "1-72549141",
+      "title": "Yle Uutiset Itä-Suomi",
+      "description": "Uutisia Itä-Suomesta",
+      "start_time": "2025-06-14T11:28:00+03:00",
+      "end_time": "2025-06-14T11:31:00+03:00",
+      "uri": "yleareena://items/1-72549141"
+    },
+    {
+      "id": "1-72551075",
+      "title": "Yle Uutiset Pohjanmaa",
+      "description": "Uutisia Pohjanmaalta",
+      "start_time": "2025-06-14T11:31:00+03:00",
+      "end_time": "2025-06-14T11:34:00+03:00",
+      "uri": "yleareena://items/1-72551075"
+    },
+    {
+      "id": "1-72550148",
+      "title": "Yle Uutiset Pohjois-Suomi",
+      "description": "Uutisia Pohjois-Suomesta",
+      "start_time": "2025-06-14T11:34:00+03:00",
+      "end_time": "2025-06-14T11:37:00+03:00",
+      "uri": "yleareena://items/1-72550148"
+    },
+    {
+      "id": "1-72552663",
+      "title": "Yle Uutiset Lappi",
+      "description": "Uutisia Lapista",
+      "start_time": "2025-06-14T11:37:00+03:00",
+      "end_time": "2025-06-14T11:40:00+03:00",
+      "uri": "yleareena://items/1-72552663"
+    },
+    {
+      "id": "1-72548168",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-14T11:40:00+03:00",
+      "end_time": "2025-06-14T11:44:30+03:00",
+      "uri": "yleareena://items/1-72548168"
+    },
+    {
+      "id": "1-72548109",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-14T11:44:30+03:00",
+      "end_time": "2025-06-14T12:00:10+03:00",
+      "uri": "yleareena://items/1-72548109"
+    },
+    {
+      "id": "1-4347269",
+      "title": "Elävät puut",
+      "description": "Osa 4/4. Puiden elämässä kaikki on hidastettua, myös vanheneminen. Ne voivat elää satoja, jopa tuhansia vuosia. Suomen virallisesti vanhin elossa oleva puu löytyy Lapista. Mikä on puiden salaisuus pitkään ikään? (U)",
+      "start_time": "2025-06-14T12:00:10+03:00",
+      "end_time": "2025-06-14T12:30:00+03:00",
+      "uri": "yleareena://items/1-4347269"
+    },
+    {
+      "id": "1-72268385",
+      "title": "RSO Musiikkitalossa",
+      "description": "Nicholas Collon, kapellimestari, Jenny Carlstedt, mezzosopraano, Gabriel Kivivuori, baritoni, sekä Musiikkitalon kuoro ja Helsingin kamarikuoro. - Maurice Duruflé: Requiem. Taltioitu Musiikkitalossa 7.5.2025.",
+      "start_time": "2025-06-14T12:30:00+03:00",
+      "end_time": "2025-06-14T13:20:15+03:00",
+      "uri": "yleareena://items/1-72268385"
+    },
+    {
+      "id": "1-50104895",
+      "title": "Egenlandin matkakohteet: Jäppilänniemen taidetie Imatralla",
+      "description": "Tavallisesta maalaismaisemasta saa hauskemman, kun kylätien varteen pystyttää taideteoksia. Näin on tehty jo reilun kymmenen vuoden ajan Imatran Jäppilänniemessä, ja taidetta tullaan katsomaan kauempaakin. (U)",
+      "start_time": "2025-06-14T13:20:15+03:00",
+      "end_time": "2025-06-14T13:30:20+03:00",
+      "uri": "yleareena://items/1-50104895"
+    },
+    {
+      "id": "1-50500896",
+      "title": "Ahvenanmaan sankarit",
+      "description": "7/8. Timo Ahvenanmaan poliisista hälytetään paikalle rauhoittamaan tappelua ja selvittämään, mitä oikein on tapahtunut. Merivartioston puolella Jonas kollegoineen avustaa purjevenettä, jonka sähköinen navigointilaite ei toimi sähkövian vuoksi. Niinpä alus on eksyksissä avomerellä. (U)",
+      "start_time": "2025-06-14T13:30:20+03:00",
+      "end_time": "2025-06-14T13:59:00+03:00",
+      "uri": "yleareena://items/1-50500896"
+    },
+    {
+      "id": "1-50500891",
+      "title": "Ahvenanmaan sankarit",
+      "description": "8/8. Ahvenanmaan poliisissa Nicolai lähtee kohti omakotitaloalueella pidettäviä kovaäänisiä kotibileitä, joissa on mukana alaikäisiä päihtyneitä. Hänen kollegansa Timo puntaroi koronapandemian johdosta tehtyä päätöstä. (U)",
+      "start_time": "2025-06-14T13:59:00+03:00",
+      "end_time": "2025-06-14T14:30:00+03:00",
+      "uri": "yleareena://items/1-50500891"
+    },
+    {
+      "id": "1-50277853",
+      "title": "Luontopäiväkirja",
+      "description": "Toukokuun ihanuutta. Ruotsalainen luontodokumenttisarja.",
+      "start_time": "2025-06-14T14:30:00+03:00",
+      "end_time": "2025-06-14T14:39:15+03:00",
+      "uri": "yleareena://items/1-50277853"
+    },
+    {
+      "id": "1-50277856",
+      "title": "Luontopäiväkirja",
+      "description": "Kesäkuun herkkyyttä. Ruotsalainen luontodokumenttisarja.",
+      "start_time": "2025-06-14T14:39:15+03:00",
+      "end_time": "2025-06-14T14:50:05+03:00",
+      "uri": "yleareena://items/1-50277856"
+    },
+    {
+      "id": "1-72406275",
+      "title": "Luonto palaa",
+      "description": "5/5 Irti kahleista. Suomi oli pitkään suo-ojien luvattu maa. Nyt kosteikkoja yritetään ennallistaa, jotta jokien ja järvien kunto paranisi. Saako luonto mahdollisuuden toipua ihmisen aiheuttaman tuhon jäljiltä?",
+      "start_time": "2025-06-14T14:50:05+03:00",
+      "end_time": "2025-06-14T15:25:00+03:00",
+      "uri": "yleareena://items/1-72406275"
+    },
+    {
+      "id": "1-68346702",
+      "title": "Puoli seiskan kesäilta",
+      "description": "Valoa, kesäihmisiä, paikallisia erikoisuuksia ja lavatanssitunnelmaa Mikko Kekäläisen ja Tuulianna Tolan seurassa Ämyrin lavalla Somerolla. Kansaa tanssittavat suosikkiyhtyeet Taikakuu ja Sinitaivas.",
+      "start_time": "2025-06-14T15:25:00+03:00",
+      "end_time": "2025-06-14T16:25:05+03:00",
+      "uri": "yleareena://items/1-68346702"
+    },
+    {
+      "id": "1-50776838",
+      "title": "Höyhensarja",
+      "description": "2/8. Fuck yksinäisyys! Enkelit keksivät, että kaupunkilaiset ovat yksinäisiä ja päättävät auttaa. He järjestävät ravintolassa speed dating-illan. Heliel panee parastaan ja hermostuttaa Rafun.",
+      "start_time": "2025-06-14T16:25:05+03:00",
+      "end_time": "2025-06-14T16:46:55+03:00",
+      "uri": "yleareena://items/1-50776838"
+    },
+    {
+      "id": "1-72844931",
+      "title": "Kirjava luonto",
+      "description": "Kausi 1, 17/20. Hedelmälepakot. Tutustu hedelmälepakkoon ja sen siipiin.",
+      "start_time": "2025-06-14T16:46:55+03:00",
+      "end_time": "2025-06-14T16:50:00+03:00",
+      "uri": "yleareena://items/1-72844931"
+    },
+    {
+      "id": "1-72625528",
+      "title": "Novosti Yle",
+      "description": "",
+      "start_time": "2025-06-14T16:50:00+03:00",
+      "end_time": "2025-06-14T16:55:00+03:00",
+      "uri": "yleareena://items/1-72625528"
+    },
+    {
+      "id": "1-72475770",
+      "title": "Yle Uutiset viittomakielellä",
+      "description": "",
+      "start_time": "2025-06-14T16:55:00+03:00",
+      "end_time": "2025-06-14T17:00:00+03:00",
+      "uri": "yleareena://items/1-72475770"
+    },
+    {
+      "id": "1-71641477",
+      "title": "Yle Uutiset 17.00",
+      "description": "",
+      "start_time": "2025-06-14T17:00:00+03:00",
+      "end_time": "2025-06-14T17:08:00+03:00",
+      "uri": "yleareena://items/1-71641477"
+    },
+    {
+      "id": "1-66087140",
+      "title": "Neiti Scarlet ja Herttua (12)",
+      "description": "Kausi 2, 4/6. Helvetin enkeli. Eliza palkataan selvittämään mustamaalaustapausta lääketieteen saralla. Tapauksen selvittämisen lisäksi hän tapaa suuren etsivätoimiston omistajan, jolla on oma ajatus Elizan toiminnan jatkumisesta. (U)",
+      "start_time": "2025-06-14T17:08:00+03:00",
+      "end_time": "2025-06-14T18:00:00+03:00",
+      "uri": "yleareena://items/1-66087140"
+    },
+    {
+      "id": "1-72264560",
+      "title": "Yle Uutiset 18.00",
+      "description": "",
+      "start_time": "2025-06-14T18:00:00+03:00",
+      "end_time": "2025-06-14T18:10:00+03:00",
+      "uri": "yleareena://items/1-72264560"
+    },
+    {
+      "id": "1-72256452",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-14T18:10:00+03:00",
+      "end_time": "2025-06-14T18:15:00+03:00",
+      "uri": "yleareena://items/1-72256452"
+    },
+    {
+      "id": "1-73593869",
+      "title": "Uusi elämä Norlannissa",
+      "description": "2/6. Lilian ja Taz ovat löytäneet talon. Elämä Tornionlaaksossa työn ja lasten kanssa olisi melko tavalla sujuvampaa, jos Taz läpäisisi ajokokeen. Tutustumme myös sveitsiläiseen pariskuntaan Marciin ja Racheliin.",
+      "start_time": "2025-06-14T18:15:00+03:00",
+      "end_time": "2025-06-14T18:45:07+03:00",
+      "uri": "yleareena://items/1-73593869"
+    },
+    {
+      "id": "1-65454873",
+      "title": "Avara luonto: Tarunhohtoinen Pohjola",
+      "description": "1/3. Merten armoilla. Sarjassa tutustumme pohjoismaiden ainutlaatuiseen luontoon, rannikolta sisämaahan, Islannin tulivuorista Lofoottien vuodenaikojen kiertoon ja metsien uumeniin. Näemme miten eläimet ovat sopeutuneet eri vuodenaikoihin ja pärjäävät vaativissakin olosuhteissa maalla, meressä ja ilmassa. (U)",
+      "start_time": "2025-06-14T18:45:07+03:00",
+      "end_time": "2025-06-14T19:37:00+03:00",
+      "uri": "yleareena://items/1-65454873"
+    },
+    {
+      "id": "1-2254522",
+      "title": "Tarinoita metsästä: Kuukkeli kesällä",
+      "description": "3/20. Kuusimetsän vanha ja uskollinen. O: Kim Saarniluoto. T: Matila Röhr Nordisk Oy. (U)",
+      "start_time": "2025-06-14T19:37:00+03:00",
+      "end_time": "2025-06-14T19:43:00+03:00",
+      "uri": "yleareena://items/1-2254522"
+    },
+    {
+      "id": "1-72837041",
+      "title": "Bergerac (12)",
+      "description": "2/6. Lapsenkaappaus. Bergerac kokee epäonnistuneensa ja aikoo jo irtautua jutusta, kun hänen teoriansa osoittautuu todeksi. Jimillä on kokemusta tällaisista jutuista, kunhan hän vain saisi oman elämänsä raiteilleen.",
+      "start_time": "2025-06-14T19:43:00+03:00",
+      "end_time": "2025-06-14T20:29:55+03:00",
+      "uri": "yleareena://items/1-72837041"
+    },
+    {
+      "id": "1-72364552",
+      "title": "Yle Uutiset 20.30 ",
+      "description": "",
+      "start_time": "2025-06-14T20:29:55+03:00",
+      "end_time": "2025-06-14T20:45:00+03:00",
+      "uri": "yleareena://items/1-72364552"
+    },
+    {
+      "id": "1-72256497",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-14T20:45:00+03:00",
+      "end_time": "2025-06-14T21:00:10+03:00",
+      "uri": "yleareena://items/1-72256497"
+    },
+    {
+      "id": "1-67476870",
+      "title": "McDonald & Dodds (12)",
+      "description": "Kausi 4, 2/3. Kadonneet vuodet. Asunnosta löytyy ammutun keski-ikäisen naisen ruumis. Hänen tunnistamisensa ei ole helppoa, ja vasta DNA-tutkimus paljastaa, että kyseessä oli yli 30 vuotta sitten koulumatkalla kadonnut tyttö. Missä hän on ollut kaikki nämä vuodet? Antaako McDonald ja Doddsin jäljittämän kaksoisveljen löytyminen vihjetä asiaan?",
+      "start_time": "2025-06-14T21:00:10+03:00",
+      "end_time": "2025-06-14T22:30:05+03:00",
+      "uri": "yleareena://items/1-67476870"
+    },
+    {
+      "id": "1-50597779",
+      "title": "Minun musiikkini",
+      "description": "Laulaja-lauluntekijä Litku Klemetti keskustelee kirjailija Juha Itkosen kanssa mm. vaihtoehtorockista ja ulkopuolisuuden tunteesta. Ohjelmassa myös intiimit versiot kappaleista Jääkuningatar ja Hullu rakkauden morsian. (U)",
+      "start_time": "2025-06-14T22:30:05+03:00",
+      "end_time": "2025-06-14T23:15:21+03:00",
+      "uri": "yleareena://items/1-50597779"
+    },
+    {
+      "id": "1-50531728",
+      "title": "Trauma - henkirikoksen jäljet (7)",
+      "description": "13-vuotiaan Asko Argillanderin elämä alkoi, kun Askon mummo surmasi vävynsä, Askon isän. Enää Askon ei tarvinnut pelätä väkivaltaista isäänsä, mutta miten isän jättämä perintö hänessä näkyy? (U)",
+      "start_time": "2025-06-14T23:15:21+03:00",
+      "end_time": "2025-06-14T23:45:00+03:00",
+      "uri": "yleareena://items/1-50531728"
+    },
+    {
+      "id": "1-50146901",
+      "title": "Logged in (16): Neljän seinän sisällä",
+      "description": "Anatec#5980 - Vois mennä paremmin tai huonommin. Patrikin, 22, päivät kuluvat nukkuen, pelaten ja tupakoiden. Hän poistuu asunnosta vain, jos on pakko, kuten kerran viikossa kuntouttavaan työtoimintaan. (U)",
+      "start_time": "2025-06-14T23:45:00+03:00",
+      "end_time": "2025-06-15T00:05:00+03:00",
+      "uri": "yleareena://items/1-50146901"
+    }
+  ]
+}

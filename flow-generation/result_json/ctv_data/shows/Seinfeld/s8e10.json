@@ -1,0 +1,25 @@
+{
+  "title": "The Andrea Doria",
+  "description": "George wants a better apartment; Jerry learns Newman is hiding mail.",
+  "season": 8,
+  "episode": "10",
+  "air_time": "2025-06-19T03:37:00+00:00",
+  "duration": 30,
+  "release_year": "1996",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_5_2cc1a774-9655-4433-a876-381abaf300eb_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "jerry seinfeld",
+    "jason alexander",
+    "michael richards"
+  ],
+  "directors": [
+    "andy ackerman"
+  ]
+}

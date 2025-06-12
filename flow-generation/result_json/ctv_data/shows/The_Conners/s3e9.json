@@ -1,0 +1,25 @@
+{
+  "title": "Promotions, Podcasts and Magic Tea",
+  "description": "Darlene earns a promotion at Wellman Plastics; Jackie has an emotional revelation.",
+  "season": 3,
+  "episode": "9",
+  "air_time": "2025-06-13T20:30:00+00:00",
+  "duration": 30,
+  "release_year": "2021",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_66ef2114-b6ff-4200-bc52-3e13f2866e2d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "directors": [
+    "gail mancuso"
+  ]
+}

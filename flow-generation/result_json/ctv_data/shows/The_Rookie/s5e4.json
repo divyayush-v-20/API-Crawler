@@ -1,0 +1,25 @@
+{
+  "title": "The Choice",
+  "description": "Nolan is forced to make a deadly decision after a harrowing ultimatum.",
+  "season": 5,
+  "episode": "4",
+  "air_time": "2025-06-18T01:00:00+00:00",
+  "duration": 60,
+  "release_year": "2022",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_ac14125c-0ed9-490b-858e-043d50823b65_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "nathan fillion",
+    "mekia cox",
+    "alyssa diaz"
+  ],
+  "directors": [
+    "bill roe"
+  ]
+}

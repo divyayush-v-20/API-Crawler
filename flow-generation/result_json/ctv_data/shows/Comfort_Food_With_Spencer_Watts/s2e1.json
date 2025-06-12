@@ -1,0 +1,21 @@
+{
+  "title": "Harvest Time Comfort",
+  "description": "Making black bean and kabocha squash soup with braised Swiss chard and chili pesto.",
+  "season": 2,
+  "episode": "1",
+  "air_time": "2025-06-15T16:00:00+00:00",
+  "duration": 30,
+  "release_year": "2023",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_57a048c0-03ba-46cb-8b58-61a0b434df08_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "spencer watts"
+  ],
+  "directors": []
+}

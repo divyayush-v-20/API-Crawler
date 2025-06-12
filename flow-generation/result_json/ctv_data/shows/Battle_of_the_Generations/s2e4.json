@@ -1,0 +1,21 @@
+{
+  "title": "Battle 24",
+  "description": "Four contestants from different generations compete for a chance to win up to $25,000.",
+  "season": 2,
+  "episode": "4",
+  "air_time": "2025-06-12T05:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_056d3090-8561-4f20-94fd-d95d31ea7847_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "lilly singh"
+  ],
+  "directors": []
+}

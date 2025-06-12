@@ -1,0 +1,390 @@
+{
+  "channel": "yle-tv1",
+  "date": "2025-06-12",
+  "programs": [
+    {
+      "id": "1-4058135",
+      "title": "Suomi on suomalainen",
+      "description": "9/10 Musiikki. Mikä suomalaisessa metallissa vetoaa yleisöön? Onko suomalaisella tangolla loistava tulevaisuus? Haastateltavana mm. suomalaisen rockin uranuurtaja Tuomari Nurmio. (U)",
+      "start_time": "2025-06-12T06:55:00+03:00",
+      "end_time": "2025-06-12T07:25:00+03:00",
+      "uri": "yleareena://items/1-4058135"
+    },
+    {
+      "id": "1-72625180",
+      "title": "Ylen aamu",
+      "description": "7.39 Antti Kuronen raportoi Ukrainasta 7.45 Kesäliikenteen turvallisuushaasteet 8.11 Mitä lääkäri voi kertoa työnantajalle? 8.38 Oppimisen tuki muuttuu 8.43 Jälkinäytös 9.12 Kesäkasvo: Jari Sarasvuo",
+      "start_time": "2025-06-12T07:25:00+03:00",
+      "end_time": "2025-06-12T09:30:00+03:00",
+      "uri": "yleareena://items/1-72625180"
+    },
+    {
+      "id": "1-62827692",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "1/8. Samuel ja Filippa saavat hälytyksen elottomasta henkilöstä. Emmi ja Oskar huolehtivat bussin lattialle tuupertuneesta. Paloasemalla harjoitellaan savusukellusta palavaan konttiin, ja poliisi hälytetään teräaseella uhatun nuoren luokse. (U)(2022)",
+      "start_time": "2025-06-12T09:30:00+03:00",
+      "end_time": "2025-06-12T09:59:07+03:00",
+      "uri": "yleareena://items/1-62827692"
+    },
+    {
+      "id": "1-65817418",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 1, 93/122. Elämän realiteetit. Jana katkaisee Manuelin haaveet heti alkuunsa. Catalinalla on sisua nousta Lorenzon epäilyjä vastaan. Mitä lukeekaan paronin lopullisessa testamentissa? (U)",
+      "start_time": "2025-06-12T09:59:07+03:00",
+      "end_time": "2025-06-12T11:00:00+03:00",
+      "uri": "yleareena://items/1-65817418"
+    },
+    {
+      "id": "1-74390996",
+      "title": "Kesäkasvo",
+      "description": "Yle täyttää ensi vuonna 100 vuotta ja sen kunniaksi Yle on tilannut tutkimuksen Ylen luovan ohjelmatyön historiasta. Tutkimus julkaistaan tänään, ja kesäkasvona on sen parissa työskennellyt mediatutkija Anu Koivunen.",
+      "start_time": "2025-06-12T11:00:00+03:00",
+      "end_time": "2025-06-12T11:10:00+03:00",
+      "uri": "yleareena://items/1-74390996"
+    },
+    {
+      "id": "1-72547363",
+      "title": "Yle Uutiset Uusimaa",
+      "description": "Uutisia Uudeltamaalta",
+      "start_time": "2025-06-12T11:10:00+03:00",
+      "end_time": "2025-06-12T11:13:00+03:00",
+      "uri": "yleareena://items/1-72547363"
+    },
+    {
+      "id": "1-72549460",
+      "title": "Yle Uutiset Kaakkois-Suomi",
+      "description": "Uutisia Kaakkois-Suomesta",
+      "start_time": "2025-06-12T11:13:00+03:00",
+      "end_time": "2025-06-12T11:16:00+03:00",
+      "uri": "yleareena://items/1-72549460"
+    },
+    {
+      "id": "1-72549774",
+      "title": "Yle Uutiset Lounais-Suomi",
+      "description": "Uutisia Lounais-Suomesta",
+      "start_time": "2025-06-12T11:16:00+03:00",
+      "end_time": "2025-06-12T11:19:00+03:00",
+      "uri": "yleareena://items/1-72549774"
+    },
+    {
+      "id": "1-72551510",
+      "title": "Yle Uutiset Häme",
+      "description": "Uutisia Kanta- ja Päijät-Hämeestä",
+      "start_time": "2025-06-12T11:19:00+03:00",
+      "end_time": "2025-06-12T11:22:00+03:00",
+      "uri": "yleareena://items/1-72551510"
+    },
+    {
+      "id": "1-72547751",
+      "title": "Yle Uutiset Pirkanmaa",
+      "description": "Uutisia Pirkanmaalta",
+      "start_time": "2025-06-12T11:22:00+03:00",
+      "end_time": "2025-06-12T11:25:00+03:00",
+      "uri": "yleareena://items/1-72547751"
+    },
+    {
+      "id": "1-72546290",
+      "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+      "description": "Uutisia Keski-Suomeen ja Etelä-Savoon",
+      "start_time": "2025-06-12T11:25:00+03:00",
+      "end_time": "2025-06-12T11:28:00+03:00",
+      "uri": "yleareena://items/1-72546290"
+    },
+    {
+      "id": "1-72549202",
+      "title": "Yle Uutiset Itä-Suomi",
+      "description": "Uutisia Itä-Suomesta",
+      "start_time": "2025-06-12T11:28:00+03:00",
+      "end_time": "2025-06-12T11:31:00+03:00",
+      "uri": "yleareena://items/1-72549202"
+    },
+    {
+      "id": "1-72551050",
+      "title": "Yle Uutiset Pohjanmaa",
+      "description": "Uutisia Pohjanmaalta",
+      "start_time": "2025-06-12T11:31:00+03:00",
+      "end_time": "2025-06-12T11:33:59+03:00",
+      "uri": "yleareena://items/1-72551050"
+    },
+    {
+      "id": "1-72550174",
+      "title": "Yle Uutiset Pohjois-Suomi",
+      "description": "Uutisia Pohjois-Suomesta",
+      "start_time": "2025-06-12T11:33:59+03:00",
+      "end_time": "2025-06-12T11:36:59+03:00",
+      "uri": "yleareena://items/1-72550174"
+    },
+    {
+      "id": "1-72552287",
+      "title": "Yle Uutiset Lappi",
+      "description": "Uutisia Lapista",
+      "start_time": "2025-06-12T11:36:59+03:00",
+      "end_time": "2025-06-12T11:39:59+03:00",
+      "uri": "yleareena://items/1-72552287"
+    },
+    {
+      "id": "1-72548163",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-12T11:39:59+03:00",
+      "end_time": "2025-06-12T11:44:29+03:00",
+      "uri": "yleareena://items/1-72548163"
+    },
+    {
+      "id": "1-72547960",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-12T11:44:29+03:00",
+      "end_time": "2025-06-12T12:00:00+03:00",
+      "uri": "yleareena://items/1-72547960"
+    },
+    {
+      "id": "1-68152108",
+      "title": "Kun saa rakastaa",
+      "description": "4/6. Varjoista valoon. Paavojuha kipuilee nuoruusmuistoja, mutta kauan odotettu tähtihetki kannattelee. Hillevi on sairaalassa ja Lissu aprikoi tulevaisuutta. Tanja tapaa tyttärensä - muuttuiko suhde transition jälkeen?",
+      "start_time": "2025-06-12T12:00:00+03:00",
+      "end_time": "2025-06-12T12:30:00+03:00",
+      "uri": "yleareena://items/1-68152108"
+    },
+    {
+      "id": "1-50799946",
+      "title": "Vera Stanhope tutkii (12)",
+      "description": "Kausi 11, 11/12. Tuuletar 1/2. Tuulivoimaa rakentavan yrityksen iltajuhlan jäljiltä HR-henkilö löytyy rannalta kuolleena, tosin kuolinsyyntutkijan mukaan keuhkoissa ei ole vettä pisaraakaan. Missä oloissa uhri siis kuoli? (U)",
+      "start_time": "2025-06-12T12:30:00+03:00",
+      "end_time": "2025-06-12T13:20:00+03:00",
+      "uri": "yleareena://items/1-50799946"
+    },
+    {
+      "id": "1-826096",
+      "title": "Anu ja Mikko (S)",
+      "description": "Anu ja Mikko on kertomus karjalaispuuseppä Mikosta ja hänen soreasta rakastetustaan Anusta. O: Ville Salminen. N: Marjatta Kallio, Sakari Jurkka, Kerttu Salmi, Vilho Siivola (1956) (Mv) (U)",
+      "start_time": "2025-06-12T13:20:00+03:00",
+      "end_time": "2025-06-12T14:49:59+03:00",
+      "uri": "yleareena://items/1-826096"
+    },
+    {
+      "id": "1-50386682",
+      "title": "Tulossa: Senni ja Savon Sulttaani (S)",
+      "description": "(1953). Kotimaisen elokuvan \"Senni ja savon sulttaani\" elokuvateattereissa esitetty ennakkomainos. (SF). (U).",
+      "start_time": "2025-06-12T14:49:59+03:00",
+      "end_time": "2025-06-12T14:55:00+03:00",
+      "uri": "yleareena://items/1-50386682"
+    },
+    {
+      "id": "1-1987322",
+      "title": "Filmikellari",
+      "description": "Vesivehkeet. Vesillä voi liikkua monella tapaa. Toimittaja Martti Lyyra. (U)",
+      "start_time": "2025-06-12T14:55:00+03:00",
+      "end_time": "2025-06-12T15:00:15+03:00",
+      "uri": "yleareena://items/1-1987322"
+    },
+    {
+      "id": "1-72480955",
+      "title": "A-studio",
+      "description": "Suomi on tekemässä historiallisia päätöksiä puolustusmenojen nostosta pikaisella aikataululla. Iskikö vauhtisokeus? Studiossa puolustusministeri Antti Häkkänen (kok.) ja entinen puolustusministeri Antti Kaikkonen (kesk.). Usealla vaalikaudella kiistelty saamelaiskäräjälain uudistus etenee eduskunnassa. Parantaako se saamelaisten oikeuksia? Aiheesta keskustelemassa perustuslakivaliokunnan puheenjohtaja Heikki Vestman (kok.), kansanedustaja Johanna Ojala-Niemelä (sd.) ja saamelaiskäräjien varapuheenjohtaja Tuomas Aslak Juuso. Juontajana Matti Koivisto.",
+      "start_time": "2025-06-12T15:00:15+03:00",
+      "end_time": "2025-06-12T15:35:57+03:00",
+      "uri": "yleareena://items/1-72480955"
+    },
+    {
+      "id": "1-72626178",
+      "title": "Yle Uutiset selkosuomeksi",
+      "description": "",
+      "start_time": "2025-06-12T15:35:00+03:00",
+      "end_time": "2025-06-12T15:40:00+03:00",
+      "uri": "yleareena://items/1-72626178"
+    },
+    {
+      "id": "1-72548136",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-12T15:40:00+03:00",
+      "end_time": "2025-06-12T15:45:00+03:00",
+      "uri": "yleareena://items/1-72548136"
+    },
+    {
+      "id": "1-72625562",
+      "title": "Novosti Yle",
+      "description": "",
+      "start_time": "2025-06-12T15:45:00+03:00",
+      "end_time": "2025-06-12T15:50:00+03:00",
+      "uri": "yleareena://items/1-72625562"
+    },
+    {
+      "id": "1-72475756",
+      "title": "Yle Uutiset viittomakielellä",
+      "description": "",
+      "start_time": "2025-06-12T15:50:00+03:00",
+      "end_time": "2025-06-12T15:55:00+03:00",
+      "uri": "yleareena://items/1-72475756"
+    },
+    {
+      "id": "1-72919673",
+      "title": "Eduskunnan kyselytunti",
+      "description": "",
+      "start_time": "2025-06-12T15:55:00+03:00",
+      "end_time": "2025-06-12T17:00:00+03:00",
+      "uri": "yleareena://items/1-72919673"
+    },
+    {
+      "id": "1-71641481",
+      "title": "Yle Uutiset 17.00",
+      "description": "",
+      "start_time": "2025-06-12T17:00:00+03:00",
+      "end_time": "2025-06-12T17:06:00+03:00",
+      "uri": "yleareena://items/1-71641481"
+    },
+    {
+      "id": "1-72606190",
+      "title": "Yle Uutiset alueeltasi",
+      "description": "Uutisia alueeltasi",
+      "start_time": "2025-06-12T17:06:00+03:00",
+      "end_time": "2025-06-12T17:10:00+03:00",
+      "uri": "yleareena://items/1-72606190"
+    },
+    {
+      "id": "1-50799944",
+      "title": "Vera Stanhope tutkii (12)",
+      "description": "Kausi 11, 12/12. Tuuletar 2/2. Vera joukkoineen tonkii sitkeästi taustoja ja havaitsee, että uhrin lähipiirissä on lukuisia sekavia ja salattuja suhteita. Ehkä joku niistä jopa johti uhrin kuolemaan - mutta mikä? (U)",
+      "start_time": "2025-06-12T17:10:00+03:00",
+      "end_time": "2025-06-12T17:55:42+03:00",
+      "uri": "yleareena://items/1-50799944"
+    },
+    {
+      "id": "1-72619701",
+      "title": "Pieni suuri maailma",
+      "description": "19/20. Latvia. Maisemia maailmalta pieninä paketteina.",
+      "start_time": "2025-06-12T17:55:42+03:00",
+      "end_time": "2025-06-12T18:00:00+03:00",
+      "uri": "yleareena://items/1-72619701"
+    },
+    {
+      "id": "1-72264347",
+      "title": "Yle Uutiset 18.00",
+      "description": "",
+      "start_time": "2025-06-12T18:00:00+03:00",
+      "end_time": "2025-06-12T18:12:00+03:00",
+      "uri": "yleareena://items/1-72264347"
+    },
+    {
+      "id": "1-72551812",
+      "title": "Yle Uutiset Uutis-Suomi",
+      "description": "Kiinnostavia uutisia eri puolelta Suomea",
+      "start_time": "2025-06-12T18:12:00+03:00",
+      "end_time": "2025-06-12T18:20:00+03:00",
+      "uri": "yleareena://items/1-72551812"
+    },
+    {
+      "id": "1-74390992",
+      "title": "Kesäkasvo",
+      "description": "Kesäkasvo on virkistävä ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkilökuvia ajankohtaisista vieraista koko kesän ajan. Sarja korostaa positiivisuutta ja kesäistä iloa. Vieraat jakavat henkilökohtaisia vinkkejä kesän viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkejä. Ylen aamun Kesäkasvo tuo piristystä ja inspiraatiota aamuihin. Ohjelman uusinta esitetään TV1:ssä samana päivänä klo 18.20.",
+      "start_time": "2025-06-12T18:20:00+03:00",
+      "end_time": "2025-06-12T18:30:00+03:00",
+      "uri": "yleareena://items/1-74390992"
+    },
+    {
+      "id": "1-62827694",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "2/8. Poliisi lähtee nuorison keskuudessa sekavasti käyttäytyvän henkilön luokse. Tullissa Jonna ja Anton pysäyttävät rekkoja. Emmi ja Oskar saavat ambulanssiin hälytyksen kaatuneesta naisesta, ja myöhemmin yöllä poliisi jahtaa autovarasta. (U)(2022)",
+      "start_time": "2025-06-12T18:30:00+03:00",
+      "end_time": "2025-06-12T19:00:00+03:00",
+      "uri": "yleareena://items/1-62827694"
+    },
+    {
+      "id": "1-73832134",
+      "title": "Erikoisryhmä Kitzbühel (12)",
+      "description": "Kausi 18, 2/13. Syvään päätyyn. Uimaseuran valmentaja löytyy kuolleena. Uhri valmensi kahta nuorta ja pisti heidät kisaamaan toisiaan vastaan. Henkivakuutus tekee uhrin leskestä rikkaan, löytyykö siitä murhan motiivi?",
+      "start_time": "2025-06-12T19:00:00+03:00",
+      "end_time": "2025-06-12T19:45:00+03:00",
+      "uri": "yleareena://items/1-73832134"
+    },
+    {
+      "id": "1-4446262",
+      "title": "Egenlandin matkakohteet",
+      "description": "Vanhassa funkismejerissä toimii nykyään kotimaisen ja ulkomaisen nykytaiteen keskus.",
+      "start_time": "2025-06-12T19:45:00+03:00",
+      "end_time": "2025-06-12T20:00:00+03:00",
+      "uri": "yleareena://items/1-4446262"
+    },
+    {
+      "id": "1-50776838",
+      "title": "Höyhensarja",
+      "description": "2/8. Fuck yksinäisyys! Enkelit keksivät, että kaupunkilaiset ovat yksinäisiä ja päättävät auttaa. He järjestävät ravintolassa speed dating-illan. Heliel panee parastaan ja hermostuttaa Rafun.",
+      "start_time": "2025-06-12T20:00:00+03:00",
+      "end_time": "2025-06-12T20:23:00+03:00",
+      "uri": "yleareena://items/1-50776838"
+    },
+    {
+      "id": "1-72361849",
+      "title": "Yle Uutiset 20.30",
+      "description": "",
+      "start_time": "2025-06-12T20:29:55+03:00",
+      "end_time": "2025-06-12T20:55:00+03:00",
+      "uri": "yleareena://items/1-72361849"
+    },
+    {
+      "id": "1-72256234",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-12T20:55:00+03:00",
+      "end_time": "2025-06-12T21:05:10+03:00",
+      "uri": "yleareena://items/1-72256234"
+    },
+    {
+      "id": "1-71898622",
+      "title": "Monte-Criston kreivi (12)",
+      "description": "3/8. Aarresaari. Edmond pelastaa miehen sotilaiden kynsistä, ja tämän veneen avulla hän purjehtii papin kertomalle saarelle. Se ei kuitenkaan paljasta salaisuuttaan ensimmäisellä yrityksellä, mutta Edmondilla on aikaa.",
+      "start_time": "2025-06-12T21:05:10+03:00",
+      "end_time": "2025-06-12T21:58:26+03:00",
+      "uri": "yleareena://items/1-71898622"
+    },
+    {
+      "id": "1-72364700",
+      "title": "Yle Uutiset ",
+      "description": "",
+      "start_time": "2025-06-12T22:00:00+03:00",
+      "end_time": "2025-06-12T22:04:00+03:00",
+      "uri": "yleareena://items/1-72364700"
+    },
+    {
+      "id": "1-72256256",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-12T22:04:00+03:00",
+      "end_time": "2025-06-12T22:08:00+03:00",
+      "uri": "yleareena://items/1-72256256"
+    },
+    {
+      "id": "1-72551812",
+      "title": "Yle Uutiset Uutis-Suomi",
+      "description": "Kiinnostavia uutisia eri puolelta Suomea",
+      "start_time": "2025-06-12T22:08:00+03:00",
+      "end_time": "2025-06-12T22:18:00+03:00",
+      "uri": "yleareena://items/1-72551812"
+    },
+    {
+      "id": "1-73693786",
+      "title": "Ulkolinja: Gisèle Pelicot, ei häpeää (12)",
+      "description": "Gisèle Pelicot'n aviomies huumasi vaimonsa ja altisti hänet ainakin 51 miehen raiskaamaksi lähes 10 vuoden ajan, ja samalla hän kuvasi teot itse. Vasta pitkän ajan jälkeen Pelicot vei asian poliisille, joka löysi aviomiehen videoimat tallenteet. Oikeudenkäynti käynnisti keskustelun huumattuna tehdyn seksuaaliväkivallan yleisyydestä. Kun Pelicot tuli esiin omalla nimellään, moni muu uhri on uskaltanut kertoa kokemuksistaan julkisesti. Gisèle Pelicot'n tarina, tyttärensä Caroline Darianin kertomana.",
+      "start_time": "2025-06-12T22:18:00+03:00",
+      "end_time": "2025-06-12T23:10:47+03:00",
+      "uri": "yleareena://items/1-73693786"
+    },
+    {
+      "id": "1-72547949",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-12T23:10:47+03:00",
+      "end_time": "2025-06-12T23:25:00+03:00",
+      "uri": "yleareena://items/1-72547949"
+    },
+    {
+      "id": "1-66655799",
+      "title": "La Storia (16)",
+      "description": "4/8. Saksalaiset tulevat. Nino vie veljensä partisaanien leiriin. Maatilalla piilottelevat pelkäävät, sillä saksalaiset ovat yhä julmempia. Ida poikineen jää lopulta yksin tyhjään taloon, kunnes Remo tuo suru-uutisia. (U)",
+      "start_time": "2025-06-12T23:25:00+03:00",
+      "end_time": "2025-06-13T00:20:00+03:00",
+      "uri": "yleareena://items/1-66655799"
+    }
+  ]
+}

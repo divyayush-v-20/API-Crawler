@@ -1,0 +1,23 @@
+{
+  "title": "Blindsided",
+  "description": "Maggie thinks there may be a connection to a firefighter who collapsed during renovations.",
+  "season": 3,
+  "episode": "8",
+  "air_time": "2025-06-16T00:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_2074dca8-b920-44a8-8205-2b5fdb1b3613_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "morgan kohan",
+    "chad michael murray",
+    "scott patterson"
+  ],
+  "directors": []
+}

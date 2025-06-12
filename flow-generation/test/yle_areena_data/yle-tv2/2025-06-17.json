@@ -1,0 +1,302 @@
+{
+  "channel": "yle-tv2",
+  "date": "2025-06-17",
+  "programs": [
+    {
+      "id": "1-2371131",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-17T06:50:03+03:00",
+      "end_time": "2025-06-17T06:51:00+03:00",
+      "uri": "yleareena://items/1-2371131"
+    },
+    {
+      "id": "1-1735630",
+      "title": "Nimipäiväonnittelu: 17.6.",
+      "description": "Onnea, Urho!",
+      "start_time": "2025-06-17T06:51:00+03:00",
+      "end_time": "2025-06-17T06:52:58+03:00",
+      "uri": "yleareena://items/1-1735630"
+    },
+    {
+      "id": "1-4605709",
+      "title": "Maijuli (S)",
+      "description": "Elokuvan tekoa. Äiti tuo Maijulille ja tämän kavereille videokameran. Lapset päättävät tehdä elokuvan, ja kaikilla on säkenöiviä ideoita siitä, millainen elokuvasta pitäisi tulla.",
+      "start_time": "2025-06-17T06:52:58+03:00",
+      "end_time": "2025-06-17T06:58:31+03:00",
+      "uri": "yleareena://items/1-4605709"
+    },
+    {
+      "id": "1-4354699",
+      "title": "Ruskea pikkukarhu (S)",
+      "description": "Isän jalanjäljissä. Ruskea pikkukarhu on päättänyt viettää päivän tekemällä aamusta iltaan kaikkea, mitä hänen isänsä, mutta isän työt osoittautuvatkin kovin raskaiksi. Olisiko äidin matkiminen helpompaa?",
+      "start_time": "2025-06-17T06:58:31+03:00",
+      "end_time": "2025-06-17T07:05:34+03:00",
+      "uri": "yleareena://items/1-4354699"
+    },
+    {
+      "id": "1-65987058",
+      "title": "Pikku Kakkonen",
+      "description": "Loviisa ja Veera leikkivät tänään perhosia.",
+      "start_time": "2025-06-17T07:05:34+03:00",
+      "end_time": "2025-06-17T07:06:51+03:00",
+      "uri": "yleareena://items/1-65987058"
+    },
+    {
+      "id": "1-4672518",
+      "title": "Minirekat (S)",
+      "description": "Silmukka. Mekaanikko Emmi on rakentanut valtavan silmukkaradan. Aleksi lähtee silmukkaan itsevarmana, mutta Eemeliä arveluttaa. Oppivatko Minirekat oikean tekniikan?",
+      "start_time": "2025-06-17T07:06:51+03:00",
+      "end_time": "2025-06-17T07:11:57+03:00",
+      "uri": "yleareena://items/1-4672518"
+    },
+    {
+      "id": "1-61876619",
+      "title": "Rikke (S)",
+      "description": "Pyykkipäivä. Rikkeä tylsistyttää, mutta äidillä on idea: hän voi ripustaa pyykit kuivumaan puutarhaan. Kaverukset keksivät jännittävän pelin pyykin kanssa. Heillä on hauskaa, kunnes mummi ilmestyy paikalle.",
+      "start_time": "2025-06-17T07:11:57+03:00",
+      "end_time": "2025-06-17T07:17:07+03:00",
+      "uri": "yleareena://items/1-61876619"
+    },
+    {
+      "id": "1-50936013",
+      "title": "Pikku Kakkonen",
+      "description": "Susanna haaveilee uimisesta.",
+      "start_time": "2025-06-17T07:17:07+03:00",
+      "end_time": "2025-06-17T07:18:45+03:00",
+      "uri": "yleareena://items/1-50936013"
+    },
+    {
+      "id": "1-50961024",
+      "title": "Kaija Kurpitsa (S)",
+      "description": "Auringonkukat. Kaija ja Kamu turmelevat vahingossa Samin auringonkukkaviljelmän. Vahinko on korjattava, vaikka sitten tekokukilla.",
+      "start_time": "2025-06-17T07:18:45+03:00",
+      "end_time": "2025-06-17T07:23:51+03:00",
+      "uri": "yleareena://items/1-50961024"
+    },
+    {
+      "id": "1-66454794",
+      "title": "Vilja hoitaa (S)",
+      "description": "Kaikkein kauneimmat kynnet. Tonin kynnet ovat liian pitkät ja tulevat koko ajan tielle. Tilanteen voisi ratkaista helposti leikkaamalla kynnet lyhyemmiksi, mutta Toni pelkää, että se sattuu.",
+      "start_time": "2025-06-17T07:23:51+03:00",
+      "end_time": "2025-06-17T07:35:51+03:00",
+      "uri": "yleareena://items/1-66454794"
+    },
+    {
+      "id": "1-50831010",
+      "title": "Pikku Kakkonen",
+      "description": "Jaakkoset: neliö. Jaakko tutkii neliömuotoja.",
+      "start_time": "2025-06-17T07:35:51+03:00",
+      "end_time": "2025-06-17T07:36:53+03:00",
+      "uri": "yleareena://items/1-50831010"
+    },
+    {
+      "id": "1-1850707",
+      "title": "Puu Fu Tom (S)",
+      "description": "Yksi kaikkien puolesta. Tomin ja muiden siekkopeli ei suju hyvin. Rimpula lähettää heidät etsimään \"Lumottua Siekkoa\", joka tarun mukaan auttaa voittamaan pelin. Matkalla heidän täytyy oppia toimimaan yhdessä.",
+      "start_time": "2025-06-17T07:36:53+03:00",
+      "end_time": "2025-06-17T07:58:37+03:00",
+      "uri": "yleareena://items/1-1850707"
+    },
+    {
+      "id": "1-3096772",
+      "title": "Askarrellaan",
+      "description": "Vilja askartelee Martan suunnitteleman talon. Askarteluohjeet löytyvät yle.fi/lapset -sivustolta.",
+      "start_time": "2025-06-17T07:58:37+03:00",
+      "end_time": "2025-06-17T08:04:28+03:00",
+      "uri": "yleareena://items/1-3096772"
+    },
+    {
+      "id": "1-4483523",
+      "title": "Safari (S)",
+      "description": "Päätöksen aika. Korkeaksi kasvanut puu uhkaa varjollaan Safarin kasvimaata ja Sampon päättämättömyys saa tilanteen äitymään pahemmaksi kuin olisi tarpeen.",
+      "start_time": "2025-06-17T08:04:28+03:00",
+      "end_time": "2025-06-17T08:16:56+03:00",
+      "uri": "yleareena://items/1-4483523"
+    },
+    {
+      "id": "1-1735630",
+      "title": "Nimipäiväonnittelu: 17.6.",
+      "description": "Onnea, Urho!",
+      "start_time": "2025-06-17T08:16:56+03:00",
+      "end_time": "2025-06-17T08:18:54+03:00",
+      "uri": "yleareena://items/1-1735630"
+    },
+    {
+      "id": "1-71833260",
+      "title": "Pikku Kakkonen",
+      "description": "Ohjelmaa perheen pienimmille.",
+      "start_time": "2025-06-17T08:18:54+03:00",
+      "end_time": "2025-06-17T08:19:54+03:00",
+      "uri": "yleareena://items/1-71833260"
+    },
+    {
+      "id": "1-72744228",
+      "title": "Galaxi ",
+      "description": "Koulululaisten oma ohjelma!",
+      "start_time": "2025-06-17T08:19:54+03:00",
+      "end_time": "2025-06-17T08:20:24+03:00",
+      "uri": "yleareena://items/1-72744228"
+    },
+    {
+      "id": "1-66022689",
+      "title": "Ihan pohjalla (7)",
+      "description": "Sieppaus / Flunssa / Seuraa vailla. Alienit iskevät Paulin, Lissun ja Jaskan kimppuun! Mara saa tarttuvan flunssan. Allu tuntee itsensä ihan liian yksinäiseksi.",
+      "start_time": "2025-06-17T08:20:24+03:00",
+      "end_time": "2025-06-17T08:25:38+03:00",
+      "uri": "yleareena://items/1-66022689"
+    },
+    {
+      "id": "1-65360518",
+      "title": "Täysi susi (7)",
+      "description": "Taikaa tilauksesta. UPJ palaa Vilporiin ja huomaa, että Haahti kauppaa taikojaan kaupunkilaisille. Se on vain peitelty yritys löytää kuukivi, jonka avulla Haahti voisi muuntua sudeksi.",
+      "start_time": "2025-06-17T08:25:38+03:00",
+      "end_time": "2025-06-17T08:50:00+03:00",
+      "uri": "yleareena://items/1-65360518"
+    },
+    {
+      "id": "1-72482580",
+      "title": "Jumppahetki",
+      "description": "Tässä jaksossa kehitetään keskivartalon voimaa ja harjoitellaan tasapainoa koko kehoa käyttäen. Reisi ja pakara saa myös osansa.",
+      "start_time": "2025-06-17T08:50:00+03:00",
+      "end_time": "2025-06-17T09:00:00+03:00",
+      "uri": "yleareena://items/1-72482580"
+    },
+    {
+      "id": "1-50786366",
+      "title": "Saaren nuoret asukkaat",
+      "description": "5/6. Ida ja Martin ovat käväisseet työn takia Oslossa. Palatessaan saarelle he huomaavat, että voimakas tuuli ja sade on riehunut viljelmillä. (U)",
+      "start_time": "2025-06-17T09:00:00+03:00",
+      "end_time": "2025-06-17T09:40:00+03:00",
+      "uri": "yleareena://items/1-50786366"
+    },
+    {
+      "id": "1-2185364",
+      "title": "Latela",
+      "description": "Kausi 2, 3/9. Työssä päästään vauhtiin, mutta madallus ja johtosarjan asennus tuottavat ongelmia. Rahakirstun päällä istuva tuottaja katoaa ulkomaille ja pihtaa rahaa. (U)",
+      "start_time": "2025-06-17T09:40:00+03:00",
+      "end_time": "2025-06-17T10:10:00+03:00",
+      "uri": "yleareena://items/1-2185364"
+    },
+    {
+      "id": "1-2183224",
+      "title": "Riistametsällä",
+      "description": "Lyhytnokkahanhi. Joulukuussa Jørgen ja Nikolaj lähtevät Länsi-Jyllantiin, missä kaverusten tavoitteena on saada paistiksi lyhytnokkahanhi. Ellei lintua saada, joutuu Nikolaj loihtimaan purtavaa kontiaisista.",
+      "start_time": "2025-06-17T10:10:00+03:00",
+      "end_time": "2025-06-17T10:50:02+03:00",
+      "uri": "yleareena://items/1-2183224"
+    },
+    {
+      "id": "1-1811059",
+      "title": "Veljesten keittiössä",
+      "description": "Kausi 4, 3/6. Bornholm. Nuorina veljekset viettivät kesiä Bornholmin saarella. Sen kunniaksi he valmistavat kanaa Bornholmin tapaan sekä oman muunnelmansa voileipäklassikosta. (U)",
+      "start_time": "2025-06-17T10:50:02+03:00",
+      "end_time": "2025-06-17T11:20:00+03:00",
+      "uri": "yleareena://items/1-1811059"
+    },
+    {
+      "id": "1-2736454",
+      "title": "Kandit",
+      "description": "Kausi 3, 2/8. Lohkeamia, reikiä, pelkääviä potilaita. Kandit tarttuvat tosi toimiin ja kohtaavat ensimmäiset potilaansa. Hennan ja Jonnan vasenkätisyys tulee hammashoitolan väelle yllätyksenä. yle.fi/kandit (U)",
+      "start_time": "2025-06-17T11:20:00+03:00",
+      "end_time": "2025-06-17T11:50:00+03:00",
+      "uri": "yleareena://items/1-2736454"
+    },
+    {
+      "id": "1-1350963",
+      "title": "Karjalan kunnailla (7)",
+      "description": "Kausi 3, 4/12. Sekaannuksia suhteissa, kirjeissä ja työpaikoissa. Anton kesä muuttuu hullunmyllyksi. Jake ja Jonna pulassa. Jorma ja Vilman salaisuus. T: Selkie-Filmi Oy. (U)",
+      "start_time": "2025-06-17T11:50:00+03:00",
+      "end_time": "2025-06-17T12:40:00+03:00",
+      "uri": "yleareena://items/1-1350963"
+    },
+    {
+      "id": "1-65168998",
+      "title": "Tanskalainen maajussi",
+      "description": "2/10: Myllyn pystytys. Frank ystävineen on nyt päässyt niin pitkälle myllyn osien kanssa, että mylly voidaan koota ensi kertaa. Sen napaa hiotaan ja siivet kiinnitetään. Sitten koko komeus nostetaan paikalleen.",
+      "start_time": "2025-06-17T12:40:00+03:00",
+      "end_time": "2025-06-17T13:10:00+03:00",
+      "uri": "yleareena://items/1-65168998"
+    },
+    {
+      "id": "1-4438629",
+      "title": "Petra saa vauvan",
+      "description": "2/8. Petra on ollut valmis perustamaan perheen jo vuosia, kun taas hänen puolisonsa olisi malttanut vielä odottaa. Petra vierailee podcastissa hakemassa neuvoja hyvään kumppanuuteen. Sarja tanskalaistoimittajan matkasta kohti äitiyttä. (U)",
+      "start_time": "2025-06-17T13:10:00+03:00",
+      "end_time": "2025-06-17T13:40:00+03:00",
+      "uri": "yleareena://items/1-4438629"
+    },
+    {
+      "id": "1-3991410",
+      "title": "Syntynyt vuonna 2010",
+      "description": "Kausi 2, 2/5. Liam on kateellinen tuoreelle pikkuveljelleen. Angelo on myös saamassa sisaruksen, jonka sukupuolesta hänellä on suuret odotukset. Dokumenttisarjan toisella tuotantokaudella seurataan lapsia viisivuotiaiksi asti. (U)",
+      "start_time": "2025-06-17T13:40:00+03:00",
+      "end_time": "2025-06-17T14:40:00+03:00",
+      "uri": "yleareena://items/1-3991410"
+    },
+    {
+      "id": "1-50735669",
+      "title": "Maailmaa muuttavia eläimiä",
+      "description": "Turska on suosittu kala ruokapöydässä. Ja turska tekeekin hyvää, mutta ei vain lautasella, vaan erityisesti merissä. Turska elää niin Pohjois-Euroopassa kuin Pohjois-Amerikassakin, ja myös Itämeren eteläosissa. Kun se kasvaa poikasesta jopa 100 kilon painoiseksi, sillä on monia erilaisia rooleja ekosysteemissä. Turska on petoeläin ja varmistaa, että ruoka liikkuu meren ravintoketjussa. Turskan katoaminen vaikuttaisi koko ravintoketjuun, kuten leväkukintojen lisääntymiseen merissä.",
+      "start_time": "2025-06-17T14:40:00+03:00",
+      "end_time": "2025-06-17T14:49:22+03:00",
+      "uri": "yleareena://items/1-50735669"
+    },
+    {
+      "id": "1-50735665",
+      "title": "Maailmaa muuttavia eläimiä",
+      "description": "Sudet elävät pareittain tai perhekunnittain laumoissa. Usein lauma metsästää yhdessä. Yleisiä saalislajeja ovat hirvet, peurat ja jänikset. Sudella on merkittävä rooli ravintoketjussa niin Ruotsissa kuin Suomessa, mutta myös esimerkiksi Yellowstonessa, Yhdysvalloissa. Siellä sudet päätettiin palauttaa luontoon istuttamalla, kun hirvet lisääntyivät liikaa. Hirvet siirtyivät pois tavanomaisilta alueiltaan susien pelossa, mikä johti siihen, että alueelle palasi muita lajeja. Susilla on paikkansa ekosysteemissä, ja ne edistävät luonnon monimuotoisuutta.",
+      "start_time": "2025-06-17T14:49:22+03:00",
+      "end_time": "2025-06-17T15:00:00+03:00",
+      "uri": "yleareena://items/1-50735665"
+    },
+    {
+      "id": "1-66137858",
+      "title": "Jens ja Isak ohuella jäällä",
+      "description": "4/5: Äiti Grönlanti. Jens ja Isak lähtevät mukaan hylkeenpyyntiin, missä he saavat Tokulta haastavia tehtäviä. He pääsevät yhä lähemmäksi tulevaisuutensa puolesta taistelevaa inuittikulttuuria.",
+      "start_time": "2025-06-17T15:00:00+03:00",
+      "end_time": "2025-06-17T15:30:00+03:00",
+      "uri": "yleareena://items/1-66137858"
+    },
+    {
+      "id": "1-4355739",
+      "title": "Talot huokuvat historiaa",
+      "description": "Kausi 3, 7/8. Mörkössä sijaitsevat puutarhurin talo ja talvipuutarha olivat aikoinaan osa Engsholmin linnaa. Talvipuutarha on päässyt pahasti rappeutumaan aikojen saatossa. Kukahan täällä on asunut aiemmin? Ruotsalaissarja, jossa tutustutaan vanhojen talojen historiaan. (U)",
+      "start_time": "2025-06-17T15:30:00+03:00",
+      "end_time": "2025-06-17T16:30:00+03:00",
+      "uri": "yleareena://items/1-4355739"
+    },
+    {
+      "id": "1-73487266",
+      "title": "Yleisurheilun Paavo Nurmi Games",
+      "description": "Selostus Kimmo Porttila ja Johannes Oikarinen, asiantuntija Tuomas Raja, Turku. Ruotsinkielinen selostus Janne Isaksson, asiantuntija Mikael Ylöstalo.",
+      "start_time": "2025-06-17T16:30:00+03:00",
+      "end_time": "2025-06-17T21:05:23+03:00",
+      "uri": "yleareena://items/1-73487266"
+    },
+    {
+      "id": "1-71677300",
+      "title": "Maailman kauneimmat junareitit",
+      "description": "Kausi 2B, 7/11. Far North Line, Skotlanti. Far North Line -juna kulkee Skotlannin ylämaan läpi Invernessistä Wickiin ja tarjoaa upeita maisemia ja historiallisia kohteita.",
+      "start_time": "2025-06-17T21:05:23+03:00",
+      "end_time": "2025-06-17T21:50:04+03:00",
+      "uri": "yleareena://items/1-71677300"
+    },
+    {
+      "id": "1-72495985",
+      "title": "Äärioikeiston ytimessä",
+      "description": "Brittiläinen HOPE not hate -järjestön salaa kuvaama materiaali näyttää äärioikeiston toiminnan Britanniassa ja Euroopassa. Dokumentti paljastaa äärioikeiston toimintaa Britanniassa ja Euroopassa sekä heidän rasistiset näkemyksensä ja mediataktiikkansa. Se nostaa esiin äärioikeiston tarkoitushakuisen vihaa lietsovan toiminnan, joka yllyttää väkivaltaan, sekä paljastaa Piilaaksossa toimivan rahoittajan, joka tukee virheellistä/valheellista rotuoppia levittävää verkkoalustaa. (Undercover: Exposing the far right, Briannia, 2024)",
+      "start_time": "2025-06-17T21:50:04+03:00",
+      "end_time": "2025-06-17T23:27:00+03:00",
+      "uri": "yleareena://items/1-72495985"
+    },
+    {
+      "id": "1-50089576",
+      "title": "Koukussa strippaukseen (12)",
+      "description": "2/5. Ulrik tykkää yhdistää breakdance-harrastuksen ja strippauksen. Ihan helppoa se ei ole, sillä hän on myös perheenisä, jolla on lisäksi kokopäivätyö muualla. 26-vuotias Martin on lapsesta saakka haaveillut strippaamisesta ja toivoo, että se nyt onnistuu. Ehkä siitä on apua myös ADHD:n kanssa pärjäämiseen. (U)",
+      "start_time": "2025-06-17T23:27:00+03:00",
+      "end_time": "2025-06-17T23:56:00+03:00",
+      "uri": "yleareena://items/1-50089576"
+    }
+  ]
+}

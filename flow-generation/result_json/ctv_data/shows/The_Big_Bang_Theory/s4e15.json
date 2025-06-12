@@ -1,0 +1,25 @@
+{
+  "title": "The Benefactor Factor",
+  "description": "A wealthy donor makes Leonard question what he is willing to do for science.",
+  "season": 4,
+  "episode": "15",
+  "air_time": "2025-06-14T03:00:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_452d68b7-d162-4f3e-8cb0-a4ea2fb20025_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

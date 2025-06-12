@@ -1,0 +1,23 @@
+{
+  "title": "The Social",
+  "description": "Dipping into the fisherman look.",
+  "season": 12,
+  "episode": "173",
+  "air_time": "2025-06-12T19:00:00+00:00",
+  "duration": 60,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_6a12b19a-936c-42f7-838a-c45a073967e5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "melissa grelo",
+    "cynthia loyst",
+    "andrea bain"
+  ],
+  "directors": []
+}

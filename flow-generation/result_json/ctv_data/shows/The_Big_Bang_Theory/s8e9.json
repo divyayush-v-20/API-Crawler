@@ -1,0 +1,25 @@
+{
+  "title": "The Septum Deviation",
+  "description": "Leonard has minor surgery on his nose, causing Sheldon to overreact.",
+  "season": 8,
+  "episode": "9",
+  "air_time": "2025-06-17T21:00:00+00:00",
+  "duration": 30,
+  "release_year": "2014",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_1cebdad4-90aa-48f5-9b17-f69fea22cf00_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "directors": [
+    "anthony rich"
+  ]
+}

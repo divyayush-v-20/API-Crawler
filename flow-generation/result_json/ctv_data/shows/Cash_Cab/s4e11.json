@@ -1,0 +1,21 @@
+{
+  "title": "Cash Cab",
+  "description": "A crew of friends knows where they are as soon as they enter the Cash Cab.",
+  "season": 4,
+  "episode": "11",
+  "air_time": "2025-06-18T08:00:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_ed33a5c2-5983-4063-ae10-405bd2db1953_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "adam growe"
+  ],
+  "directors": []
+}

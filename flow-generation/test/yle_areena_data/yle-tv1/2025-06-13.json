@@ -1,0 +1,374 @@
+{
+  "channel": "yle-tv1",
+  "date": "2025-06-13",
+  "programs": [
+    {
+      "id": "1-4058143",
+      "title": "Suomi on suomalainen",
+      "description": "10/10 Nationalismi. Sarjan viimeisessä jaksossa pureudutaan suomalaiseen nationalismiin. Kaipaako se puolustuspuheita vai historian romukoppaa? Miten yhdistetään maailmankansalaisuus ja suomalaisuus? (U)",
+      "start_time": "2025-06-13T06:55:00+03:00",
+      "end_time": "2025-06-13T07:25:00+03:00",
+      "uri": "yleareena://items/1-4058143"
+    },
+    {
+      "id": "1-72625018",
+      "title": "Ylen aamu",
+      "description": "",
+      "start_time": "2025-06-13T07:25:00+03:00",
+      "end_time": "2025-06-13T09:30:00+03:00",
+      "uri": "yleareena://items/1-72625018"
+    },
+    {
+      "id": "1-62827694",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "2/8. Poliisi lähtee nuorison keskuudessa sekavasti käyttäytyvän henkilön luokse. Tullissa Jonna ja Anton pysäyttävät rekkoja. Emmi ja Oskar saavat ambulanssiin hälytyksen kaatuneesta naisesta, ja myöhemmin yöllä poliisi jahtaa autovarasta. (U)(2022)",
+      "start_time": "2025-06-13T09:30:00+03:00",
+      "end_time": "2025-06-13T09:59:02+03:00",
+      "uri": "yleareena://items/1-62827694"
+    },
+    {
+      "id": "1-65817410",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 1, 94/122. Tuntematon perijätär. Paronin testamentti tuottaa ikävän yllätyksen monelle. Keittiössä mökötetään, ja Catalina yrittää selvittää sen syytä. Petra ylittää jälleen itsensä ilkeilyssä ja nöyryyttämisessä. (U)",
+      "start_time": "2025-06-13T09:59:02+03:00",
+      "end_time": "2025-06-13T11:00:00+03:00",
+      "uri": "yleareena://items/1-65817410"
+    },
+    {
+      "id": "1-74390992",
+      "title": "Kesäkasvo",
+      "description": "Kesäkasvo on virkistävä ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkilökuvia ajankohtaisista vieraista koko kesän ajan. Sarja korostaa positiivisuutta ja kesäistä iloa. Vieraat jakavat henkilökohtaisia vinkkejä kesän viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkejä. Ylen aamun Kesäkasvo tuo piristystä ja inspiraatiota aamuihin. Ohjelman uusinta esitetään TV1:ssä samana päivänä klo 18.20.",
+      "start_time": "2025-06-13T11:00:00+03:00",
+      "end_time": "2025-06-13T11:10:00+03:00",
+      "uri": "yleareena://items/1-74390992"
+    },
+    {
+      "id": "1-72547385",
+      "title": "Yle Uutiset Uusimaa",
+      "description": "Uutisia Uudeltamaalta",
+      "start_time": "2025-06-13T11:10:00+03:00",
+      "end_time": "2025-06-13T11:13:00+03:00",
+      "uri": "yleareena://items/1-72547385"
+    },
+    {
+      "id": "1-72549438",
+      "title": "Yle Uutiset Kaakkois-Suomi",
+      "description": "Uutisia Kaakkois-Suomesta",
+      "start_time": "2025-06-13T11:13:00+03:00",
+      "end_time": "2025-06-13T11:16:00+03:00",
+      "uri": "yleareena://items/1-72549438"
+    },
+    {
+      "id": "1-72549777",
+      "title": "Yle Uutiset Lounais-Suomi",
+      "description": "Uutisia Lounais-Suomesta",
+      "start_time": "2025-06-13T11:16:00+03:00",
+      "end_time": "2025-06-13T11:19:00+03:00",
+      "uri": "yleareena://items/1-72549777"
+    },
+    {
+      "id": "1-72551689",
+      "title": "Yle Uutiset Häme",
+      "description": "Uutisia Kanta- ja Päijät-Hämeestä",
+      "start_time": "2025-06-13T11:19:00+03:00",
+      "end_time": "2025-06-13T11:22:00+03:00",
+      "uri": "yleareena://items/1-72551689"
+    },
+    {
+      "id": "1-72547848",
+      "title": "Yle Uutiset Pirkanmaa",
+      "description": "Uutisia Pirkanmaalta",
+      "start_time": "2025-06-13T11:22:00+03:00",
+      "end_time": "2025-06-13T11:25:00+03:00",
+      "uri": "yleareena://items/1-72547848"
+    },
+    {
+      "id": "1-72546288",
+      "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+      "description": "Uutisia Keski-Suomeen ja Etelä-Savoon",
+      "start_time": "2025-06-13T11:25:00+03:00",
+      "end_time": "2025-06-13T11:28:00+03:00",
+      "uri": "yleareena://items/1-72546288"
+    },
+    {
+      "id": "1-72549068",
+      "title": "Yle Uutiset Itä-Suomi",
+      "description": "Uutisia Itä-Suomesta",
+      "start_time": "2025-06-13T11:28:00+03:00",
+      "end_time": "2025-06-13T11:31:00+03:00",
+      "uri": "yleareena://items/1-72549068"
+    },
+    {
+      "id": "1-72551074",
+      "title": "Yle Uutiset Pohjanmaa",
+      "description": "Uutisia Pohjanmaalta",
+      "start_time": "2025-06-13T11:31:00+03:00",
+      "end_time": "2025-06-13T11:34:00+03:00",
+      "uri": "yleareena://items/1-72551074"
+    },
+    {
+      "id": "1-72550131",
+      "title": "Yle Uutiset Pohjois-Suomi",
+      "description": "Uutisia Pohjois-Suomesta",
+      "start_time": "2025-06-13T11:34:00+03:00",
+      "end_time": "2025-06-13T11:37:00+03:00",
+      "uri": "yleareena://items/1-72550131"
+    },
+    {
+      "id": "1-72552664",
+      "title": "Yle Uutiset Lappi",
+      "description": "Uutisia Lapista",
+      "start_time": "2025-06-13T11:37:00+03:00",
+      "end_time": "2025-06-13T11:40:00+03:00",
+      "uri": "yleareena://items/1-72552664"
+    },
+    {
+      "id": "1-72548136",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-13T11:40:00+03:00",
+      "end_time": "2025-06-13T11:44:30+03:00",
+      "uri": "yleareena://items/1-72548136"
+    },
+    {
+      "id": "1-72547949",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-13T11:44:30+03:00",
+      "end_time": "2025-06-13T12:00:00+03:00",
+      "uri": "yleareena://items/1-72547949"
+    },
+    {
+      "id": "1-72406275",
+      "title": "Luonto palaa",
+      "description": "5/5 Irti kahleista. Suomi oli pitkään suo-ojien luvattu maa. Nyt kosteikkoja yritetään ennallistaa, jotta jokien ja järvien kunto paranisi. Saako luonto mahdollisuuden toipua ihmisen aiheuttaman tuhon jäljiltä?",
+      "start_time": "2025-06-13T12:00:00+03:00",
+      "end_time": "2025-06-13T12:35:08+03:00",
+      "uri": "yleareena://items/1-72406275"
+    },
+    {
+      "id": "1-50799944",
+      "title": "Vera Stanhope tutkii (12)",
+      "description": "Kausi 11, 12/12. Tuuletar 2/2. Vera joukkoineen tonkii sitkeästi taustoja ja havaitsee, että uhrin lähipiirissä on lukuisia sekavia ja salattuja suhteita. Ehkä joku niistä jopa johti uhrin kuolemaan - mutta mikä? (U)",
+      "start_time": "2025-06-13T12:35:08+03:00",
+      "end_time": "2025-06-13T13:20:05+03:00",
+      "uri": "yleareena://items/1-50799944"
+    },
+    {
+      "id": "1-1472760",
+      "title": "Senni ja Savon sulttaani (S)",
+      "description": "Kansankomedia viisaisiin miehiin ihastuvasta savolaispiiasta. O: Matti Oravisto. N: Terttu Soinvirta, Uljas Kandolin, Sirkka Liisa Wilén, Matti Oravisto, Saara Ranin. (1953) (Mv) (U)",
+      "start_time": "2025-06-13T13:20:05+03:00",
+      "end_time": "2025-06-13T14:23:30+03:00",
+      "uri": "yleareena://items/1-1472760"
+    },
+    {
+      "id": "1-2221139",
+      "title": "Tulossa: Me tulemme taas (S)",
+      "description": "(Suomi, 1953). Kotimaisen elokuvan \"Me tulemme taas\" elokuvateattereissa esitetty ennakkomainos. (U).",
+      "start_time": "2025-06-13T14:23:30+03:00",
+      "end_time": "2025-06-13T14:27:00+03:00",
+      "uri": "yleareena://items/1-2221139"
+    },
+    {
+      "id": "1-1711397",
+      "title": "Pärinäpojista oikeiksi moottorimiehiksi",
+      "description": "Tapaturmantorjuntayhdistyksen liikennejaoston filmissä opetetaan turvallista moottoripyöräilyä hurjasteleville koviksille. (1953)(U)",
+      "start_time": "2025-06-13T14:27:00+03:00",
+      "end_time": "2025-06-13T14:37:00+03:00",
+      "uri": "yleareena://items/1-1711397"
+    },
+    {
+      "id": "1-64120959",
+      "title": "Romanien vaiettu historia (12)",
+      "description": "1/6. Anna Trollmann ja mestarinyrkkeilijä. Anna Trollmann kasvoi Taalainmaalla tietämättä romanitaustastaan. Aikuisena hän löysi juurensa ja uuden sukulaisen, Saksassa syntyneen Johann \"Rukkeli\" Trolmannin. Rukkeli oli menestynyt nyrkkeilijä, jonka natsit steriloivat ja veivät keskitysleirille. Anna Trollmann haluaa selvittää mitä tapahtui ja kertoa vaietusta taustastaan omille lapsilleen. (U)",
+      "start_time": "2025-06-13T14:37:00+03:00",
+      "end_time": "2025-06-13T15:06:00+03:00",
+      "uri": "yleareena://items/1-64120959"
+    },
+    {
+      "id": "1-65831794",
+      "title": "Avara luonto: Saarten taikaa",
+      "description": "1/6. Vancouverinsaari. Kanadan länsirannikon edustalla sijaitsevan Vancouverinsaaren autioilla rannoilla ja metsäisillä vuorilla viihtyvät monet eläinlajit. Sarjassa perehdytään kuuden hyvin erilaisen saaren luontoon ja eläinmaailmaan. Kauniissa maisemissa viihtyvät valaat, karhut, kotkat, norsut ja monet muut lajit. Saaret ovat pieniä ekosysteemejä, joissa eläinten käyttäytyminen on muokkautunut ainutlaatuiseksi ja usein erilaiseksi kuin mantereella. (U)",
+      "start_time": "2025-06-13T15:06:00+03:00",
+      "end_time": "2025-06-13T15:55:07+03:00",
+      "uri": "yleareena://items/1-65831794"
+    },
+    {
+      "id": "1-65316522",
+      "title": "Historia: Villin lännen valloitus (12)",
+      "description": "1/6 Katse länteen. Kun Amerikan brittisiirtokunnat itsenäistyivät ne suuntasivat katseensa länteen Ranskalta ostettuihin valtaviin maa-alueisiin. (U)",
+      "start_time": "2025-06-13T15:55:07+03:00",
+      "end_time": "2025-06-13T16:40:00+03:00",
+      "uri": "yleareena://items/1-65316522"
+    },
+    {
+      "id": "1-72626177",
+      "title": "Yle Uutiset selkosuomeksi",
+      "description": "",
+      "start_time": "2025-06-13T16:40:00+03:00",
+      "end_time": "2025-06-13T16:45:00+03:00",
+      "uri": "yleareena://items/1-72626177"
+    },
+    {
+      "id": "1-72548168",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-13T16:45:00+03:00",
+      "end_time": "2025-06-13T16:50:00+03:00",
+      "uri": "yleareena://items/1-72548168"
+    },
+    {
+      "id": "1-72625531",
+      "title": "Novosti Yle",
+      "description": "",
+      "start_time": "2025-06-13T16:50:00+03:00",
+      "end_time": "2025-06-13T16:55:00+03:00",
+      "uri": "yleareena://items/1-72625531"
+    },
+    {
+      "id": "1-72475767",
+      "title": "Yle Uutiset viittomakielellä",
+      "description": "",
+      "start_time": "2025-06-13T16:55:00+03:00",
+      "end_time": "2025-06-13T17:00:00+03:00",
+      "uri": "yleareena://items/1-72475767"
+    },
+    {
+      "id": "1-71641149",
+      "title": "Yle Uutiset 17.00",
+      "description": "",
+      "start_time": "2025-06-13T17:00:00+03:00",
+      "end_time": "2025-06-13T17:06:00+03:00",
+      "uri": "yleareena://items/1-71641149"
+    },
+    {
+      "id": "1-72606857",
+      "title": "Yle Uutiset alueeltasi",
+      "description": "Uutisia alueeltasi",
+      "start_time": "2025-06-13T17:06:00+03:00",
+      "end_time": "2025-06-13T17:10:00+03:00",
+      "uri": "yleareena://items/1-72606857"
+    },
+    {
+      "id": "1-64910962",
+      "title": "Vera Stanhope tutkii (12)",
+      "description": "Kausi 12, 1/8. Tuulimyllyjä vastaan 1/2. Syrjäiseltä rannalta löytyy ruumis. Uhri oli ollut kateissa pari päivää, ja oli törmäyskurssilla sekä työssään että perhe-elämässään. Kuinka hän päätyi kuolleena purjeveneeseen? (U)",
+      "start_time": "2025-06-13T17:10:00+03:00",
+      "end_time": "2025-06-13T18:00:00+03:00",
+      "uri": "yleareena://items/1-64910962"
+    },
+    {
+      "id": "1-72264205",
+      "title": "Yle Uutiset 18.00",
+      "description": "",
+      "start_time": "2025-06-13T18:00:00+03:00",
+      "end_time": "2025-06-13T18:12:00+03:00",
+      "uri": "yleareena://items/1-72264205"
+    },
+    {
+      "id": "1-72551784",
+      "title": "Yle Uutiset Uutis-Suomi",
+      "description": "Kiinnostavia uutisia eri puolelta Suomea",
+      "start_time": "2025-06-13T18:12:00+03:00",
+      "end_time": "2025-06-13T18:20:00+03:00",
+      "uri": "yleareena://items/1-72551784"
+    },
+    {
+      "id": "1-74391003",
+      "title": "Kesäkasvo",
+      "description": "Kesäkasvo on virkistävä ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkilökuvia ajankohtaisista vieraista koko kesän ajan. Sarja korostaa positiivisuutta ja kesäistä iloa. Vieraat jakavat henkilökohtaisia vinkkejä kesän viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkejä. Ylen aamun Kesäkasvo tuo piristystä ja inspiraatiota aamuihin. Ohjelman uusinta esitetään TV1:ssä samana päivänä klo 18.20.",
+      "start_time": "2025-06-13T18:20:00+03:00",
+      "end_time": "2025-06-13T18:30:00+03:00",
+      "uri": "yleareena://items/1-74391003"
+    },
+    {
+      "id": "1-62827695",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "3/8. Pelastuslaitoksella Sebastian saa hälytyksen nokkakolarista Vaasan ulkopuolella. Poliisit Johanna ja Fredrik lähtevät sorsanmetsästyskauden avajaisiin tarkastamaan metsästäjien aseita ja raittiutta. Ensihoitajat Samuel ja Vendi huolehtivat henkilöstä, joka kuulee ääniä. (U)(2022)",
+      "start_time": "2025-06-13T18:30:00+03:00",
+      "end_time": "2025-06-13T19:00:00+03:00",
+      "uri": "yleareena://items/1-62827695"
+    },
+    {
+      "id": "1-73182812",
+      "title": "Neiti Austen (7)",
+      "description": "1/4. Huolestuttavia uutisia. Vuonna 1830 Cassandra Austen saa viestin, jonka vuoksi hän kiiruhtaa Kintburyn pappilaan. Hän haluaa tukea rakkaan ystävänsä tytärtä, jonka isä on kuolemaisillaan. Saapuessaan perille hänellä on kuitenkin vielä tärkeämpi tehtävä: löytääkö hän pappilasta sisarensa Jane Austenin kirjoittamat yksityiset kirjeet?",
+      "start_time": "2025-06-13T19:00:00+03:00",
+      "end_time": "2025-06-13T19:53:06+03:00",
+      "uri": "yleareena://items/1-73182812"
+    },
+    {
+      "id": "1-4446254",
+      "title": "Egenlandin matkakohteet",
+      "description": "Ankeasta öljysatamasta monipuoliseksi kansankeitaaksi: Tämä puisto on kokenut suuren muodonmuutoksen ja on tätä nykyä erittäin suosittu ja kaunis ajanviettopaikka.",
+      "start_time": "2025-06-13T19:53:06+03:00",
+      "end_time": "2025-06-13T20:00:04+03:00",
+      "uri": "yleareena://items/1-4446254"
+    },
+    {
+      "id": "1-64912373",
+      "title": "Kun Suomi muuttui - levottomat ajat 1961-1981",
+      "description": "4/10. Unelmat paremmasta elämästä 1967-1968. Kulutuskulttuuri kehittyy elintason noustessa. Peruskoulu-uudistuksesta säädetään laki, mutta maaseudun ahdinko syvenee ja protestimieliala kiihtyy. (U)",
+      "start_time": "2025-06-13T20:00:04+03:00",
+      "end_time": "2025-06-13T20:29:55+03:00",
+      "uri": "yleareena://items/1-64912373"
+    },
+    {
+      "id": "1-72361885",
+      "title": "Yle Uutiset 20.30",
+      "description": "",
+      "start_time": "2025-06-13T20:29:55+03:00",
+      "end_time": "2025-06-13T20:55:00+03:00",
+      "uri": "yleareena://items/1-72361885"
+    },
+    {
+      "id": "1-72256317",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-13T20:55:00+03:00",
+      "end_time": "2025-06-13T21:05:10+03:00",
+      "uri": "yleareena://items/1-72256317"
+    },
+    {
+      "id": "1-68346702",
+      "title": "Puoli seiskan kesäilta",
+      "description": "Valoa, kesäihmisiä, paikallisia erikoisuuksia ja lavatanssitunnelmaa Mikko Kekäläisen ja Tuulianna Tolan seurassa Ämyrin lavalla Somerolla. Kansaa tanssittavat suosikkiyhtyeet Taikakuu ja Sinitaivas.",
+      "start_time": "2025-06-13T21:05:10+03:00",
+      "end_time": "2025-06-13T22:05:00+03:00",
+      "uri": "yleareena://items/1-68346702"
+    },
+    {
+      "id": "1-64126586",
+      "title": "Happy Valley, varjojen laakso (16)",
+      "description": "Kausi 3, 6/7. Karkulainen. Poliisi tutkii naisenmurhaa. Vankikarkurin etsintä käy kiivaana ja Catherinen perhe ohjataan turvaan. Royce piilotetaan kurjaan läävään, seuraavasta viikosta on tulossa pitkä. (U)",
+      "start_time": "2025-06-13T22:05:00+03:00",
+      "end_time": "2025-06-13T23:00:00+03:00",
+      "uri": "yleareena://items/1-64126586"
+    },
+    {
+      "id": "1-72548109",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-13T23:00:00+03:00",
+      "end_time": "2025-06-13T23:15:00+03:00",
+      "uri": "yleareena://items/1-72548109"
+    },
+    {
+      "id": "1-3844991",
+      "title": "Naissotilaat",
+      "description": "3/9. Pelko. Kokelaat palaavat Niinisaloon aiheuttaen pelkoa alokkaissa. Edessä on myös polttotaistelurata, jossa Piritalla on vaikeuksia selviytyä eräästä rastista. Moona ja Jenni saavat yllättävän tehtävän. (U)",
+      "start_time": "2025-06-13T23:15:00+03:00",
+      "end_time": "2025-06-13T23:42:48+03:00",
+      "uri": "yleareena://items/1-3844991"
+    },
+    {
+      "id": "1-3844992",
+      "title": "Naissotilaat",
+      "description": "4/9. Sota ja selviytyminen. Alokkaiden jatkokoulutuspaikat alkavat hahmottua ja yksi joutuu pettymään. Ensimmäisellä metsäleirillä Moona ei tule toimeen konekiväärin kanssa. Ja miksi yöllisessä metsässä näkyy mörköjä? (U)",
+      "start_time": "2025-06-13T23:42:48+03:00",
+      "end_time": "2025-06-14T00:15:00+03:00",
+      "uri": "yleareena://items/1-3844992"
+    }
+  ]
+}

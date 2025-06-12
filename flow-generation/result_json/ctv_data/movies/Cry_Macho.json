@@ -1,0 +1,27 @@
+{
+  "title": "Cry Macho",
+  "description": "Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from his former boss to bring the man's young son home from Mexico. Forced to take the back roads on their way to Texas, the unlikely duo face a challenging journey, during which the world-weary horseman finds unexpected connections and his own sense of redemption.",
+  "air_time": "2025-06-14T18:00:00+00:00",
+  "duration": 150,
+  "release_year": "2021",
+  "genres": [
+    "drama",
+    "western"
+  ],
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_24bc2e79-6429-4811-9361-0d9e438ccf1a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "clint eastwood",
+    "eduardo minett",
+    "dwight yoakam"
+  ],
+  "directors": [
+    "clint eastwood"
+  ]
+}

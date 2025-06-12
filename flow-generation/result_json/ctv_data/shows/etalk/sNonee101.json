@@ -1,0 +1,23 @@
+{
+  "title": "etalk",
+  "description": "Cobie Smulders (\"Super Team Canada\"); Cheech and Chong reflect on their 50 years in comedy.",
+  "season": null,
+  "episode": "101",
+  "air_time": "2025-06-15T11:00:00+00:00",
+  "duration": 30,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_7d104f3c-7216-406e-9fe4-1e0b8e1b42f5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "tyrone edwards",
+    "lainey lui",
+    "traci melchor"
+  ],
+  "directors": []
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Cash Cab",
+  "description": "Alec, Ann and Jacqueline are bemused by the Cash Cab, but decide to give it a go; it's a tense ride.",
+  "season": 3,
+  "episode": "24",
+  "air_time": "2025-06-13T08:00:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_a03b7513-64a5-4203-bb47-b22c1fb624da_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "adam growe"
+  ],
+  "directors": []
+}

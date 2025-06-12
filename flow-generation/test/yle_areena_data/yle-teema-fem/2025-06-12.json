@@ -1,0 +1,254 @@
+{
+  "channel": "yle-teema-fem",
+  "date": "2025-06-12",
+  "programs": [
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-12T07:50:20+03:00",
+      "end_time": "2025-06-12T07:50:20+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-72315945",
+      "title": "BUU-klubben",
+      "description": "BUU-klubbenin jännittävien tapahtumien selvittyä Lurkki ja Sebbe katsovat sarjoja Karlan mahtava luokka, Koira nimeltä Ib, Miia ja Roni sekä Vedenalaisen maailman asukkaita.",
+      "start_time": "2025-06-12T07:50:20+03:00",
+      "end_time": "2025-06-12T08:20:03+03:00",
+      "uri": "yleareena://items/1-72315945"
+    },
+    {
+      "id": "1-2296111",
+      "title": "Tallityttöjä ja eliittiratsuja",
+      "description": "11/12. Ennen kuin Linnéa lopettaa Kronekullassa, hänen pitää opettaa uusille tytöille, kuinka homma toimii. Johanna on tilan uusi kilpailuhevosten hoitaja. Hän saa heti tuta, mitä tuleman pitää.",
+      "start_time": "2025-06-12T08:20:03+03:00",
+      "end_time": "2025-06-12T08:28:30+03:00",
+      "uri": "yleareena://items/1-2296111"
+    },
+    {
+      "id": "1-50544130",
+      "title": "Jens erämaaseikkailulla",
+      "description": "3/5. Jens pääsee lähikontaktiin karhun kanssa, kun tämä tassuttelee Jensin ja kanootin välistä. Jensin koira Tarzan pelästyy karhua niin, että karkaa metsään. Jens pelkää pahinta sitä etsiessään. Jens Kvernmo tekee pitkiä ja vaativia erämaavaelluksia Kanadassa. Hän elää unelmaansa teltan, kalastustarvikkeiden ja koiran kanssa ja haastaa luonnonvoimien lisäksi myös itsensä.(U)",
+      "start_time": "2025-06-12T08:28:30+03:00",
+      "end_time": "2025-06-12T09:08:30+03:00",
+      "uri": "yleareena://items/1-50544130"
+    },
+    {
+      "id": "1-72250881",
+      "title": "Livet - suomenruotsalaisia tarinoita",
+      "description": "Mira Haahdin luotsaamat Tellinan ja Thalattan majatalot Hangossa ovat oma taianomainen maailmansa. Sukupolvi toisensa jälkeen on uurastanut huviloiden eteen, mutta nyt Haahti ja hänen miehensä ovat valinnan edessä: pitääkö suvun perintö elossa vai onko aika päästää irti? Toimittaja: Minna Almark.",
+      "start_time": "2025-06-12T09:08:30+03:00",
+      "end_time": "2025-06-12T09:18:10+03:00",
+      "uri": "yleareena://items/1-72250881"
+    },
+    {
+      "id": "1-50455535",
+      "title": "Elämä käännekohdassa",
+      "description": "5/8. Prostituutio on todellinen ilmiö, jossa riistetään ja nöyryytetään todellisia naisia. Heidän taustaltaan löytyy usein köyhyyttä, seksuaalista hyväksikäyttöä ja psykososiaalisia ongelmia. He ovat unohdettu ihmisryhmä, josta useimmat ihmiset eivät halua kuulla. \"Jasmina\" on yksi heistä. Toimittaja Anja Kontor tapaa ihmisiä, jotka ovat selviytyneet vaikeista elämäntilanteista. (U)",
+      "start_time": "2025-06-12T09:18:10+03:00",
+      "end_time": "2025-06-12T09:47:47+03:00",
+      "uri": "yleareena://items/1-50455535"
+    },
+    {
+      "id": "1-72175702",
+      "title": "Søren Vesterin puutarha",
+      "description": "Kausi 4, 10/13. Hautausmaiden kauneus. Sørenin mielestä meidän pitäisi ajatella hautausmaita puutarhoina. Hän käy hakemassa inspiraatiota Ryn hautausmaalta. Hän rakentaa myös jäteaseman ja tarkistaa kasvihuoneen.",
+      "start_time": "2025-06-12T09:47:47+03:00",
+      "end_time": "2025-06-12T10:16:59+03:00",
+      "uri": "yleareena://items/1-72175702"
+    },
+    {
+      "id": "1-2757186",
+      "title": "Äärimmäiset sääilmiöt",
+      "description": "Osa 4/4. Myrskyt. Meteorologi Mikkel Fønsskov matkustaa ympäri maailmaa ja raportoi äärimmäisistä sääilmiöistä. Tanskalainen luontosarja. Tuotanto: Danmarks Medie- og Journalisthøjskole, 2013. (U)",
+      "start_time": "2025-06-12T10:16:59+03:00",
+      "end_time": "2025-06-12T11:00:30+03:00",
+      "uri": "yleareena://items/1-2757186"
+    },
+    {
+      "id": "1-72250803",
+      "title": "Efter Nio ",
+      "description": "Koti. Tapettimies Nils Markus Karlsson, Dalia Stasevska naisten roolista musiikissa, Matti Kuittinen pienestä asumisesta, Anastasia Mansner sijaiskodista, Sonja testaa ninjaradan. Parad Media",
+      "start_time": "2025-06-12T11:00:30+03:00",
+      "end_time": "2025-06-12T12:00:00+03:00",
+      "uri": "yleareena://items/1-72250803"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-12T12:00:00+03:00",
+      "end_time": "2025-06-12T12:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-10745",
+      "title": "Autonomian jäljillä",
+      "description": "Keisarin jalomielisyyttä vai reaalipolitiikkaa, hyvää onnea vai taitavaa lobbausta? Neljä eurooppalaista tulkintaa Suomen erikoisasemasta vuonna 1809. (U)",
+      "start_time": "2025-06-12T12:00:00+03:00",
+      "end_time": "2025-06-12T12:50:49+03:00",
+      "uri": "yleareena://items/1-10745"
+    },
+    {
+      "id": "1-73671917",
+      "title": "Historia: Natsien taidevaras",
+      "description": "1/2 Varastettu taide. Pariisista tuli natsien varastaman taiteen säilytyskeskus. Bruno Lohse toimi merkittävässä roolissa taideteosten arvioinnissa ja käsittelyssä, hyödyntäen asiantuntemustaan natsijohtajien hyväksi.",
+      "start_time": "2025-06-12T12:50:49+03:00",
+      "end_time": "2025-06-12T13:45:34+03:00",
+      "uri": "yleareena://items/1-73671917"
+    },
+    {
+      "id": "1-65062639",
+      "title": "Maailman kauneimmat junareitit",
+      "description": "Kausi 2, 10/12. Läntisen Ylämaan rata, Skotlanti. Skotlannin junamatkan ensimmäinen osuus kulkee Glasgow'sta Loch Lomondin ja Trossachsin kansallispuiston läpi Ardluisiin. Matka jatkuu läntisen Ylämaan laitaa pitkin Upper Tyndrumiin ja Corrouriin. Lopuksi saavutaan Skyesaarelle. (U)",
+      "start_time": "2025-06-12T13:45:34+03:00",
+      "end_time": "2025-06-12T14:29:00+03:00",
+      "uri": "yleareena://items/1-65062639"
+    },
+    {
+      "id": "1-1095361",
+      "title": "10 kirjaa rahasta",
+      "description": "Kirjasarjan ensimmäisessä jaksossa poliitikko Sauli Niinistö keskustelee ranskalaisen Honoré de Balzacin romaanista Ukko Goriot Anna Kortelaisen ja Timo Harakan seurassa. (2011)(U)",
+      "start_time": "2025-06-12T14:30:00+03:00",
+      "end_time": "2025-06-12T15:00:00+03:00",
+      "uri": "yleareena://items/1-1095361"
+    },
+    {
+      "id": "1-68978301",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 228/250. Alonson mielipide. Janan jääminen pois tervetuloaterialta saa Cruzin toimimaan. Manuel rohkaisee isäänsä osallistumaan Urbizun herttuan juhliin kaikkien hyvää ajatellen. Onko Teresa lähdössä lopullisesti kartanosta?",
+      "start_time": "2025-06-12T15:00:00+03:00",
+      "end_time": "2025-06-12T16:00:00+03:00",
+      "uri": "yleareena://items/1-68978301"
+    },
+    {
+      "id": "1-3738640",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 2/7. Kulkuri. Hotellille ilmestyy henkilö, jolla on uutisia kadonneesta Mortenista. Amanda, Ditmar ja vanha kreivitär palaavat hotellille Ditmarin isän hautajaisten jälkeen. Tukkukauppias Madsen yrittää löytää rakennushankkeelleen uusia rahoittajia. (U)",
+      "start_time": "2025-06-12T16:00:00+03:00",
+      "end_time": "2025-06-12T16:45:10+03:00",
+      "uri": "yleareena://items/1-3738640"
+    },
+    {
+      "id": "1-50677639",
+      "title": "Egenlandin matkakohteet",
+      "description": "Kainuulaisissa vaaramaisemissa mutkittelee ikivanha vienalaisten laukkukauppiaiden käyttämä reitti, jonka varrella Elias Lönnrotkin kerran eksyi runonhakumatkoillaan.",
+      "start_time": "2025-06-12T16:45:10+03:00",
+      "end_time": "2025-06-12T17:02:00+03:00",
+      "uri": "yleareena://items/1-50677639"
+    },
+    {
+      "id": "1-62642670",
+      "title": "Vaikuttajien miljoonabisnes",
+      "description": "Osa 3/5. Kaikki on myytävänä. Jos tuotetta halutaan myydä, on oikeanlaiset influensserit koottava yhteen. Agentit järjestävät somevaikuttajille tilaisuuksia saadakseen tuotteille laajempaa näkyvyyttä. Tuotanto: DR, 2022 (U)",
+      "start_time": "2025-06-12T17:02:00+03:00",
+      "end_time": "2025-06-12T17:25:00+03:00",
+      "uri": "yleareena://items/1-62642670"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-12T17:25:00+03:00",
+      "end_time": "2025-06-12T17:25:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-4328801",
+      "title": "Egenland",
+      "description": "Kausi 1, 8/10. Katsojien vihjeet vievät nauttimaan kahvista ja Raahen merellisestä historiasta Langin kauppahuoneessa, hiljentymään Peuran polulla sekä narraamaan kaloja Kolpissa. (U)",
+      "start_time": "2025-06-12T17:25:00+03:00",
+      "end_time": "2025-06-12T17:55:00+03:00",
+      "uri": "yleareena://items/1-4328801"
+    },
+    {
+      "id": "1-71958537",
+      "title": "Yle Nyheter TV-nytt 17.55",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-12T17:55:00+03:00",
+      "end_time": "2025-06-12T18:00:00+03:00",
+      "uri": "yleareena://items/1-71958537"
+    },
+    {
+      "id": "1-72315945",
+      "title": "BUU-klubben",
+      "description": "BUU-klubbenin jännittävien tapahtumien selvittyä Lurkki ja Sebbe katsovat sarjoja Karlan mahtava luokka, Koira nimeltä Ib, Miia ja Roni sekä Vedenalaisen maailman asukkaita.",
+      "start_time": "2025-06-12T18:00:00+03:00",
+      "end_time": "2025-06-12T18:30:00+03:00",
+      "uri": "yleareena://items/1-72315945"
+    },
+    {
+      "id": "1-73604575",
+      "title": "Riistametsällä",
+      "description": "Kausi 14, 2/7. Mustekalaa Teneriffalla. Jørgen ja Nikolaj haaveilevat hippileiristä ja panostavat väreihin. Tällä kertaa pataan halutaan meren älykkäin eläin, mustekala. Mutta ken onkaan lopulta fiksuin?",
+      "start_time": "2025-06-12T18:30:00+03:00",
+      "end_time": "2025-06-12T19:30:00+03:00",
+      "uri": "yleareena://items/1-73604575"
+    },
+    {
+      "id": "1-71958246",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-12T19:30:00+03:00",
+      "end_time": "2025-06-12T19:44:50+03:00",
+      "uri": "yleareena://items/1-71958246"
+    },
+    {
+      "id": "1-67016870",
+      "title": "Micken puuvene",
+      "description": "4/6. On vihdoinkin kevät, ja venekerhon jäsenet odottavat innolla sitä hetkeä, kun pressut voi poistaa! Micke on urakoinut ahkerasti. Nyt on vuorossa kylkien hionta ja pohjan maalaus. Hän tapaa myös Matsin, joka vietti monta vuotta tulitikkukuningas Ivan Kreugerin puuvenettä kunnostaen.",
+      "start_time": "2025-06-12T19:44:50+03:00",
+      "end_time": "2025-06-12T20:00:00+03:00",
+      "uri": "yleareena://items/1-67016870"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-12T20:00:00+03:00",
+      "end_time": "2025-06-12T20:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-3738641",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 3/7. Rouva Madsenin korut. Tukkukauppias Madsen on pantannut vaimonsa korut, mistä seuraa aviokriisi. Herra Weyse tekee voitavansa suojellakseen Kittyä tehtailija Frighin lähentelyiltä. Molly ja Fie saavat aiheen ottaa yhteyttä Morteniin. (U)",
+      "start_time": "2025-06-12T20:00:00+03:00",
+      "end_time": "2025-06-12T20:46:00+03:00",
+      "uri": "yleareena://items/1-3738641"
+    },
+    {
+      "id": "1-50911541",
+      "title": "Drakar - ystävyyden roadtrip (12)",
+      "description": "Kun kaverukset pääsevät lopulta Norjaan, edessä on kaaosta ja katastrofi. Tuotanto: Citizen Jane Productions, 2022.",
+      "start_time": "2025-06-12T20:46:00+03:00",
+      "end_time": "2025-06-12T21:00:02+03:00",
+      "uri": "yleareena://items/1-50911541"
+    },
+    {
+      "id": "1-51013652",
+      "title": "Lewerentz - elämän ja kuoleman arkkitehti",
+      "description": "Ruotsalainen Sigurd Lewerentz (1885 - 1975) on yksi arvostetuimmista ja myyttisimmistä arkkitehdeistä. Hänen suunnittelemiaan rakennuksia ja alueita kuten Skogskyrkogårdenin hautausmaata rakastetaan, mutta kuka oli julkisuudesta poissa pysytellyt Sigurd Lewerentz? Se paljastui, kun kellarista löytyi 16 mm kuvanauhoja ja äänitteitä, joissa tapamme myyttisen Sigurd Lewerentzin ensimmäistä kertaa. Ohjaus: Sven Blume. (Lewerentz - Divine Darkness, Ruotsi 2023)",
+      "start_time": "2025-06-12T21:00:02+03:00",
+      "end_time": "2025-06-12T22:00:00+03:00",
+      "uri": "yleareena://items/1-51013652"
+    },
+    {
+      "id": "1-65909981",
+      "title": "Ron Carter: oikeita ääniä etsimässä (S)",
+      "description": "Dokumentti jazzin herrasmieslegenda Ron Carterista, joka on todennäköisesti kaikkien aikojen eniten levyttänyt jazzmuusikko. (U)",
+      "start_time": "2025-06-12T22:00:00+03:00",
+      "end_time": "2025-06-12T23:47:05+03:00",
+      "uri": "yleareena://items/1-65909981"
+    },
+    {
+      "id": "1-67210878",
+      "title": "Enemmän elokuvasta: Blue Velvet - ja sinisempi oli yö",
+      "description": "Lisää puhetta klassikosta. Amos Brotherus, Kalle Kinnunen ja Markus Toivo pohtivat kuuluisan nuoruuskuvauksen monia tasoja.",
+      "start_time": "2025-06-12T23:47:05+03:00",
+      "end_time": "2025-06-13T00:10:00+03:00",
+      "uri": "yleareena://items/1-67210878"
+    }
+  ]
+}

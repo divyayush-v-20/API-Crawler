@@ -1,0 +1,23 @@
+{
+  "title": "The Chicken Roaster",
+  "description": "A celebrity opens a chicken restaurant in Jerry's neighborhood.",
+  "season": 8,
+  "episode": "8",
+  "air_time": "2025-06-17T06:37:00+00:00",
+  "duration": 30,
+  "release_year": "1996",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_b7aa738c-ec68-467f-9b89-de6fe4fd3dba_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "jerry seinfeld",
+    "julia louis-dreyfus",
+    "jason alexander"
+  ],
+  "directors": []
+}

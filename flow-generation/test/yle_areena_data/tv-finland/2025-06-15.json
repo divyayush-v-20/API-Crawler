@@ -1,0 +1,222 @@
+{
+  "channel": "tv-finland",
+  "date": "2025-06-15",
+  "programs": [
+    {
+      "id": "1-71959406",
+      "title": "Nimipäiväonnittelu 15.6.",
+      "description": "Onnea, Vieno, Moona, Viena ja Mona!",
+      "start_time": "2025-06-15T09:30:00+03:00",
+      "end_time": "2025-06-15T09:31:48+03:00",
+      "uri": "yleareena://items/1-71959406"
+    },
+    {
+      "id": "1-50802703",
+      "title": "Salasaaren seikkailijat",
+      "description": "Kausi 2. Ding dong! Seikkailijat Saku ja Lauri selvittävät, kenelle kuuluu merkillinen matkalaukku, jossa on taikasauva ja partasaippuaa. Maja-Akka tahtoo ottaa omaa aikaa.",
+      "start_time": "2025-06-15T09:31:48+03:00",
+      "end_time": "2025-06-15T09:57:33+03:00",
+      "uri": "yleareena://items/1-50802703"
+    },
+    {
+      "id": "1-72615313",
+      "title": "Supernormaalia (7)",
+      "description": "Kausi 2, 6/9. Lukas, JG ja Mikko karkaavat yöksi telttailemaan. JG on varma että enneunet liittyvät metsään ja kalliille ghostboxille tulee käyttöä. Yön tunteina retki saa karmean käänteen. Kuvailutulkattu.",
+      "start_time": "2025-06-15T09:57:33+03:00",
+      "end_time": "2025-06-15T10:15:00+03:00",
+      "uri": "yleareena://items/1-72615313"
+    },
+    {
+      "id": "1-4393427",
+      "title": "Yliopistollinen eläinsairaala: Elmo-koira shokkitilassa",
+      "description": "19/40. Pari päivää aiemmin vatsalaukun leikkauksessa ollut landseer Elmo tuodaan päivystykseen shokkitilassa. Eläinsairaalan henkilökunta tekee kaikkensa pelastaakseen Elmon. Klinikkaeläinhoitaja Jenni tuo kissansa Pillin hammashoitoon, ja tukena seuraa koko karvainen perhe. (U)",
+      "start_time": "2025-06-15T13:00:00+03:00",
+      "end_time": "2025-06-15T13:30:00+03:00",
+      "uri": "yleareena://items/1-4393427"
+    },
+    {
+      "id": "1-50647651",
+      "title": "Lauman uusi jäsen",
+      "description": "Osa 2/8. Backströmin perheen lapset saavat kuulla jännittävän uutisen. Ines on vegaani, mutta hänen uusi kissanpentunsa Koivu on puhdas lihansyöjä. Onko kissan tai koiran hankkiminen eettisesti oikein? Tuotanto: Five Corners Production, 2021. (U)",
+      "start_time": "2025-06-15T13:30:00+03:00",
+      "end_time": "2025-06-15T14:00:00+03:00",
+      "uri": "yleareena://items/1-50647651"
+    },
+    {
+      "id": "1-50282766",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 10/16. Puoluekartan rajamailla. (U)",
+      "start_time": "2025-06-15T14:00:00+03:00",
+      "end_time": "2025-06-15T14:12:50+03:00",
+      "uri": "yleareena://items/1-50282766"
+    },
+    {
+      "id": "1-50282765",
+      "title": "Itse valtiaat (7)",
+      "description": "Kausi 11, 11/16. Poliittinen valtayhjiö.(U)",
+      "start_time": "2025-06-15T14:12:50+03:00",
+      "end_time": "2025-06-15T14:25:00+03:00",
+      "uri": "yleareena://items/1-50282765"
+    },
+    {
+      "id": "1-1823480",
+      "title": "Kummeli (7)",
+      "description": "Kausi 4. 5/8. Juhaa sattu leukaan, Likkojen ilta, Musavisa, Aas Weckström kysyy, Esko Mörkö koesoitto, Työsuhdeautojen arvonta ja paljon muuta älämölöä. (U)",
+      "start_time": "2025-06-15T14:25:00+03:00",
+      "end_time": "2025-06-15T14:49:25+03:00",
+      "uri": "yleareena://items/1-1823480"
+    },
+    {
+      "id": "1-1823481",
+      "title": "Kummeli (7)",
+      "description": "Kausi 4. 6/8. Pikaraportti Mauno Ahonen, Älykääpiöt katossa, Musavisa Suomen teurastajien liitto, Tamppaajat, Potilas Saarinen pää irti ja paljon muuta päätöntä. (U)",
+      "start_time": "2025-06-15T14:49:25+03:00",
+      "end_time": "2025-06-15T15:15:00+03:00",
+      "uri": "yleareena://items/1-1823481"
+    },
+    {
+      "id": "1-62827692",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "1/8. Samuel ja Filippa saavat hälytyksen elottomasta henkilöstä. Emmi ja Oskar huolehtivat bussin lattialle tuupertuneesta. Paloasemalla harjoitellaan savusukellusta palavaan konttiin, ja poliisi hälytetään teräaseella uhatun nuoren luokse. (U)(2022)",
+      "start_time": "2025-06-15T16:30:00+03:00",
+      "end_time": "2025-06-15T17:00:00+03:00",
+      "uri": "yleareena://items/1-62827692"
+    },
+    {
+      "id": "1-62827694",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "2/8. Poliisi lähtee nuorison keskuudessa sekavasti käyttäytyvän henkilön luokse. Tullissa Jonna ja Anton pysäyttävät rekkoja. Emmi ja Oskar saavat ambulanssiin hälytyksen kaatuneesta naisesta, ja myöhemmin yöllä poliisi jahtaa autovarasta. (U)(2022)",
+      "start_time": "2025-06-15T17:00:00+03:00",
+      "end_time": "2025-06-15T17:30:00+03:00",
+      "uri": "yleareena://items/1-62827694"
+    },
+    {
+      "id": "1-62827695",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "3/8. Pelastuslaitoksella Sebastian saa hälytyksen nokkakolarista Vaasan ulkopuolella. Poliisit Johanna ja Fredrik lähtevät sorsanmetsästyskauden avajaisiin tarkastamaan metsästäjien aseita ja raittiutta. Ensihoitajat Samuel ja Vendi huolehtivat henkilöstä, joka kuulee ääniä. (U)(2022)",
+      "start_time": "2025-06-15T17:30:00+03:00",
+      "end_time": "2025-06-15T18:00:00+03:00",
+      "uri": "yleareena://items/1-62827695"
+    },
+    {
+      "id": "1-4468888",
+      "title": "Alina idässä",
+      "description": "Kausi 2, 4/8. Ljubljana. Alina ja Lauri treenaavat huippusuosittujen akrobaattien kanssa ja yöpyvät puumajassa. Alppien kauneus innostaa kokeilemaan extreme-lajia ja pikkukylän reggae-festareilla myydään laillista kannabista. (U)",
+      "start_time": "2025-06-15T18:00:00+03:00",
+      "end_time": "2025-06-15T18:30:00+03:00",
+      "uri": "yleareena://items/1-4468888"
+    },
+    {
+      "id": "1-1924796",
+      "title": "Sohvasurffaajat: Libanon 1/2 - Beirutin yö",
+      "description": "Kausi 2, 4/8. Jalla jalla! Sohvasurffaajat suuntaavat Lähi-itään ja aloittavat matkan arabiosuuden Libanonin pääkaupungista Beirutista. Kaduilla törmätään murhaajaan ja biletetään kivenheiton päässä Syyrian sodasta.(U)",
+      "start_time": "2025-06-15T18:30:00+03:00",
+      "end_time": "2025-06-15T19:00:00+03:00",
+      "uri": "yleareena://items/1-1924796"
+    },
+    {
+      "id": "1-1929197",
+      "title": "Lomamatka 70-luvulle: Nyt meni hermot!",
+      "description": "5/9. Datsunissa syttyy ilmiriita, mutta onneksi Armi ja Danny auttavat. Kleinbussissa puhutaan politiikkaa. Joensuussa Aijaa odottaa todellinen yllätys. Yöpaikkana Wanha Jokela.(U)",
+      "start_time": "2025-06-15T19:00:00+03:00",
+      "end_time": "2025-06-15T19:30:00+03:00",
+      "uri": "yleareena://items/1-1929197"
+    },
+    {
+      "id": "1-71958407",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-15T19:30:00+03:00",
+      "end_time": "2025-06-15T19:40:00+03:00",
+      "uri": "yleareena://items/1-71958407"
+    },
+    {
+      "id": "1-50570954",
+      "title": "Peltsin ja Tomin retkeilyvinkit: Rantakalastus",
+      "description": "Rantakalastus on helppoa ja hauskaa. Reippaat miehet Peltsi ja Tom esittelevät tärkeimmät kalastusvarusteet ja heidän suosikkivieheensä. (U)",
+      "start_time": "2025-06-15T19:40:00+03:00",
+      "end_time": "2025-06-15T19:51:00+03:00",
+      "uri": "yleareena://items/1-50570954"
+    },
+    {
+      "id": "1-74391003",
+      "title": "Kesäkasvo",
+      "description": "Kesäkasvo on virkistävä ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkilökuvia ajankohtaisista vieraista koko kesän ajan. Sarja korostaa positiivisuutta ja kesäistä iloa. Vieraat jakavat henkilökohtaisia vinkkejä kesän viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkejä. Ylen aamun Kesäkasvo tuo piristystä ja inspiraatiota aamuihin. Ohjelman uusinta esitetään TV1:ssä samana päivänä klo 18.20.",
+      "start_time": "2025-06-15T19:51:00+03:00",
+      "end_time": "2025-06-15T20:00:00+03:00",
+      "uri": "yleareena://items/1-74391003"
+    },
+    {
+      "id": "1-68152108",
+      "title": "Kun saa rakastaa",
+      "description": "4/6. Varjoista valoon. Paavojuha kipuilee nuoruusmuistoja, mutta kauan odotettu tähtihetki kannattelee. Hillevi on sairaalassa ja Lissu aprikoi tulevaisuutta. Tanja tapaa tyttärensä - muuttuiko suhde transition jälkeen?",
+      "start_time": "2025-06-15T20:00:00+03:00",
+      "end_time": "2025-06-15T20:29:55+03:00",
+      "uri": "yleareena://items/1-68152108"
+    },
+    {
+      "id": "1-72364595",
+      "title": "Yle Uutiset 20.30 ",
+      "description": "",
+      "start_time": "2025-06-15T20:29:55+03:00",
+      "end_time": "2025-06-15T20:45:05+03:00",
+      "uri": "yleareena://items/1-72364595"
+    },
+    {
+      "id": "1-72256595",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-15T20:45:05+03:00",
+      "end_time": "2025-06-15T21:00:00+03:00",
+      "uri": "yleareena://items/1-72256595"
+    },
+    {
+      "id": "1-71015626",
+      "title": "Peltsi ja Osmo",
+      "description": "2/6. Talvipyöräilyn hurmaa. Syötteen kansallispuistossa Peltsi ja Osmo haaveilevat pyöräilystä jäisillä keväthangilla. Lämmin sää uhkaa tuhota suunnitelman. Peltsi opettaa Osmolle puukon käyttöä ja tulentekoa.",
+      "start_time": "2025-06-15T21:00:00+03:00",
+      "end_time": "2025-06-15T21:30:00+03:00",
+      "uri": "yleareena://items/1-71015626"
+    },
+    {
+      "id": "1-2629602",
+      "title": "Itse asiassa kuultuna: Pentti Linkola",
+      "description": "Pentti Linkola - elämänsuojelijan testamentti. (U)",
+      "start_time": "2025-06-15T21:30:00+03:00",
+      "end_time": "2025-06-15T22:25:00+03:00",
+      "uri": "yleareena://items/1-2629602"
+    },
+    {
+      "id": "1-50597777",
+      "title": "Minun musiikkini",
+      "description": "Laulaja-lauluntekijä Ellinoora keskustelee kirjailija Juha Itkosen kanssa mm. suomirockista ja musiikin sukupolvikokemuksista. Jaksossa myös intiimit versiot esim. kappaleista Bäng Bäng typerä sydän ja Elefantin paino.(U)",
+      "start_time": "2025-06-15T22:25:00+03:00",
+      "end_time": "2025-06-15T23:10:00+03:00",
+      "uri": "yleareena://items/1-50597777"
+    },
+    {
+      "id": "1-50146901",
+      "title": "Logged in (16): Neljän seinän sisällä",
+      "description": "Anatec#5980 - Vois mennä paremmin tai huonommin. Patrikin, 22, päivät kuluvat nukkuen, pelaten ja tupakoiden. Hän poistuu asunnosta vain, jos on pakko, kuten kerran viikossa kuntouttavaan työtoimintaan. (U)",
+      "start_time": "2025-06-15T23:10:00+03:00",
+      "end_time": "2025-06-15T23:30:00+03:00",
+      "uri": "yleareena://items/1-50146901"
+    },
+    {
+      "id": "1-50531728",
+      "title": "Trauma - henkirikoksen jäljet (7)",
+      "description": "13-vuotiaan Asko Argillanderin elämä alkoi, kun Askon mummo surmasi vävynsä, Askon isän. Enää Askon ei tarvinnut pelätä väkivaltaista isäänsä, mutta miten isän jättämä perintö hänessä näkyy? (U)",
+      "start_time": "2025-06-15T23:30:00+03:00",
+      "end_time": "2025-06-16T00:00:00+03:00",
+      "uri": "yleareena://items/1-50531728"
+    },
+    {
+      "id": "1-62012242",
+      "title": "Ei naurata (7)",
+      "description": "Koomikko Teemu Vesterinen paloi loppuun ja vetäytyi mökkiin Saarijärvelle. Vesterinen kertoo uupumuksesta, masennuksesta ja erityisherkkyydestä. Miten kipeistä aiheista syntyy yleisöjä naurattavaa huumoria? (U)",
+      "start_time": "2025-06-16T00:00:00+03:00",
+      "end_time": "2025-06-16T00:20:49+03:00",
+      "uri": "yleareena://items/1-62012242"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Say Cheese",
+  "description": "Lily is upset when Ted brings a date to her birthday dinner celebration.",
+  "season": 5,
+  "episode": "18",
+  "air_time": "2025-06-14T22:00:00+00:00",
+  "duration": 30,
+  "release_year": "2010",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_27174807-7a37-400c-b9c8-5d6dbbdb79c3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "josh radnor",
+    "jason segel",
+    "alyson hannigan"
+  ],
+  "directors": [
+    "pamela fryman"
+  ]
+}

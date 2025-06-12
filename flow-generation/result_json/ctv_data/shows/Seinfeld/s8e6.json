@@ -1,0 +1,23 @@
+{
+  "title": "The Fatigues",
+  "description": "Jerry's new girlfriend has a mentor; Elaine must fire a troubled employee.",
+  "season": 8,
+  "episode": "6",
+  "air_time": "2025-06-13T06:37:00+00:00",
+  "duration": 30,
+  "release_year": "1996",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_c3ea287e-de58-4b9c-a670-4bee69cde4b5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "jerry seinfeld",
+    "julia louis-dreyfus",
+    "jason alexander"
+  ],
+  "directors": []
+}

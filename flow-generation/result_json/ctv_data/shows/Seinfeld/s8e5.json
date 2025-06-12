@@ -1,0 +1,23 @@
+{
+  "title": "The Package",
+  "description": "Kramer tries to scam the U.S. Postal Service to get a refund for Jerry's stereo.",
+  "season": 8,
+  "episode": "5",
+  "air_time": "2025-06-12T06:37:00+00:00",
+  "duration": 30,
+  "release_year": "1996",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_28b92cb8-449d-411d-8d8a-39899eca7321_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "jerry seinfeld",
+    "julia louis-dreyfus",
+    "jason alexander"
+  ],
+  "directors": []
+}

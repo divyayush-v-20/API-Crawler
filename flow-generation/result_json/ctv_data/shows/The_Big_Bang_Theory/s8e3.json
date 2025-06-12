@@ -1,0 +1,25 @@
+{
+  "title": "The First Pitch Insufficiency",
+  "description": "Wolowitz feels nervous when he is asked to throw the first pitch at a Los Angeles Angels game.",
+  "season": 8,
+  "episode": "3",
+  "air_time": "2025-06-12T21:00:00+00:00",
+  "duration": 30,
+  "release_year": "2014",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_f7f20293-5343-4ca2-a41a-146d83a785de_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

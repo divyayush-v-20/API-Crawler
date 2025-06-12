@@ -1,0 +1,38 @@
+{
+  "channel": "yle-areena",
+  "date": "2025-06-14",
+  "programs": [
+    {
+      "id": "1-74829252",
+      "title": "YleX Aamu: Poikelus, Pehkonen ja Parikka striimi",
+      "description": "Poikelus, Pehkonen ja Parikka: LA 14.6.",
+      "start_time": "2025-06-14T08:00:00+03:00",
+      "end_time": "2025-06-14T11:00:00+03:00",
+      "uri": "yleareena://items/1-74829252"
+    },
+    {
+      "id": "1-74817392",
+      "title": "Pyhtäältä Pöydältä 2025",
+      "description": "Ylen yhteistyökumppanin tuottamaa sisältöä.\n\nPyhtäältä Pöydältä on yhteiskunnallinen keskustelutapahtuma. Toisen päivän keskustelut painottuvat ajankohtaisiin aiheisiin, historiaan ja kulttuuriin. Keskustelijat ovat maan eturivin asiantuntijoita, mutta ilmapiiri kotoisan intiimi.\n\nToimitusjohtaja Timo Toropainen, Eläkesäätiöyhdistys, yhteiskuntasuhdejohtaja Panu Laturi, Seurana, pääsihteeri Rosa Meriläinen, KULTA ry, toiminnanjohtaja Jari Jokinen, TEK, yrittäjä Marko Kulmala, Insano, ex-europarlamentaarikko Nils Torvalds, valokuvaaja Juha Metso, toimittaja Marjo Näkki, juontajat Jari Korkki, Jussi Lähde ja Sallamaari Muhonen.\n\n\nSuorana suomalaisilta – Direkt från finländarna esittelee Ylen yhteistyökumppaneiden tarjoamia sisältöjä eri puolilta Suomea. Ylen vastaava päätoimittaja on Panu Pokkinen. \n",
+      "start_time": "2025-06-14T10:00:00+03:00",
+      "end_time": "2025-06-14T16:00:00+03:00",
+      "uri": "yleareena://items/1-74817392"
+    },
+    {
+      "id": "1-74774477",
+      "title": "X3M på Klacken Party",
+      "description": "Kjell och Seesar underhåller dig live från Klacken Party i Lillby. Du kan delta i diskussionen via vår chatt eller via Whatsapp på numret 044 7800 180.\n\nRedaktörer: Kjell Simosas & Joel Rönn\nProducent: Mathilda Korpela\nAnsvarig producent: Oliver Kivi\nAnsvarig utgivare: Anna Forth 2025\n",
+      "start_time": "2025-06-14T16:55:00+03:00",
+      "end_time": "2025-06-14T20:30:00+03:00",
+      "uri": "yleareena://items/1-74774477"
+    },
+    {
+      "id": "1-74550591",
+      "title": "Suunnistuksen Jukolan viesti 2025",
+      "description": "Selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli.",
+      "start_time": "2025-06-14T22:45:00+03:00",
+      "end_time": "2025-06-15T08:00:00+03:00",
+      "uri": "yleareena://items/1-74550591"
+    }
+  ]
+}

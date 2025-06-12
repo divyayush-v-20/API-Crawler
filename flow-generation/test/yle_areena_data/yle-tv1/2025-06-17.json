@@ -1,0 +1,254 @@
+{
+  "channel": "yle-tv1",
+  "date": "2025-06-17",
+  "programs": [
+    {
+      "id": "1-1771329",
+      "title": "Suomi on ruotsalainen",
+      "description": "2/10. Historia. Suomi oli osa Ruotsia noin 700 vuoden ajan. Pitkään yhteiseen historiaan liittyy paljon harhaluuloja ja väärinkäsityksiä. Mukana mm. historioitsija Teemu Keskisarja. (U)",
+      "start_time": "2025-06-17T06:55:00+03:00",
+      "end_time": "2025-06-17T07:25:00+03:00",
+      "uri": "yleareena://items/1-1771329"
+    },
+    {
+      "id": "1-72625113",
+      "title": "Ylen aamu",
+      "description": "",
+      "start_time": "2025-06-17T07:25:00+03:00",
+      "end_time": "2025-06-17T08:59:00+03:00",
+      "uri": "yleareena://items/1-72625113"
+    },
+    {
+      "id": "1-74740175",
+      "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut",
+      "description": "Tasavallan presidentti Alexander Stubbin isännöimä ulko- ja turvallisuuspoliittinen keskustelutilaisuus Kultarannassa.",
+      "start_time": "2025-06-17T09:00:00+03:00",
+      "end_time": "2025-06-17T14:01:00+03:00",
+      "uri": "yleareena://items/1-74740175"
+    },
+    {
+      "id": "1-2185459",
+      "title": "Tarinoita järviltä",
+      "description": "Kuikka. Suomen vanhimpiin lintulajeihin kuuluva uljas kalastaja. KK: Maija Flinkman. O: Marko Röhr. T: MRP Matila Röhr Productions Oy. (U)",
+      "start_time": "2025-06-17T14:01:00+03:00",
+      "end_time": "2025-06-17T14:05:35+03:00",
+      "uri": "yleareena://items/1-2185459"
+    },
+    {
+      "id": "1-71666781",
+      "title": "Historia: Rautaesiripun takana (12)",
+      "description": "2/3 Stalinin valtakunta 1948 - 1953. Stalinin ote itä-Euroopan maista kiristyy ja mm. kirkon asema heikkenee ja maatalous kollektivisoidaan. Sarjassa perehdytään elämään DDR:ssä, Unkarissa ja Puolassa aikalaiskertomusten ja rikkaan arkistomateriaalin avulla.",
+      "start_time": "2025-06-17T14:05:35+03:00",
+      "end_time": "2025-06-17T15:01:55+03:00",
+      "uri": "yleareena://items/1-71666781"
+    },
+    {
+      "id": "1-71823720",
+      "title": "Kissapetojen matkassa",
+      "description": "Kausi 1, 2/6. Palon jälkeen. Tiimi jatkaa kissapetojen seuraamista Okavango-joella suuren metsäpalon jälkeen. Gordon ja Vianet seuraavat leijonauroksia, jotka puolustavat reviiriään tunkeilijoilta. Brad tarkkailee leopardia, joka opettelee metsästämään puista.",
+      "start_time": "2025-06-17T15:05:05+03:00",
+      "end_time": "2025-06-17T15:57:24+03:00",
+      "uri": "yleareena://items/1-71823720"
+    },
+    {
+      "id": "1-74821763",
+      "title": "Yle uutiset erikoislähetys: Kultaranta-keskustelut viitottuna",
+      "description": "Toimittajana Annika Damström.",
+      "start_time": "2025-06-17T16:00:00+03:00",
+      "end_time": "2025-06-17T16:34:00+03:00",
+      "uri": "yleareena://items/1-74821763"
+    },
+    {
+      "id": "1-72619699",
+      "title": "Pieni suuri maailma",
+      "description": "20/20. Pieni Liettua. Maisemia maailmalta pieninä paketteina.",
+      "start_time": "2025-06-17T16:35:00+03:00",
+      "end_time": "2025-06-17T16:38:59+03:00",
+      "uri": "yleareena://items/1-72619699"
+    },
+    {
+      "id": "1-72626307",
+      "title": "Yle Uutiset selkosuomeksi",
+      "description": "",
+      "start_time": "2025-06-17T16:40:00+03:00",
+      "end_time": "2025-06-17T16:45:00+03:00",
+      "uri": "yleareena://items/1-72626307"
+    },
+    {
+      "id": "1-72548259",
+      "title": "Yle Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi.",
+      "start_time": "2025-06-17T16:45:00+03:00",
+      "end_time": "2025-06-17T16:50:00+03:00",
+      "uri": "yleareena://items/1-72548259"
+    },
+    {
+      "id": "1-72625789",
+      "title": "Novosti Yle",
+      "description": "",
+      "start_time": "2025-06-17T16:50:00+03:00",
+      "end_time": "2025-06-17T16:55:00+03:00",
+      "uri": "yleareena://items/1-72625789"
+    },
+    {
+      "id": "1-72475588",
+      "title": "Yle Uutiset viittomakielellä",
+      "description": "",
+      "start_time": "2025-06-17T16:55:00+03:00",
+      "end_time": "2025-06-17T17:00:00+03:00",
+      "uri": "yleareena://items/1-72475588"
+    },
+    {
+      "id": "1-71641237",
+      "title": "Yle Uutiset 17.00",
+      "description": "",
+      "start_time": "2025-06-17T17:00:00+03:00",
+      "end_time": "2025-06-17T17:06:00+03:00",
+      "uri": "yleareena://items/1-71641237"
+    },
+    {
+      "id": "1-72605904",
+      "title": "Yle Uutiset alueeltasi",
+      "description": "Uutisia alueeltasi",
+      "start_time": "2025-06-17T17:06:00+03:00",
+      "end_time": "2025-06-17T17:10:00+03:00",
+      "uri": "yleareena://items/1-72605904"
+    },
+    {
+      "id": "1-64910964",
+      "title": "Vera Stanhope tutkii (12)",
+      "description": "Kausi 12, 3/8. Laitapuolenkulkija 1/2. Pahoinpidelty mies löytyy kadulta kuolleena. Uhri oli entinen ammattisotilas, hyvän ihmisen maineessa mutta jotenkin elämä oli suistunut sivuraiteelle. Miksi hänet piestiin hengiltä? (U)",
+      "start_time": "2025-06-17T17:10:00+03:00",
+      "end_time": "2025-06-17T18:00:00+03:00",
+      "uri": "yleareena://items/1-64910964"
+    },
+    {
+      "id": "1-72264388",
+      "title": "Yle Uutiset 18.00",
+      "description": "",
+      "start_time": "2025-06-17T18:00:00+03:00",
+      "end_time": "2025-06-17T18:12:00+03:00",
+      "uri": "yleareena://items/1-72264388"
+    },
+    {
+      "id": "1-72551773",
+      "title": "Yle Uutiset Uutis-Suomi",
+      "description": "Kiinnostavia uutisia eri puolelta Suomea",
+      "start_time": "2025-06-17T18:12:00+03:00",
+      "end_time": "2025-06-17T18:20:00+03:00",
+      "uri": "yleareena://items/1-72551773"
+    },
+    {
+      "id": "1-74390999",
+      "title": "Kesäkasvo",
+      "description": "Kesäkasvo on virkistävä ja inspiroiva ohjelmasarja Ylen aamussa. Ainutlaatuisia henkilökuvia ajankohtaisista vieraista koko kesän ajan. Sarja korostaa positiivisuutta ja kesäistä iloa. Vieraat jakavat henkilökohtaisia vinkkejä kesän viettoon, kuten matkakohteita, harrastuksia ja rentoutumisvinkkejä. Ylen aamun Kesäkasvo tuo piristystä ja inspiraatiota aamuihin. Ohjelman uusinta esitetään TV1:ssä samana päivänä klo 18.20.",
+      "start_time": "2025-06-17T18:20:00+03:00",
+      "end_time": "2025-06-17T18:30:00+03:00",
+      "uri": "yleareena://items/1-74390999"
+    },
+    {
+      "id": "1-62827689",
+      "title": "Pohjanmaan sankarit (7)",
+      "description": "5/8. Monet nuoret lähtevät juhlimaan Vaasassa huvilakauden päättäjäisiä ja poliisilla on kädet täynnä töitä. Magnus käy läpi paloauton kaikki 160 varustetta. Jonna ja Anton pysäyttävät tullissa Turkista tulleita seuramatkalaisia. Myöhemmin yöllä poliisi saa murtohälytyksen kultasepänliikkeestä. (U)(2022)",
+      "start_time": "2025-06-17T18:30:00+03:00",
+      "end_time": "2025-06-17T19:00:00+03:00",
+      "uri": "yleareena://items/1-62827689"
+    },
+    {
+      "id": "1-67827969",
+      "title": "Prisma: Kahlaajalintujen muuttomatka",
+      "description": "Ohjelmassa seurataan kolmen eri lintulajin muuttomatkaa Amerikassa, Australiassa, Euroopassa ja Aasiassa. Linnut pystyvät lentämään uskomattoman pitkiä matkoja ja ovat ilmassa taukoamatta jopa yhdeksän päivää. Tutkijat selvittävät miten linnut sopeutuvat ympäristön muuttuviin olosuhteisiin. (U)",
+      "start_time": "2025-06-17T19:00:00+03:00",
+      "end_time": "2025-06-17T20:00:29+03:00",
+      "uri": "yleareena://items/1-67827969"
+    },
+    {
+      "id": "1-50931324",
+      "title": "Akuutti: Resilienssi auttaa selviytymään",
+      "description": "Katja Tamminen kävi todella lähellä kuolemaa, kun nopeasti etenevä kuolio tuhosi viidesosan hänen ihostaan. Tuomas Mustikainen menetti näkönsä yllättäen vain muutamassa päivässä. Miten sellaisesta selviää?",
+      "start_time": "2025-06-17T20:00:29+03:00",
+      "end_time": "2025-06-17T20:29:55+03:00",
+      "uri": "yleareena://items/1-50931324"
+    },
+    {
+      "id": "1-72361882",
+      "title": "Yle Uutiset 20.30",
+      "description": "",
+      "start_time": "2025-06-17T20:29:55+03:00",
+      "end_time": "2025-06-17T20:55:00+03:00",
+      "uri": "yleareena://items/1-72361882"
+    },
+    {
+      "id": "1-72256026",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-17T20:55:00+03:00",
+      "end_time": "2025-06-17T20:59:45+03:00",
+      "uri": "yleareena://items/1-72256026"
+    },
+    {
+      "id": "1-74740176",
+      "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut",
+      "description": "",
+      "start_time": "2025-06-17T21:00:00+03:00",
+      "end_time": "2025-06-17T21:34:00+03:00",
+      "uri": "yleareena://items/1-74740176"
+    },
+    {
+      "id": "1-4651046",
+      "title": "Perjantai-dokkari: Lukutaidoton Mika",
+      "description": "47-vuotias Mika Siirilä näkee sanat käsittämättöminä kirjainpötköinä. Tästä huolimatta hän suoritti peruskoulun, valmistui maalariksi, valittiin kunnanvaltuustoon ja perusti oman romuliikkeen. Ohjaaja Juha Portaankorva.",
+      "start_time": "2025-06-17T21:35:00+03:00",
+      "end_time": "2025-06-17T21:45:00+03:00",
+      "uri": "yleareena://items/1-4651046"
+    },
+    {
+      "id": "1-72364924",
+      "title": "Yle Uutiset ",
+      "description": "",
+      "start_time": "2025-06-17T21:45:00+03:00",
+      "end_time": "2025-06-17T21:49:00+03:00",
+      "uri": "yleareena://items/1-72364924"
+    },
+    {
+      "id": "1-72256077",
+      "title": "Urheiluruutu",
+      "description": "",
+      "start_time": "2025-06-17T21:49:00+03:00",
+      "end_time": "2025-06-17T21:53:00+03:00",
+      "uri": "yleareena://items/1-72256077"
+    },
+    {
+      "id": "1-72551773",
+      "title": "Yle Uutiset Uutis-Suomi",
+      "description": "Kiinnostavia uutisia eri puolelta Suomea",
+      "start_time": "2025-06-17T21:53:00+03:00",
+      "end_time": "2025-06-17T22:02:00+03:00",
+      "uri": "yleareena://items/1-72551773"
+    },
+    {
+      "id": "1-72646163",
+      "title": "Varistyttö (16)",
+      "description": "2/6. Vanhat tallenteet. Toinen jäätynyt ruumis dumpataan outoon paikkaan, ja tekijä vilahtaa valvontakamerakuvissa. Jeanette uskoo, että tapausten välillä on yhteys. Sophia asiantuntemus on yhä tärkeämpää tutkinnalle.",
+      "start_time": "2025-06-17T22:02:00+03:00",
+      "end_time": "2025-06-17T22:50:00+03:00",
+      "uri": "yleareena://items/1-72646163"
+    },
+    {
+      "id": "1-72547968",
+      "title": "Oddasat",
+      "description": "Saamenkieliset tv-uutiset. Tekstitetty suomeksi ja ruotsiksi.",
+      "start_time": "2025-06-17T22:50:00+03:00",
+      "end_time": "2025-06-17T23:05:00+03:00",
+      "uri": "yleareena://items/1-72547968"
+    },
+    {
+      "id": "1-63493765",
+      "title": "Ulkolinja: Putinin pitkä tie sotaan (12)",
+      "description": "Sota Ukrainassa alkoi jo vuonna 2014 Venäjän hyökätessä Donbasiin. Miksi länsimaat eivät puuttuneet Venäjän toimiin heti? Tilanne on eskaloitunut ja maailma palannut kylmän sodan asetelmiin. Dokumentti seuraa kansainvälisen yhteisön ponnisteluja tilanteen ratkaisemiseksi, ja näyttää miten vallatun alueen asukkaat selviytyvät sodan keskellä. (U)",
+      "start_time": "2025-06-17T23:05:00+03:00",
+      "end_time": "2025-06-18T00:01:45+03:00",
+      "uri": "yleareena://items/1-63493765"
+    }
+  ]
+}

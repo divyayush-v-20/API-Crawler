@@ -1,0 +1,23 @@
+{
+  "title": "Tag You're I.T.",
+  "description": "Brent, Hank and Emma have a viral video contest; Karen and Davis try to GPStag the locals.",
+  "season": 2,
+  "episode": "9",
+  "air_time": "2025-06-15T09:00:00+00:00",
+  "duration": 30,
+  "release_year": "2019",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_c462d487-0c3d-4848-92b8-0f715d75a2c5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "directors": []
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Iron Man",
+  "description": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.",
+  "air_time": "2025-06-16T01:00:00+00:00",
+  "duration": 150,
+  "release_year": "2008",
+  "genres": [
+    "action",
+    "adventure",
+    "science fiction",
+    "fantasy"
+  ],
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_11_5ddec82f-b661-41a6-87a8-2c8057d71bcc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "robert downey",
+    "terrence howard",
+    "gwyneth paltrow"
+  ],
+  "directors": [
+    "jon favreau"
+  ]
+}

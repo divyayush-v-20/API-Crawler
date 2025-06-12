@@ -1,0 +1,23 @@
+{
+  "title": "Mister-y & Mrs. Box",
+  "description": "The Top 11 duos must combine two boxes of ingredients to make a harmonious dish.",
+  "season": 24,
+  "episode": "5",
+  "air_time": "2025-06-19T03:00:00+00:00",
+  "duration": 62,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_2409162d-d0cd-4e01-ba49-2f2bb53c2253_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "gordon ramsay",
+    "joe bastianich",
+    "tiffany derry"
+  ],
+  "directors": []
+}

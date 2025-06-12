@@ -1,0 +1,25 @@
+{
+  "title": "The Hunt",
+  "description": "Hobo foils a criminal plot by disrupting a fox hunt.",
+  "season": 2,
+  "episode": "9",
+  "air_time": "2025-06-15T10:00:00+00:00",
+  "duration": 30,
+  "release_year": "1980",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_9e77626b-e708-47d2-9d46-159da63766e4_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "nicholas campbell",
+    "hollis mclaren",
+    "cameron mitchell"
+  ],
+  "directors": [
+    "peter pearson"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Cash Cab",
+  "description": "London, Steve, Antonio and Foster end up in the Cash Cab.",
+  "season": 4,
+  "episode": "2",
+  "air_time": "2025-06-16T08:30:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b2812779-1d23-4239-8d41-ed54653a2c4f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "cast": [
+    "adam growe"
+  ],
+  "directors": []
+}

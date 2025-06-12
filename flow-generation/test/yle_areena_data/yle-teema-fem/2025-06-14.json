@@ -1,0 +1,262 @@
+{
+  "channel": "yle-teema-fem",
+  "date": "2025-06-14",
+  "programs": [
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-14T07:52:31+03:00",
+      "end_time": "2025-06-14T07:52:31+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-50112647",
+      "title": "Vakuum (12)",
+      "description": "1/8. Linnéa lähtee veljensä Linuksen ja tämän kaverin Kallen kanssa feministisen Astra-lehden julkkareihin. Siellä Linnéa tapaa Ellenin. Linnéa haluaisi jäädä, mutta Linus ja Kalle houkuttelevat hänet mukaansa konserttiin. Linnéa pyöräilee yksin kotiin, mutta eksyy ja päätyy aution pursiseuran pihalle. Laiturilla hän tapaa Vicken. Söder Films & Parad Media, 2019. (U)",
+      "start_time": "2025-06-14T07:52:31+03:00",
+      "end_time": "2025-06-14T08:05:22+03:00",
+      "uri": "yleareena://items/1-50112647"
+    },
+    {
+      "id": "1-50840737",
+      "title": "Puutarhakausi",
+      "description": "Kausi 7, 8/9. Ruotsalaisessa sarjassa jaetaan vinkkejä puutarhan ystäville. Vanhalle trampoliinille löytyy uusi käyttötarkoitus salaisen puutarhan sydämestä. Kukkakimppuun kerätään kaikkein kauneimmat kukat. Tuotanto: SVT, 2021. (U)",
+      "start_time": "2025-06-14T08:05:22+03:00",
+      "end_time": "2025-06-14T09:03:56+03:00",
+      "uri": "yleareena://items/1-50840737"
+    },
+    {
+      "id": "1-2615708",
+      "title": "Kauhakaupalla Pohjolan luontoa",
+      "description": "Osa 6/12: Abiskon kansallispuisto. Ruotsalainen tunturiseutu tarjoaa kaikkea sitä, mitä ulkoilmaihminen kaipaa: vaihtelevaa säätä, upeita maisemia, eläimiä ja luontoa. Ruokaankin voi siis panostaa vähän ylimääräistä. (U)",
+      "start_time": "2025-06-14T09:03:56+03:00",
+      "end_time": "2025-06-14T09:32:03+03:00",
+      "uri": "yleareena://items/1-2615708"
+    },
+    {
+      "id": "1-4672348",
+      "title": "Ruoan pelastajat",
+      "description": "3/4. Uusi tilaisuus. Miksi heitämme niin paljon ruokaa jääkaapista jäteastiaan? Anne kokeilee yli-ikäisten elintarvikkeiden syömistä. Paul puolestaan yrittää myydä uutta tuotettaan, vuohenmaksapasteijaa. Ruotsalaiset Anne Lundberg ja Paul Svensson lähtevät selvittämään vastausta yhteen aikamme kuumimmista kysymyksistä: kuinka saisimme ruokahävikin loppumaan? Parivaljakko kokeilee yllättäviä reseptejä, joiden avulla voisimme nauttia ruoasta, joka heitettäisiin muuten jäteastiaan. (U)",
+      "start_time": "2025-06-14T09:32:03+03:00",
+      "end_time": "2025-06-14T10:31:03+03:00",
+      "uri": "yleareena://items/1-4672348"
+    },
+    {
+      "id": "1-62715739",
+      "title": "Nuorisourheilu puntarissa",
+      "description": "Osa 1/11. Rikollisuus. Nuorisourheilun parissa esiintyy myös rikollisuutta, uhkailua, kiristystä ja sopupelejä. Silti urheilun avulla voidaan auttaa nuoria myös pysymään poissa vahingonteosta. (U)",
+      "start_time": "2025-06-14T10:31:03+03:00",
+      "end_time": "2025-06-14T11:00:17+03:00",
+      "uri": "yleareena://items/1-62715739"
+    },
+    {
+      "id": "1-73604575",
+      "title": "Riistametsällä",
+      "description": "Kausi 14, 2/7. Mustekalaa Teneriffalla. Jørgen ja Nikolaj haaveilevat hippileiristä ja panostavat väreihin. Tällä kertaa pataan halutaan meren älykkäin eläin, mustekala. Mutta ken onkaan lopulta fiksuin?",
+      "start_time": "2025-06-14T11:00:17+03:00",
+      "end_time": "2025-06-14T12:00:00+03:00",
+      "uri": "yleareena://items/1-73604575"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-14T12:00:00+03:00",
+      "end_time": "2025-06-14T12:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-68978223",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 225/250. Ei vielä valmis. Vallasväelle sopivan vastaanoton jälkeen Jana asettuu kartanossa aateliston kerrokseen. Onko María Fernándezilla tietoa kuka on krusifiksin varkauden takana? Petra ja Martina yhdistävät voimansa.",
+      "start_time": "2025-06-14T12:00:00+03:00",
+      "end_time": "2025-06-14T12:56:57+03:00",
+      "uri": "yleareena://items/1-68978223"
+    },
+    {
+      "id": "1-68978378",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 226/250. Syytöksen kohteena. Lorenzo aikoo saada Curron hyväksymään José Juanin ehdotuksen. Tilanne markiisien ja Infantesien välillä pahenee, mutta ei taida olla Cruzin tapaista antaa periksi.",
+      "start_time": "2025-06-14T12:56:57+03:00",
+      "end_time": "2025-06-14T13:52:01+03:00",
+      "uri": "yleareena://items/1-68978378"
+    },
+    {
+      "id": "1-68977583",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 227/250. Tunnustus. Cruz aikoo lähteä Urbizun herttuan juhliin Alonson mielipiteestä välittämättä. Jana palaa yhä uudelleen palvelusväen alueelle. Martina esittää kiusallisen kysymyksen Ayalalle.",
+      "start_time": "2025-06-14T13:52:01+03:00",
+      "end_time": "2025-06-14T14:49:13+03:00",
+      "uri": "yleareena://items/1-68977583"
+    },
+    {
+      "id": "1-68978301",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 228/250. Alonson mielipide. Janan jääminen pois tervetuloaterialta saa Cruzin toimimaan. Manuel rohkaisee isäänsä osallistumaan Urbizun herttuan juhliin kaikkien hyvää ajatellen. Onko Teresa lähdössä lopullisesti kartanosta?",
+      "start_time": "2025-06-14T14:49:13+03:00",
+      "end_time": "2025-06-14T15:47:26+03:00",
+      "uri": "yleareena://items/1-68978301"
+    },
+    {
+      "id": "1-68978314",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 229/250. Neuvottelukysymys. Alonso lupaa Cruzille lähteä juhliin vain yhdellä ehdolla. Markiisitar palkkaa yllättäen kotiopettajan Janalle. Martina ja Petra ovat napit vastakkain Ayalan kanssa.",
+      "start_time": "2025-06-14T15:47:26+03:00",
+      "end_time": "2025-06-14T16:45:27+03:00",
+      "uri": "yleareena://items/1-68978314"
+    },
+    {
+      "id": "1-51894",
+      "title": "Kukkaloistoa",
+      "description": "Kämmekät (orkideat). Tuotanto: SVT, Ruotsi.",
+      "start_time": "2025-06-14T16:45:27+03:00",
+      "end_time": "2025-06-14T16:49:45+03:00",
+      "uri": "yleareena://items/1-51894"
+    },
+    {
+      "id": "1-613397",
+      "title": "Arkkitehtiveljekset Suursaaresta",
+      "description": "Temppeliaukion kirkon suunnittelijat Timo ja Tuomo Suomalainen syntyivät ja elivät lapsuutensa Suursaaressa, jonka jylhä luonto on vaikuttanut heidän arkkitehtuurinsa. Ohjaus Anita Malkamäki. (U)",
+      "start_time": "2025-06-14T16:50:00+03:00",
+      "end_time": "2025-06-14T17:15:45+03:00",
+      "uri": "yleareena://items/1-613397"
+    },
+    {
+      "id": "1-50677632",
+      "title": "Egenlandin matkakohteet",
+      "description": "Puita rakastava Natasha Podkolzina rakensi metsän keskelle Onnelan, jonka Puun sielu -taidenäyttelyssä voi ihmetellä mihin kaikkeen puu taipuu. Puutyökurssilla pääsee tutkimaan omaa suhdettaan puun sieluun ja sen syihin.",
+      "start_time": "2025-06-14T17:15:45+03:00",
+      "end_time": "2025-06-14T17:25:00+03:00",
+      "uri": "yleareena://items/1-50677632"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-14T17:25:00+03:00",
+      "end_time": "2025-06-14T17:25:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-50844450",
+      "title": "Antiikkimakasiini",
+      "description": "Kausi 3, 5/12. Antiikkimakasiini juhlistaa monelle tuntemattomaksi jäänyttä helmeä, Ystad Metallia. Osa yrityksen tuotteista on designklassikoita. Anne Lundbergin vieraina Jonas Barros Eriksson ja muotoilija Eva Schildt. Antikmagasinet. P: SVT, 2021.",
+      "start_time": "2025-06-14T17:25:00+03:00",
+      "end_time": "2025-06-14T17:55:00+03:00",
+      "uri": "yleareena://items/1-50844450"
+    },
+    {
+      "id": "1-71958764",
+      "title": "Yle Nyheter TV-nytt 17.55",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-14T17:55:00+03:00",
+      "end_time": "2025-06-14T18:00:00+03:00",
+      "uri": "yleareena://items/1-71958764"
+    },
+    {
+      "id": "1-71708519",
+      "title": "Koirien kopla (S)",
+      "description": "Chloe eläintarhassa. Chloe lähtee Josefinin kanssa eläintarhaan. Erilaisia eläimiä on kiva katsella, mutta minkä takia jotkut niistä tuntuvat vihollisilta, joita vastaan Chloen kuuluisi taistella?",
+      "start_time": "2025-06-14T18:00:00+03:00",
+      "end_time": "2025-06-14T18:10:25+03:00",
+      "uri": "yleareena://items/1-71708519"
+    },
+    {
+      "id": "1-68185868",
+      "title": "Isadora Moon (S)",
+      "description": "8/50. Liikaa suunnitelmia. Isadora on lupautunut samana päivänä sekä Sandran juhliin että Viktor-serkun esitykseen. Kun Isadora ymmärtää, ettei hän ehdi kahteen paikkaan yhtä aikaa, hän antaa Mirabellen taikoa ongelman pois.",
+      "start_time": "2025-06-14T18:10:25+03:00",
+      "end_time": "2025-06-14T18:21:31+03:00",
+      "uri": "yleareena://items/1-68185868"
+    },
+    {
+      "id": "1-50974042",
+      "title": "Pinteessä pahin (S)",
+      "description": "Kausi 1, osa 8/8. Deittisovellus. Aksel on tehnyt itse deittisovelluksen, ja Vibeke ja Håkon ovat luvanneet kokeilla sitä. Saga on kuitenkin huolissaan. Eivät kai vain vanhemmat löydä nyt uusia kumppaneita?",
+      "start_time": "2025-06-14T18:21:31+03:00",
+      "end_time": "2025-06-14T18:41:47+03:00",
+      "uri": "yleareena://items/1-50974042"
+    },
+    {
+      "id": "1-72747463",
+      "title": "Holly Hobbie (7)",
+      "description": "Kausi 5, 5/10. Unelmakaupunki. Holly ja Amy matkustavat New Yorkiin hakeakseen unelmakouluihinsa. Hollyn asiat eivät suju suunnitelmien mukaan, ja hän ymmärtää, ettei koulu ole ainoa tapa päästä uralla eteenpäin.",
+      "start_time": "2025-06-14T18:41:47+03:00",
+      "end_time": "2025-06-14T19:04:20+03:00",
+      "uri": "yleareena://items/1-72747463"
+    },
+    {
+      "id": "1-72747464",
+      "title": "Holly Hobbie (7)",
+      "description": "Kausi 5, 6/10. Konkarivegaani. Amy on huolissaan planeettamme tilasta ja alkaa vaatia radikaaleja muutoksia muun muassa tuleviin tanssiaisiin. Ystävät suhtautuvat Amyn touhuun varauksella.",
+      "start_time": "2025-06-14T19:04:20+03:00",
+      "end_time": "2025-06-14T19:30:00+03:00",
+      "uri": "yleareena://items/1-72747464"
+    },
+    {
+      "id": "1-71958418",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-14T19:30:00+03:00",
+      "end_time": "2025-06-14T19:39:00+03:00",
+      "uri": "yleareena://items/1-71958418"
+    },
+    {
+      "id": "1-71972433",
+      "title": "Sportnytt",
+      "description": "Urheilu-uutisia.",
+      "start_time": "2025-06-14T19:39:00+03:00",
+      "end_time": "2025-06-14T19:50:02+03:00",
+      "uri": "yleareena://items/1-71972433"
+    },
+    {
+      "id": "1-72250881",
+      "title": "Livet - suomenruotsalaisia tarinoita",
+      "description": "Mira Haahdin luotsaamat Tellinan ja Thalattan majatalot Hangossa ovat oma taianomainen maailmansa. Sukupolvi toisensa jälkeen on uurastanut huviloiden eteen, mutta nyt Haahti ja hänen miehensä ovat valinnan edessä: pitääkö suvun perintö elossa vai onko aika päästää irti? Toimittaja: Minna Almark.",
+      "start_time": "2025-06-14T19:50:02+03:00",
+      "end_time": "2025-06-14T20:00:00+03:00",
+      "uri": "yleareena://items/1-72250881"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-14T20:00:00+03:00",
+      "end_time": "2025-06-14T20:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-64877957",
+      "title": "Raha-Suomi: Nörttien kosto",
+      "description": "2/8. Nörtit ovat maailmanvaltiaita. Kaikki alkoi kun Commodore 64 tuli ja muutti koulukiusattujen teinien elämän. Ilkka Paananen, Sami Järvi, Jussi Laakkonen ja Samuli Syvähuoko kertovat miten nousivat maailman huipulle.",
+      "start_time": "2025-06-14T20:00:00+03:00",
+      "end_time": "2025-06-14T21:00:00+03:00",
+      "uri": "yleareena://items/1-64877957"
+    },
+    {
+      "id": "1-918065",
+      "title": "Kino Klassikko: Kultakuume (S)",
+      "description": "Charles Chaplinin satavuotias klassikkokomedia kullanetsijöiden ja luonnonvoimien tylysti riepottelemasta kulkurista Alaskan kultamailla. (The Gold Rush, USA 1925)",
+      "start_time": "2025-06-14T21:00:00+03:00",
+      "end_time": "2025-06-14T22:10:03+03:00",
+      "uri": "yleareena://items/1-918065"
+    },
+    {
+      "id": "1-66090890",
+      "title": "Anderssonin veljekset",
+      "description": "Lempeä tosikuvaus Kjell, Leif, Ronny ja Roy Anderssonista, neljästä veljeksestä, joiden kautta avautuu näkymä yhteiskuntaluokkaan, perintöön ja elokuvataiteeseen. Ohjaus: Johanna Bernhardson, 2024.",
+      "start_time": "2025-06-14T22:10:03+03:00",
+      "end_time": "2025-06-14T23:35:13+03:00",
+      "uri": "yleareena://items/1-66090890"
+    },
+    {
+      "id": "1-66670107",
+      "title": "Banksy ja varastettu surullinen tyttö",
+      "description": "Vuonna 2015 Pariisin Bataclan-konserttitalon terrori-iskussa kuoli 90 ihmistä. Iskun jälkeen talon oveen ilmestyi Banksyn teos \"Surullinen tyttö\". Teoksesta tuli symboli, jonka pariisilaiset ottivat omakseen. Ovi ja teos kuitenkin varastettiin, ja kansainvälisen poliisin yhteistyöllä se löytyi Italiasta. Terrori-iskun tekijät odottavat juuri tuomiotaan, mutta symbolinen teos ja ovi ovat poliisin hallussa. Kukaan ei oikein tiedä kenen omaisuutta katutaide, graffiti, oikein on. (U)",
+      "start_time": "2025-06-14T23:35:13+03:00",
+      "end_time": "2025-06-15T00:30:00+03:00",
+      "uri": "yleareena://items/1-66670107"
+    }
+  ]
+}

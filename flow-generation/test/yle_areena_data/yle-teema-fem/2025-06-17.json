@@ -1,0 +1,262 @@
+{
+  "channel": "yle-teema-fem",
+  "date": "2025-06-17",
+  "programs": [
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-17T07:43:49+03:00",
+      "end_time": "2025-06-17T07:43:49+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-50459639",
+      "title": "Arkkitehdin kotona",
+      "description": "Kausi 1, 1/6. Ensimmäisessä jaksossa lähdetään Gotlantiin tapaamaan arkkitehti Martina Erikssonia. Hänen erikoisalaansa ovat ulkotilat ja ilmastovyöhykkeen huomioiminen. Erikssonilla on nerokas kyky lukea luontoa ja sijoittaa talot juuri oikein suhteessa tuulen ja valon suuntaan. (U)",
+      "start_time": "2025-06-17T07:43:49+03:00",
+      "end_time": "2025-06-17T08:13:06+03:00",
+      "uri": "yleareena://items/1-50459639"
+    },
+    {
+      "id": "1-50859501",
+      "title": "Kilot pois - parempi elämä?",
+      "description": "1/5. Norjalaisessa sarjassa seurataan 34-vuotiaan Ronnyn arkea. Hän on ylipainoinen, mutta ei mieti laihduttamista ja ruokavaliota. Hänellä ei ole ollut sairauspoissaoloja yli kymmeneen vuoteen.",
+      "start_time": "2025-06-17T08:13:06+03:00",
+      "end_time": "2025-06-17T08:52:46+03:00",
+      "uri": "yleareena://items/1-50859501"
+    },
+    {
+      "id": "1-72250791",
+      "title": "Efter Nio ",
+      "description": "Kesä. Yeboyahin alter egot, Sebastian Holm tutkii trendejä, Eva-Li Teir ja Marie Lindblom kiipesivät Kebnekaiselle, Alexander Wessberg freestyle-jalkapallosta, Hanna Himanka grillaa kesäruokaa. Parad Media.",
+      "start_time": "2025-06-17T08:52:46+03:00",
+      "end_time": "2025-06-17T09:51:56+03:00",
+      "uri": "yleareena://items/1-72250791"
+    },
+    {
+      "id": "1-50788094",
+      "title": "Tuomiopäivä",
+      "description": "1/5. Ruotsalaissarjan ensimmäisessä osassa juontaja Anna Lindman tapaa kaksi Greta Thunbergin inspiroimaa nuorta lmastoaktivistia sekä keski-ikäisen Holgerin, joka näkee maailmantapahtumissa merkkejä Jeesuksen uudesta tulemisesta. Tuotanto: SVT, 2020. (U)",
+      "start_time": "2025-06-17T09:51:56+03:00",
+      "end_time": "2025-06-17T10:21:20+03:00",
+      "uri": "yleareena://items/1-50788094"
+    },
+    {
+      "id": "1-71968662",
+      "title": "Sportliv ",
+      "description": "Kaia Tanskanen on kasvanut voimisteluperheessä Yhdysvalloissa, maailman parhaassa naisten telinevoimistelumaassa. Kun hänen isänsä kuusi vuotta sitten ehdotti, että hän alkaisi edustaa Suomea Yhdysvaltojen sijaan, Kaia ei ollut lainkaan kiinnostunut. Hän kuitenkin muutti mielensä. Nykyään Kaia Tanskanen jakaa aikansa USA:n yliopisto-opintojen ja college-voimistelun, sekä Suomen harjoitusleirien välillä. Maajoukkueeseen hän haluaa tuoda annoksen äänekästä, amerikkalaista energiaa.",
+      "start_time": "2025-06-17T10:21:20+03:00",
+      "end_time": "2025-06-17T10:31:00+03:00",
+      "uri": "yleareena://items/1-71968662"
+    },
+    {
+      "id": "1-73677208",
+      "title": "Maatilallisen verta suonissa",
+      "description": "1/3. Meitä haukutaan koko ajan. Perhetila taistelee olemassaolonsa puolesta, eläköitynyt viljelijä osallistuu hiilidioksidiveroa vastustavaan mielenosoitukseen ja nuoripari haaveilee omasta maatilasta.",
+      "start_time": "2025-06-17T10:31:00+03:00",
+      "end_time": "2025-06-17T11:00:33+03:00",
+      "uri": "yleareena://items/1-73677208"
+    },
+    {
+      "id": "1-70874476",
+      "title": "Lentopelastajat arktisten olojen armoilla (7)",
+      "description": "2/4. Vuorten vangit. Mies saa sairaskohtauksen eristyksissä olevassa mökissä, ja hänet on evakuoitava nopeasti. Helikopteritiimi myös etsii vuorilta pahasti loukkaantunutta metsästäjää, joka voi paleltua hengiltä. (U)",
+      "start_time": "2025-06-17T11:00:33+03:00",
+      "end_time": "2025-06-17T12:00:00+03:00",
+      "uri": "yleareena://items/1-70874476"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-17T12:00:00+03:00",
+      "end_time": "2025-06-17T12:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-65927177",
+      "title": "Francon jälkeen - Alcántaran perhe (12)",
+      "description": "Kausi 22, 14/20. Liekeissä. Tonin jatkuva stressitila johtaa holtittomaan käytökseen. Diana elää kiihkeää nuoruutta ja saa kärsiä siitä, mutta mitä on kaiken takana? Mercedesin erottama Amparo maksaa potut pottuina. Osa 401 (Incendios). (U)",
+      "start_time": "2025-06-17T12:00:00+03:00",
+      "end_time": "2025-06-17T13:00:23+03:00",
+      "uri": "yleareena://items/1-65927177"
+    },
+    {
+      "id": "1-66409858",
+      "title": "Jane Birkin Charlotte Gainsbourgin silmin",
+      "description": "Heinäkuussa 2023 menehtynyt Jane Birkin oli yksi 1900-luvun suurimmista popikoneista: näyttelijätär, laulaja ja esiintyjä. Birkinin tytär, tunnettu taiteilija Charlotte Gainsbourg kuvaa jo vanhenevaa äitiään intiimissä dokumentissa julkkisperheen elämästä, äidin ja tyttären sydämellisestä suhteesta, vanhenemisesta, sairastumisesta ja peloista. Ohjaus: Charlotte Gainsbourg. (U)",
+      "start_time": "2025-06-17T13:00:23+03:00",
+      "end_time": "2025-06-17T14:30:00+03:00",
+      "uri": "yleareena://items/1-66409858"
+    },
+    {
+      "id": "1-2531895",
+      "title": "Arkistojen salat",
+      "description": "Sadan vuoden brittivallan jälkeen Hongkongin siirtokunta palautettiin Kiinalle vuonna 1997 kesäkuun vaihtuessa heinäkuuksi. Koko maailma seurasi seremoniaa, jossa osapuolia edustivat prinssi Charles ja presidentti Jiang Zemin. Näyttävien muodollisuuksien takana olivat vuosien kireät ja vaikeat diplomaattiset neuvottelut. Mitä voitettavaa ja hävittävää Kiinalla ja Britannialla oli vallanvaihdossa? (U)",
+      "start_time": "2025-06-17T14:30:00+03:00",
+      "end_time": "2025-06-17T14:56:08+03:00",
+      "uri": "yleareena://items/1-2531895"
+    },
+    {
+      "id": "1-72619701",
+      "title": "Pieni suuri maailma",
+      "description": "19/20. Latvia. Maisemia maailmalta pieninä paketteina.",
+      "start_time": "2025-06-17T14:56:08+03:00",
+      "end_time": "2025-06-17T15:00:09+03:00",
+      "uri": "yleareena://items/1-72619701"
+    },
+    {
+      "id": "1-68978382",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 231/250. Takinkääntäjät! Cruzin kiukun syy on itseaiheutettua: hänelle selviää missä Rómulo ja Pía ovat nykyään palveluksessa. Isä Samuelin uteliaisuus on pohjaton. Ayalalla on tiukka paikka.",
+      "start_time": "2025-06-17T15:00:09+03:00",
+      "end_time": "2025-06-17T15:56:21+03:00",
+      "uri": "yleareena://items/1-68978382"
+    },
+    {
+      "id": "1-64877957",
+      "title": "Raha-Suomi: Nörttien kosto",
+      "description": "2/8. Nörtit ovat maailmanvaltiaita. Kaikki alkoi kun Commodore 64 tuli ja muutti koulukiusattujen teinien elämän. Ilkka Paananen, Sami Järvi, Jussi Laakkonen ja Samuli Syvähuoko kertovat miten nousivat maailman huipulle.",
+      "start_time": "2025-06-17T15:56:21+03:00",
+      "end_time": "2025-06-17T16:55:24+03:00",
+      "uri": "yleareena://items/1-64877957"
+    },
+    {
+      "id": "1-64868091",
+      "title": "Pikku Kakkonen",
+      "description": "Sikin sokin. Katsellaan Lauran kanssa ohjelmat Henrietta, Katso tarkemmin, Onni-siili, Runoja ja roskia, Viiru ja Pesonen, Eläinystäväni sekä Petteri Kaniini.",
+      "start_time": "2025-06-17T16:55:24+03:00",
+      "end_time": "2025-06-17T17:55:00+03:00",
+      "uri": "yleareena://items/1-64868091"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-17T17:55:00+03:00",
+      "end_time": "2025-06-17T17:55:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-71958748",
+      "title": "Yle Nyheter TV-nytt 17.55",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-17T17:55:00+03:00",
+      "end_time": "2025-06-17T18:00:00+03:00",
+      "uri": "yleareena://items/1-71958748"
+    },
+    {
+      "id": "1-61744801",
+      "title": "Fantoran maailma (S)",
+      "description": "Fantora rakentaa ulko-oven eteen vesipuiston, mutta Pivi pelkää vettä eikä uskalla laskea vesiliukumäestä. Kuinkahan tässä nyt käy?",
+      "start_time": "2025-06-17T18:00:00+03:00",
+      "end_time": "2025-06-17T18:10:32+03:00",
+      "uri": "yleareena://items/1-61744801"
+    },
+    {
+      "id": "1-65773089",
+      "title": "Do, Re & Mi (S)",
+      "description": "Tänään juhlitaan siivekkäiden ystävien päivää. Mi on tehnyt laulun, jossa hän kertoo, mitä ystävät merkitsevät hänelle. Kun hänen pitäisi laulaa se, hän menettää äkkiä äänensä.",
+      "start_time": "2025-06-17T18:10:32+03:00",
+      "end_time": "2025-06-17T18:22:39+03:00",
+      "uri": "yleareena://items/1-65773089"
+    },
+    {
+      "id": "1-73838397",
+      "title": "Leenan maatila (S)",
+      "description": "1/26. Leenan laulu. Leena houkuttelee laulullaan kaikki eläimet luokseen. Sokea myyräkin hakeutuu hänen lähelleen. Mutta muut eläimet vierastavat myyrää. Löytääkö hän paikkansa eläinyhteisössä?",
+      "start_time": "2025-06-17T18:22:39+03:00",
+      "end_time": "2025-06-17T18:28:19+03:00",
+      "uri": "yleareena://items/1-73838397"
+    },
+    {
+      "id": "1-50497797",
+      "title": "Hupsulit",
+      "description": "Hupsuli laulaa kuulle. Ruotsinkielinen versio.",
+      "start_time": "2025-06-17T18:28:19+03:00",
+      "end_time": "2025-06-17T18:30:24+03:00",
+      "uri": "yleareena://items/1-50497797"
+    },
+    {
+      "id": "1-67591730",
+      "title": "Tarina Ruotsin historiasta (12)",
+      "description": "2/10. Metallien aika, 1700-luku eaa. - 500-luku jaa. Päälliköt ja soturit jättivät kivikauden taakseen ja lähtivät metallien perässä Eurooppaan vaarallisille matkoille. Ajanjakso oli myös hyvin väkivaltainen ja sotaisa. (U)",
+      "start_time": "2025-06-17T18:30:24+03:00",
+      "end_time": "2025-06-17T19:30:00+03:00",
+      "uri": "yleareena://items/1-67591730"
+    },
+    {
+      "id": "1-71958076",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.  ",
+      "start_time": "2025-06-17T19:30:00+03:00",
+      "end_time": "2025-06-17T19:44:40+03:00",
+      "uri": "yleareena://items/1-71958076"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-17T19:44:40+03:00",
+      "end_time": "2025-06-17T19:44:40+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-73581819",
+      "title": "Unelmasauna",
+      "description": "3/8. Suosauna Tornionlaaksossa, osa 1. Björn haluaa kunnioittaa juuriaan rakentamalla saunan samalle suolle, jolla hänen isovanhempansa aikoinaan viljelivät maata.",
+      "start_time": "2025-06-17T19:44:40+03:00",
+      "end_time": "2025-06-17T20:00:05+03:00",
+      "uri": "yleareena://items/1-73581819"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-17T20:00:05+03:00",
+      "end_time": "2025-06-17T20:00:05+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-3738643",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 5/7. Pääministeri. Max ja tehtailija Frigh potevat sydänsuruja, mutta molemmat saavat toivoa herättävän kirjeen. Yhtäkkiä pääministeri Thorvald Stauning kunnioittaa hotellia läsnäolollaan. (U)",
+      "start_time": "2025-06-17T20:00:05+03:00",
+      "end_time": "2025-06-17T20:45:00+03:00",
+      "uri": "yleareena://items/1-3738643"
+    },
+    {
+      "id": "1-50911538",
+      "title": "Drakar - ystävyyden roadtrip (12)",
+      "description": "Rollo on saavuttanut päämääränsä. Nyt hänen on aika kohdata se, mitä hän on koko ajan paennut. Tuotanto: Citizen Jane Productions, 2022.",
+      "start_time": "2025-06-17T20:45:00+03:00",
+      "end_time": "2025-06-17T21:00:00+03:00",
+      "uri": "yleareena://items/1-50911538"
+    },
+    {
+      "id": "1-73671918",
+      "title": "Historia: Natsien taidevaras",
+      "description": "2/2 Sodanjälkeinen taidekauppa. Toisen maailmansodan päätyttyä varastetun taiteen kauppa siirtyi suurelta osin Yhdysvaltoihin. Lohse, vapauduttuaan vankilasta vuonna 1950, jatkoi uraansa taidekauppiaana, hyödyntäen sodan aikana luomiaan verkostoja.",
+      "start_time": "2025-06-17T21:00:00+03:00",
+      "end_time": "2025-06-17T21:55:11+03:00",
+      "uri": "yleareena://items/1-73671918"
+    },
+    {
+      "id": "1-121599",
+      "title": "Kino Suomi: Suomisen perhe (S)",
+      "description": "Suomisen perhe kokee äkkirikastumisen. O: Toivo Särkkä. N: Yrjö Tuominen, Elsa Turakainen, Maire Suvanto, Sirkka Sipilä, Lasse Pöysti, Eine Laine. (1941) (Mv) (U)",
+      "start_time": "2025-06-17T21:55:11+03:00",
+      "end_time": "2025-06-17T23:41:45+03:00",
+      "uri": "yleareena://items/1-121599"
+    },
+    {
+      "id": "1-64863483",
+      "title": "IURIMA - taru kolmesta kalastajasta (7)",
+      "description": "Kolme nälkiintynyttä kalastajaa kohtaa jotain odottamatonta syrjäisellä saarella 1890-luvulla. N: Lauri Tilkanen, Petri Manninen, Rami Rusinen. K&O: PV Lehtinen. T: Cineparadiso Oy, (2025).",
+      "start_time": "2025-06-17T23:41:45+03:00",
+      "end_time": "2025-06-18T00:06:13+03:00",
+      "uri": "yleareena://items/1-64863483"
+    }
+  ]
+}

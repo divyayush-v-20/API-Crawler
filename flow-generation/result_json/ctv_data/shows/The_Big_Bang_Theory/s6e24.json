@@ -1,0 +1,25 @@
+{
+  "title": "The Bon Voyage Reaction",
+  "description": "When Leonard receives an opportunity to work overseas, Penny and Sheldon are thrown for a loop.",
+  "season": 6,
+  "episode": "24",
+  "air_time": "2025-06-15T05:00:00+00:00",
+  "duration": 30,
+  "release_year": "2013",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_25428b15-c64b-44c6-8704-50270318228f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}

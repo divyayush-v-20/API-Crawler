@@ -1,0 +1,25 @@
+{
+  "title": "Sailing Away",
+  "description": "When a willful teenager takes her father's sloop out alone, Hobo must rescue her.",
+  "season": 2,
+  "episode": "8",
+  "air_time": "2025-06-14T10:00:00+00:00",
+  "duration": 30,
+  "release_year": "1980",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_f6a0047d-4b74-443a-a321-59e8938c1922_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "tracey bregman",
+    "david calderisi",
+    "michael copeman"
+  ],
+  "directors": [
+    "joseph l. scanlan"
+  ]
+}

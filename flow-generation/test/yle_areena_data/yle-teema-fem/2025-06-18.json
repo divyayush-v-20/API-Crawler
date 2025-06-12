@@ -1,0 +1,254 @@
+{
+  "channel": "yle-teema-fem",
+  "date": "2025-06-18",
+  "programs": [
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-18T08:00:22+03:00",
+      "end_time": "2025-06-18T08:00:22+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-50687170",
+      "title": "Kesäjumppaa Sofian kanssa",
+      "description": "Jumppaa SVT:n kotitreeneissä!",
+      "start_time": "2025-06-18T08:00:22+03:00",
+      "end_time": "2025-06-18T08:21:17+03:00",
+      "uri": "yleareena://items/1-50687170"
+    },
+    {
+      "id": "1-1325212",
+      "title": "Annen espanjalaisherkut",
+      "description": "5/8: Liha. Espanja on lihansyöjien luvattu maa, ja tänään Anne valmistaakin maittavia liharuokia. Torin lihakauppiaalla on tarjolla mm. siansorkkia, riistaa, häränhäntiä ja sisälmyksiä moneen höystöön. (U)",
+      "start_time": "2025-06-18T08:21:17+03:00",
+      "end_time": "2025-06-18T08:50:28+03:00",
+      "uri": "yleareena://items/1-1325212"
+    },
+    {
+      "id": "1-62787367",
+      "title": "Kysy lääkäriltä terveydestä",
+      "description": "Osa 1/18. Eturauhassyöpä. Sarjassa käsitellään terveyteen liittyviä asioita. Aloitusjaksossa Bert kertoo eturauhassyövästään ja infektiolääkäri vastaa koronaan liittyviin kysymyksiin. T: SVT, 2022.",
+      "start_time": "2025-06-18T08:50:28+03:00",
+      "end_time": "2025-06-18T09:34:40+03:00",
+      "uri": "yleareena://items/1-62787367"
+    },
+    {
+      "id": "1-3323369",
+      "title": "Antiikkikaksintaistelu",
+      "description": "Kausi 2, 16/20. Tänään Betinnan ja Michaelin löytämät aarteet joutuvat Svendborgin huutokaupassa vasaran alle. Kumman löydöt ovat arvokkaammat? Kumpi heistä voittaa kilpailun? (U)",
+      "start_time": "2025-06-18T09:34:40+03:00",
+      "end_time": "2025-06-18T10:03:47+03:00",
+      "uri": "yleareena://items/1-3323369"
+    },
+    {
+      "id": "1-4149913",
+      "title": "Ideoiden maailma",
+      "description": "kausi 1, 3/8. Onko korkeakoulutus vapaapudotuksessa? Historioitsija Dick Harrison puhuu sivistyksen ylenkatsomisesta yhteiskunnassa vastaväittäjinään taideprofessori ja filosofi. Ajatuksia herättävä ruotsalainen talkshow. (U)",
+      "start_time": "2025-06-18T10:03:47+03:00",
+      "end_time": "2025-06-18T11:02:57+03:00",
+      "uri": "yleareena://items/1-4149913"
+    },
+    {
+      "id": "1-73593868",
+      "title": "Uusi elämä Norlannissa",
+      "description": "3/6. Thomas avautuu syövästään. Tazin unelma omasta ravintolasta Tornionlaaksossa kariutuu. Marcin ja Rachelin tarina osoittaa, että kotimaan vaihtuessa myös avioliitto on koetuksella.",
+      "start_time": "2025-06-18T11:02:57+03:00",
+      "end_time": "2025-06-18T11:32:10+03:00",
+      "uri": "yleareena://items/1-73593868"
+    },
+    {
+      "id": "1-2615698",
+      "title": "Kauhakaupalla Pohjolan luontoa",
+      "description": "Osa 7/12: Kalajoki. Tällä retkellä riittää sieniä, sammalta ja jäkälää. Kiemurtelevalla joella tehdyn jännittävän melontaretken voi päättää kuuluisille Kalajoen sannoille, missä onkin taas aika nauttia makuelämyksistä. (U)",
+      "start_time": "2025-06-18T11:32:10+03:00",
+      "end_time": "2025-06-18T12:00:30+03:00",
+      "uri": "yleareena://items/1-2615698"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-18T12:00:00+03:00",
+      "end_time": "2025-06-18T12:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-65909981",
+      "title": "Ron Carter: oikeita ääniä etsimässä (S)",
+      "description": "Dokumentti jazzin herrasmieslegenda Ron Carterista, joka on todennäköisesti kaikkien aikojen eniten levyttänyt jazzmuusikko. (U)",
+      "start_time": "2025-06-18T12:00:00+03:00",
+      "end_time": "2025-06-18T13:47:10+03:00",
+      "uri": "yleareena://items/1-65909981"
+    },
+    {
+      "id": "1-3051634",
+      "title": "Matematiikan taikaa",
+      "description": "4/9. Nopeus. Sabine laskee, kumpi on nopeampi tapa matkustaa Tukholmasta Västeråsiin, urheiluauto vai juna. Asiaa kokeillaan myös käytännössä autourheiluasiantuntija Fredrik Huldtin kanssa. (U)",
+      "start_time": "2025-06-18T13:47:10+03:00",
+      "end_time": "2025-06-18T14:00:43+03:00",
+      "uri": "yleareena://items/1-3051634"
+    },
+    {
+      "id": "1-71967885",
+      "title": "Tommi Kitti ja lopettamisen taito (S)",
+      "description": "Dokumentti elämänmuutoksesta. Koreografi Valtteri Raekallio matkustaa Lappiin houkutellakseen taidekentältä vetäytyneen mestarinsa palaamaan vielä tanssin pariin. 2024. Ohjaajat Thomas Freundlich ja Valtteri Raekallio.",
+      "start_time": "2025-06-18T14:00:56+03:00",
+      "end_time": "2025-06-18T15:00:05+03:00",
+      "uri": "yleareena://items/1-71967885"
+    },
+    {
+      "id": "1-68978759",
+      "title": "La Promesa - Salaisuuksien kartano (12)",
+      "description": "Kausi 3, 232/250. Pähkähullu päivä. Erikoisjakso. María Fernándezilla on toki mielikuvitusta, mutta tällaisesta voi vain uneksia. Millaista on, jos kartanon herrasväen ja palvelijoiden osat äkkiä vaihtuvat?",
+      "start_time": "2025-06-18T15:00:05+03:00",
+      "end_time": "2025-06-18T16:00:00+03:00",
+      "uri": "yleareena://items/1-68978759"
+    },
+    {
+      "id": "1-3738643",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 5/7. Pääministeri. Max ja tehtailija Frigh potevat sydänsuruja, mutta molemmat saavat toivoa herättävän kirjeen. Yhtäkkiä pääministeri Thorvald Stauning kunnioittaa hotellia läsnäolollaan. (U)",
+      "start_time": "2025-06-18T16:00:00+03:00",
+      "end_time": "2025-06-18T16:43:43+03:00",
+      "uri": "yleareena://items/1-3738643"
+    },
+    {
+      "id": "1-62642668",
+      "title": "Vaikuttajien miljoonabisnes",
+      "description": "Osa 5/5. Next level. Tunnetuimmat influensserit tuotteistavat myös itsensä. Mathilde Gøhler on yksi Tanskan suurimpia somevaikuttajia ja on rakentamassa omaa elämäntapaimperiumia. Tuotanto: DR, 2022 (U)",
+      "start_time": "2025-06-18T16:55:01+03:00",
+      "end_time": "2025-06-18T17:23:31+03:00",
+      "uri": "yleareena://items/1-62642668"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-18T17:25:00+03:00",
+      "end_time": "2025-06-18T17:25:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-72175701",
+      "title": "Søren Vesterin puutarha",
+      "description": "Kausi 4, 11/13. Villikukat ja kotitekoiset ruukut. Søren haluaa tehdä ruukkuja oman puutarhan savesta. Hän etsii myös jännittäviä kukkia ojien pientareilta ja ihastelee puistokäytävän vieressä kukkivaa niittyä.",
+      "start_time": "2025-06-18T17:25:00+03:00",
+      "end_time": "2025-06-18T17:55:00+03:00",
+      "uri": "yleareena://items/1-72175701"
+    },
+    {
+      "id": "1-71958724",
+      "title": "Yle Nyheter TV-nytt 17.55",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.",
+      "start_time": "2025-06-18T17:55:00+03:00",
+      "end_time": "2025-06-18T18:00:00+03:00",
+      "uri": "yleareena://items/1-71958724"
+    },
+    {
+      "id": "1-50673905",
+      "title": "Seis! (S)",
+      "description": "Äiti ja isä tulevat kotiin uuden koottavan hyllyn kanssa. Majakin haluaa rakentaa jotakin, ja hyllyn pahvipakkaus onkin oivaa rakennusmateriaalia.",
+      "start_time": "2025-06-18T18:00:00+03:00",
+      "end_time": "2025-06-18T18:09:00+03:00",
+      "uri": "yleareena://items/1-50673905"
+    },
+    {
+      "id": "1-50426170",
+      "title": "Ruso ja rihmalat (S)",
+      "description": "Huhta ja pimeys. Rusolle selviää, että Huhta pelkää pimeää, joten hän ehdottaa, että voi viedä tämän puolesta rihminit yhden yön retkelle metsään. Leirillä on luvassa hurjia juttuja nuotiolla ja muutakin jännittävää.",
+      "start_time": "2025-06-18T18:09:00+03:00",
+      "end_time": "2025-06-18T18:20:41+03:00",
+      "uri": "yleareena://items/1-50426170"
+    },
+    {
+      "id": "1-61335767",
+      "title": "Mossen tutkimusretket",
+      "description": "Mosse käy saksitehtaassa selvittämässä, kuinka saksia valmistetaan. Tuotanto: Luna Media, 2023.",
+      "start_time": "2025-06-18T18:20:41+03:00",
+      "end_time": "2025-06-18T18:30:00+03:00",
+      "uri": "yleareena://items/1-61335767"
+    },
+    {
+      "id": "1-50449063",
+      "title": "Tuntematon perillinen",
+      "description": "Kausi 2, osa 1/6. Jan Mottl halusi jättää koko omaisuutensa kodittomille koirille, mutta jossakin on myös kaksi lasta, joilla on oikeus periä isältään yli miljoona kruunua. Jäljet johtavat Tsekkiin. Kattis Ahlström ja Niklas Källner yrittävät ymmärtää, miksi Jan valitsi koirat perheensä sijasta. Ruotsalainen dokumenttisarja. (U)",
+      "start_time": "2025-06-18T18:30:00+03:00",
+      "end_time": "2025-06-18T19:30:00+03:00",
+      "uri": "yleareena://items/1-50449063"
+    },
+    {
+      "id": "1-71958072",
+      "title": "Yle Nyheter TV-nytt 19.30",
+      "description": "Viimeisimmät uutiset, uutisanalyysit ja reportaasit ruotsinkieliseltä rannikkoseudulta, muualta Suomesta ja maailmalta.  ",
+      "start_time": "2025-06-18T19:30:00+03:00",
+      "end_time": "2025-06-18T19:44:50+03:00",
+      "uri": "yleareena://items/1-71958072"
+    },
+    {
+      "id": null,
+      "title": "YLE FEM",
+      "description": "",
+      "start_time": "2025-06-18T19:44:50+03:00",
+      "end_time": "2025-06-18T19:44:50+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-67016873",
+      "title": "Micken puuvene",
+      "description": "5/6. Vesillelaskuun on viisi päivää, ja aikaoptimisti Micke alkaa olla hiukan paniikissa. Missä kaikki ystävät ovat, kun heitä tarvitsisi kipeimmin? Micke lakkaa, maalaa kangaskantta, viettää yön venekerhon vahtivuorossa ja purkaa suojatelineen. Hörppääkö Moster Jann vettä? Entä käynnistyykö moottori?",
+      "start_time": "2025-06-18T19:44:50+03:00",
+      "end_time": "2025-06-18T20:00:00+03:00",
+      "uri": "yleareena://items/1-67016873"
+    },
+    {
+      "id": null,
+      "title": "YLE TEEMA",
+      "description": "",
+      "start_time": "2025-06-18T20:00:00+03:00",
+      "end_time": "2025-06-18T20:00:00+03:00",
+      "uri": ""
+    },
+    {
+      "id": "1-3738644",
+      "title": "Rantahotelli (7)",
+      "description": "Kausi 3, 6/7. Kortit pöydällä. Tehtailija Frigh käy Kittyn luona Kööpenhaminassa, mutta palaa sitten hotelliin ja lyö kortit pöytään. Rouva Aurland toteaa, että hänen on aika kertoa miehelleen totuus lapsensa isänsä. (U)",
+      "start_time": "2025-06-18T20:00:00+03:00",
+      "end_time": "2025-06-18T20:46:02+03:00",
+      "uri": "yleareena://items/1-3738644"
+    },
+    {
+      "id": "1-243756",
+      "title": "Majakka: Tiiskeri",
+      "description": "Tiiskerin sumukello makaa meren pohjassa, mutta kertaalleen räjäytetyn majakan valo vilkkuu edelleen. Toimittaja: Tom Backmansson, 1998.",
+      "start_time": "2025-06-18T20:46:02+03:00",
+      "end_time": "2025-06-18T21:00:09+03:00",
+      "uri": "yleareena://items/1-243756"
+    },
+    {
+      "id": "1-64877954",
+      "title": "Raha-Suomi: Nokian nousu ja uho",
+      "description": "3/8. Miten suomalaiset insinöörit loivat maailman myydyimmän puhelimen. Pääosassa Jorma Ollila kertoo miten nousta huipulle, vaikka pilkkaa satoi niskaan. Pudotus oli jyrkkä, kun iso yhtiö ei taipunut muutokseen ajoissa.",
+      "start_time": "2025-06-18T21:00:09+03:00",
+      "end_time": "2025-06-18T22:00:00+03:00",
+      "uri": "yleareena://items/1-64877954"
+    },
+    {
+      "id": "1-71192553",
+      "title": "Kino: Olet aina sydämessäni (7)",
+      "description": "Isabella on 35-vuotias kunnianhimoinen liikenainen Tukholman finanssimaailmassa. Isabella palaa lapsuutensa kotikaupunkiin juhlimaan isänsä 60-vuotispäiviä, ja kokee olevansa voittaja, kouluaikaisen kaveriporukkansa ainoa menestyjä. Isabellan itseluottamus rakoilee, kun hän kuulee suuren teinirakkautensa Simonin olevan menossa naimisiin Isabellan lapsuudenkaverin Mollyn kanssa. Isabellaa ole edes kutsuttu häihin. Isabella on tottunut saamaan haluamansa, ja häntä häiritsee nähdä Simon onnellisena jonkun toisen kanssa. Osa Isabellan sydämestä lyö ikuisesti Simonille.",
+      "start_time": "2025-06-18T22:00:00+03:00",
+      "end_time": "2025-06-18T23:51:12+03:00",
+      "uri": "yleareena://items/1-71192553"
+    },
+    {
+      "id": "1-4342995",
+      "title": "Festivaalipuhetta",
+      "description": "\"Se kertoo nuoren miehen tuskasta ja kärsimyksestä.\" \"Teollinen kohina toisesta maailmasta.\" Fanit puhuvat David Lynchin elokuvasta Eraserhead. Teeman elokuvafestivaalilla intoiltiin maaliskuussa 2018 elokuvista yleensä ja Lynchistä erityisesti. Ohjaus Kati Sinisalo. (U)",
+      "start_time": "2025-06-18T23:51:12+03:00",
+      "end_time": "2025-06-19T00:00:05+03:00",
+      "uri": "yleareena://items/1-4342995"
+    }
+  ]
+}

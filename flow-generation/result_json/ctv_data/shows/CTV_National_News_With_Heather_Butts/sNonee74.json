@@ -1,0 +1,21 @@
+{
+  "title": "CTV National News With Heather Butts",
+  "description": "Heather Butts presents the day's top news stories.",
+  "season": null,
+  "episode": "74",
+  "air_time": "2025-06-15T11:30:00+00:00",
+  "duration": 30,
+  "release_year": "2025",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_b270a03e-b61a-44a1-a866-d0bd1a3b6402_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "heather butts"
+  ],
+  "directors": []
+}

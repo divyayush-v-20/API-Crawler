@@ -1,0 +1,25 @@
+{
+  "title": "The Toast Derivation",
+  "description": "Sheldon is upset when he realizes Leonard is the center of their group of friends.",
+  "season": 4,
+  "episode": "17",
+  "air_time": "2025-06-18T03:00:00+00:00",
+  "duration": 30,
+  "release_year": "2011",
+  "images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_ace75206-a0f9-4f80-aac2-a333b6e9484b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "cast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "directors": [
+    "mark cendrowski"
+  ]
+}
