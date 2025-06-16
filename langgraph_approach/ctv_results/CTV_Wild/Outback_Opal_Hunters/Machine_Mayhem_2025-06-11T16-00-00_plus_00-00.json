@@ -1,0 +1,42 @@
+{
+  "Name": "Outback Opal Hunters",
+  "Title": "Machine Mayhem",
+  "Desc": "Col's crew is on a crash course; the Cooke brothers fight busted hoses and breakdowns.",
+  "StartTime": "2025-06-11T16:00:00+00:00",
+  "EndTime": "2025-06-11T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_1e037474-3ed7-4b5a-8123-513eb6d7a824_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "reality",
+    "outdoors"
+  ],
+  "LongDescription": "It's the last chance for the Rookies' partnership; Col's crew is on a crash course as his illness slows them down; the Cooke brothers fight busted hoses and breakdowns.",
+  "TopCast": [
+    "daniel becker",
+    "mick cooke",
+    "peter cooke"
+  ],
+  "Directors": [
+    "katherine barrett"
+  ]
+}

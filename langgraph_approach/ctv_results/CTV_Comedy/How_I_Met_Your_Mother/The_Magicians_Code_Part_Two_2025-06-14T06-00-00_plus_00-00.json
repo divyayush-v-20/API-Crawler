@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "The Magician's Code Part Two",
+  "Desc": "On Barney's wedding day, the friends remember the time they encouraged Ted to follow his heart.",
+  "StartTime": "2025-06-14T06:00:00+00:00",
+  "EndTime": "2025-06-14T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_be9b3f15-d641-4f42-a141-274e93cedc67_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 7,
+  "EpisodeNumber": "24",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "On Barney's wedding day, the friends remember the time they encouraged Ted to go after the one that got away.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "neil patrick harris"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Name": "The Mummy",
+  "Title": "The Mummy",
+  "Desc": "A soldier of fortune battles an ancient, resurrected princess as she embarks on a rampage in London.",
+  "StartTime": "2025-06-16T01:00:00+00:00",
+  "EndTime": "2025-06-16T03:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_12_2826f948-d7b4-49d2-95cd-bdf5b93a339b_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "horror",
+    "drama"
+  ],
+  "LongDescription": "Nick Morton is a soldier of fortune who plunders ancient sites for timeless artifacts and sells them to the highest bidder. When Nick and his partner come under attack in the Middle East, the ensuing battle accidentally unearths Ahmanet, a betrayed Egyptian princess who was entombed under the desert for thousands of years. With her powers constantly evolving, Morton must now stop the resurrected monster as she embarks on a furious rampage through the streets of London.",
+  "TopCast": [
+    "tom cruise",
+    "russell crowe",
+    "annabelle wallis"
+  ],
+  "Directors": [
+    "alex kurtzman"
+  ]
+}

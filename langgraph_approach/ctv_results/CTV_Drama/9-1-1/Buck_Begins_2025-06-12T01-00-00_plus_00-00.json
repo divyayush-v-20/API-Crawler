@@ -1,0 +1,40 @@
+{
+  "Name": "9-1-1",
+  "Title": "Buck Begins",
+  "Desc": "The 118 races to save workers trapped in a factory fire; Maddie reveals a painful family secret.",
+  "StartTime": "2025-06-12T01:00:00+00:00",
+  "EndTime": "2025-06-12T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_54f7dc7f-26d8-47c3-8137-7c03edff5568_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "The 118 races to save the lives of workers trapped in a factory fire; Maddie reveals a painful family secret that causes Buck to confront his childhood and answer why he is the daredevil he is today.",
+  "TopCast": [
+    "angela bassett",
+    "peter krause",
+    "oliver stark"
+  ],
+  "Directors": []
+}

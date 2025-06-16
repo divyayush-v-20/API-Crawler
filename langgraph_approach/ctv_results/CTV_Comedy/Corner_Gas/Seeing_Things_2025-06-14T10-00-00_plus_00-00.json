@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Seeing Things",
+  "Desc": "Brent decides to try laser eye surgery; police cruiser gets a new slogan.",
+  "StartTime": "2025-06-14T10:00:00+00:00",
+  "EndTime": "2025-06-14T10:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_1aaefa96-eae3-49e6-9c43-374ebe7274ad_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent decides to try laser eye surgery; police cruiser gets a new slogan.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

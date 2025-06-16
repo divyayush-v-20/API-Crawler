@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Wolf Hunt",
+  "Desc": "Hobo tries to stop a man (John Ireland) and his two sons from hunting down a wolf and her cubs.",
+  "StartTime": "2025-06-11T12:30:00+00:00",
+  "EndTime": "2025-06-11T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_da8c93b8-bf20-422a-947a-391e8ca743d3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1981",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo tries to stop a man (John Ireland) and his two sons from hunting down a wolf and her cubs.",
+  "TopCast": [
+    "john ireland",
+    "jeff wincott",
+    "michael wincott"
+  ],
+  "Directors": [
+    "allan eastman"
+  ]
+}

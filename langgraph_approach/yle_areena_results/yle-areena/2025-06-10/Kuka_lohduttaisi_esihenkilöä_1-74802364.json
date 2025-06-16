@@ -1,0 +1,74 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T08:30:00+03:00",
+  "program_data": {
+    "title": "Kuka lohduttaisi esihenkilöä?",
+    "description": "Ylen yhteistyökumppanin tuottamaa sisältöä.\n\nMiten esihenkilöt voisivat parhaiten edistää mielenterveyttä ja työkykyä työpaikoillaan – ja mistä he itse saavat tarvittaessa tukea? Työpuntari-webinaarissa työelämän tutkijat hakevat ratkaisuja tasapainon palauttamiseksi työelämään. Ohjelmassa pureudutaan työn muokkaukseen ja kuullaan kansalaisten näkemyksiä hyvästä esihenkilötyöstä.\n\nOhjelman esiintyjät: \nJohtaja Kirsti Ahola, johtava asiantuntija Pauliina Mattila-Holappa, erityisasiantuntija Anniina Virtanen, johtava konsultti Susanna Kalavainen ja vanhempi konsultti Nina Olin Työterveyslaitoksesta sekä työhyvinvointiasiantuntija Eeva Nieminen Nokian kaupungista. Videogallupissa esiintyy joukko kansalaisia. Juontajana Juha Hietanen\n\nSuorana suomalaisilta – Direkt från finländarna esittelee Ylen yhteistyökumppaneiden tarjoamia sisältöjä eri puolilta Suomea. Ylen vastaava päätoimittaja on Panu Pokkinen. \n",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74802364"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.30",
+        "raw": "2025-06-10T08:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T09:34:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 4 min",
+        "raw": "PT3840S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-73155362"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74802364.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

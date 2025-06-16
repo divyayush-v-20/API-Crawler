@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T07:56:38+03:00",
+  "program_data": {
+    "title": "Petra saa vauvan",
+    "description": "4/8. Petra on aina haaveillut muuttavansa lähelle sukulaisiaan, kun perheen perustaminen tulee ajankohtaiseksi. Hän testaa puolisonsa kanssa elämää kaupungin ulkopuolella vuokraamalla talon maalta. Sarja tanskalaistoimittajan matkasta kohti äitiyttä. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4438622"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.56",
+        "raw": "2025-06-15T07:56:38+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T08:25:46+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "29 min",
+        "raw": "PT1748S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4523791"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4438622.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

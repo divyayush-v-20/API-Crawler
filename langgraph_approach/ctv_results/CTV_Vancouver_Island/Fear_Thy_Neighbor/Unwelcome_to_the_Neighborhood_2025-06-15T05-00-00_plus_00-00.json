@@ -1,0 +1,39 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Unwelcome to the Neighborhood",
+  "Desc": "An established homeowner's quarrels with the uppity new neighbor escalates to deadly violence.",
+  "StartTime": "2025-06-15T05:00:00+00:00",
+  "EndTime": "2025-06-15T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_fc2575d1-da2f-46f7-960c-1fc1ebb4eb93_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "The unofficial mayor of an idyllic suburban street locks horns with the new neighbor who shows no respect for local values; disagreements escalate to arguments, threats, and property damage, ending in brutal violence that shatters two families.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

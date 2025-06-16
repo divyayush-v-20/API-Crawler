@@ -1,0 +1,42 @@
+{
+  "Name": "The Veil",
+  "Title": "The Camp",
+  "Desc": "Imogen visits a refugee camp and seeks out Adilah, who has been separated from the others.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_27d6b357-0707-46fb-a697-f286893968b3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "Imogen visits a refugee camp in the remote mountains on the Turkish and Syrian border, and among the chaos, she seeks out Adilah, who has been separated and detained from the rest of the refugees.",
+  "TopCast": [
+    "elisabeth moss",
+    "yumna marwan",
+    "dali benssalah"
+  ],
+  "Directors": [
+    "daina reid"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Bob Hearts Abishola",
+  "Title": "Welcome to Lagos",
+  "Desc": "After Bob and Abishola land in Lagos, they rush to rescue Dele from his dad's place.",
+  "StartTime": "2025-06-15T07:30:00+00:00",
+  "EndTime": "2025-06-15T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_f1571a13-910f-43dd-851c-2ba45fc183b1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "After Bob and Abishola land in Lagos, they rush to rescue Dele from his dad's place; Auntie Olu and Uncle Tunde explore their old stomping grounds and realize things have changed since their last visit to Nigeria.",
+  "TopCast": [
+    "billy gardell",
+    "folake olowofoyeku",
+    "christine ebersole"
+  ],
+  "Directors": [
+    "beth mccarthy-miller"
+  ]
+}

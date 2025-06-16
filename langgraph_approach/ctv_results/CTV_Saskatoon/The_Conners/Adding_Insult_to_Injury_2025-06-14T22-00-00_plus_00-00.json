@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Adding Insult to Injury",
+  "Desc": "Darlene continues her search for a new job; Becky is desperate to spend more time with Beverly Rose.",
+  "StartTime": "2025-06-14T22:00:00+00:00",
+  "EndTime": "2025-06-14T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_e0716dd9-a1b6-41a7-a05d-7097630c672f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd unknown",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Darlene continues her search for a new job; Becky is desperate to spend more time with Beverly Rose.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": []
+}

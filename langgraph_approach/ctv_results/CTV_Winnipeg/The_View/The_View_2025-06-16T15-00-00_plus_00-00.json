@@ -1,0 +1,41 @@
+{
+  "Name": "The View",
+  "Title": "The View",
+  "Desc": "Actor Javier Bardem.",
+  "StartTime": "2025-06-16T15:00:00+00:00",
+  "EndTime": "2025-06-16T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_2d3bee31-8032-4f39-8497-e9c8835630d0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "184",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Actor Javier Bardem.",
+  "TopCast": [
+    "whoopi goldberg",
+    "joy behar",
+    "sunny hostin"
+  ],
+  "Directors": [
+    "sarah de la o"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago Med",
+  "Title": "In Search of Forgiveness, Not Permission",
+  "Desc": "Dr. Marcel and Dr. Manning lay everything on the line to assist a sick woman.",
+  "StartTime": "2025-06-11T04:00:00+00:00",
+  "EndTime": "2025-06-11T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_a48dab74-8c60-497c-8e92-336dd19cfa99_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "medical",
+    "action"
+  ],
+  "LongDescription": "Dr. Marcel and Dr. Manning lay everything on the line to assist a sick woman; Dr. Halstead faces an uphill battle in getting participants involved in his clinical trial; Dr. Choi clashes with a patient who demands absolute perfection of himself.",
+  "TopCast": [
+    "oliver platt",
+    "s. epatha merkerson",
+    "nick gehlfuss"
+  ],
+  "Directors": [
+    "milena govich"
+  ]
+}

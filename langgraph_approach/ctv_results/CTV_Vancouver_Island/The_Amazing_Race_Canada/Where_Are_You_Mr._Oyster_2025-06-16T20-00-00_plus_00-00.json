@@ -1,0 +1,41 @@
+{
+  "Name": "The Amazing Race Canada",
+  "Title": "Where Are You Mr. Oyster",
+  "Desc": "Racers make waves on the East Coast and try to zip through the competition in Miramichi, NB.",
+  "StartTime": "2025-06-16T20:00:00+00:00",
+  "EndTime": "2025-06-16T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_04702aea-0d51-41a8-ba8b-895b64575458_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "adventure",
+    "travel",
+    "competition reality"
+  ],
+  "LongDescription": "Racers make waves on the East Coast and try to zip through the competition in Miramichi, New Brunswick; the heat is on as the remaining teams try to earn their way into a coveted spot on the season ten finale.",
+  "TopCast": [
+    "jon montgomery",
+    "jet black",
+    "dave schram"
+  ],
+  "Directors": []
+}

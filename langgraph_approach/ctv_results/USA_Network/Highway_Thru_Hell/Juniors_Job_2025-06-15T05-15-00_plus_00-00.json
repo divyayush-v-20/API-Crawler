@@ -1,0 +1,36 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Junior's Job",
+  "Desc": "Jamie's 13-year-old son gets a lesson; an explosive clean-up; fishing a truck out of a lake.",
+  "StartTime": "2025-06-15T05:15:00+00:00",
+  "EndTime": "2025-06-15T06:10:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_0e4834a1-5096-4f20-8643-d23fe43f6691_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 55,
+  "SeasonNo": 6,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Jamie's 13-year-old son gets a lesson in wreck recovery after a semi crashes down a 150-foot embankment; rock slides north of Hope trigger road closures and an explosive clean-up; Dylan puts on his hip waders to fish a truck out of a lake.",
+  "TopCast": [
+    "dave pettitt"
+  ],
+  "Directors": []
+}

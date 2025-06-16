@@ -1,0 +1,41 @@
+{
+  "Name": "Wicked Tuna",
+  "Title": "Double Team",
+  "Desc": "It's almost the midpoint of bluefin fishing season, so the clock is ticking.",
+  "StartTime": "2025-06-16T23:00:00+00:00",
+  "EndTime": "2025-06-17T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_8f8d4711-6a84-4519-81e3-d73aa63fde03_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "outdoors",
+    "adventure",
+    "fishing"
+  ],
+  "LongDescription": "It's almost the midpoint of bluefin fishing season, so the clock is ticking; new alliances are built and battles continue in the race for a payday.",
+  "TopCast": [
+    "dave carraro",
+    "sandro maniaci",
+    "george sousa"
+  ],
+  "Directors": []
+}

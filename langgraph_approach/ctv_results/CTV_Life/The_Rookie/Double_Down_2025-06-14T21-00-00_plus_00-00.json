@@ -1,0 +1,44 @@
+{
+  "Name": "The Rookie",
+  "Title": "Double Down",
+  "Desc": "Officer John Nolan is face to face with serial killer Rosalind; Bradford and Chen work under cover.",
+  "StartTime": "2025-06-14T21:00:00+00:00",
+  "EndTime": "2025-06-14T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_7effd396-c719-4ac7-967e-516d457471f1_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action"
+  ],
+  "LongDescription": "Officer John Nolan is once again face to face with serial killer Rosalind; officers Bradford and Chen work under cover with Detective Lopez and the Las Vegas Police Department to arrest leaders of a major criminal enterprise.",
+  "TopCast": [
+    "nathan fillion",
+    "mekia cox",
+    "alyssa diaz"
+  ],
+  "Directors": [
+    "tori garrett"
+  ]
+}

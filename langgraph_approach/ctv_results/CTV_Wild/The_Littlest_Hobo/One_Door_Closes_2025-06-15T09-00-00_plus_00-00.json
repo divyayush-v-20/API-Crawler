@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "One Door Closes",
+  "Desc": "Hobo helps a man adjust to life in a wheelchair.",
+  "StartTime": "2025-06-15T09:00:00+00:00",
+  "EndTime": "2025-06-15T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_b62bdacb-aa63-4bdb-9cf2-ff6ac01673c5_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo helps a man adjust to life in a wheelchair.",
+  "TopCast": [
+    "tom butler",
+    "elva mai hoover",
+    "london juno"
+  ],
+  "Directors": [
+    "alan erlich"
+  ]
+}

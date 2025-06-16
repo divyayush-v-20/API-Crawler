@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T15:35:00+03:00",
+  "program_data": {
+    "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut suomeksi simultaanitulkattuna",
+    "description": "Tasavallan presidentti Alexander Stubbin isännöimä ulko- ja turvallisuuspoliittinen keskustelutilaisuus Kultarannassa. Simultaanitulkkeina Tiina Sjelvgren, Helena Karunen ja Ilona Jännes.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74827868"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "15.35",
+        "raw": "2025-06-16T15:35:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T18:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 55 min",
+        "raw": "PT10500S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2855851"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

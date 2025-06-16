@@ -1,0 +1,39 @@
+{
+  "Name": "Mayday",
+  "Title": "Split Decision",
+  "Desc": "Arrow Air Flight 1285 with 248 American soldiers on board crashes after refueling in Newfoundland.",
+  "StartTime": "2025-06-13T08:00:00+00:00",
+  "EndTime": "2025-06-13T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_fa1adfc4-31a9-49ba-ac7f-ce8230e7f6cb_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation",
+    "history"
+  ],
+  "LongDescription": "Arrow Air Flight 1285 with 248 American soldiers on board crashes seconds after refueling in Newfoundland.",
+  "TopCast": [
+    "stephen bogaert",
+    "jonathan aris"
+  ],
+  "Directors": []
+}

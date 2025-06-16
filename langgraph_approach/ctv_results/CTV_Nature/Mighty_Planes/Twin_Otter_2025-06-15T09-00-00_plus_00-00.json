@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Planes",
+  "Title": "Twin Otter",
+  "Desc": "The Twin Otter is found anywhere rugged reliability and short-take-off-and-landing are needed.",
+  "StartTime": "2025-06-15T09:00:00+00:00",
+  "EndTime": "2025-06-15T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_cb5dd9f8-49fe-48a8-ba8e-9a5499f6340b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation"
+  ],
+  "LongDescription": "The Twin Otter is found around the world in jungles, deserts, mountains, the Arctic, and anywhere rugged reliability and short-take-off-and-landing are needed; powered by twin turboprop engines, the Twin Otter manoeuvres like a bird.",
+  "TopCast": [
+    "mike goral"
+  ],
+  "Directors": []
+}

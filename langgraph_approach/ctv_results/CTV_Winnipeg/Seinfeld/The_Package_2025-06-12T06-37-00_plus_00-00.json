@@ -1,0 +1,39 @@
+{
+  "Name": "Seinfeld",
+  "Title": "The Package",
+  "Desc": "Kramer tries to scam the U.S. Postal Service to get a refund for Jerry's stereo.",
+  "StartTime": "2025-06-12T06:37:00+00:00",
+  "EndTime": "2025-06-12T07:07:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_28b92cb8-449d-411d-8d8a-39899eca7321_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1996",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Kramer tries to scam the post office; Elaine has a rash but has trouble finding a doctor who will treat her.",
+  "TopCast": [
+    "jerry seinfeld",
+    "julia louis-dreyfus",
+    "jason alexander"
+  ],
+  "Directors": []
+}

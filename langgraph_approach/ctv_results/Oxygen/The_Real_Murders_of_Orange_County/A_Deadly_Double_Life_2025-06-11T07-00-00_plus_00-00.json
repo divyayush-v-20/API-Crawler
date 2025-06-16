@@ -1,0 +1,38 @@
+{
+  "Name": "The Real Murders of Orange County",
+  "Title": "A Deadly Double Life",
+  "Desc": "Keeping up appearances is key in the OC; the Stahls are found shot to death on the highway.",
+  "StartTime": "2025-06-11T07:00:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_e8b8b001-c0de-4675-9759-8430b68ac85b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime"
+  ],
+  "LongDescription": "Keeping up appearances is key in the OC; the Stahls are found shot to death on the side of the Ortega Highway; the fa\u00e7ade turns deadly.",
+  "TopCast": [
+    "erica cain"
+  ],
+  "Directors": []
+}

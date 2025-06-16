@@ -1,0 +1,39 @@
+{
+  "Name": "Mary Makes It Easy",
+  "Title": "Doughn't Go Bakin' My Heart",
+  "Desc": "Mary's bread recipes, a classic crusty sandwich loaf.",
+  "StartTime": "2025-06-13T23:00:00+00:00",
+  "EndTime": "2025-06-13T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e6744736-1710-473f-959f-9e3354fa696f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Mary's bread recipes; any flavour drop biscuits, or Mary's picks of lemon-blueberry-white-chocolate and cheddar-chive, a classic crusty sandwich loaf.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": [
+    "jan mccharles"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "American Ninja Warrior",
+  "Title": "Qualifiers 3",
+  "Desc": "Qualifying rounds continue in Las Vegas; the top 20 athletes of the night will advance.",
+  "StartTime": "2025-06-17T00:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0c73b996-e357-4945-96ba-49a9474a36f9_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": 17,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "action sports",
+    "action",
+    "adventure",
+    "competition reality"
+  ],
+  "LongDescription": "Qualifying rounds continue in Las Vegas on the world's most challenging obstacle course; the top 20 athletes of the night will advance to the semifinals.",
+  "TopCast": [
+    "matt iseman",
+    "akbar gbajabiamila",
+    "zuri hall"
+  ],
+  "Directors": []
+}

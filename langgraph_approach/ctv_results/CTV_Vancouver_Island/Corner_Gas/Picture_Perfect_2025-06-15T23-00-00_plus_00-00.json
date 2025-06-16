@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Picture Perfect",
+  "Desc": "Brent purchases a new digital camera; trivia showdown; Oscar is haunted by a ceramic gnome.",
+  "StartTime": "2025-06-15T23:00:00+00:00",
+  "EndTime": "2025-06-15T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_648641b6-91dc-4e3f-b73a-82a9031f1f4f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent purchases a new digital camera; trivia showdown; Oscar is haunted by a ceramic gnome.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

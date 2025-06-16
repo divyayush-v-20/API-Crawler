@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "George and Isaac manage to make it to their destination.",
+  "StartTime": "2025-06-16T15:00:00+00:00",
+  "EndTime": "2025-06-16T15:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_ed39ddfb-a884-40d2-832f-f36a4293bf22_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "George and Isaac manage to make it to their destination.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

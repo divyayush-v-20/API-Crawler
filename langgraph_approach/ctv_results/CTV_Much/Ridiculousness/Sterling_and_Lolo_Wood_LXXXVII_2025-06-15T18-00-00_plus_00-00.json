@@ -1,0 +1,39 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Lolo Wood LXXXVII",
+  "Desc": "Checking out some declined reclines in Lying Downers; getting sassy with some old ladies.",
+  "StartTime": "2025-06-15T18:00:00+00:00",
+  "EndTime": "2025-06-15T18:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_815d14cf-0bc6-4c53-a22c-7a64adad04f2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Checking out some declined reclines in Lying Downers; getting sassy with some silver-tongued old ladies in Gramma Burns; looking up to skydivers in trouble.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

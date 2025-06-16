@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Vancouver at 11:30",
+  "Title": "CTV News Vancouver at 11:30",
+  "Desc": "Vancouver's top stories.",
+  "StartTime": "2025-06-14T06:30:00+00:00",
+  "EndTime": "2025-06-14T07:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_fa4b7c37-1ae6-4ff1-9289-8494ba4e3593_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 35,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Vancouver's top stories.",
+  "TopCast": [],
+  "Directors": []
+}

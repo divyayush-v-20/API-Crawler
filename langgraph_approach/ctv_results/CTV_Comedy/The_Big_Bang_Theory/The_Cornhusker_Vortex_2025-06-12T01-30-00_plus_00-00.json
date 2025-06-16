@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Cornhusker Vortex",
+  "Desc": "Sheldon teaches Leonard about football; kite-fighting threatens Howard and Raj's friendship.",
+  "StartTime": "2025-06-12T01:30:00+00:00",
+  "EndTime": "2025-06-12T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_0053d6f3-e4c8-4de5-ad57-e40163ec4844_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon teaches Leonard how to understand football; a kite-fighting incident threatens Howard and Raj's friendship.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

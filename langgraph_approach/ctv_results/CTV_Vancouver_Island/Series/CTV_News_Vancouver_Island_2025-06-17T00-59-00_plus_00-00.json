@@ -1,0 +1,34 @@
+{
+  "Name": "CTV News Vancouver Island",
+  "Title": "CTV News Vancouver Island",
+  "Desc": "Breaking news, headlines and top stories from Vancouver Island.",
+  "StartTime": "2025-06-17T00:59:00+00:00",
+  "EndTime": "2025-06-17T01:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_fb0eb462-dd3c-4f42-95b1-8e37b4c7f5cf_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 31,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Vancouver Island.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,44 @@
+{
+  "Name": "Bob Hearts Abishola",
+  "Title": "God Accepts Venmo",
+  "Desc": "Bob and Abishola realize the perfect date for their wedding is in just three weeks.",
+  "StartTime": "2025-06-15T07:00:00+00:00",
+  "EndTime": "2025-06-15T07:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_24324e47-39a8-4055-81e1-ea21f56809d5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Bob and Abishola realize the perfect date for their wedding is in just three weeks and enlist their family and friends to help plan their big day.",
+  "TopCast": [
+    "billy gardell",
+    "folake olowofoyeku",
+    "christine ebersole"
+  ],
+  "Directors": [
+    "beth mccarthy-miller",
+    "beth mccarthy miller"
+  ]
+}

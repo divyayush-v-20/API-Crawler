@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "Smiley Face Killer",
+  "Desc": "A serial killer in Spokane, Wash. murders prostitutes.",
+  "StartTime": "2025-06-11T13:00:00+00:00",
+  "EndTime": "2025-06-11T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_84830d4e-7d1a-4585-9390-bba513b1cf7b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "A serial killer in Spokane, Wash. murders prostitutes and leaves a bag with a smiley face on the victim's head.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

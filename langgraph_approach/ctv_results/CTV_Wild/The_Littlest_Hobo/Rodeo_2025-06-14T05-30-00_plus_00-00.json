@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Rodeo",
+  "Desc": "A rodeo star fears getting back in the saddle.",
+  "StartTime": "2025-06-14T05:30:00+00:00",
+  "EndTime": "2025-06-14T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_3cf1f557-a9b2-4d0e-99e6-1ca3fbe8c0ee_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "A rodeo star fears getting back in the saddle.",
+  "TopCast": [
+    "reg dreger",
+    "marvin goldhar",
+    "lynda mason green"
+  ],
+  "Directors": [
+    "mario azzopardi"
+  ]
+}

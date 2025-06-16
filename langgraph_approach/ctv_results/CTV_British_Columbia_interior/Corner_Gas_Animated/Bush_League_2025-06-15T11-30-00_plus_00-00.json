@@ -1,0 +1,40 @@
+{
+  "Name": "Corner Gas Animated",
+  "Title": "Bush League",
+  "Desc": "Wanda goes power mad; Davis and Karen make a dangerous bet; Brent and Hank are lost in the woods.",
+  "StartTime": "2025-06-15T11:30:00+00:00",
+  "EndTime": "2025-06-15T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_70b0666c-9870-406f-be27-c667c713ee2c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Wanda goes power mad; Davis and Karen make a dangerous bet; Oscar recalls \"the incident\" that made him give up the game for good; Brent and Hank are lost in the woods.",
+  "TopCast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "Directors": []
+}

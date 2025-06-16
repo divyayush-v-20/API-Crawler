@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Hofstadter Insufficiency",
+  "Desc": "Sheldon and Penny share secrets while Leonard is away; Wolowitz helps Raj get over his ex.",
+  "StartTime": "2025-06-16T04:00:00+00:00",
+  "EndTime": "2025-06-16T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_a21bdbf5-6f77-463c-acd8-7965b364846a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 7,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon and Penny share secrets while Leonard is away; Wolowitz helps Raj get over his ex.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

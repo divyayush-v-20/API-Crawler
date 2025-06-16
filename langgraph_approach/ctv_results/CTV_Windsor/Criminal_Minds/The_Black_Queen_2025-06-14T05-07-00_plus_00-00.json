@@ -1,0 +1,44 @@
+{
+  "Name": "Criminal Minds",
+  "Title": "The Black Queen",
+  "Desc": "A murder investigation results in Garcia delving into her hacker past.",
+  "StartTime": "2025-06-14T05:07:00+00:00",
+  "EndTime": "2025-06-14T06:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_4a09b2b6-de22-4b63-aa89-bdbdadf6c5ec_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 58,
+  "SeasonNo": 9,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "A murder investigation results in Garcia delving into her hacker past -- and reconnecting with a former flame.",
+  "TopCast": [
+    "joe mantegna",
+    "thomas gibson",
+    "shemar moore"
+  ],
+  "Directors": [
+    "tawnia mckiernan"
+  ]
+}

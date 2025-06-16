@@ -1,0 +1,40 @@
+{
+  "Name": "Jamie's 15 Minute Meals",
+  "Title": "Fish Baps and Mushroom Farfalle",
+  "Desc": "Fish baps, mushy peas and tartar sauce; mushroom farfalle with blue cheese.",
+  "StartTime": "2025-06-11T17:00:00+00:00",
+  "EndTime": "2025-06-11T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_ebb6300a-5cfc-4091-9978-cb0d32337a25_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Fish baps, mushy peas and tartar sauce; mushroom farfalle with blue cheese; hazelnut and apple salad.",
+  "TopCast": [
+    "jamie oliver"
+  ],
+  "Directors": [
+    "mike matthews"
+  ]
+}

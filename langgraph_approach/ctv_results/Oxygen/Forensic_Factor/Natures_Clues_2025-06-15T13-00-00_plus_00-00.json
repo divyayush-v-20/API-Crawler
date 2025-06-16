@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "Nature's Clues",
+  "Desc": "Experts reveal the clues nature leaves behind on a human corpse.",
+  "StartTime": "2025-06-15T13:00:00+00:00",
+  "EndTime": "2025-06-15T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_cc1e5b9a-f564-4fbf-ab3f-90eb90c98b1f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2003",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "From tropical Hawaii to the frigid waters of Lake Ontario, experts reveal the clues nature leaves behind on a human corpse.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

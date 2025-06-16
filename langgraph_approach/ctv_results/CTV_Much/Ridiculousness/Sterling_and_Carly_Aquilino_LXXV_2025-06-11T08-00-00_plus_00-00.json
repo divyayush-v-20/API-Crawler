@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Carly Aquilino LXXV",
+  "Desc": "Tossing things to kids who are too young to dodge; tow damage; go super American.",
+  "StartTime": "2025-06-11T08:00:00+00:00",
+  "EndTime": "2025-06-11T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_f0a7fa9b-aa99-498f-b8cb-c9942c895e93_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "33",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo, and Carly Aquilino toss things to kids who are too young to dodge; wish they'd parked somewhere else in tow damage; go super American in U.S. on full display.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

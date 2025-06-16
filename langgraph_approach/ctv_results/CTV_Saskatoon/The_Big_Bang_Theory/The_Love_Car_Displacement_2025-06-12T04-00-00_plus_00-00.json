@@ -1,0 +1,43 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Love Car Displacement",
+  "Desc": "Bernadette runs into her ex-boyfriend (Rick Fox) while attending a science event with Wolowitz.",
+  "StartTime": "2025-06-12T04:00:00+00:00",
+  "EndTime": "2025-06-12T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_eb727b04-9bcd-4614-bf88-7a26c43f354f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Bernadette runs into her ex-boyfriend (Rick Fox) while attending a science event with Wolowitz.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "anthony rich"
+  ]
+}

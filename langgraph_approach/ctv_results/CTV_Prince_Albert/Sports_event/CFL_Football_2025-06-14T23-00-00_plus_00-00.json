@@ -1,0 +1,36 @@
+{
+  "Name": "CFL Football",
+  "Title": "Saskatchewan Roughriders at Hamilton Tiger-Cats",
+  "Desc": "Week 2 comes to an end with the Roughriders (1-0) lining up against the Tiger-Cats (0-1).",
+  "StartTime": "2025-06-14T23:00:00+00:00",
+  "EndTime": "2025-06-15T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_78852b91-5622-4fed-9cc6-c3dbfaffa4e5_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 180,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Sports",
+  "SubType": "Sports event",
+  "Genres": [
+    "football"
+  ],
+  "LongDescription": "Week 2 comes to an end with the Roughriders (1-0) lining up against the Tiger-Cats (0-1). Trevor Harris threw a pair of touchdown passes to lead Saskatchewan past Ottawa 31-26 to begin the season June 5. Saskatchewan beat Hamilton twice in 2024.",
+  "TopCast": [],
+  "Directors": []
+}

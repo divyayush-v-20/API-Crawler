@@ -1,0 +1,36 @@
+{
+  "Name": "I Survived Bear Grylls",
+  "Title": "Do They Bite?",
+  "Desc": "Bear brings out the dead, sends the contestants crawling through the swamp.",
+  "StartTime": "2025-06-14T06:00:00+00:00",
+  "EndTime": "2025-06-14T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_d92b1d4c-6bc8-4c18-a3e0-2155b4447039_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "adventure",
+    "reality"
+  ],
+  "LongDescription": "Bear brings out the dead, sends the contestants crawling through the swamp for bugs and sits their bare-cheeked bottoms on a block of ice to determine who can survive and bank $10,000.",
+  "TopCast": [],
+  "Directors": []
+}

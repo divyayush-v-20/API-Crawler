@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T07:06:38+03:00",
+  "program_data": {
+    "title": "Pipsa Possu (S)",
+    "description": "Kausi 1. Salaisuuksia. Äitipossu on tehnyt Pipsalle oman salaisen laatikon. Jyri haluaa tietää, mitä Pipsan laatikossa on. Jyrikin saa oman salaisen laatikkonsa, ja Pipsa haluaisi tietää, mitä siellä on.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50513427"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.06",
+        "raw": "2025-06-13T07:06:38+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T07:11:40+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "5 min",
+        "raw": "PT302S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3739583"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50513427.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

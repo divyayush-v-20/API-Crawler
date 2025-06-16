@@ -1,0 +1,78 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T23:10:07+03:00",
+  "program_data": {
+    "title": "Katastrofielokuvien loppukohtauksia (7)",
+    "description": "Keväällä 2023 helsinkiläisiä pyydettiin ideoimaan katastrofielokuvien loppukohtauksia. Tellervo Kalleinen ja Oliver Kochta-Kalleinen valitsivat 104 ehdotuksen joukosta kolme, ja kutsuivat kaupunkilaisia näyttelijöiksi. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-65988365"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "23.10",
+        "raw": "2025-06-16T23:10:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T23:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "19 min",
+        "raw": "PT1193S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-65988365.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

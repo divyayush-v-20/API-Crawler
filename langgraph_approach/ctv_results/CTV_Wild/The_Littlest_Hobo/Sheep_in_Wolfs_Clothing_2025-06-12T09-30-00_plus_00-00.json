@@ -1,0 +1,41 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Sheep in Wolf's Clothing",
+  "Desc": "Hobo is mistaken for a sheep-killing wolf.",
+  "StartTime": "2025-06-12T09:30:00+00:00",
+  "EndTime": "2025-06-12T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_4a39e8c3-50c5-4e3d-b6ac-8348ff9717a7_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo is mistaken for a sheep-killing wolf.",
+  "TopCast": [
+    "stephen markle",
+    "patsy rahn"
+  ],
+  "Directors": [
+    "al waxman"
+  ]
+}

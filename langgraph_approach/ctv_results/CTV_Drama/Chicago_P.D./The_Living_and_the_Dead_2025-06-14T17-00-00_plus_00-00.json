@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "The Living and the Dead",
+  "Desc": "Intelligence teams up with an SVU detective to track down a prolific offender.",
+  "StartTime": "2025-06-14T17:00:00+00:00",
+  "EndTime": "2025-06-14T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_730d5ad6-e4cc-4322-b9e2-d485c0ceab86_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "An ongoing case hits close to home for Voight as Intelligence teams up with an SVU detective to track down a prolific offender.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "chad saxton"
+  ]
+}

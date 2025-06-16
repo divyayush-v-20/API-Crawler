@@ -1,0 +1,37 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "You Wanna Fight?",
+  "Desc": "John Allen spends a night battling a load of spilled scrap metal; Bill Wright makes a call.",
+  "StartTime": "2025-06-12T01:00:00+00:00",
+  "EndTime": "2025-06-12T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_77b3bd33-8daa-4246-aa27-66d2a0aed673_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "When winter mounts a comeback, John Allen spends a night battling a load of spilled scrap metal; Collin faces a tight deadline on a double recovery; Bill Wright makes a call, leading to a farewell for Mitch.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "NASCAR Xfinity Series Prerace",
+  "Title": "NASCAR Xfinity Series Prerace",
+  "Desc": "Previewing the upcoming race from the NASCAR Xfinity Series.",
+  "StartTime": "2025-06-14T20:00:00+00:00",
+  "EndTime": "2025-06-14T20:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_23fcee84-dba7-434e-947f-4219c8e4031e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Show",
+  "SubType": "Sports non-event",
+  "Genres": [
+    "auto racing"
+  ],
+  "LongDescription": "Previewing the upcoming race from the NASCAR Xfinity Series.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "A Wiener Schnitzel and Underwear in a Tree",
+  "Desc": "News of the tornado reaches Sheldon and Mary; with the Cooper house in chaos, Missy steps up.",
+  "StartTime": "2025-06-16T17:00:00+00:00",
+  "EndTime": "2025-06-16T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0c1000f2-28da-41f1-af2e-05da0cce70e9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 7,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "News of the tornado reaches Sheldon and Mary in Germany; with the Cooper house in chaos, Missy steps up.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "alex reid"
+  ]
+}

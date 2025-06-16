@@ -1,0 +1,42 @@
+{
+  "Name": "Three Men and a Baby",
+  "Title": "Three Men and a Baby",
+  "Desc": "Swinging Manhattan bachelors (Tom Selleck, Steve Guttenberg, Ted Danson) find baby girl on doorstep.",
+  "StartTime": "2025-06-14T18:00:00+00:00",
+  "EndTime": "2025-06-14T20:15:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_d0e868aa-6f0a-4058-89a4-cd8ce5e0f0cb_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 135,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1987",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy"
+  ],
+  "LongDescription": "New York City roommates Peter (Tom Selleck), Michael (Steve Guttenberg) and Jack (Ted Danson) are all successful and happily unmarried, but Peter and Michael get the surprise of a lifetime when a young woman abandons an infant in front of their loft. They also receive a letter stating that the child, named Mary, belongs to Jack, but he's away on business. Michael and Peter are then forced to care for Mary -- and though they make hopeless babysitters, they soon become quite attached to the girl.",
+  "TopCast": [
+    "tom selleck",
+    "steve guttenberg",
+    "ted danson"
+  ],
+  "Directors": [
+    "leonard nimoy"
+  ]
+}

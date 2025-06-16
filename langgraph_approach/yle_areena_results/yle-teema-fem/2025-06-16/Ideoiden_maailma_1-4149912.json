@@ -1,0 +1,98 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T08:23:17+03:00",
+  "program_data": {
+    "title": "Ideoiden maailma",
+    "description": "Kausi 1, 2/8. Tekevätkö negatiiviset ajatukset maailmasta paremman paikan? Filosofi Ida Hallgren puhuu positiivisten ajatusten kirouksesta vastassaan Johan Norberg ja Martin Nyström. Ajatuksia herättävä ruotsalainen talkshow. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4149912"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.23",
+        "raw": "2025-06-16T08:23:17+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T09:22:23+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "59 min",
+        "raw": "PT3546S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4477165"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "current"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4149912.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      },
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "service",
+          "uri": "yleareena://services/yle-teema-fem"
+        },
+        "title": "Katso suorana",
+        "backgroundColor": "#E90E43"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "War Games",
+  "Desc": "Hobo rescues a wounded soldier and a young girl trapped within a war game.",
+  "StartTime": "2025-06-16T12:30:00+00:00",
+  "EndTime": "2025-06-16T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0e0a0e1f-e20e-42c2-8837-0f0ac88671bf_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1981",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo rescues a wounded soldier and a young girl trapped within a war game.",
+  "TopCast": [
+    "wally bondarenko",
+    "norwich duff",
+    "jon granik"
+  ],
+  "Directors": [
+    "allan eastman"
+  ]
+}

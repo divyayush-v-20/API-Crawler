@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "Singularity",
+  "Desc": "The sole survivor of a disease that wiped out a planet's population is brought to Earth.",
+  "StartTime": "2025-06-11T11:00:00+00:00",
+  "EndTime": "2025-06-11T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_b75b84b4-7219-4e8e-8ad8-a5d8fdc063c8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1997",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "The sole survivor of a disease that wiped out a planet's population is brought to Earth.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "mario azzopardi"
+  ]
+}

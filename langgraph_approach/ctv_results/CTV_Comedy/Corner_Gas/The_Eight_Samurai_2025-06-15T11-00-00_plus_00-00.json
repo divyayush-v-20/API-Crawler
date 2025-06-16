@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "The Eight Samurai",
+  "Desc": "Emma and Karen look for a suitable gift to send their twin town in Japan.",
+  "StartTime": "2025-06-15T11:00:00+00:00",
+  "EndTime": "2025-06-15T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_5c07f638-177c-4e8f-9cb3-e9a76d27e87f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Emma and Karen look for a suitable gift to send their twin town in Japan; Wanda attempts to become the advice giving bartender.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

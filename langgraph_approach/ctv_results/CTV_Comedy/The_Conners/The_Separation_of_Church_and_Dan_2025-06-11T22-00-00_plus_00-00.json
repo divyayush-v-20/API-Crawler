@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "The Separation of Church and Dan",
+  "Desc": "When Geena learns that D.J. hasn't been taking Mary to church, she insists they go as a family.",
+  "StartTime": "2025-06-11T22:00:00+00:00",
+  "EndTime": "2025-06-11T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_aa49c066-6ad6-4b43-89f6-f4e3b2ad45c7_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "When Geena learns that D.J. hasn't been taking Mary to church, she insists they go as a family; Mark's attempt to conduct an unbiased survey on the upcoming election for his school project goes south when Jackie volunteers to help.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "andy ackerman"
+  ]
+}

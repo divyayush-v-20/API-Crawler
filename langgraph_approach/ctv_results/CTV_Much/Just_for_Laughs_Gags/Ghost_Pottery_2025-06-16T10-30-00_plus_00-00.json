@@ -1,0 +1,36 @@
+{
+  "Name": "Just for Laughs: Gags",
+  "Title": "Ghost Pottery",
+  "Desc": "Passionate pottery making and many more hilarious pranks from the masters of pranking.",
+  "StartTime": "2025-06-16T10:30:00+00:00",
+  "EndTime": "2025-06-16T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_9b8d249b-1b4f-434f-81e4-f76a8c92a592_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 15,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Passionate pottery making and many more hilarious pranks from the masters of pranking.",
+  "TopCast": [],
+  "Directors": []
+}

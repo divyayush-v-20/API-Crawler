@@ -1,0 +1,43 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Thanksgiving",
+  "Desc": "Jackie and Danny think a young woman was forced to commit suicide; Henry has a heart attack.",
+  "StartTime": "2025-06-12T08:00:00+00:00",
+  "EndTime": "2025-06-12T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_931af287-3c5b-4712-8869-3e385f2df18c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "holiday",
+    "crime drama"
+  ],
+  "LongDescription": "Jackie and Danny think a young woman was forced to commit suicide; Frank clashes with Mayor Poole over a threat to the city; Henry has a heart attack.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "steve gomer"
+  ]
+}

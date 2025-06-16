@@ -1,0 +1,36 @@
+{
+  "Name": "CTV Morning Live Edmonton",
+  "Title": "CTV Morning Live Edmonton",
+  "Desc": "Breaking news, weather and traffic.",
+  "StartTime": "2025-06-16T12:00:00+00:00",
+  "EndTime": "2025-06-16T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b8f5edf2-6f96-433c-aa18-96c539c22d32_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 180,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, weather and traffic.",
+  "TopCast": [],
+  "Directors": []
+}

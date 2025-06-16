@@ -1,0 +1,33 @@
+{
+  "Name": "The AM800 Morning Drive",
+  "Title": "The AM800 Morning Drive",
+  "Desc": "",
+  "StartTime": "2025-06-16T10:00:00+00:00",
+  "EndTime": "2025-06-16T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_2c0c97a5-423e-4ef0-861a-4009c38fbc9f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 180,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [],
+  "LongDescription": null,
+  "TopCast": [],
+  "Directors": []
+}

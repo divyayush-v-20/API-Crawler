@@ -1,0 +1,94 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T16:45:17+03:00",
+  "program_data": {
+    "title": "Egenlandin matkakohteet: Tarinoita ja outoja ääniä Hailuodossa",
+    "description": "Lossimatkan päässä on Hailuodon ainutlaatuinen saari, jossa luonnon ja maisemien lisäksi voi törmätä betoniseen äänibunkkeriin, perinneneuleisiin, olutpanimoon, kulttuuritapahtumiin, tai jäällä laulavaan mieskuoroon. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50104857"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "16.45",
+        "raw": "2025-06-13T16:45:17+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "14 min",
+        "raw": "PT883S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4475500"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50104857.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

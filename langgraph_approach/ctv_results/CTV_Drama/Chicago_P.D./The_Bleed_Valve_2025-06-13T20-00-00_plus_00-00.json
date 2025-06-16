@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "The Bleed Valve",
+  "Desc": "Atwater's worlds collide when a shooting at the building he owns in Burnside leaves a child dead.",
+  "StartTime": "2025-06-13T20:00:00+00:00",
+  "EndTime": "2025-06-13T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_9b51cb77-d58d-417d-bb7b-c35b29961c1a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Atwater's worlds collide when a shooting at the building he owns in Burnside leaves a child dead; Atwater must confront his relationship with his father, Lew, as the brutal case forces them together.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "bethany rooney"
+  ]
+}

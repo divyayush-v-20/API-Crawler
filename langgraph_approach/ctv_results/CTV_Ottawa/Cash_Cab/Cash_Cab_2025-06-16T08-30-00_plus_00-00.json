@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "London, Steve, Antonio and Foster end up in the Cash Cab.",
+  "StartTime": "2025-06-16T08:30:00+00:00",
+  "EndTime": "2025-06-16T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_ff7a0199-d6ee-4545-a39b-4b587d942f25_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "London, Steve, Antonio and Foster end up in the Cash Cab.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Queen of the Castle",
+  "Title": "Going to the Chapel",
+  "Desc": "Ann launches the castle's new wedding business with an intimate elopement.",
+  "StartTime": "2025-06-13T01:00:00+00:00",
+  "EndTime": "2025-06-13T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_9152ed73-10f3-4324-82c3-67425b0b4fcf_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "home improvement"
+  ],
+  "LongDescription": "Ann launches the castle's new wedding business with an intimate elopement; will the new chapel be ready in time, and will the team be able to deliver on the grooms' dreams?",
+  "TopCast": [],
+  "Directors": []
+}

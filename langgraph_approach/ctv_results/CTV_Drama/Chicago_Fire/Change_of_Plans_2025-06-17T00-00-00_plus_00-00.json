@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "Change of Plans",
+  "Desc": "Carver deals with the fallout of his arrest; Brett searches for closure with the baby she rescued.",
+  "StartTime": "2025-06-17T00:00:00+00:00",
+  "EndTime": "2025-06-17T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_c95d6827-28d7-4325-91d2-e70df3c61767_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Carver deals with the fallout of his arrest; Brett searches for closure with the baby she rescued; Capp weasels his way into the Firehouse 51 group chat.",
+  "TopCast": [
+    "taylor kinney",
+    "eamonn walker",
+    "david eigenberg"
+  ],
+  "Directors": [
+    "lisa robinson"
+  ]
+}

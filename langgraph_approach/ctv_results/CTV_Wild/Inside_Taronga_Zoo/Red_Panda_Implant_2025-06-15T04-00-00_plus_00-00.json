@@ -1,0 +1,39 @@
+{
+  "Name": "Inside Taronga Zoo",
+  "Title": "Red Panda Implant",
+  "Desc": "Taronga Zoo's vets must diagnose red panda Amala's mysterious illness.",
+  "StartTime": "2025-06-15T04:00:00+00:00",
+  "EndTime": "2025-06-15T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_803ca8c0-7dec-47e4-9532-5eaf830b6078_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "Taronga Zoo's vets must diagnose red panda Amala's mysterious illness.",
+  "TopCast": [
+    "naomi watts"
+  ],
+  "Directors": [
+    "david grusovin"
+  ]
+}

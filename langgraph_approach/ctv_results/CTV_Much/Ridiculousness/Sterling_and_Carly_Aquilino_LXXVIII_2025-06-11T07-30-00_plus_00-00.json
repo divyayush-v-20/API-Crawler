@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Carly Aquilino LXXVIII",
+  "Desc": "Rob, Steelo, and Carly try and kick it with lame kicks, head downstairs for basement bruise.",
+  "StartTime": "2025-06-11T07:30:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_8937cb59-93be-42a4-9706-b92cb6f3cd4c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "36",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo, and Carly Aquilino try and kick it with lame kicks, head downstairs for basement bruises and end up almost phoneless.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

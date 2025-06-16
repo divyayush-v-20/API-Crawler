@@ -1,0 +1,38 @@
+{
+  "Name": "Mary Makes It Easy",
+  "Title": "Fast Flavor",
+  "Desc": "Recipes for shrimp scampi linguini; Mary makes chocolate peanut butter lava cakes.",
+  "StartTime": "2025-06-13T17:30:00+00:00",
+  "EndTime": "2025-06-13T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4645a120-25a2-4cba-9709-89536f964e53_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Recipes for shrimp scampi linguini; chicken saltimbocca; beans on toast with crumbled feta cheese; Mary makes chocolate peanut butter lava cakes.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

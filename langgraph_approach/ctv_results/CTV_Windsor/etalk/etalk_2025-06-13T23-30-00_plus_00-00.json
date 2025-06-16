@@ -1,0 +1,40 @@
+{
+  "Name": "etalk",
+  "Title": "etalk",
+  "Desc": "The cast of \"Ginny & Georgia\"; the Canadian Grand Prix.",
+  "StartTime": "2025-06-13T23:30:00+00:00",
+  "EndTime": "2025-06-14T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e685bbb6-5316-417e-b22f-9ff3cf45bd2c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "107",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "entertainment"
+  ],
+  "LongDescription": "The cast of \"Ginny & Georgia\"; the Canadian Grand Prix.",
+  "TopCast": [
+    "tyrone edwards",
+    "lainey lui",
+    "traci melchor"
+  ],
+  "Directors": []
+}

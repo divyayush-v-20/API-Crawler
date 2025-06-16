@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Benefactor Factor",
+  "Desc": "A wealthy donor makes Leonard question what he is willing to do for science.",
+  "StartTime": "2025-06-14T04:00:00+00:00",
+  "EndTime": "2025-06-14T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_1bb87d42-eb3a-4bf5-a47d-b315fde0d8ed_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "A wealthy donor makes Leonard question what he is willing to do for science.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

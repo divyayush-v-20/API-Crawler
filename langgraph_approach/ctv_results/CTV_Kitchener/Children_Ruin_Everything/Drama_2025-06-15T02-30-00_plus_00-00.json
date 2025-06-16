@@ -1,0 +1,41 @@
+{
+  "Name": "Children Ruin Everything",
+  "Title": "Drama",
+  "Desc": "Astrid feels pushed out of Dawn's pregnancy by Zinnia and begins to suspect her of sinister.",
+  "StartTime": "2025-06-15T02:30:00+00:00",
+  "EndTime": "2025-06-15T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_af1e4683-fe24-4654-879f-c7cb173c9011_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Astrid feels pushed out of Dawn's pregnancy by Zinnia and begins to suspect her of something sinister.",
+  "TopCast": [
+    "meaghan rath",
+    "aaron abrams",
+    "nazneen contractor"
+  ],
+  "Directors": [
+    "melanie orr"
+  ]
+}

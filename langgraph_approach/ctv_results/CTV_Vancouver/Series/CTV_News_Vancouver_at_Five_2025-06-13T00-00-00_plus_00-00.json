@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Vancouver at Five",
+  "Title": "CTV News Vancouver at Five",
+  "Desc": "Vancouver's top stories.",
+  "StartTime": "2025-06-13T00:00:00+00:00",
+  "EndTime": "2025-06-13T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_64ccf408-6ec6-4c8d-a50f-fd35b9876e2f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Vancouver's top stories.",
+  "TopCast": [],
+  "Directors": []
+}

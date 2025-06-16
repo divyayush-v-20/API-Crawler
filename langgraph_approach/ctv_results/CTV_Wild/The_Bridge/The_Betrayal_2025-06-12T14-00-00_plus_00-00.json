@@ -1,0 +1,40 @@
+{
+  "Name": "The Bridge",
+  "Title": "The Betrayal",
+  "Desc": "New contestant Gail joins the build and attempts to fight her team's overwhelming fatigue.",
+  "StartTime": "2025-06-12T14:00:00+00:00",
+  "EndTime": "2025-06-12T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_bdb1149b-d4c5-4244-92b9-a0f12124b776_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "outdoors"
+  ],
+  "LongDescription": "After new contestant Gail joins the build and attempts to fight her team's overwhelming fatigue, both beaches are presented with an opportunity to leave early with some of the prize money.",
+  "TopCast": [
+    "aj odudu",
+    "aldo kane"
+  ],
+  "Directors": [
+    "benjamin hirsch"
+  ]
+}

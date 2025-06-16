@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Calgary at 5",
+  "Title": "CTV News Calgary at 5",
+  "Desc": "Breaking news, local headlines and top stories from Calgary.",
+  "StartTime": "2025-06-11T22:59:00+00:00",
+  "EndTime": "2025-06-11T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_e5f31e46-7e2e-4866-ae1a-f9f0fc1b4630_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 31,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, local headlines and top stories from Calgary.",
+  "TopCast": [],
+  "Directors": []
+}

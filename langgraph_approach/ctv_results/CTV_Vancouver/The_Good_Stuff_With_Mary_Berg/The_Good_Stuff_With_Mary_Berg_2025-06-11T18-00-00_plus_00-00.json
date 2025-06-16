@@ -1,0 +1,37 @@
+{
+  "Name": "The Good Stuff With Mary Berg",
+  "Title": "The Good Stuff With Mary Berg",
+  "Desc": "Mary and her guests make homemade dupes of store-bought classics, like chocolate freezer cake.",
+  "StartTime": "2025-06-11T18:00:00+00:00",
+  "EndTime": "2025-06-11T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_08ff7936-3264-48dd-9174-464cfb980f29_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "128",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "entertainment"
+  ],
+  "LongDescription": "Mary and her guests make homemade dupes of store-bought classics, like chocolate freezer cake and mac 'n cheese.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

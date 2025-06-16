@@ -1,0 +1,83 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T21:00:00+03:00",
+  "program_data": {
+    "title": "Äärioikeiston ytimessä",
+    "description": "Brittiläinen HOPE not hate -järjestön salaa kuvaama materiaali näyttää äärioikeiston toiminnan Britanniassa ja Euroopassa. Dokumentti paljastaa äärioikeiston toimintaa Britanniassa ja Euroopassa sekä heidän rasistiset näkemyksensä ja mediataktiikkansa. Se nostaa esiin äärioikeiston tarkoitushakuisen vihaa lietsovan toiminnan, joka yllyttää väkivaltaan, sekä paljastaa Piilaaksossa toimivan rahoittajan, joka tukee virheellistä/valheellista rotuoppia levittävää verkkoalustaa. (Undercover: Exposing the far right, Briannia, 2024)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72495985"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "21.00",
+        "raw": "2025-06-15T21:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T22:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 40 min",
+        "raw": "PT6000S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72495985.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

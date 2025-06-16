@@ -1,0 +1,42 @@
+{
+  "Name": "Murder, She Baked: Just Desserts",
+  "Title": "Murder, She Baked: Just Desserts",
+  "Desc": "Hannah (Alison Sweeney) investigates the murder of a fellow bake-off judge.",
+  "StartTime": "2025-06-16T04:00:00+00:00",
+  "EndTime": "2025-06-16T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_cbb7db99-2e5f-4f2f-a230-ccfed63b16f1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Movie",
+  "SubType": "TV Movie",
+  "Genres": [
+    "mystery",
+    "crime drama"
+  ],
+  "LongDescription": "Hannah Swensen is thrilled when she is chosen as a guest for the first Eden Lake Dessert Bake-Off, but when fellow judge, coach Boyd Watson is found murdered, Hannah takes it upon herself to find the killer.",
+  "TopCast": [
+    "alison sweeney",
+    "cameron mathison",
+    "barbara niven"
+  ],
+  "Directors": [
+    "kristoffer tabori"
+  ]
+}

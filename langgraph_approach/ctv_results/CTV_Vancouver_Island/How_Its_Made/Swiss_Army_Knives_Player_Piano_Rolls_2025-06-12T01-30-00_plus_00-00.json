@@ -1,0 +1,37 @@
+{
+  "Name": "How It's Made",
+  "Title": "Swiss Army Knives; Player Piano Rolls",
+  "Desc": "Swiss Army knives; player piano rolls; oil tankers; racing wheels.",
+  "StartTime": "2025-06-12T01:30:00+00:00",
+  "EndTime": "2025-06-12T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_6bc15f3a-9322-425b-91de-adcf0d729d6c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 13,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Swiss Army knives; player piano rolls; oil tankers; racing wheels.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

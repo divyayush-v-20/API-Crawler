@@ -1,0 +1,39 @@
+{
+  "Name": "Escape to the Country",
+  "Title": "County Antrim and County Down",
+  "Desc": "Jules Hudson helps a couple wanting to relocate from Canada to Northern Ireland.",
+  "StartTime": "2025-06-11T23:00:00+00:00",
+  "EndTime": "2025-06-12T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_f062aef8-b45a-45b1-b079-3bf2cac548dc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 24,
+  "EpisodeNumber": "45",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "house/garden",
+    "home improvement",
+    "bus./financial"
+  ],
+  "LongDescription": "It's an emotional homecoming for Jules Hudson as he visits County Down and County Antrim; he's with a couple who want to relocate there after a lifetime spent in the Canadian city of Toronto.",
+  "TopCast": [
+    "jules hudson"
+  ],
+  "Directors": []
+}

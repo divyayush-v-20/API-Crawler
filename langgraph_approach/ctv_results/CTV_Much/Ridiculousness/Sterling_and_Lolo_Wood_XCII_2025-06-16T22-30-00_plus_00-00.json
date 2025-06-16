@@ -1,0 +1,39 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Lolo Wood XCII",
+  "Desc": "Rob, Steelo and Lolo Wood hit the slopes in Snow Wheelin', and more.",
+  "StartTime": "2025-06-16T22:30:00+00:00",
+  "EndTime": "2025-06-16T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_85675f17-9305-4ddf-8c32-7ae302a8d17f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "26",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and Lolo Wood hit the slopes in Snow Wheelin', challenge dads in No Longer Got It and get drenched by Waves of Sadness.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

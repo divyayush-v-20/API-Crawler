@@ -1,0 +1,431 @@
+# CTV API Documentation - Final Comprehensive Analysis
+
+Based on the complete analysis of all 138 endpoints across 6 batches, I've identified the key APIs for extracting TV schedule data from CTV. Below is the comprehensive documentation for the most relevant endpoints.
+
+## API Hierarchy and Dependency Map
+
+1. **Authentication/Initialization** - Get API keys and smart IDs
+2. **Site Structure** - Get navigation and content structure
+3. **Channel Information** - Get channel listings and affiliates
+4. **Schedule Data** - Get TV listings by channel and date range
+
+## Common Headers
+
+```
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: application/json
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Not.A/Brand";v="99", "Chromium";v="136"
+sec-ch-ua-mobile: ?0
+```
+
+## 1. Authentication and Initialization
+
+### API NAME AND ENDPOINT: GET Smart ID
+```
+GET https://www.ctv.ca/api/smart-id
+```
+
+**PURPOSE:** Retrieves API keys needed for subsequent API calls
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns API keys and secrets required for authentication with other services
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.ctv.ca/api/smart-id
+```
+
+**REQUIRED HEADERS:**
+```
+referer: https://www.ctv.ca/on-air?tab=schedule
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.ctv.ca/api/smart-id" \
+  -H "referer: https://www.ctv.ca/on-air?tab=schedule" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "SIP_HASHED_API_SECRET": "9ec820cf75d4ee1d51fb014e363acc4f4afc627e0cdb6f886efcaa7d32de40f8",
+  "SIP_API_KEY": "a0b6654b-cd3c-436f-8c3a-a8f298f2e312"
+}
+```
+
+## 2. Site Structure APIs
+
+### API NAME AND ENDPOINT: GET Site Navigation
+```
+GET https://www.ctv.ca/space-graphql/apq/graphql?operationName=site
+```
+
+**PURPOSE:** Retrieves the site navigation structure including sections and content categories
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns the navigation tree with links to different content sections like Shows, Movies, etc.
+
+**PATH VARIABLES AND PARAMETERS:**
+- `operationName`: "site" (required)
+- `variables`: JSON string containing subscription types, maturity rating, language settings (required)
+- `extensions`: Contains the persisted query hash (required)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.ctv.ca/space-graphql/apq/graphql?operationName=site&variables=%7B%22subscriptions%22%3A%5B%22CTV%22%2C%22CTV_COMEDY%22%2C%22CTV_DRAMA%22%2C%22CTV_LIFE%22%2C%22CTV_SCIFI%22%2C%22CTV_MUCH%22%2C%22E_NOW%22%2C%22CTV_MOVIES%22%2C%22CTV_THROWBACK%22%2C%22USA%22%2C%22OXYGEN%22%2C%22WILD%22%2C%22NATURE%22%2C%22SPEED%22%5D%2C%22maturity%22%3A%22ADULT%22%2C%22language%22%3A%22ENGLISH%22%2C%22authenticationState%22%3A%22UNAUTH%22%2C%22playbackLanguage%22%3A%22ENGLISH%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22aa5d37bc9e275d07e613518be1b270a87221f0ada7d4bc7d2d3f03bf06d881f6%22%7D%7D
+```
+
+**REQUIRED HEADERS:**
+```
+referer: https://www.ctv.ca/on-air?tab=schedule
+content-type: application/json
+graphql-client-platform: entpay_web
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.ctv.ca/space-graphql/apq/graphql?operationName=site&variables=%7B%22subscriptions%22%3A%5B%22CTV%22%2C%22CTV_COMEDY%22%2C%22CTV_DRAMA%22%2C%22CTV_LIFE%22%2C%22CTV_SCIFI%22%2C%22CTV_MUCH%22%2C%22E_NOW%22%2C%22CTV_MOVIES%22%2C%22CTV_THROWBACK%22%2C%22USA%22%2C%22OXYGEN%22%2C%22WILD%22%2C%22NATURE%22%2C%22SPEED%22%5D%2C%22maturity%22%3A%22ADULT%22%2C%22language%22%3A%22ENGLISH%22%2C%22authenticationState%22%3A%22UNAUTH%22%2C%22playbackLanguage%22%3A%22ENGLISH%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22aa5d37bc9e275d07e613518be1b270a87221f0ada7d4bc7d2d3f03bf06d881f6%22%7D%7D" \
+  -H "referer: https://www.ctv.ca/on-air?tab=schedule" \
+  -H "content-type: application/json" \
+  -H "graphql-client-platform: entpay_web" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+```
+
+### API NAME AND ENDPOINT: GET Path Resolution
+```
+GET https://www.ctv.ca/space-graphql/apq/graphql?operationName=resolvePath
+```
+
+**PURPOSE:** Resolves a specific path to get content details for that section
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns detailed information about a specific section including its title, ID, path, and content type
+
+**PATH VARIABLES AND PARAMETERS:**
+- `operationName`: "resolvePath" (required)
+- `variables`: JSON string containing path, page, subscription types, etc. (required)
+- `extensions`: Contains the persisted query hash (required)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.ctv.ca/space-graphql/apq/graphql?operationName=resolvePath&variables=%7B%22page%22%3A0%2C%22path%22%3A%22%2Fon-air%22%2C%22subscriptions%22%3A%5B%22CTV%22%2C%22CTV_COMEDY%22%2C%22CTV_DRAMA%22%2C%22CTV_LIFE%22%2C%22CTV_SCIFI%22%2C%22CTV_MUCH%22%2C%22E_NOW%22%2C%22CTV_MOVIES%22%2C%22CTV_THROWBACK%22%2C%22USA%22%2C%22OXYGEN%22%2C%22WILD%22%2C%22NATURE%22%2C%22SPEED%22%5D%2C%22maturity%22%3A%22ADULT%22%2C%22language%22%3A%22ENGLISH%22%2C%22authenticationState%22%3A%22UNAUTH%22%2C%22playbackLanguage%22%3A%22ENGLISH%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2226d314b59ba2708d261067964353f9a92f1c2689f50d1254fa4d03ddb9b9092a%22%7D%7D
+```
+
+**REQUIRED HEADERS:**
+```
+referer: https://www.ctv.ca/on-air?tab=schedule
+content-type: application/json
+graphql-client-platform: entpay_web
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.ctv.ca/space-graphql/apq/graphql?operationName=resolvePath&variables=%7B%22page%22%3A0%2C%22path%22%3A%22%2Fon-air%22%2C%22subscriptions%22%3A%5B%22CTV%22%2C%22CTV_COMEDY%22%2C%22CTV_DRAMA%22%2C%22CTV_LIFE%22%2C%22CTV_SCIFI%22%2C%22CTV_MUCH%22%2C%22E_NOW%22%2C%22CTV_MOVIES%22%2C%22CTV_THROWBACK%22%2C%22USA%22%2C%22OXYGEN%22%2C%22WILD%22%2C%22NATURE%22%2C%22SPEED%22%5D%2C%22maturity%22%3A%22ADULT%22%2C%22language%22%3A%22ENGLISH%22%2C%22authenticationState%22%3A%22UNAUTH%22%2C%22playbackLanguage%22%3A%22ENGLISH%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2226d314b59ba2708d261067964353f9a92f1c2689f50d1254fa4d03ddb9b9092a%22%7D%7D" \
+  -H "referer: https://www.ctv.ca/on-air?tab=schedule" \
+  -H "content-type: application/json" \
+  -H "graphql-client-platform: entpay_web" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+```
+
+## 3. Channel Information APIs
+
+### API NAME AND ENDPOINT: GET Channel Collections
+```
+GET https://capi.9c9media.com/destinations/ctv_hub/platforms/atexace/collections/4126/contents
+```
+
+**PURPOSE:** Retrieves a list of available channels and their identifiers
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns a list of channels with their IDs, names, and tag information that can be used to query schedule data
+
+**PATH VARIABLES AND PARAMETERS:**
+- `$include`: Specifies which fields to include in the response (e.g., "[Id,Tags,Media.Id]") (optional)
+- `ContentPackages.Constraints.Geo.PostalCode`: Postal code for geo-filtering (optional)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://capi.9c9media.com/destinations/ctv_hub/platforms/atexace/collections/4126/contents?$include=[Id,Tags,Media.Id]&ContentPackages.Constraints.Geo.PostalCode=M5V
+```
+
+**REQUIRED HEADERS:**
+```
+referer: https://www.ctv.ca/
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://capi.9c9media.com/destinations/ctv_hub/platforms/atexace/collections/4126/contents?$include=[Id,Tags,Media.Id]&ContentPackages.Constraints.Geo.PostalCode=M5V" \
+  -H "referer: https://www.ctv.ca/" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" \
+  -H "accept: application/json"
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "Items": [
+    {
+      "Id": 81677,
+      "Name": "CTV British Columbia (interior)",
+      "Media": {
+        "Id": 30007
+      },
+      "Tags": [
+        {
+          "Id": 47121,
+          "Name": "CIVTI-G"
+        }
+      ]
+    },
+    {
+      "Id": 73403,
+      "Name": "CTV Calgary",
+      "Media": {
+        "Id": 30007
+      },
+      "Tags": [
+        {
+          "Id": 43197,
+          "Name": "CFCN-G"
+        }
+      ]
+    }
+  ],
+  "ItemsType": "Content"
+}
+```
+
+## 4. TV Schedule APIs
+
+### API NAME AND ENDPOINT: GET Schedule Data (GraphQL)
+```
+GET https://www.ctv.ca/space-graphql/apq/graphql?operationName=schedule
+```
+
+**PURPOSE:** Retrieves TV schedule information for a specific channel
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns detailed schedule information including video streams, channel logos, and schedule elements
+
+**PATH VARIABLES AND PARAMETERS:**
+- `operationName`: "schedule" (required)
+- `id`: Content ID for the schedule (required)
+- `extensions`: Contains the persisted query hash (required)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://www.ctv.ca/space-graphql/apq/graphql?operationName=schedule&variables=%7B%22id%22%3A%22contentid%2FMmY3ZTRmMjUtMTNiOC00%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2208f8b2df31d1cc0617c23b3a3af2e0f2056e8c76ebb23967c085b52ef25dfa5e%22%7D%7D
+```
+
+**REQUIRED HEADERS:**
+```
+referer: https://www.ctv.ca/on-air?tab=schedule
+content-type: application/json
+graphql-client-platform: entpay_web
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://www.ctv.ca/space-graphql/apq/graphql?operationName=schedule&variables=%7B%22id%22%3A%22contentid%2FMmY3ZTRmMjUtMTNiOC00%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2208f8b2df31d1cc0617c23b3a3af2e0f2056e8c76ebb23967c085b52ef25dfa5e%22%7D%7D" \
+  -H "referer: https://www.ctv.ca/on-air?tab=schedule" \
+  -H "content-type: application/json" \
+  -H "graphql-client-platform: entpay_web" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+```
+
+### API NAME AND ENDPOINT: GET Channel Schedule
+```
+GET https://capi.9c9media.com/destinations/{channel_hub}/platforms/atexace/channelaffiliates/{channel_code}/schedules
+```
+
+**PURPOSE:** Retrieves detailed TV listings for a specific channel for a given date range
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns comprehensive TV program listings including show titles, descriptions, episode information, images, genres, and broadcast times
+
+**PATH VARIABLES AND PARAMETERS:**
+- `channel_hub`: The channel hub identifier (e.g., "usa_hub", "oxygen_hub", "ctvscifi_hub") (required)
+- `channel_code`: The channel code (e.g., "USA-G", "OXYG-G", "SPCECHD-G") (required)
+- `StartTime`: Start date/time for schedule in format YYYY-MM-DDT00:00:00-03:30 (required)
+- `EndTime`: End date/time for schedule in format YYYY-MM-DDT23:59:59-03:30 (required)
+- `$include`: Additional data to include, typically "[details]" (optional)
+
+**REAL EXAMPLE OF ENDPOINT:**
+```
+https://capi.9c9media.com/destinations/usa_hub/platforms/atexace/channelaffiliates/USA-G/schedules?StartTime=2025-06-08T00:00:00-03:30&EndTime=2025-06-08T23:59:59-03:30&$include=[details]
+```
+
+**REQUIRED HEADERS:**
+```
+referer: https://www.ctv.ca/
+accept: application/json
+```
+
+**SAMPLE REQUEST:**
+```bash
+curl -X GET "https://capi.9c9media.com/destinations/usa_hub/platforms/atexace/channelaffiliates/USA-G/schedules?StartTime=2025-06-08T00:00:00-03:30&EndTime=2025-06-08T23:59:59-03:30&$include=[details]" \
+  -H "referer: https://www.ctv.ca/" \
+  -H "accept: application/json" \
+  -H "user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+```
+
+**SAMPLE RESPONSE:**
+```json
+{
+  "Items": [
+    {
+      "Name": "Leverage: Redemption",
+      "Title": "The Cooling off the Mark Job",
+      "Desc": "Old friend Hurley stumbles into the path of a Mark out for vengeance on the crew.",
+      "StartTime": "2025-06-08T03:15:00+00:00",
+      "EndTime": "2025-06-08T04:15:00+00:00",
+      "IsBlackedOut": false,
+      "GameId": null,
+      "Images": [
+        {
+          "Type": "thumbnail",
+          "Url": "https://images2.9c9media.com/image_asset/2025_6_3_b86b23df-83fc-45d2-9a0a-769634ca2ed1_jpg_3840x2160.jpg",
+          "Width": 3840,
+          "Height": 2160
+        }
+      ],
+      "Duration": 60,
+      "SeasonNo": 3,
+      "EpisodeNumber": "8",
+      "Qualifiers": ["cc", "hd unknown"],
+      "Ratings": [],
+      "ReleaseYear": "2025",
+      "EntityType": "Episode",
+      "SubType": "Series",
+      "Genres": ["action", "crime"]
+    }
+  ],
+  "ItemsType": "TV Listings"
+}
+```
+
+## Channel Hub and Code Mapping
+
+Based on the complete analysis of all endpoints, here's a comprehensive mapping of channel hubs and their corresponding channel codes:
+
+| Channel Name | Hub | Channel Code |
+|-------------|-----|-------------|
+| CTV Wild | ctvwild_hub | WILD-G |
+| CTV Nature | ctvnature_hub | NATURE-G |
+| CTV Speed | ctvspeed_hub | SPEED-G |
+| CTV Much | ctvmuch_hub | MUCHHD-G |
+| E! | e_hub | ECANHD-G |
+| CTV Drama | ctvdrama_hub | BRAVOC-G |
+| CTV Windsor | ctv_hub | CHWI-G |
+| CTV Regina | ctv_hub | CICC-G |
+| CTV Sci-Fi | ctvscifi_hub | SPCECHD-G |
+| CTV Comedy | ctvcomedy_hub | CMDY-G |
+| Oxygen | oxygen_hub | OXYG-G |
+| USA Network | usa_hub | USA-G |
+| CTV Life | ctvlife_hub | LIFEH-G |
+| CTV British Columbia (interior) | ctv_hub | CIVTI-G |
+| CTV Calgary | ctv_hub | CFCN-G |
+| CTV Edmonton | ctv_hub | CFRN-G |
+| CTV Kitchener | ctv_hub | CKCO-G |
+| CTV Lethbridge | ctv_hub | CFCN-L-G |
+| CTV Montreal | ctv_hub | CFCF-G |
+| CTV Northern Ontario | ctv_hub | CICI-G |
+| CTV Ottawa | ctv_hub | CJOH-G |
+| CTV Prince Albert | ctv_hub | CIPA-G |
+| CTV Saskatoon | ctv_hub | CFQC-G |
+| CTV Toronto | ctv_hub | CFTO-G |
+| CTV Vancouver | ctv_hub | CIVT-G |
+| CTV Vancouver Island | ctv_hub | CIVI-G |
+| CTV Winnipeg | ctv_hub | CKY-G |
+| CTV Yorkton | ctv_hub | CICC-G |
+
+## Time Zone Handling
+
+The API supports different time zone offsets in the StartTime and EndTime parameters:
+- Examples include: -05:00, -04:00, -03:30
+- The time zone should match the region you're querying or your local time zone
+
+## Content Traversal Strategy
+
+To systematically extract all TV schedule data from CTV, follow these steps:
+
+1. **Initialize API Access**
+   - Call the Smart ID API to get necessary API keys
+
+2. **Get Channel Information**
+   - Use the Channel Collections API to get the list of available channels and their IDs
+   - This provides the channel_code values needed for schedule queries
+
+3. **Extract TV Listings by Channel**
+   - For each channel, call the Channel Schedule API with appropriate date parameters
+   - Use the channel hub and code mapping from the table above
+
+4. **Process Schedule Data**
+   - Parse the response to extract show information, including:
+     - Show name and title
+     - Episode description
+     - Air time (start and end)
+     - Images
+     - Season and episode numbers
+     - Genres
+     - Release year
+     - Other metadata
+
+5. **Handle Date Ranges**
+   - To get schedules for different dates, adjust the StartTime and EndTime parameters
+   - Format: YYYY-MM-DDT00:00:00-03:30 (adjust timezone as needed)
+   - You can query multiple consecutive days to build a complete schedule
+
+## Data Structure
+
+The schedule API returns a consistent data structure for TV listings:
+
+- **Name**: Show name (e.g., "The Big Bang Theory")
+- **Title**: Episode title (e.g., "The Lizard-Spock Expansion")
+- **Desc**: Short description of the episode
+- **StartTime**: Broadcast start time in ISO format
+- **EndTime**: Broadcast end time in ISO format
+- **Images**: Array of image objects with URLs, dimensions, and types
+- **Duration**: Length of program in minutes
+- **SeasonNo**: Season number
+- **EpisodeNumber**: Episode number within the season
+- **Qualifiers**: Array of broadcast qualifiers (e.g., "cc", "dvs", "hd 1080i")
+- **ReleaseYear**: Year the content was released
+- **EntityType**: Type of content (e.g., "Episode", "Movie")
+- **SubType**: Subtype of content (e.g., "Series", "Feature Film")
+- **Genres**: Array of genre categories
+- **LongDescription**: Extended description of the content
+- **TopCast**: Array of cast members (when available)
+- **Directors**: Array of directors (when available)
+
+## Content Types
+
+The API returns different types of content that can be identified by the EntityType and SubType fields:
+
+- **TV Series**:
+  - EntityType: "Episode"
+  - SubType: "Series"
+  - Examples: "The Big Bang Theory", "How I Met Your Mother", "Chicago P.D."
+
+- **Movies**:
+  - EntityType: "Movie"
+  - SubType: "Feature Film"
+  - Examples: "Star Wars: The Rise of Skywalker", "Redeeming Love", "Smile"
+
+- **Reality Shows**:
+  - EntityType: "Episode"
+  - SubType: "Series"
+  - Genres: Contains "reality"
+  - Examples: "Inside Taronga Zoo"
+
+- **Documentaries**:
+  - EntityType: "Episode"
+  - SubType: "Series"
+  - Genres: Contains "documentary"
+  - Examples: "Mighty Planes"
+
+This comprehensive API documentation provides all the necessary information to build a complete TV schedule crawler for CTV's channels and programming.

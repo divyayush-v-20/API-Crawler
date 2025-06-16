@@ -1,0 +1,36 @@
+{
+  "Name": "Pets & Pickers",
+  "Title": "Miracles & Mishaps",
+  "Desc": "Dr. Ward removes a blind cat's eyes in order to give it a pain-free life.",
+  "StartTime": "2025-06-13T12:00:00+00:00",
+  "EndTime": "2025-06-13T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_fa777723-6deb-4c2b-856c-53505c20deb8_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "animals",
+    "pets"
+  ],
+  "LongDescription": "Dr. Ward removes a blind cat's eyes in order to give it a pain-free life; a dwarf kitten battling an unusual dental condition, sees Dr. Schwartz enlist the expertise of Dr. Vasilescu; three playful sugar gliders make for a chaotic exam.",
+  "TopCast": [],
+  "Directors": []
+}

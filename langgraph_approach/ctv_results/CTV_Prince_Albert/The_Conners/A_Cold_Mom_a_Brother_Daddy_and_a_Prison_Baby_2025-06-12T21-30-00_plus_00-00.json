@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "A Cold Mom, a Brother Daddy and a Prison Baby",
+  "Desc": "Ben's mom arrives after an unexpected death and unveils shocking information from the past.",
+  "StartTime": "2025-06-12T21:30:00+00:00",
+  "EndTime": "2025-06-12T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_df87424a-bb1f-435f-839a-d38556ef8822_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Ben's mom arrives after an unexpected death and unveils shocking information from the past; Becky and Emilio spend more time together.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "michael arden"
+  ]
+}

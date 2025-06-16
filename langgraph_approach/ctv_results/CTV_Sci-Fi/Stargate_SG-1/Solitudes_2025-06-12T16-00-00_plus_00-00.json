@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "Solitudes",
+  "Desc": "O'Neill and Carter are trapped in a glacial crevasse in Antarctica.",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_b3daba71-e2f7-4961-824c-0b3d193f9345_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1998",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "O'Neill and Carter, having traveled to Earth through a Stargate, face danger in an Antarctic environment.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "martin wood"
+  ]
+}

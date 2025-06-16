@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "The Kardashian Chainsaw Massacre",
+  "Desc": "Kim attempts to feed the family placenta. Rob shocks everyone with new art. Bruce gets offended.",
+  "StartTime": "2025-06-15T13:00:00+00:00",
+  "EndTime": "2025-06-15T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_51240c99-568c-40f8-a150-b94d1787e963_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kim plans to get back at her judgmental family by secretly attempting to feed them placenta; Rob shocks everyone when he takes up chainsaw art in Khlo\u00e9's backyard; Jimmy Fallon's jokes get under Bruce's skin.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

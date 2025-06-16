@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Lunar Excitation",
+  "Desc": "Raj and Howard set up an online dating profile for Sheldon and find the perfect woman.",
+  "StartTime": "2025-06-15T00:00:00+00:00",
+  "EndTime": "2025-06-15T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_2fde7dc4-95b3-4113-92fa-df007cf7f906_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "23",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Raj and Howard set up an online dating profile for Sheldon and find the perfect woman.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "peter chakos"
+  ]
+}

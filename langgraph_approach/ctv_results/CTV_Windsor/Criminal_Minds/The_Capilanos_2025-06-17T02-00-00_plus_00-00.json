@@ -1,0 +1,44 @@
+{
+  "Name": "Criminal Minds",
+  "Title": "The Capilanos",
+  "Desc": "The BAU is called to Oklahoma to investigate a murderous clown who is terrorizing a town.",
+  "StartTime": "2025-06-17T02:00:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_b7128cec-1fb9-488e-9aa3-05f3d2fe7b52_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 13,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "The BAU is called to Oklahoma to investigate a murderous clown who is terrorizing a town.",
+  "TopCast": [
+    "joe mantegna",
+    "paget brewster",
+    "matthew gray gubler"
+  ],
+  "Directors": [
+    "matthew gray gubler"
+  ]
+}

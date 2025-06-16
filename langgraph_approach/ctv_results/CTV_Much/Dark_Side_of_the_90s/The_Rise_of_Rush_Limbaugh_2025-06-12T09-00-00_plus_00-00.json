@@ -1,0 +1,42 @@
+{
+  "Name": "Dark Side of the 90s",
+  "Title": "The Rise of Rush Limbaugh",
+  "Desc": "Rush Limbaugh is conservative radio's first megastar, claiming to have talent on loan from God.",
+  "StartTime": "2025-06-12T09:00:00+00:00",
+  "EndTime": "2025-06-12T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_c45f035a-d077-439e-8202-0cd4fb9e4d3a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary"
+  ],
+  "LongDescription": "Rush Limbaugh is conservative radio's first megastar, claiming to have talent on loan from God.",
+  "TopCast": [
+    "mark mcgrath",
+    "jason marik",
+    "dallas peplow"
+  ],
+  "Directors": [
+    "richard rotter"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Copshop",
+  "Title": "Copshop",
+  "Desc": "On the run from a lethal assassin, a con artist devises a scheme to hide out in a police station.",
+  "StartTime": "2025-06-16T04:30:00+00:00",
+  "EndTime": "2025-06-16T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_ba54c861-b0e6-4af8-9c32-0291668d6dcc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Screaming through the Nevada desert in a bullet-ridden car, wily con artist Teddy Murretto hatches a plan to hide out from lethal assassin Bob Viddick. He punches rookie officer Valerie Young to get himself arrested and locked up in a small-town police station. However, jail can't protect Murretto for long as Viddick schemes his own way into detention, biding his time in a nearby cell until he can complete his mission.",
+  "TopCast": [
+    "gerard butler",
+    "frank grillo",
+    "alexis louder"
+  ],
+  "Directors": [
+    "joe carnahan"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "The Purge: Anarchy",
+  "Title": "The Purge: Anarchy",
+  "Desc": "Five strangers must band together to survive a night of government-sanctioned carnage.",
+  "StartTime": "2025-06-14T08:00:00+00:00",
+  "EndTime": "2025-06-14T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_f0efb557-b709-432a-a017-51327b2679c3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "action",
+    "thriller",
+    "horror",
+    "adventure"
+  ],
+  "LongDescription": "One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.",
+  "TopCast": [
+    "frank grillo",
+    "carmen ejogo",
+    "zach gilford"
+  ],
+  "Directors": [
+    "james demonaco"
+  ]
+}

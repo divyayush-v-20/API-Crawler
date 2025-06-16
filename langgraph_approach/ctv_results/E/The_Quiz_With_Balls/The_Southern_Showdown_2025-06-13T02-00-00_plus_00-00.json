@@ -1,0 +1,39 @@
+{
+  "Name": "The Quiz With Balls",
+  "Title": "The Southern Showdown",
+  "Desc": "The Byars's and the Banks's go head-to-head; quiz topics include movies, sports and literature.",
+  "StartTime": "2025-06-13T02:00:00+00:00",
+  "EndTime": "2025-06-13T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_8bbfae5a-aac5-4125-ba5f-d034741b6f93_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "The Byars's and the Banks's go head-to-head; quiz topics include movies, sports, literature and world trivia.",
+  "TopCast": [
+    "jay pharoah"
+  ],
+  "Directors": []
+}

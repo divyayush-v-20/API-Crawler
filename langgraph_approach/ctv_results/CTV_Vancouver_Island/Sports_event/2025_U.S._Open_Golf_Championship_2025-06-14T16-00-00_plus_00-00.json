@@ -1,0 +1,36 @@
+{
+  "Name": "2025 U.S. Open Golf Championship",
+  "Title": "Third Round",
+  "Desc": "Sam Burns carries the lead into the third round of the 125th U.S. Open from Oakmont Country Club.",
+  "StartTime": "2025-06-14T16:00:00+00:00",
+  "EndTime": "2025-06-15T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_3b30dfb8-4304-495d-a73d-e9c4f9622eab_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 480,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Sports",
+  "SubType": "Sports event",
+  "Genres": [
+    "golf"
+  ],
+  "LongDescription": "Sam Burns carries the lead into the third round of the 125th U.S. Open from Oakmont Country Club. Burns shot a 5-under-par 65 to sit at -3, joined by 18-hole leader J.J. Spaun (-2) and Viktor Hovland (-1) as the only men below par after two days.",
+  "TopCast": [],
+  "Directors": []
+}

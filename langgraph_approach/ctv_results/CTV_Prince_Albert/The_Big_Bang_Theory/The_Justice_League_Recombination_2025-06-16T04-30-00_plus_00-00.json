@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Justice League Recombination",
+  "Desc": "The guys try to bond with Penny's new boyfriend through a costume contest.",
+  "StartTime": "2025-06-16T04:30:00+00:00",
+  "EndTime": "2025-06-16T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_12_9edac261-0f41-4c93-9636-d4647918adad_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "The guys try to bond with Penny's new boyfriend through a costume contest.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Graveyard Carz",
+  "Title": "There Will Be 'Cudas",
+  "Desc": "Spotlighting E-Bodies, including disassembly, documentation and one may have forged numbers.",
+  "StartTime": "2025-06-14T06:00:00+00:00",
+  "EndTime": "2025-06-14T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_58161f33-e6e5-4ca0-881f-532436ae516d_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "how-to"
+  ],
+  "LongDescription": "Spotlighting E-Bodies, including disassembly, documentation and suspicion that one of the newly arrived 'Cudas may have forged numbers.",
+  "TopCast": [
+    "mark worman",
+    "royal yoakum",
+    "allysa rose"
+  ],
+  "Directors": []
+}

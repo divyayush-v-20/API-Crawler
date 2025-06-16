@@ -1,0 +1,47 @@
+{
+  "Name": "Guardians of the Galaxy",
+  "Title": "Guardians of the Galaxy",
+  "Desc": "An adventurer (Chris Pratt) must unite four disparate misfits against a cosmic threat.",
+  "StartTime": "2025-06-14T21:30:00+00:00",
+  "EndTime": "2025-06-15T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_e1795274-7fd5-41d4-bc2b-e55abd59b313_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "science fiction",
+    "adventure",
+    "action",
+    "fantasy",
+    "comedy"
+  ],
+  "LongDescription": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+  "TopCast": [
+    "chris pratt",
+    "zoe saldana",
+    "dave bautista"
+  ],
+  "Directors": [
+    "james gunn"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Young Love, Old Lions and Middle-Aged Hyenas",
+  "Desc": "Harris brings home her new friend, Josh, leaving the family questioning his intentions.",
+  "StartTime": "2025-06-13T22:00:00+00:00",
+  "EndTime": "2025-06-13T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_5abf7f07-ba8c-4966-9d9a-588ef3047359_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Harris brings home her new friend, Josh, leaving the family questioning his intentions; Becky and Ben's attempt to build a closet stirs up family drama.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "gail mancuso"
+  ]
+}

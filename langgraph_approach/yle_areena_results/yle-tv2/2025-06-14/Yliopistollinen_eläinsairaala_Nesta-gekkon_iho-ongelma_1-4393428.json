@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-14",
+  "broadcast_time": "2025-06-14T10:00:00+03:00",
+  "program_data": {
+    "title": "Yliopistollinen eläinsairaala: Nesta-gekkon iho-ongelma",
+    "description": "18/40. Berninpaimenkoiraveljekset ovat tulleet Porista saakka saamaan akupunktiohoitoa eläinsairaalaan. Nesta-gekolla on vaikeuksia nahanluonnin kanssa. Siiri-koira oireilee edelleen, vaikka korvakäytävänpoiston toivottiin helpottavan sen elämää. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-4393428"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.00",
+        "raw": "2025-06-14T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T10:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4393408"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-4393428.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

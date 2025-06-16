@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Love birds hope their love will be enough to get them to their destination.",
+  "StartTime": "2025-06-12T18:00:00+00:00",
+  "EndTime": "2025-06-12T18:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_c8d56fc6-b57d-4ca1-8983-9acd25bc368b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Stuart and Adjoa are two love birds out on a date when they end up in the Cash Cab; they hope their love be enough to get them to their destination.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

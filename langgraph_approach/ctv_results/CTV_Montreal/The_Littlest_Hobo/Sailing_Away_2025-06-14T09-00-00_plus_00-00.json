@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Sailing Away",
+  "Desc": "When a willful teenager takes her father's sloop out alone, Hobo must rescue her.",
+  "StartTime": "2025-06-14T09:00:00+00:00",
+  "EndTime": "2025-06-14T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_efc21f20-6f48-454b-b2e6-56edeeef335c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1980",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "When a willful teenager takes her father's sloop out alone, Hobo must rescue her.",
+  "TopCast": [
+    "tracey bregman",
+    "david calderisi",
+    "michael copeman"
+  ],
+  "Directors": [
+    "joseph l. scanlan"
+  ]
+}

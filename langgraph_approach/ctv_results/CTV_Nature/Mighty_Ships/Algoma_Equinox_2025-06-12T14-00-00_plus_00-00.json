@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Ships",
+  "Title": "Algoma Equinox",
+  "Desc": "The Algoma Equinox battles fierce ice, howling winds and challenging waters.",
+  "StartTime": "2025-06-12T14:00:00+00:00",
+  "EndTime": "2025-06-12T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_db035908-4aff-4f29-8d1d-3d324990ce1a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science"
+  ],
+  "LongDescription": "The Algoma Equinox battles fierce ice, howling winds and challenging waters to transport grain and iron ore.",
+  "TopCast": [
+    "barbara budd"
+  ],
+  "Directors": []
+}

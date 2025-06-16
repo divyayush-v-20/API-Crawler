@@ -1,0 +1,65 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T21:00:00+03:00",
+  "program_data": {
+    "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut",
+    "description": "Haastateltavina kansanedustaja Pekka Haavisto (vihr), Ulkopoliittisen instituutin johtaja Hiski Haukkala ja kansainvälisen politiikan asiantuntija Risto E.J. Penttilä. Toimittajana Annika Damström.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74740174"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "21.00",
+        "raw": "2025-06-16T21:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T21:35:10+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "35 min",
+        "raw": "PT2110S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2855851"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

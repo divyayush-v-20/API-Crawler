@@ -1,0 +1,40 @@
+{
+  "Name": "The Sopranos",
+  "Title": "Cold Stones",
+  "Desc": "A.J.'s apathy angers Tony; Carmela travels to Paris with Rosalie; Vito returns to New Jersey.",
+  "StartTime": "2025-06-15T08:15:00+00:00",
+  "EndTime": "2025-06-15T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_e1953869-27b5-4084-91c1-1132f5d271f5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 75,
+  "SeasonNo": 6,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "Carmela begins to rethink her life after she goes out for a day with Rosalie. Meadow decides it's time to find a new place to live. Tony and the gang suddenly find themselves in a place they have never been before -- lacking funds.",
+  "TopCast": [
+    "james gandolfini",
+    "lorraine bracco",
+    "edie falco"
+  ],
+  "Directors": [
+    "tim van patten"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "In the Line of Duty",
+  "Desc": "Samantha's body is taken over by a hunted alien.",
+  "StartTime": "2025-06-16T19:00:00+00:00",
+  "EndTime": "2025-06-16T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_d0b5a87f-aee5-44a5-9595-6fd5fb80a6ff_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1998",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "Samantha's body is taken over by a hunted alien.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "martin wood"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Kill-De-Sac",
+  "Desc": "Bullets fly when a freewheeling family causes conflict in a conservative neighborhood.",
+  "StartTime": "2025-06-16T13:00:00+00:00",
+  "EndTime": "2025-06-16T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_e22f092e-87d8-4c58-9346-fa9d3a7c72a2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "When a freewheeling family moves from California to the conservative enclave of Leesburg, Va., they get on the wrong side of one of their neighbors, and the conflict escalates until bullets fly and blood flows in the street.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

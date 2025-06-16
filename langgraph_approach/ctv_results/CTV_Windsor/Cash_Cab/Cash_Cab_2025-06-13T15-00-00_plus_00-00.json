@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Alec, Ann and Jacqueline are bemused by the Cash Cab, but decide to give it a go; it's a tense ride.",
+  "StartTime": "2025-06-13T15:00:00+00:00",
+  "EndTime": "2025-06-13T15:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_d6ec6e37-2a41-4844-8ec8-bcba93bfe468_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "24",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Alec, Ann and Jacqueline are bemused by the Cash Cab, but decide to give it a go; it's a tense ride.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

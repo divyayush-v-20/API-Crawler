@@ -1,0 +1,42 @@
+{
+  "Name": "Disasters at Sea",
+  "Title": "Shipwrecked In Alaska",
+  "Desc": "Deadly flooding sinks the Alaska Ranger, forcing the crew to abandon ship in frigid waters.",
+  "StartTime": "2025-06-11T06:00:00+00:00",
+  "EndTime": "2025-06-11T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_f8a8f11f-a157-4481-b6bf-21ce3f591476_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "history",
+    "docudrama"
+  ],
+  "LongDescription": "Deadly flooding sinks the Alaska Ranger in March 2008, forcing the crew to abandon ship into the frigid waters off the coast of Alaska; their retrieval marks the largest cold water rescue in the history of the U.S. Coast Guard.",
+  "TopCast": [
+    "mike pongracz",
+    "michael coughlan",
+    "john dickhout"
+  ],
+  "Directors": [
+    "p.j. naworynski"
+  ]
+}

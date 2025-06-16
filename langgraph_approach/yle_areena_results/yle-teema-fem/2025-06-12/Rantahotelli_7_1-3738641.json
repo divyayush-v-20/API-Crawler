@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T20:00:18+03:00",
+  "program_data": {
+    "title": "Rantahotelli (7)",
+    "description": "Kausi 3, 3/7. Rouva Madsenin korut. Tukkukauppias Madsen on pantannut vaimonsa korut, mistä seuraa aviokriisi. Herra Weyse tekee voitavansa suojellakseen Kittyä tehtailija Frighin lähentelyiltä. Molly ja Fie saavat aiheen ottaa yhteyttä Morteniin. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-3738641"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.00",
+        "raw": "2025-06-12T20:00:18+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T20:46:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "45 min",
+        "raw": "PT2741S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2328498"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-3738641.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

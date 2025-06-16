@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Paparazzi & Papas",
+  "Desc": "Kim plans to hide from paparazzi; Khlo\u00e9 and Kourtney try to set up a blind date.",
+  "StartTime": "2025-06-15T17:00:00+00:00",
+  "EndTime": "2025-06-15T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_c481ab23-537c-48fa-a14c-a78228dfbf6a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kim devises a plan to hide from paparazzi when she goes into labor; Khlo\u00e9 and Kourtney try to set up their grandmother on a blind date.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

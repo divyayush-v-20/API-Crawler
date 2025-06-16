@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Hook, Line and Sinker",
+  "Desc": "Karen doesn't sleep with Hank on a fishing trip; Brent and Emma worry about Oscar's memory.",
+  "StartTime": "2025-06-15T22:00:00+00:00",
+  "EndTime": "2025-06-15T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_e476ac96-98fb-4f1e-9aca-df04d4281cba_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent puts a sign with slogans in front of the gas station and coffee shop; Brent and Emma worry about Oscar's memory.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

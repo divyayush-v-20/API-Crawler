@@ -1,0 +1,84 @@
+{
+  "channel_id": "tv-finland",
+  "broadcast_date": "2025-06-11",
+  "broadcast_time": "2025-06-11T15:25:00+03:00",
+  "program_data": {
+    "title": "A-studio",
+    "description": "USA:ssa Donald Trumpin maahanmuuttopolitiikkaa vastustavat mielenosoitukset yltyvät. Mitä protesteista seuraa? Kysymme myös, mihin Donald Trumpin ja Elon Muskin välirikko johtaa? Studiossa Yhdysvaltain historian professori Marko Maunula Claytonin yliopistosta, Turun yliopiston John Morton -keskuksen tutkijatohtori Pekka Kolehmainen ja Ulkopoliittisen instituutin tutkija Maria Lindén. Juontajana Sakari Sirkkanen.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72480905"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "15.25",
+        "raw": "2025-06-11T15:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T16:00:10+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "35 min",
+        "raw": "PT2110S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3229465"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72480905.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

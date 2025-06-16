@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Suspect",
+  "Desc": "Hobo tries to clear an innocent man (Stephen Young) who is accused of causing a boating accident.",
+  "StartTime": "2025-06-13T12:30:00+00:00",
+  "EndTime": "2025-06-13T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_69db070c-7432-4666-9afd-5fe737a6c7c0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1981",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo tries to clear an innocent man (Stephen Young) who is accused of causing a boating accident.",
+  "TopCast": [
+    "alf humphreys",
+    "g\u00e9za kov\u00e1cs",
+    "richard monette"
+  ],
+  "Directors": [
+    "allan eastman"
+  ]
+}

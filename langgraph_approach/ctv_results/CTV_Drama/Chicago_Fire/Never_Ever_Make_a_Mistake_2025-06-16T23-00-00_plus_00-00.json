@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "Never, Ever Make a Mistake",
+  "Desc": "Herrmann works on becoming a better man after Cindy's cancer journey; Kylie takes her exams.",
+  "StartTime": "2025-06-16T23:00:00+00:00",
+  "EndTime": "2025-06-17T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_912ff49e-2963-443d-861b-1cd990157bf6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Herrmann works on becoming a better man after Cindy's cancer journey; Kidd bonds with a homeless victim on a call; Kylie takes her firefighter exams; a harrowing call takes a toll on Brett.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "lisa demaine"
+  ]
+}

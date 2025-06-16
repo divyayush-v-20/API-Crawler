@@ -1,0 +1,37 @@
+{
+  "Name": "How It's Made",
+  "Title": "Grapples; Flavorings; Dog Sleds",
+  "Desc": "Grapples; flavorings; dog sleds; athletic shoes.",
+  "StartTime": "2025-06-15T17:30:00+00:00",
+  "EndTime": "2025-06-15T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_b31567b9-0a94-4e97-8b31-1262ee4becf3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 15,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Grapples; flavorings; dog sleds; athletic shoes.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

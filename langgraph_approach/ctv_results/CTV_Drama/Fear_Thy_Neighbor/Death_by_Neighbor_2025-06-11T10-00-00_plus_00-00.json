@@ -1,0 +1,41 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Death by Neighbor",
+  "Desc": "Family members fall ill from a deadly poison found in their soda.",
+  "StartTime": "2025-06-11T10:00:00+00:00",
+  "EndTime": "2025-06-11T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_db6c1c13-0a3a-4795-ad2f-bc318b50b61a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "When family members fall ill from deadly poison found in their soda, investigators turn their attention to the quiet couple who live next door.",
+  "TopCast": [
+    "susannah kiernan",
+    "conor arksey",
+    "kassandra herzog"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Secrets of the Zoo: Down Under",
+  "Title": "Nala's Pup",
+  "Desc": "Nala, the Australian sea lion, gives birth to a healthy pup; the zoo prepares to welcome zebras.",
+  "StartTime": "2025-06-15T02:00:00+00:00",
+  "EndTime": "2025-06-15T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_e8ad68a8-88ef-41c6-acc8-8461977580cc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "Nala, the Australian sea lion, gives birth to a healthy pup; the zoo prepares to welcome zebras to the African Savanna exhibit.",
+  "TopCast": [
+    "naomi watts"
+  ],
+  "Directors": [
+    "david grusovin"
+  ]
+}

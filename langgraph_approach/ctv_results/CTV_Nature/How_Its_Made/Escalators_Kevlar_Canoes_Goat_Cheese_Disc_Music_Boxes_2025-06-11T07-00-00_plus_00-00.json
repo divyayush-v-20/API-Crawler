@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Escalators, Kevlar Canoes, Goat Cheese, Disc Music Boxes",
+  "Desc": "Escalators; Kevlar canoes; marble cheddar; disc music boxes.",
+  "StartTime": "2025-06-11T07:00:00+00:00",
+  "EndTime": "2025-06-11T07:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_7be67324-5985-4988-965e-7619a2c08a58_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 12,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Escalators; Kevlar canoes; marble cheddar; disc music boxes.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

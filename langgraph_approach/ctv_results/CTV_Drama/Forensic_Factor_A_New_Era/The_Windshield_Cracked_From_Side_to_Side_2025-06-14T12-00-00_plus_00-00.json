@@ -1,0 +1,36 @@
+{
+  "Name": "Forensic Factor: A New Era",
+  "Title": "The Windshield Cracked From Side to Side",
+  "Desc": "Todd Kendhammer claims his wife was killed in a freak car accident.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_3bdde8c1-bf93-4c9f-9f12-3beaef323747_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "science"
+  ],
+  "LongDescription": "Todd Kendhammer claims his wife was killed in a freak car accident but the forensic evidence doesn't back him up.",
+  "TopCast": [],
+  "Directors": []
+}

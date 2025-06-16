@@ -1,0 +1,40 @@
+{
+  "Name": "CTV Your Morning",
+  "Title": "CTV Your Morning",
+  "Desc": "Delivering unique insights into the headlines of the day to Canadians from coast-to-coast-to-coast.",
+  "StartTime": "2025-06-12T10:00:00+00:00",
+  "EndTime": "2025-06-12T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_7f0a857b-5157-4e4f-8b83-d8daaae738f3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": "459",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "news",
+    "talk"
+  ],
+  "LongDescription": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast-to-coast-to-coast.",
+  "TopCast": [
+    "anne-marie mediwake",
+    "lindsey deluce",
+    "kelsey mcewen"
+  ],
+  "Directors": []
+}

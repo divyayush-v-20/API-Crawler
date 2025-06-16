@@ -1,0 +1,40 @@
+{
+  "Name": "CTV Your Morning Weekend",
+  "Title": "CTV Your Morning Weekend",
+  "Desc": "Delivering original perspectives and unique insights into the headlines of the day.",
+  "StartTime": "2025-06-15T13:00:00+00:00",
+  "EndTime": "2025-06-15T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_e7d86e6d-f944-4d70-b4c5-747b5ac7e0fb_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": "35",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "news",
+    "talk"
+  ],
+  "LongDescription": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast-to-coast-to-coast.",
+  "TopCast": [
+    "anne-marie mediwake",
+    "lindsey deluce"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T12:10:00+03:00",
+  "program_data": {
+    "title": "Riikka Purra kommentoi valtiovarainministeriön talousennustetta",
+    "description": "Valtiovarainministeri Riikka Purra pitää tiedotustilaisuuden julkisen talouden tilanteesta ja tulevaisuuden näkymistä. Hän kommentoi asiaa valtiovarainministeriön tuoreen talousennusteen pohjalta.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74923947"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.10",
+        "raw": "2025-06-16T12:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T13:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 20 min",
+        "raw": "PT4800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4371930"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

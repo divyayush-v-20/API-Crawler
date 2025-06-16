@@ -1,0 +1,39 @@
+{
+  "Name": "LEGO Masters: Grand Masters",
+  "Title": "Over the Falls",
+  "Desc": "A build which tells a story both as it goes over the edge and as it crashes on the rocks below.",
+  "StartTime": "2025-06-15T10:00:00+00:00",
+  "EndTime": "2025-06-15T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_33c02c3a-c088-46fc-ad70-14a4d145942a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": 5,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show",
+    "reality"
+  ],
+  "LongDescription": "Each of the eight teams must create a build which tells a story both as it goes over the edge of a waterfall and as it crashes on the rocks below.",
+  "TopCast": [
+    "hamish blake",
+    "ryan mcnaught"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,78 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T20:45:11+03:00",
+  "program_data": {
+    "title": "Jane Birkin Charlotte Gainsbourgin silmin",
+    "description": "Heinäkuussa 2023 menehtynyt Jane Birkin oli yksi 1900-luvun suurimmista popikoneista: näyttelijätär, laulaja ja esiintyjä. Birkinin tytär, tunnettu taiteilija Charlotte Gainsbourg kuvaa jo vanhenevaa äitiään intiimissä dokumentissa julkkisperheen elämästä, äidin ja tyttären sydämellisestä suhteesta, vanhenemisesta, sairastumisesta ja peloista. Ohjaus: Charlotte Gainsbourg. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-66409858"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.45",
+        "raw": "2025-06-13T20:45:11+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T22:13:20+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 28 min",
+        "raw": "PT5289S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-66409858.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

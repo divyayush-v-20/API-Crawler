@@ -1,0 +1,44 @@
+{
+  "Name": "Bob Hearts Abishola",
+  "Title": "A Tablespoon of Dad",
+  "Desc": "Goodwin pits Douglas and Kofo against each other in a battle for Dottie's vacant MaxDot office.",
+  "StartTime": "2025-06-14T02:30:00+00:00",
+  "EndTime": "2025-06-14T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_c84dca12-525d-4ee9-907a-afaf5975b02f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "When Dottie moves her husband Max's urn into Bob and Abishola's living room, everyone is forced to confront their views on death and the afterlife; Goodwin pits Douglas and Kofo against each other in a battle for Dottie's vacant MaxDot office.",
+  "TopCast": [
+    "billy gardell",
+    "folake olowofoyeku",
+    "christine ebersole"
+  ],
+  "Directors": [
+    "beth mccarthy-miller",
+    "phill lewis"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "Botched",
+  "Title": "Most Outrageous Patients",
+  "Desc": "The top ten most outrageous patients from Botched.",
+  "StartTime": "2025-06-16T09:30:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_ae663a10-b01b-4ba4-af1e-2d281e7cc559_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "medical",
+    "documentary"
+  ],
+  "LongDescription": "The top ten most outrageous patients from Botched.",
+  "TopCast": [
+    "paul nassif",
+    "terry dubrow",
+    "janice dickinson"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Now We're Even",
+  "Desc": "As Ted settles into living alone, Barney tries to get him to hit the town every night.",
+  "StartTime": "2025-06-13T19:00:00+00:00",
+  "EndTime": "2025-06-13T19:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4d7ed3ae-c662-4ea9-bc06-5464117e58c6_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 7,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "As Ted settles into living alone, Barney tries to get him to hit the town every night; Lily has an erotic dream; Robin becomes famous.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "neil patrick harris"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

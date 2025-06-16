@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T09:52:09+03:00",
+  "program_data": {
+    "title": "Puutarhakausi",
+    "description": "Kausi 7, 9/9. Ruotsalaisessa sarjassa jaetaan vinkkejä puutarhan ystäville. Suuri kurpitsakilpailu ratkeaa. Kenen kurpitsa on painavin? Lopuksi juhlitaan mennyttä sesonkia, kesää ja puutarhaa. Tuotanto: SVT, 2021. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50840736"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.52",
+        "raw": "2025-06-16T09:52:09+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T10:51:17+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "59 min",
+        "raw": "PT3548S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3811915"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50840736.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

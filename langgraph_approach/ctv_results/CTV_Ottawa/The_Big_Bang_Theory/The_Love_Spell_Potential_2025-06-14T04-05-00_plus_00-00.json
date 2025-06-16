@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Love Spell Potential",
+  "Desc": "Amy and Sheldon's relationship takes a surprising turn during a game of \"Dungeons & Dragons.\"",
+  "StartTime": "2025-06-14T04:05:00+00:00",
+  "EndTime": "2025-06-14T04:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_b0d9761d-b243-4cd8-9631-d24976b241f7_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 32,
+  "SeasonNo": 6,
+  "EpisodeNumber": "23",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Amy and Sheldon's relationship takes a surprising turn during a game of \"Dungeons & Dragons\"; Lucy and Koothrappali have an awkward date.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "anthony rich"
+  ]
+}

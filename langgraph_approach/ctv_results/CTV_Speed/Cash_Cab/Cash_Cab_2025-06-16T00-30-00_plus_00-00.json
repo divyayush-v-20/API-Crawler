@@ -1,0 +1,39 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "The ladies maybe sitting in the back, but they are in the front while answering questions right!",
+  "StartTime": "2025-06-16T00:30:00+00:00",
+  "EndTime": "2025-06-16T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_6dfded13-b57f-4604-b353-5615fba7308f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "In this battle of the sexes game, the ladies maybe sitting in the back, but they are the front of centre when it comes to answering questions right!",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

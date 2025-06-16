@@ -1,0 +1,42 @@
+{
+  "Name": "etalk",
+  "Title": "etalk",
+  "Desc": "Interview with the cast of \"Fubar\"; actors Dakota Johnson and Chris Evans (\"Materialists\").",
+  "StartTime": "2025-06-12T23:00:00+00:00",
+  "EndTime": "2025-06-12T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_15cb75c6-ac16-4f5e-9bd1-9079d2d5632b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "106",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd unknown",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "entertainment"
+  ],
+  "LongDescription": "Interview with the cast of \"Fubar\"; actors Dakota Johnson and Chris Evans (\"Materialists\").",
+  "TopCast": [
+    "tyrone edwards",
+    "lainey lui",
+    "traci melchor"
+  ],
+  "Directors": []
+}

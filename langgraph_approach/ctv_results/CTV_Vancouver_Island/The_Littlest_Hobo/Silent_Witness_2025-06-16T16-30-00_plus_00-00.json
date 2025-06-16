@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Silent Witness",
+  "Desc": "Hobo gathers evidence against a hit-and-run driver and forces him to make a confession.",
+  "StartTime": "2025-06-16T16:30:00+00:00",
+  "EndTime": "2025-06-16T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_af8ad9aa-75c5-420e-bf05-e572e7368745_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1979",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo gathers evidence against a hit-and-run driver and forces him to make a confession.",
+  "TopCast": [
+    "len doncheff",
+    "pam henry",
+    "michael ironside"
+  ],
+  "Directors": [
+    "allan eastman"
+  ]
+}

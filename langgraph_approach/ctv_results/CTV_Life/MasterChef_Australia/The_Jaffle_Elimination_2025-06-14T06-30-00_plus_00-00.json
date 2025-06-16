@@ -1,0 +1,40 @@
+{
+  "Name": "MasterChef Australia",
+  "Title": "The Jaffle Elimination",
+  "Desc": "It's the first elimination, and everyone is keen to maintain their place in this competition.",
+  "StartTime": "2025-06-14T06:30:00+00:00",
+  "EndTime": "2025-06-14T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_641f5c64-33b0-4fb4-8c97-61d381e21f05_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": 14,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "cooking"
+  ],
+  "LongDescription": "It's the first elimination, and everyone is keen to maintain their place in this competition.",
+  "TopCast": [
+    "andy allen",
+    "melissa leong",
+    "jock zonfrillo"
+  ],
+  "Directors": []
+}

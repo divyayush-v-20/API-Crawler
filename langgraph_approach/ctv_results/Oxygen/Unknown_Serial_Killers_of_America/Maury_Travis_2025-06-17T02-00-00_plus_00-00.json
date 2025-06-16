@@ -1,0 +1,36 @@
+{
+  "Name": "Unknown Serial Killers of America",
+  "Title": "Maury Travis",
+  "Desc": "When the bodies of 12 Black women surface in Missouri and Illinois, the killer taunts authorities.",
+  "StartTime": "2025-06-17T02:00:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_11_3a041873-31ff-417e-9948-67eb54308f9c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "When the bodies of 12 Black women surface in Missouri and Illinois, the serial killer taunts authorities by sending a cryptic letter to the local paper; as disturbing video evidence emerges, the scope of his crimes is uncovered.",
+  "TopCast": [],
+  "Directors": []
+}

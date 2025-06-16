@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Closure Alternative",
+  "Desc": "Amy tries to help Sheldon get over his need for closure; Raj discovers a secret about Lucy.",
+  "StartTime": "2025-06-12T07:05:00+00:00",
+  "EndTime": "2025-06-12T07:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_66eb1808-b22c-46e3-bde9-5143e5c337f6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 32,
+  "SeasonNo": 6,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Amy tries to help Sheldon get over his compulsive need for closure when one of his favorite TV shows is canceled; Raj discovers a secret about Lucy.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Wild Bear Rescue",
+  "Title": "Lights Out",
+  "Desc": "Two cubs become deathly ill from a parasite that has killed many bears.",
+  "StartTime": "2025-06-11T20:30:00+00:00",
+  "EndTime": "2025-06-11T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_f944585b-4cc8-4e10-9e80-1d1ace7d66b2_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "animals"
+  ],
+  "LongDescription": "Two cubs become deathly ill from a parasite that has killed many bears; the shelter gets their 45 bears ready for hibernation.",
+  "TopCast": [
+    "angelika langen",
+    "peter langen"
+  ],
+  "Directors": []
+}

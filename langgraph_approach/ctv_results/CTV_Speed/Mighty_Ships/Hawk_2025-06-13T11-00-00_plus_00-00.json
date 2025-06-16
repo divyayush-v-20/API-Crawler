@@ -1,0 +1,37 @@
+{
+  "Name": "Mighty Ships",
+  "Title": "Hawk",
+  "Desc": "To transport one of the world's largest oil rigs, Hawk must sink before she can swim.",
+  "StartTime": "2025-06-13T11:00:00+00:00",
+  "EndTime": "2025-06-13T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_b4d0806e-5517-4903-8358-95ac1cd20b49_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science"
+  ],
+  "LongDescription": "To transport one of the world's largest oil rigs, Hawk must sink before she can swim; she submerges her expansive deck to load.",
+  "TopCast": [
+    "barbara budd"
+  ],
+  "Directors": []
+}

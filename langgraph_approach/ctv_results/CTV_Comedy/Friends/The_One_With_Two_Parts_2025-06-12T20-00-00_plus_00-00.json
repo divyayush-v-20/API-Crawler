@@ -1,0 +1,38 @@
+{
+  "Name": "Friends",
+  "Title": "The One With Two Parts",
+  "Desc": "Rachel sprains her ankle and Monica takes her to the emergency room.",
+  "StartTime": "2025-06-12T20:00:00+00:00",
+  "EndTime": "2025-06-12T20:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_f282403f-66c0-4296-acee-12dcbb08522f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1995",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Monica takes Rachel to the hospital; Ross asks his dad (Elliott Gould) for advice on becoming a father.",
+  "TopCast": [
+    "jennifer aniston",
+    "lisa kudrow",
+    "courteney cox"
+  ],
+  "Directors": []
+}

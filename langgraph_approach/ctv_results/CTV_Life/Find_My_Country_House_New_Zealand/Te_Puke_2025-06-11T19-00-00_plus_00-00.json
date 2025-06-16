@@ -1,0 +1,38 @@
+{
+  "Name": "Find My Country House: New Zealand",
+  "Title": "Te Puke",
+  "Desc": "Kiwi couples search for their dream homes in regional New Zealand to escape the rat-race of life.",
+  "StartTime": "2025-06-11T19:00:00+00:00",
+  "EndTime": "2025-06-11T19:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_77181760-526a-437c-989f-b87e98615014_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "home improvement",
+    "house/garden"
+  ],
+  "LongDescription": "Kiwi couples search for their dream homes in regional New Zealand to escape the rat-race of the city.",
+  "TopCast": [
+    "matt gibb"
+  ],
+  "Directors": []
+}

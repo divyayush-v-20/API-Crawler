@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T09:00:00+03:00",
+  "program_data": {
+    "title": "Elämää meren armoilla",
+    "description": "Kausi 2, 6/6. Røstin saarella yksi porsaista lähtee riiuureissulle, mutta tulos jää laihaksi. Kari-Annellakin on omat haasteensa. Nyt olisi niittoaika, mutta hänellä ei ole sopivia työkaluja. Onneksi apu on lähellä. Kari-Anne saa palkan kaikista vaivoistaan, kun Lofootit näyttäytyvät hänelle koko komeudessaan. Norjalainen dokumenttisarja vuodelta 2018. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50089919"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.00",
+        "raw": "2025-06-10T09:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T09:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "40 min",
+        "raw": "PT2400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4267108"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50089919.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

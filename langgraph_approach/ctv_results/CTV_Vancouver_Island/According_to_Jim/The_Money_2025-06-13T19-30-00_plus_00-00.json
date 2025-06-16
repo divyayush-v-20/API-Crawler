@@ -1,0 +1,40 @@
+{
+  "Name": "According to Jim",
+  "Title": "The Money",
+  "Desc": "Cheryl goes behind Jim's back and lends money to Andy for a down payment on a new condominium.",
+  "StartTime": "2025-06-13T19:30:00+00:00",
+  "EndTime": "2025-06-13T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_0cc92fda-b8d2-48a5-9872-243c6e92a841_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2002",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Cheryl goes behind Jim's back and lends money to Andy for a down payment on a new condominium.",
+  "TopCast": [
+    "jim belushi",
+    "courtney thorne-smith",
+    "kimberly williams-paisley"
+  ],
+  "Directors": [
+    "gil junger"
+  ]
+}

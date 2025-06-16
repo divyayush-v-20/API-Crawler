@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "Survival",
+  "Desc": "Intelligence teams up with ASA Chapman to take on an abduction case involving a teenager.",
+  "StartTime": "2025-06-14T16:00:00+00:00",
+  "EndTime": "2025-06-14T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_26af6e5f-c5ed-40e2-ad2c-99a69ed849df_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Intelligence teams up with ASA Chapman to take on an abduction case involving a teenager; the case hits close to home for Voight, leading him to take a personal interest in finding justice for the victim.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "victor macias"
+  ]
+}

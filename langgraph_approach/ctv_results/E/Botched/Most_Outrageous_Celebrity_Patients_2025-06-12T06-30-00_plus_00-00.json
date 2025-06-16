@@ -1,0 +1,41 @@
+{
+  "Name": "Botched",
+  "Title": "Most Outrageous Celebrity Patients",
+  "Desc": "Countdown of the top 10 most outrageous celebrities.",
+  "StartTime": "2025-06-12T06:30:00+00:00",
+  "EndTime": "2025-06-12T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_1d3748df-769c-46d7-8af7-8d17fb7713b6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "medical",
+    "documentary"
+  ],
+  "LongDescription": "Countdown of the top 10 most outrageous celebrities.",
+  "TopCast": [
+    "paul nassif",
+    "terry dubrow"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Megaworld",
+  "Title": "France",
+  "Desc": "French Navy's specialized dive team; planet's strongest rocket; world's largest passenger plane.",
+  "StartTime": "2025-06-16T20:00:00+00:00",
+  "EndTime": "2025-06-16T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_7aa0e716-a114-4e5e-834f-621c8319bd85_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science"
+  ],
+  "LongDescription": "French Navy's specialized dive team; planet's strongest rocket; world's largest passenger plane.",
+  "TopCast": [
+    "kevin brauch"
+  ],
+  "Directors": []
+}

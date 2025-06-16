@@ -1,0 +1,44 @@
+{
+  "Name": "Cry Macho",
+  "Title": "Cry Macho",
+  "Desc": "A former rodeo star develops a bond with his ex-boss' son while traveling from Mexico to Texas.",
+  "StartTime": "2025-06-14T19:00:00+00:00",
+  "EndTime": "2025-06-14T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_fde790f4-d821-43f6-8b1f-3fa5aee801c2_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "drama",
+    "western"
+  ],
+  "LongDescription": "Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from his former boss to bring the man's young son home from Mexico. Forced to take the back roads on their way to Texas, the unlikely duo face a challenging journey, during which the world-weary horseman finds unexpected connections and his own sense of redemption.",
+  "TopCast": [
+    "clint eastwood",
+    "eduardo minett",
+    "dwight yoakam"
+  ],
+  "Directors": [
+    "clint eastwood"
+  ]
+}

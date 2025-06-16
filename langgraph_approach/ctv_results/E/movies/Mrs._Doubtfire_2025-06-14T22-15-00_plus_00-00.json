@@ -1,0 +1,43 @@
+{
+  "Name": "Mrs. Doubtfire",
+  "Title": "Mrs. Doubtfire",
+  "Desc": "Estranged from his wife, an out-of-work actor masquerades as a nanny to be with his children.",
+  "StartTime": "2025-06-14T22:15:00+00:00",
+  "EndTime": "2025-06-15T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_4f0265ac-0ce3-4db9-b526-74ac95970068_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 165,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1993",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "children",
+    "comedy"
+  ],
+  "LongDescription": "Troubled that he has little access to his children, divorced Daniel Hillard (Robin Williams) hatches an elaborate plan. With help from his creative brother Frank (Harvey Fierstein), he dresses as an older British woman and convinces his ex-wife, Miranda (Sally Field), to hire him as a nanny. \"Mrs. Doubtfire\" wins over the children and helps Daniel become a better parent -- but when both Daniel and his nanny persona must meet different parties at the same restaurant, his secrets may be exposed.",
+  "TopCast": [
+    "robin williams",
+    "sally field",
+    "pierce brosnan"
+  ],
+  "Directors": [
+    "chris columbus"
+  ]
+}

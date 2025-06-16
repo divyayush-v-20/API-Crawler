@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Focus Attenuation",
+  "Desc": "During their weekend in Las Vegas, Bernadette and Amy accuse Penny of being a buzz kill.",
+  "StartTime": "2025-06-13T22:00:00+00:00",
+  "EndTime": "2025-06-13T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_c1a3086b-4b63-4393-a58f-d8c05e294140_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "During their weekend in Las Vegas, Bernadette and Amy accuse Penny of being a buzz kill; the guys try to invent the next big thing.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

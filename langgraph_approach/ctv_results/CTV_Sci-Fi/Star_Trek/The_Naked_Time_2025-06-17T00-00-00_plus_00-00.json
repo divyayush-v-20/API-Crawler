@@ -1,0 +1,45 @@
+{
+  "Name": "Star Trek",
+  "Title": "The Naked Time",
+  "Desc": "The crew is infected with a virus that causes them to behave irrationally.",
+  "StartTime": "2025-06-17T00:00:00+00:00",
+  "EndTime": "2025-06-17T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0cf25b2f-9fc3-4169-87c8-aee18e8a884e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1966",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure"
+  ],
+  "LongDescription": "A strange ailment which bares emotions afflicts the crew as the Enterprise observes a planet's disintegration.",
+  "TopCast": [
+    "william shatner",
+    "leonard nimoy",
+    "deforest kelley"
+  ],
+  "Directors": [
+    "marc daniels"
+  ]
+}

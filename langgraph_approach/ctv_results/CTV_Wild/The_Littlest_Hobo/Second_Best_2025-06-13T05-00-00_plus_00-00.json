@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Second Best",
+  "Desc": "Hobo helps a boy who is being bullied off the school track team.",
+  "StartTime": "2025-06-13T05:00:00+00:00",
+  "EndTime": "2025-06-13T05:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_278e79e4-c066-40b4-a2cd-d2112bfe85de_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo helps a boy who is being bullied off the school track team.",
+  "TopCast": [
+    "christopher britton",
+    "trevor bruneau",
+    "barry flatman"
+  ],
+  "Directors": [
+    "al simmonds"
+  ]
+}

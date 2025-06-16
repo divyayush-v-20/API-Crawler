@@ -1,0 +1,41 @@
+{
+  "Name": "Bones",
+  "Title": "The Killer in the Crosshairs",
+  "Desc": "Sniper Jacob Broadsky takes out a victim who escaped from the justice system.",
+  "StartTime": "2025-06-16T23:00:00+00:00",
+  "EndTime": "2025-06-17T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_47e319d5-2949-4fde-8c4b-47d0c384bb75_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "Sniper Jacob Broadsky takes out a victim who escaped from the justice system; Booth uses his military training to try to stop Broadsky before he strikes again; Angela's father visits the Jeffersonian.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Accident, Suicide, or Murder",
+  "Title": "A Perfectly Designed Staircase",
+  "Desc": "Investigators focus on her husband when a woman is found dead at the bottom of her staircase.",
+  "StartTime": "2025-06-15T14:00:00+00:00",
+  "EndTime": "2025-06-15T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_b38928b3-2215-4f50-97b8-1c764c3eb349_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime",
+    "mystery"
+  ],
+  "LongDescription": "Investigators focus on her husband as the main suspect when a woman is found dead at the bottom of her staircase, but family and friends rally behind him.",
+  "TopCast": [],
+  "Directors": [
+    "dominik rausch"
+  ]
+}

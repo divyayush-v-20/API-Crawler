@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Mother's Day",
+  "Desc": "Frank races to stop a biological weapon attack on the city; Jamie and Danny's conflict erupts.",
+  "StartTime": "2025-06-16T14:00:00+00:00",
+  "EndTime": "2025-06-16T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_41916b01-d5df-4322-9a00-f5befcf4781c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "22",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "As Frank races to stop a biological weapon attack on the city, he tries to hide the threat of danger from his family; Jamie and Danny's conflict comes to a head.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "michael pressman"
+  ]
+}

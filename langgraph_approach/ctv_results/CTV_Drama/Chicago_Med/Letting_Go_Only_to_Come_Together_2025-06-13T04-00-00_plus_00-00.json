@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago Med",
+  "Title": "Letting Go Only to Come Together",
+  "Desc": "Choi teams up to treat a famous tennis player who is afraid his career might be over.",
+  "StartTime": "2025-06-13T04:00:00+00:00",
+  "EndTime": "2025-06-13T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_1b279b49-cab5-42b4-98d4-c0c01df0a7cd_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "medical",
+    "action"
+  ],
+  "LongDescription": "Choi teams up with an unexpected person to treat a famous tennis player who is afraid his career might be over; Goodwin's new protocols cause a stir.",
+  "TopCast": [
+    "oliver platt",
+    "s. epatha merkerson",
+    "nick gehlfuss"
+  ],
+  "Directors": [
+    "sj main mu\u00f1oz"
+  ]
+}

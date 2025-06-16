@@ -1,0 +1,40 @@
+{
+  "Name": "etalk",
+  "Title": "etalk",
+  "Desc": "In Montreal for the F1 Grand Prix weekend; on the red carpet for Canada's Walk of Fame.",
+  "StartTime": "2025-06-16T23:00:00+00:00",
+  "EndTime": "2025-06-16T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_53aa60f7-296f-466f-b482-fed5e729ba7a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "108",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "entertainment"
+  ],
+  "LongDescription": "We're on the ground in Montreal for the F1 Grand Prix weekend; on the red carpet for Canada's Walk of Fame.",
+  "TopCast": [
+    "tyrone edwards",
+    "lainey lui",
+    "traci melchor"
+  ],
+  "Directors": []
+}

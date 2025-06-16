@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Loving and Letting Go",
+  "Desc": "Kris and Bruce face decisions about their future together; Khlo\u00e9's changing relationship with Lamar.",
+  "StartTime": "2025-06-15T21:30:00+00:00",
+  "EndTime": "2025-06-15T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_299170ba-60f3-4c51-b15e-7e18daf5c0ac_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 9,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kris and Bruce face decisions about their future together; Khlo\u00e9's relationship with Lamar continues to change.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

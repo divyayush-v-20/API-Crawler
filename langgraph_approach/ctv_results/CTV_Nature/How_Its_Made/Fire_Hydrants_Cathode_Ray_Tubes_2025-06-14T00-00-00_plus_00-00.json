@@ -1,0 +1,44 @@
+{
+  "Name": "How It's Made",
+  "Title": "Fire Hydrants; Cathode Ray Tubes",
+  "Desc": "Wooden barrels; fire hydrants; automobile seats; cathode ray tubes.",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_a0fb3061-e2dc-4a37-8b67-d1af6e2ce106_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 10,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Wooden barrels; fire hydrants; automobile seats; cathode ray tubes.",
+  "TopCast": [
+    "lynne adams",
+    "tony hirst"
+  ],
+  "Directors": [
+    "yves martin allard",
+    "jean-francois despres",
+    "gabriel hoss",
+    "gr\u00e9goire viau"
+  ]
+}

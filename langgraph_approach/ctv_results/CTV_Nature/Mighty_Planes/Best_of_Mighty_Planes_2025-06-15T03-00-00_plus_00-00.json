@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Planes",
+  "Title": "Best of Mighty Planes",
+  "Desc": "Reviewing the series' best, from planes that transformed travel to the biggest passenger plane.",
+  "StartTime": "2025-06-15T03:00:00+00:00",
+  "EndTime": "2025-06-15T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_a6374a81-c7ae-4cee-a207-121ccfbd50a9_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation"
+  ],
+  "LongDescription": "Reviewing the best of the series, from planes that transformed travel to the biggest passenger plane as well as the C130 Hercules.",
+  "TopCast": [
+    "mike goral"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,79 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T07:07:30+03:00",
+  "program_data": {
+    "title": "Pikku Kakkonen",
+    "description": "Aapelin ja Saaran tanssiaakkoset. Tänään Aapeli ja Saara löytävät kirjaimia avaruudesta.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50926446"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.07",
+        "raw": "2025-06-12T07:07:30+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T07:08:27+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "57 s",
+        "raw": "PT57S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808632"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50926446.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

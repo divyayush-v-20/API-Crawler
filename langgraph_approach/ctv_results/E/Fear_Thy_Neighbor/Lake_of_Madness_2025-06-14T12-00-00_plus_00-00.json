@@ -1,0 +1,42 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Lake of Madness",
+  "Desc": "At a lake house, a dispute over water access escalates until it leads to a bloody resolution.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_86e3f549-5401-4498-9d02-20eb0e6cb43d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "A family moves into a Minnesota lake house, then a dispute with a neighbor over water access escalates until it leads to a bloody resolution.",
+  "TopCast": [
+    "peter gelgor",
+    "mike lofquist",
+    "robert nolan"
+  ],
+  "Directors": [
+    "david tennant"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "The Kitchen",
+  "Title": "The Kitchen",
+  "Desc": "Three women take over the Hell's Kitchen section of New York for their imprisoned gangster husbands.",
+  "StartTime": "2025-06-15T06:30:00+00:00",
+  "EndTime": "2025-06-15T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_2ff1d21b-1081-4926-8846-e09add2730f9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "premiere",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "Between 8th Ave. and the Hudson River, the Irish mafia runs 20 blocks of a tough New York City neighborhood known as Hell's Kitchen. But for mob wives Kathy, Ruby and Claire, things are about to take a dramatic and radical turn. When the FBI sends their husbands to prison, the three women take business into their own hands by running the rackets and taking out the competition.",
+  "TopCast": [
+    "melissa mccarthy",
+    "tiffany haddish",
+    "elisabeth moss"
+  ],
+  "Directors": [
+    "andrea berloff"
+  ]
+}

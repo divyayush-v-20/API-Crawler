@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "More to the Story",
+  "Desc": "Kim pushes adoption; Kris suspects that Scott sold her gift; Bruce trains Khlo\u00e9's dog.",
+  "StartTime": "2025-06-15T16:00:00+00:00",
+  "EndTime": "2025-06-15T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_2489a250-36b2-4fb4-8456-c5921de2a9e3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kim pushes Khlo\u00e9 to consider adoption; Kris suspects that Scott sold the scooter she gave; Bruce secretly trains Khlo\u00e9's dog.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

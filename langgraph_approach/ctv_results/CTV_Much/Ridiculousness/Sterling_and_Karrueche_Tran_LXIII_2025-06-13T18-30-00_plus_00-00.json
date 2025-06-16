@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Karrueche Tran LXIII",
+  "Desc": "Rob Dyrdek, Steelo Brim, and Karrueche Tran place an order for some \"Delivery Legends.\"",
+  "StartTime": "2025-06-13T18:30:00+00:00",
+  "EndTime": "2025-06-13T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_b3ee8f2d-654a-437f-8397-830a9771c091_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 39,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob Dyrdek, Steelo Brim, and Karrueche Tran place an order for some \"Delivery Legends\"; discovering how chaotic cute can be with \"Otter Chaos\"; sleeping it all off with some much needed \"Drunk Naps.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

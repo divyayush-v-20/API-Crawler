@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Gloria Aiken",
+  "Desc": "After leads dry up in a missing person case, a severed body part's discovery reopens investigations.",
+  "StartTime": "2025-06-14T13:00:00+00:00",
+  "EndTime": "2025-06-14T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_18ace9e4-7998-4090-8b6f-210b22aa929f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 30,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "After leads dry up in a missing person case, detectives in Ennis,Texas, discover a severed body part at a nearby lake; after confirming the DNA match, they begin to uncover the rippling relationship that led to the death of a beloved father.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

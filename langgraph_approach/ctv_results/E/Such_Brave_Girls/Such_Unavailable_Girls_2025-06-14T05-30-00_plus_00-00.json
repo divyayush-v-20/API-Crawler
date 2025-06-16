@@ -1,0 +1,43 @@
+{
+  "Name": "Such Brave Girls",
+  "Title": "Such Unavailable Girls",
+  "Desc": "Deb is determined to bond with Dev and gets to see his house; Billie plays hard to get with Nicky.",
+  "StartTime": "2025-06-14T05:30:00+00:00",
+  "EndTime": "2025-06-14T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_ac7dee20-f78f-4dda-b991-8bbf6caa0d5a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Deb is determined to bond with Dev and finally gets to see his massive house; Billie plays hard to get with Nicky; Josie remembers she has a boyfriend.",
+  "TopCast": [
+    "kat sadler",
+    "louise brealey",
+    "lizzie davidson"
+  ],
+  "Directors": [
+    "simon bird"
+  ]
+}

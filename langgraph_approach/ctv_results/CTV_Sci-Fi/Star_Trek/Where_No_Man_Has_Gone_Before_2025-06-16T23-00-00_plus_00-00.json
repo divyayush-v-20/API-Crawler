@@ -1,0 +1,45 @@
+{
+  "Name": "Star Trek",
+  "Title": "Where No Man Has Gone Before",
+  "Desc": "Crew members develop god-like ESP capabilities while searching for missing ship.",
+  "StartTime": "2025-06-16T23:00:00+00:00",
+  "EndTime": "2025-06-17T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_9d257d1a-cc90-40ad-8894-4732c855fbff_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1966",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure"
+  ],
+  "LongDescription": "Kirk confronts two crew members (Gary Lockwood, Sally Kellerman) after a psychic force invades their minds.",
+  "TopCast": [
+    "william shatner",
+    "leonard nimoy",
+    "deforest kelley"
+  ],
+  "Directors": [
+    "james goldstone"
+  ]
+}

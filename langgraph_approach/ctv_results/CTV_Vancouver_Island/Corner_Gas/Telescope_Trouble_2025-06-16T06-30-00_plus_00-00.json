@@ -1,0 +1,38 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Telescope Trouble",
+  "Desc": "Brent enters into a long-term relationship; Wanda's telescope.",
+  "StartTime": "2025-06-16T06:30:00+00:00",
+  "EndTime": "2025-06-16T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_00f684ad-c0c0-4e8e-b541-8090a4fe6c0e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent enters into a long-term relationship; Wanda's telescope.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

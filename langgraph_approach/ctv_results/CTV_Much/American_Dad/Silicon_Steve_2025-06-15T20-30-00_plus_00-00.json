@@ -1,0 +1,44 @@
+{
+  "Name": "American Dad!",
+  "Title": "Silicon Steve",
+  "Desc": "Steve spends his summer working on an app with some friends; the family becomes cord-cutters.",
+  "StartTime": "2025-06-15T20:30:00+00:00",
+  "EndTime": "2025-06-15T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_82537ad6-a0c0-4a5a-a90a-d80a4bd6eb79_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 19,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Steve spends his summer working on an app with some unlikely friends; the rest of the family becomes cord-cutters.",
+  "TopCast": [
+    "seth macfarlane",
+    "wendy schaal",
+    "rachael macfarlane"
+  ],
+  "Directors": [
+    "joe daniello"
+  ]
+}

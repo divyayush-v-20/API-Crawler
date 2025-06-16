@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "Nemesis",
+  "Desc": "Severide struggles with the cost of helping Pryma with the Martucci case; a familiar face returns.",
+  "StartTime": "2025-06-15T21:00:00+00:00",
+  "EndTime": "2025-06-15T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_4ca57d6b-ffb0-4d09-8704-0d7863fec455_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Severide struggles with the cost of helping Det. Pryma with the Martucci case; Gallo campaigns for Herrmann to represent 51 at the National Firefighter's Association's Winter Conference; a familiar face makes a shocking return.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "reza tabrizi"
+  ]
+}

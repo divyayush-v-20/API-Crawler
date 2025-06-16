@@ -1,0 +1,94 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T09:18:10+03:00",
+  "program_data": {
+    "title": "Elämä käännekohdassa",
+    "description": "5/8. Prostituutio on todellinen ilmiö, jossa riistetään ja nöyryytetään todellisia naisia. Heidän taustaltaan löytyy usein köyhyyttä, seksuaalista hyväksikäyttöä ja psykososiaalisia ongelmia. He ovat unohdettu ihmisryhmä, josta useimmat ihmiset eivät halua kuulla. \"Jasmina\" on yksi heistä. Toimittaja Anja Kontor tapaa ihmisiä, jotka ovat selviytyneet vaikeista elämäntilanteista. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50455535"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.18",
+        "raw": "2025-06-12T09:18:10+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T09:47:47+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "29 min",
+        "raw": "PT1777S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3513266"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50455535.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

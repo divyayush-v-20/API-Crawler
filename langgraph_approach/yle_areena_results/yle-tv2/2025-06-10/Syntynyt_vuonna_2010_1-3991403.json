@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T13:42:00+03:00",
+  "program_data": {
+    "title": "Syntynyt vuonna 2010",
+    "description": "Kausi 1, 1/4. Dokumenttisarja yhdeksän lapsen ensimmäisestä elinvuodesta. Ensimmäisessä jaksossa syntyy neljä ensimmäistä lasta. Saran vauva sai alkunsa hedelmöitysklinikalla. 17-vuotias Alexandra yrittää olla sekä äiti että lapsi. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-3991403"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.42",
+        "raw": "2025-06-10T13:42:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T14:41:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "59 min",
+        "raw": "PT3540S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4056820"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-3991403.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

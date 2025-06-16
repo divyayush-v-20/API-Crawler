@@ -1,0 +1,35 @@
+{
+  "Name": "The Real Murders of Atlanta",
+  "Title": "Blood Brothers",
+  "Desc": "A prestigious Atlanta college is stunned when one of its own students is tortured and murdered.",
+  "StartTime": "2025-06-15T23:00:00+00:00",
+  "EndTime": "2025-06-16T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_7573cf5a-9a53-4053-8a11-093b0ef831dc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "A prestigious Atlanta college is stunned when one of its own students is horrifically tortured and murdered off campus; investigators discover that greed may have led to the promising athlete's tragic end.",
+  "TopCast": [],
+  "Directors": []
+}

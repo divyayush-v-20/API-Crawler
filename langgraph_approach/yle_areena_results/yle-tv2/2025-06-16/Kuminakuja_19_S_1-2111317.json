@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T07:28:51+03:00",
+  "program_data": {
+    "title": "Kuminakuja 19 (S)",
+    "description": "Tanja jää yksin. Tanjan jalka on murtunut ja häntä harmittaa istua yksin sisällä. Kaikilla muilla tuntuu olevan jotain hauskaa tehtävää.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2111317"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.28",
+        "raw": "2025-06-16T07:28:51+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T07:36:34+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "7 min",
+        "raw": "PT463S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3719363"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-2111317.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

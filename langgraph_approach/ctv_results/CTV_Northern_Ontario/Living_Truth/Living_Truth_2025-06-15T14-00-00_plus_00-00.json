@@ -1,0 +1,37 @@
+{
+  "Name": "Living Truth",
+  "Title": "Living Truth",
+  "Desc": "Extending the reach of the gospel beyond the walls of the Peoples Church.",
+  "StartTime": "2025-06-15T14:00:00+00:00",
+  "EndTime": "2025-06-15T14:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_42e937a0-ad7a-4c0a-9ed3-2cca4e70b658_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "24",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "religious"
+  ],
+  "LongDescription": "Extending the reach of the gospel beyond the walls of the Peoples Church, \"Living Truth\" presents biblical insights, applying them to today's ever-changing world.",
+  "TopCast": [
+    "charles price"
+  ],
+  "Directors": []
+}

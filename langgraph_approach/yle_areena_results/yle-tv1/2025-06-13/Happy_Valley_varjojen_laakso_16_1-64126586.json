@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T22:05:54+03:00",
+  "program_data": {
+    "title": "Happy Valley, varjojen laakso (16)",
+    "description": "Kausi 3, 6/7. Karkulainen. Poliisi tutkii naisenmurhaa. Vankikarkurin etsintä käy kiivaana ja Catherinen perhe ohjataan turvaan. Royce piilotetaan kurjaan läävään, seuraavasta viikosta on tulossa pitkä. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-64126586"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "22.05",
+        "raw": "2025-06-13T22:05:54+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T23:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "54 min",
+        "raw": "PT3246S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2312043"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-64126586.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Virginia Hyatt",
+  "Desc": "A square dancer is killed on the steps of her home, and surveillance footage leads to the killer.",
+  "StartTime": "2025-06-16T21:00:00+00:00",
+  "EndTime": "2025-06-16T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_11_682cb27b-0caa-4eb4-8d76-78ccacf58810_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "When a Texarkana square dancer is gunned down on the steps of her home, detectives follow a trail of surveillance footage leading straight to the killer.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

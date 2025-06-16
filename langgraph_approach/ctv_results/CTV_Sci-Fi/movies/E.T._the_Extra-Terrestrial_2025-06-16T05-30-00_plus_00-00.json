@@ -1,0 +1,45 @@
+{
+  "Name": "E.T. the Extra-Terrestrial",
+  "Title": "E.T. the Extra-Terrestrial",
+  "Desc": "A suburban California boy (Henry Thomas) befriends a harmless, homesick alien stranded on Earth.",
+  "StartTime": "2025-06-16T05:30:00+00:00",
+  "EndTime": "2025-06-16T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_eae9957c-31c6-4567-82e3-c90b9025b5d3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1982",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "family",
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott (Henry Thomas). Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie (Drew Barrymore), and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.",
+  "TopCast": [
+    "henry thomas",
+    "dee wallace",
+    "peter coyote"
+  ],
+  "Directors": [
+    "steven spielberg"
+  ]
+}

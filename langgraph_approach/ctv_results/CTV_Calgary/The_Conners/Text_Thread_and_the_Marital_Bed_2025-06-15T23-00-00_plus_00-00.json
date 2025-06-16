@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Text Thread and the Marital Bed",
+  "Desc": "Louise gets into a feud after accidentally sending a rude message in the family text thread.",
+  "StartTime": "2025-06-15T23:00:00+00:00",
+  "EndTime": "2025-06-15T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_88d18916-0fd1-4a4f-948d-8807e176a197_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Louise gets into a feud with Becky after accidentally sending a rude message in the family text thread; Darlene tries to spice up her sex life with Ben.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "jody margolin hahn"
+  ]
+}

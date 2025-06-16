@@ -1,0 +1,46 @@
+{
+  "Name": "NUMB3RS",
+  "Title": "Dark Matter",
+  "Desc": "During a school-shooting investigation, one of the suspects surprises Don and his team.",
+  "StartTime": "2025-06-16T20:00:00+00:00",
+  "EndTime": "2025-06-16T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_f36afd9a-a243-47a3-a395-40bcf8c6ab35_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "During a school-shooting investigation, one of the suspects surprises Don and his team.",
+  "TopCast": [
+    "rob morrow",
+    "david krumholtz",
+    "peter macnicol"
+  ],
+  "Directors": [
+    "peter ellis"
+  ]
+}

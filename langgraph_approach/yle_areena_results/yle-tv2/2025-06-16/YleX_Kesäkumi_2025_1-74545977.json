@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T20:57:29+03:00",
+  "program_data": {
+    "title": "YleX Kesäkumi 2025",
+    "description": "Vuoden 2025 Kesäkumibiisi on nimeltään Väärään ihmiseen ja sen esittää HUGO! Kesäkumi-kampanjan toteuttavat YleX, Suomen Punainen Risti, Syöpäjärjestöt ja Sotilaskotiliitto. Kampanjan aikana jaetaan kymmeniä tuhansia kondomeja kesän eri tapahtumissa ja muistutetaan nuoria turvallisesta ja suostumuksellisesta seksistä - heti ensi kerrasta alkaen. Kampanjan rahoituksessa on mukana Sosiaali- ja terveysministeriö.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74545977"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.57",
+        "raw": "2025-06-16T20:57:29+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T21:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 min",
+        "raw": "PT151S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50823043"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74545977.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "Killjoys",
+  "Title": "Necropolis Now",
+  "Desc": "As Johnny faces off with someone from his past, Dutch faces her own personal hell.",
+  "StartTime": "2025-06-14T11:00:00+00:00",
+  "EndTime": "2025-06-14T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_a3caf700-f270-46bf-ac26-c8ca869f7d2c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action",
+    "adventure",
+    "science fiction",
+    "crime"
+  ],
+  "LongDescription": "As Johnny faces off with someone from his past, Dutch faces her own personal hell.",
+  "TopCast": [
+    "hannah john-kamen",
+    "aaron ashmore",
+    "luke macfarlane"
+  ],
+  "Directors": []
+}

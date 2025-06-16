@@ -1,0 +1,38 @@
+{
+  "Name": "Friends",
+  "Title": "The One Where the Monkey Gets Away",
+  "Desc": "Ross' pet monkey is on the lam after escaping from Rachel's care.",
+  "StartTime": "2025-06-15T20:30:00+00:00",
+  "EndTime": "2025-06-15T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_17dc1859-d359-459f-9603-3c9f6b78c1b3_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1995",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Rachel accidentally lets Ross' pet monkey escape, and the friends form a search party; she is then horrified to learn that her former best friend is engaged to her ex-fiance.",
+  "TopCast": [
+    "jennifer aniston",
+    "courteney cox",
+    "lisa kudrow"
+  ],
+  "Directors": []
+}

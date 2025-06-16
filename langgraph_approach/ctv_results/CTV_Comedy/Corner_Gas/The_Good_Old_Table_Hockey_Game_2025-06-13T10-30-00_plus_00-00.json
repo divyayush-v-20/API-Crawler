@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "The Good Old Table Hockey Game",
+  "Desc": "Davis buys a table hockey game for the station and finds that Karen is good at it.",
+  "StartTime": "2025-06-13T10:30:00+00:00",
+  "EndTime": "2025-06-13T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4831347c-b453-4b26-8ce7-fea54bcb7236_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Davis buys a table hockey game for the station and finds that Karen is good at it.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

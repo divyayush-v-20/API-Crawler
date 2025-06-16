@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T17:00:00+03:00",
+  "program_data": {
+    "title": "YleX Ilta: Womma",
+    "description": "YleX:n iltavuoroa ohjastaa Womma. Energiajuomaharrastaja, wrestling-fani ja japanilaisen pop-kulttuurin konossööri. Tärkeimpien hittien lisäksi tarjolla on mm. rautaisannos lakonista huumoria ja väärien vastausten metsästystä.\n\nVartin valtauksessa musiikkipäällikkönä toimivat YleX:n kuuntelijat.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74834364"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.00",
+        "raw": "2025-06-10T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T20:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069907"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

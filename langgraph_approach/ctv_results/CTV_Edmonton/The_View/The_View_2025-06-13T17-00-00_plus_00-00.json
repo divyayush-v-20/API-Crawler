@@ -1,0 +1,41 @@
+{
+  "Name": "The View",
+  "Title": "The View",
+  "Desc": "Actress Carrie Coon; celebrating Alyssa Farah Griffin's birthday.",
+  "StartTime": "2025-06-13T17:00:00+00:00",
+  "EndTime": "2025-06-13T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_7069f144-97a5-4b33-af51-f21f2c462d89_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "183",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Actress Carrie Coon; celebrating Alyssa Farah Griffin's birthday with a chance to adopt dogs from Muddy Paws Rescue.",
+  "TopCast": [
+    "whoopi goldberg",
+    "joy behar",
+    "sunny hostin"
+  ],
+  "Directors": [
+    "sarah de la o"
+  ]
+}

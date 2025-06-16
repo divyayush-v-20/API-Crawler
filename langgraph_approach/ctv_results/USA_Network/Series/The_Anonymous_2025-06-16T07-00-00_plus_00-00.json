@@ -1,0 +1,35 @@
+{
+  "Name": "The Anonymous",
+  "Title": "The Anonymous",
+  "Desc": "To win up to $100,000, players must lead double lives to keep their true identities hidden.",
+  "StartTime": "2025-06-16T07:00:00+00:00",
+  "EndTime": "2025-06-16T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_d02a2826-68de-48b5-9190-e0948265a2ef_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality"
+  ],
+  "LongDescription": "Preparing oneself for the ultimate showdown of strategy, perception and deception; played in two worlds, 12 participants will live and work together face to face while skillfully concealing their true identities behind a digital handle online; communicating through a messaging system in their individual hideouts, players can say and do whatever they want for the good of their own game; in a battle of wits and tactics like never before, the stakes are high, with a grand prize of up to $100,000 awaiting the individual who exhibits unparalleled expertise in keeping their true identity hidden; staying anonymous to stay in the game.",
+  "TopCast": [],
+  "Directors": []
+}

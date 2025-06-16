@@ -1,0 +1,42 @@
+{
+  "Name": "The Bold and the Beautiful",
+  "Title": "The Bold and the Beautiful",
+  "Desc": "Hope comforts Brooke; Steffy doesn't realize that she is clearly in danger.",
+  "StartTime": "2025-06-12T19:30:00+00:00",
+  "EndTime": "2025-06-12T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_a0483bfa-8d36-4e33-8aee-2f5942ca553d_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "187",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "soap",
+    "drama",
+    "romance"
+  ],
+  "LongDescription": "Hope comforts Brooke, who is now without Ridge, Hope or Beth; Steffy doesn't realize that she is clearly in danger.",
+  "TopCast": [
+    "katherine kelly lang",
+    "jacqueline macinnes wood",
+    "thorsten kaye"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "The Social",
+  "Title": "The Social",
+  "Desc": "Beat the heat with these \"cool-cations.\"",
+  "StartTime": "2025-06-11T10:00:00+00:00",
+  "EndTime": "2025-06-11T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_01ccd122-378c-4373-a527-de6077fe3b1c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "171",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Beat the heat with these \"cool-cations.\"",
+  "TopCast": [
+    "melissa grelo",
+    "cynthia loyst",
+    "andrea bain"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Corner Gas Animated",
+  "Title": "Oedipus Hex",
+  "Desc": "Ike's barn burns down and Lacey wants to help; Lacey organizes a bachelor auction to raise money.",
+  "StartTime": "2025-06-15T07:00:00+00:00",
+  "EndTime": "2025-06-15T07:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_2687b5c2-9213-4593-993e-e564e2226f69_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Ike's barn burns down and Lacey wants to help; Lacey organizes a bachelor auction to raise money, attracting a mystery woman who bids high for Brent; the more time the two spend together, the more curious the town gets about the woman's identity.",
+  "TopCast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "Directors": []
+}

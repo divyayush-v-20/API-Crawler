@@ -1,0 +1,78 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T22:00:00+03:00",
+  "program_data": {
+    "title": "Ron Carter: oikeita ääniä etsimässä (S)",
+    "description": "Dokumentti jazzin herrasmieslegenda Ron Carterista, joka on todennäköisesti kaikkien aikojen eniten levyttänyt jazzmuusikko. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-65909981"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "22.00",
+        "raw": "2025-06-12T22:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T23:47:05+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 47 min",
+        "raw": "PT6425S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-65909981.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "NUMB3RS",
+  "Title": "Protest",
+  "Desc": "The team probes an anti-war bombing which bears the stamp of a 1970's peace activist.",
+  "StartTime": "2025-06-14T07:00:00+00:00",
+  "EndTime": "2025-06-14T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_8150d07d-2d92-4265-a836-84eb2094ed8e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "Don and his team investigate a deadly anti-war bombing that bears the stamp of a 1970s activist who went missing 30 years earlier when accused of planting a bomb that killed two people.",
+  "TopCast": [
+    "rob morrow",
+    "david krumholtz",
+    "peter macnicol"
+  ],
+  "Directors": [
+    "dennis smith"
+  ]
+}

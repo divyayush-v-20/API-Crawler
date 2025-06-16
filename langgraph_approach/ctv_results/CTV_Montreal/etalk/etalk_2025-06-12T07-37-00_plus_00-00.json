@@ -1,0 +1,40 @@
+{
+  "Name": "etalk",
+  "Title": "etalk",
+  "Desc": "Taye Diggs at Banff World Media Festival; actors Julianne Moore and Sydney Sweeney (\"Echo Valley\").",
+  "StartTime": "2025-06-12T07:37:00+00:00",
+  "EndTime": "2025-06-12T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_01093741-32bd-4bef-a804-79fc8f69250a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 23,
+  "SeasonNo": null,
+  "EpisodeNumber": "105",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "left in progress",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "entertainment"
+  ],
+  "LongDescription": "Taye Diggs at Banff World Media Festival; actors Julianne Moore and Sydney Sweeney (\"Echo Valley\").",
+  "TopCast": [
+    "tyrone edwards",
+    "lainey lui",
+    "traci melchor"
+  ],
+  "Directors": []
+}

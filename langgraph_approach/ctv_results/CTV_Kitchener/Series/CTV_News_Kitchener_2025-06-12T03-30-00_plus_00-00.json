@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Kitchener",
+  "Title": "CTV News Kitchener",
+  "Desc": "Breaking news, headlines and top stories from Kitchener.",
+  "StartTime": "2025-06-12T03:30:00+00:00",
+  "EndTime": "2025-06-12T04:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_efb6009e-b540-4d64-9a7f-fcfae858e3b5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 35,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Kitchener.",
+  "TopCast": [],
+  "Directors": []
+}

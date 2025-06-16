@@ -1,0 +1,38 @@
+{
+  "Name": "Hotel Cocaine",
+  "Title": "The Most Wonderful Time of the Year",
+  "Desc": "After a failed assassination attempt, Yolanda Guerra arrives from Colombia.",
+  "StartTime": "2025-06-14T08:35:00+00:00",
+  "EndTime": "2025-06-14T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_f956a1ff-6180-4a1f-811d-915e87ce7621_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 85,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "After a failed assassination attempt, Yolanda Guerra arrives from Colombia to take matters into her own hands; when she discovers Roman saved Nestor's life, the Colombians target Roman's family.",
+  "TopCast": [
+    "danny pino",
+    "michael chiklis",
+    "mark feuerstein"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Day of the Fugitive",
+  "Desc": "Hobo locates a possible plague carrier who jumped ship and returns him to the authorities.",
+  "StartTime": "2025-06-12T12:30:00+00:00",
+  "EndTime": "2025-06-12T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_8ce1a967-bada-4715-bf32-62e77d6ff8c2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1981",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo locates a possible plague carrier who jumped ship and returns him to the authorities.",
+  "TopCast": [
+    "edward heeley",
+    "gerard parkes",
+    "larry lewis"
+  ],
+  "Directors": [
+    "joseph l. scanlan"
+  ]
+}

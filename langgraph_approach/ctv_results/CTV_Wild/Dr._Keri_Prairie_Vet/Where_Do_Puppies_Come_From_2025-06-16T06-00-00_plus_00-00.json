@@ -1,0 +1,37 @@
+{
+  "Name": "Dr. Keri: Prairie Vet",
+  "Title": "Where Do Puppies Come From?",
+  "Desc": "Following the puppies' progress after Dr. Keri's ultrasound indicates that Mimic is pregnant.",
+  "StartTime": "2025-06-16T06:00:00+00:00",
+  "EndTime": "2025-06-16T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b16c5f19-918f-4b45-81da-b9b9d99f213e_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "After Dr. Keri's ultrasound indicates that the Sheltie, Mimic, is pregnant, the show follows the puppies' progress from birth to four weeks old.",
+  "TopCast": [
+    "keri hudson reykdal"
+  ],
+  "Directors": []
+}

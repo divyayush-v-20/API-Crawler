@@ -1,0 +1,44 @@
+{
+  "Name": "Bob Hearts Abishola",
+  "Title": "The Devil's Taste Buds",
+  "Desc": "While Dele is in Nigeria with his dad, Abishola struggles with how to handle her free time.",
+  "StartTime": "2025-06-15T03:30:00+00:00",
+  "EndTime": "2025-06-15T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_302ed703-693a-49ca-8d00-f445ffeb4e24_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "While Dele is in Nigeria with his dad, Abishola struggles with how to handle her free time; Dottie enlists Christina's help at her old house; Olu and Tunde try to keep up with their new Nigerian houseguest.",
+  "TopCast": [
+    "billy gardell",
+    "folake olowofoyeku",
+    "christine ebersole"
+  ],
+  "Directors": [
+    "beth mccarthy-miller",
+    "beth mccarthy miller"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "A couple of young fellows jump into the Cash Cab, and unfortunately get a strike early in the game.",
+  "StartTime": "2025-06-11T20:30:00+00:00",
+  "EndTime": "2025-06-11T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_07dbb529-c280-4217-ab8b-f9248bb8aad0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "A couple of young fellows jump into the Cash Cab, and unfortunately get a strike early in the game.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

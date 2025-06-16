@@ -1,0 +1,39 @@
+{
+  "Name": "W5",
+  "Title": "48 Hours",
+  "Desc": "An investigation into the fentanyl epidemic on the streets of Vancouver.",
+  "StartTime": "2025-06-16T00:00:00+00:00",
+  "EndTime": "2025-06-16T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_63b5bfe8-1c75-440b-8bcc-6632db741c6f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 51,
+  "EpisodeNumber": "27",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "newsmagazine"
+  ],
+  "LongDescription": "An investigation into the fentanyl epidemic on the streets of Vancouver.",
+  "TopCast": [
+    "kevin newman",
+    "lloyd robertson",
+    "sandie rinaldo"
+  ],
+  "Directors": []
+}

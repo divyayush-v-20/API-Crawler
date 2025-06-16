@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Induction Cooktops; Truck Scales",
+  "Desc": "Induction cooktops; truck scales; Tetra Pak containers; harmonicas.",
+  "StartTime": "2025-06-12T11:30:00+00:00",
+  "EndTime": "2025-06-12T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_fcab1ae0-cc43-4e78-9ef7-39d88eff950e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 11,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Induction cooktops; truck scales; Tetra Pak containers; harmonicas.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

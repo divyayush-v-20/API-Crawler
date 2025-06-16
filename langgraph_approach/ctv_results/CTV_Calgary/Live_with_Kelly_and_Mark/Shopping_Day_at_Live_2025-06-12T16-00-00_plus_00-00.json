@@ -1,0 +1,39 @@
+{
+  "Name": "Live with Kelly and Mark",
+  "Title": "Shopping Day at Live",
+  "Desc": "Orlando Bloom; Shopping Day with Monica Mangin; Jason Isaacs (\"The White Lotus\").",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_5c462ad2-a0d2-46aa-b906-0afd24f17a92_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "203",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Orlando Bloom; Shopping Day with Monica Mangin; Jason Isaacs (\"The White Lotus\").",
+  "TopCast": [
+    "kelly ripa",
+    "mark consuelos",
+    "orlando bloom"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "You Kill Mine, I Kill Yours",
+  "Desc": "Two rural families get along famously until one claims the other's dog killed their goat.",
+  "StartTime": "2025-06-15T02:00:00+00:00",
+  "EndTime": "2025-06-15T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_8373462a-9bc8-4316-9d7b-cebb664b95c8_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "Two rural families get along famously until one claims the other's dog killed their goat; when the dog goes missing, accusations fly; both families get locked in conflict, with outrages piling up until human blood spills.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

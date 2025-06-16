@@ -1,0 +1,39 @@
+{
+  "Name": "The Social",
+  "Title": "The Social",
+  "Desc": "Baked goods using Canadian summer produce.",
+  "StartTime": "2025-06-16T21:00:00+00:00",
+  "EndTime": "2025-06-16T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_c6ea854f-0055-413b-85c4-da7006c695d0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "175",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Baked goods using Canadian summer produce.",
+  "TopCast": [
+    "melissa grelo",
+    "cynthia loyst",
+    "andrea bain"
+  ],
+  "Directors": []
+}

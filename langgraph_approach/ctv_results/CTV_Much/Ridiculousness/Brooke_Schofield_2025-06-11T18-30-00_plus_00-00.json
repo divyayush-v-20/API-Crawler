@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Brooke Schofield",
+  "Desc": "Rob, Steelo and Brooke Schofield celebrate the male brain with \"Dude Smart.\"",
+  "StartTime": "2025-06-11T18:30:00+00:00",
+  "EndTime": "2025-06-11T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_31a5b3a2-6068-417b-ad8a-bfb27e78b13c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and Brooke Schofield celebrate the male brain with \"Dude Smart\"; spending time with some unique dogs in \"Strange Pups\"; accidentally smacking skulls in \"Head to Head.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

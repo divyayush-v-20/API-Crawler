@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Rocsi Diaz XIX",
+  "Desc": "Rob, Steelo, and Rocsi Diaz roll strikes in Bowling, fire Bullets, and go for living Snacks.",
+  "StartTime": "2025-06-12T18:30:00+00:00",
+  "EndTime": "2025-06-12T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_198c17b8-9a0f-451e-b04b-50b4fc4be336_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 39,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo, and Rocsi Diaz roll strikes in People Bowling, fire off-Board Bullets, and work up their appetite for Living Snacks.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

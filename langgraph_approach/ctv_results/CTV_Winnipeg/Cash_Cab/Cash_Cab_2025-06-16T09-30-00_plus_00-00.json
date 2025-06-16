@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Neeta, Ash and Ballu are a bit bewildered by the Cash Cab, until the game gets going.",
+  "StartTime": "2025-06-16T09:30:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_08274b5f-9d9c-4096-90e4-47133316df70_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Neeta, Ash and Ballu are a bit bewildered by the Cash Cab, but once the game gets going, they are the ones bewildering Adam with their smarts.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Kris's Mother-In-Law",
+  "Desc": "Kris worries about a visit with Bruce's mom; Kim takes measures to make Kylie's fashion blog.",
+  "StartTime": "2025-06-15T12:00:00+00:00",
+  "EndTime": "2025-06-15T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_58063bdf-95e7-4b58-a589-b832480aca07_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kris worries about a visit with Bruce's mom; Kim takes desperate measures to make Kylie's fashion blog; the family plans a surprise for Kris.",
+  "TopCast": [
+    "kris jenner",
+    "kim kardashian",
+    "khlo\u00e9 kardashian"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Lolo Wood LXXXVIII",
+  "Desc": "Protecting valuables from Sack Smacks; going from deck to decked in Boat to Boat.",
+  "StartTime": "2025-06-15T23:30:00+00:00",
+  "EndTime": "2025-06-16T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_808ba2ab-bf32-474b-9ea6-8ce6c7bb19b8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob Dyrdek, Steelo Brim and Lolo Wood try to protect their most valuables from Sack Smacks, go from deck to decked in Boat to Boat, and get blocked from big air in Jumpstacles.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

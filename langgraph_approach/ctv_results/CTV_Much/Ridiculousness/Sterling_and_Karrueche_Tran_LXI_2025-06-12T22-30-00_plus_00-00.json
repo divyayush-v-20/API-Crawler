@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Karrueche Tran LXI",
+  "Desc": "Rob, Steelo and Karrueche Tran feel the pain of being hit by two wheels in \"Man vs. Bike.\"",
+  "StartTime": "2025-06-12T22:30:00+00:00",
+  "EndTime": "2025-06-12T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_28a688b8-921e-468d-a236-1e7acde96dec_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 39,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and Karrueche Tran feel the pain of being hit by two wheels in \"Man vs. Bike\"; spraying the stink away with some \"Fresh Fanatics\"; staying hungry after being fed some \"Disappointing Dishes.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

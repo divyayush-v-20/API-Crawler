@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "Angry Is Easier",
+  "Desc": "Herrmann is tasked with fulfilling a man's dying wish; a heckler harasses Firehouse 51.",
+  "StartTime": "2025-06-15T19:00:00+00:00",
+  "EndTime": "2025-06-15T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_9c73730f-71d8-4bc7-a1db-e642e653f416_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Herrmann is tasked with fulfilling a man's dying wish; Kidd reflects on her Girls on Fire program after one of her students graduates from the Fire Academy; a heckler harasses Firehouse 51.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "kantu lentz"
+  ]
+}

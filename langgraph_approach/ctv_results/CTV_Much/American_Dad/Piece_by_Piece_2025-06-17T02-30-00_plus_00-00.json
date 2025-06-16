@@ -1,0 +1,44 @@
+{
+  "Name": "American Dad!",
+  "Title": "Piece by Piece",
+  "Desc": "Steve and Stan work together to uncover Roger's personas' mysterious past.",
+  "StartTime": "2025-06-17T02:30:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_d2686e32-b1bd-4d48-b23f-aca6511901d2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 19,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "After a nearly fatal interaction with one of Roger's personas, Steve and Stan work together to uncover the persona's mysterious past; Jeff, Hayley and Francine explore new hobbies.",
+  "TopCast": [
+    "seth macfarlane",
+    "wendy schaal",
+    "rachael macfarlane"
+  ],
+  "Directors": [
+    "josue cervantes"
+  ]
+}

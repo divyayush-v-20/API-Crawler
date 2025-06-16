@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: The Next Generation",
+  "Title": "The Battle",
+  "Desc": "Picard is terrorized by a Ferengi captain out to avenge the death of his son seven years earlier.",
+  "StartTime": "2025-06-12T08:00:00+00:00",
+  "EndTime": "2025-06-12T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_cd9f090e-968a-41d7-8c0b-3e1a10f48556_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1987",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure",
+    "drama"
+  ],
+  "LongDescription": "A vengeful Ferengi captain returns Picard's long-lost ship, the Stargazer, after installing a mind-altering device.",
+  "TopCast": [
+    "patrick stewart",
+    "jonathan frakes",
+    "levar burton"
+  ],
+  "Directors": [
+    "rob bowman"
+  ]
+}

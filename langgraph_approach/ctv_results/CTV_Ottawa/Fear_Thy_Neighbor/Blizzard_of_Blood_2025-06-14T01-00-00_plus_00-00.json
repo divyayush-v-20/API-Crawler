@@ -1,0 +1,39 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Blizzard of Blood",
+  "Desc": "A single woman and her two young sons believe they have found a perfect new apartment.",
+  "StartTime": "2025-06-14T01:00:00+00:00",
+  "EndTime": "2025-06-14T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_768c91dc-b5e6-4259-8d39-4292fbdac097_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "A single woman and her two young sons believe they have found a perfect new apartment, but their overbearing landlord and neighbor soon turns their idyllic situation into a living hell of arguments and intimidation that finally ends in bloodshed.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

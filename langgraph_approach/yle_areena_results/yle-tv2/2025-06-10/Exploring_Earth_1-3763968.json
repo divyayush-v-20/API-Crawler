@@ -1,0 +1,79 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T14:41:00+03:00",
+  "program_data": {
+    "title": "Exploring Earth",
+    "description": "2/5. Patagonia / Puuma. Miltä hengenvaarallinen Patagonian puuma näyttää luontokuvaaja Konsta Punkan linssin läpi? Konsta Punkka kuvaa näin isoja petoeläimiä ensimmäistä kertaa ilman piilokojun turvaa. Yli satakiloinen puuma hiipii alle viiden metrin päähän kuvaajia poseeraamaan kameralle. What does the patagonian puma look like through the lens of nature photographer Konsta Punkka? This is Konsta's first carnivore-photoshoot without the protection of photography hide. Huge pumas are not afraid of the cameramen as they sneak only few meters away. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-3763968"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.41",
+        "raw": "2025-06-10T14:41:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T14:45:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "4 min",
+        "raw": "PT240S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3763924"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-3763968.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

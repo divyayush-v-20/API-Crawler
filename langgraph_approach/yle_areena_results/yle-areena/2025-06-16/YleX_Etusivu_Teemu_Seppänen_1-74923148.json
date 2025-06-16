@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T12:00:00+03:00",
+  "program_data": {
+    "title": "YleX Etusivu: Teemu Seppänen",
+    "description": "Päivän parhaat puheenaiheet maanantaista perjantaihin!\nYleX Etusivu tarjoaa analyysia ja näkökulmia uutisiin ja popkulttuuriin.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74923148"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.00",
+        "raw": "2025-06-16T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069903"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

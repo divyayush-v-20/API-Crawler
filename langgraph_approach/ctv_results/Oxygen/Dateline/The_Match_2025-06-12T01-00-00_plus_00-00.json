@@ -1,0 +1,41 @@
+{
+  "Name": "Dateline",
+  "Title": "The Match",
+  "Desc": "A single drop of blood is the key to finding an attacker.",
+  "StartTime": "2025-06-12T01:00:00+00:00",
+  "EndTime": "2025-06-12T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_3238e726-25d8-441a-b8a2-ab2b1d714e59_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": 4,
+  "EpisodeNumber": "55",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "newsmagazine",
+    "documentary"
+  ],
+  "LongDescription": "A woman walks into her home to find her daughter covered in blood; a single drop of blood is the key to finding the attacker.",
+  "TopCast": [
+    "natalie morales",
+    "craig melvin",
+    "andrea canning"
+  ],
+  "Directors": []
+}

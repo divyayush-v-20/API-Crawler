@@ -1,0 +1,45 @@
+{
+  "Name": "Star Trek",
+  "Title": "The Enemy Within",
+  "Desc": "Capt. Kirk is split into two physical beings, one hostile, the other beneficent.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_2f337560-6837-4eaa-aa1f-5c13ee116456_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1966",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure"
+  ],
+  "LongDescription": "A transporter malfunction strands Sulu and others on a frigid planet and splits Kirk into two antithetical people.",
+  "TopCast": [
+    "william shatner",
+    "leonard nimoy",
+    "deforest kelley"
+  ],
+  "Directors": [
+    "leo penn"
+  ]
+}

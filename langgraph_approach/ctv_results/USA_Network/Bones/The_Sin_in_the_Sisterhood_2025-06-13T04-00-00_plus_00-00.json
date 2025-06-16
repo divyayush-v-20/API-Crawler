@@ -1,0 +1,41 @@
+{
+  "Name": "Bones",
+  "Title": "The Sin in the Sisterhood",
+  "Desc": "A corpse disguised as a scarecrow is found in a cornfield; Cam doubts her relationship.",
+  "StartTime": "2025-06-13T04:00:00+00:00",
+  "EndTime": "2025-06-13T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_8b256f39-4716-49a6-8879-a750b270d62c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "A man's corpse disguised as a scarecrow is found in a cornfield; Booth and Brennan question the victim's three wives, who are also sisters; Cam doubts her relationship.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": []
+}

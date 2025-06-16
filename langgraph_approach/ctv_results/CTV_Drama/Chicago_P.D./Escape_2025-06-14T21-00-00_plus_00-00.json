@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "Escape",
+  "Desc": "Returning from furlough, Torres goes under cover in a tense and high-stakes drug trafficking case.",
+  "StartTime": "2025-06-14T21:00:00+00:00",
+  "EndTime": "2025-06-14T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_f9a0a0af-63e9-4183-b09c-71048fabd2fa_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Returning from furlough, Torres goes under cover in a tense and high-stakes drug trafficking case.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "chad saxton"
+  ]
+}

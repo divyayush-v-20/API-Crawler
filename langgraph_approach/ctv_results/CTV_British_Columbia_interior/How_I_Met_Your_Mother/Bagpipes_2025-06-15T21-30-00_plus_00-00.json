@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Bagpipes",
+  "Desc": "Barney's know-it-all attitude gets him in hot water with Robin.",
+  "StartTime": "2025-06-15T21:30:00+00:00",
+  "EndTime": "2025-06-15T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_12_8a4a6ae8-85a7-4cca-8e20-7f61a09444d0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Barney's know-it-all attitude gets him in hot water with Robin; Marshall and Lily offer relationship advice.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "neil patrick harris"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

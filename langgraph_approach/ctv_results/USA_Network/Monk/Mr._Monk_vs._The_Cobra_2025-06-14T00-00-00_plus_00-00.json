@@ -1,0 +1,42 @@
+{
+  "Name": "Monk",
+  "Title": "Mr. Monk vs. The Cobra",
+  "Desc": "Monk tries to figure out how a person who has been dead for six years could have committed a murder.",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_6aa2384c-ad8d-4c5f-ae25-ca07feff43cd_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "Despite supposedly being dead for six years, a kung fu movie star is implicated in the murder of the author of a controversial tell-all biography.",
+  "TopCast": [
+    "tony shalhoub",
+    "ted levine",
+    "traylor howard"
+  ],
+  "Directors": [
+    "anthony r. palmieri"
+  ]
+}

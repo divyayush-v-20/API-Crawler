@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Debra Henderson",
+  "Desc": "A chance for love brings an Oklahoma woman to rural Texas, but she quickly disappears.",
+  "StartTime": "2025-06-12T05:00:00+00:00",
+  "EndTime": "2025-06-12T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_a63baa78-cb05-4287-8344-cb4047f64a6d_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "A chance for love brings an Oklahoma woman to rural Texas, but her quick disappearance has investigators following a paper trail that will expose the treachery of greed.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

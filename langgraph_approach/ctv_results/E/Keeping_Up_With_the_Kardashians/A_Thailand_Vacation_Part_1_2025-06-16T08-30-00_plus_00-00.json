@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "A Thailand Vacation Part 1",
+  "Desc": "The family vacation to Thailand gets off to a bumpy start. Brody walks in on Kim taking a selfie.",
+  "StartTime": "2025-06-16T08:30:00+00:00",
+  "EndTime": "2025-06-16T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_e1e607de-4dc7-4a2b-96e8-cf17b9dfaef7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 9,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "The family vacation to Thailand gets off to a bumpy start and things get awkward when Brody walks in on Kim taking a selfie for Kanye.",
+  "TopCast": [
+    "bruce jenner",
+    "kendall jenner",
+    "kris jenner"
+  ],
+  "Directors": []
+}

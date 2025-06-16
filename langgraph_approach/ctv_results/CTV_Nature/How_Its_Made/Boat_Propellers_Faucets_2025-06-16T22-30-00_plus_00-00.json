@@ -1,0 +1,44 @@
+{
+  "Name": "How It's Made",
+  "Title": "Boat Propellers; Faucets",
+  "Desc": "Dress forms; boat propellers; duvets; faucets.",
+  "StartTime": "2025-06-16T22:30:00+00:00",
+  "EndTime": "2025-06-16T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_b82b1a3d-4b54-4256-ba0b-5559fb7a98a1_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 10,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Dress forms; boat propellers; duvets; faucets.",
+  "TopCast": [
+    "lynne adams",
+    "tony hirst"
+  ],
+  "Directors": [
+    "yves martin allard",
+    "jean-francois despres",
+    "gabriel hoss",
+    "gr\u00e9goire viau"
+  ]
+}

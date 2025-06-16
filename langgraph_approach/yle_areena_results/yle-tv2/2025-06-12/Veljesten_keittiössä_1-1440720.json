@@ -1,0 +1,75 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T10:50:00+03:00",
+  "program_data": {
+    "title": "Veljesten keittiössä",
+    "description": "Kausi 3, 10/10. Veljeksillä on tapana käyttää ruoanlaitossa monenlaisia työvälineitä ja keittiökoneita. Tänään niitä esitellään näyttävästi. Kummalla on enemmän vempaimia? (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1440720"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.50",
+        "raw": "2025-06-12T10:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T11:20:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3511342"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

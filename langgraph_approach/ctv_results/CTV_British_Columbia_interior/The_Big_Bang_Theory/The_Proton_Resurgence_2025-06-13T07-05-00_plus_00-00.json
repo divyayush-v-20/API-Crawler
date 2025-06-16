@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Proton Resurgence",
+  "Desc": "Leonard and Sheldon hire the host of their favorite childhood TV show to perform.",
+  "StartTime": "2025-06-13T07:05:00+00:00",
+  "EndTime": "2025-06-13T07:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_71dca013-11c6-4360-a02f-3c1aebe647ec_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 32,
+  "SeasonNo": 6,
+  "EpisodeNumber": "22",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Leonard and Sheldon hire the host (Bob Newhart) of their favorite childhood TV show to perform; Bernadette and Howard run into trouble while dog-sitting for Raj's pet.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

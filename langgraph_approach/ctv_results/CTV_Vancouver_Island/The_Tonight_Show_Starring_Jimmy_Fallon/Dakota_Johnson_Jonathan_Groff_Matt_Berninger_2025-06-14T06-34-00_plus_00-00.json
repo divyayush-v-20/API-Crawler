@@ -1,0 +1,39 @@
+{
+  "Name": "The Tonight Show Starring Jimmy Fallon",
+  "Title": "Dakota Johnson; Jonathan Groff; Matt Berninger",
+  "Desc": "Actress Dakota Johnson; actor Jonathan Groff; Matt Berninger performs.",
+  "StartTime": "2025-06-14T06:34:00+00:00",
+  "EndTime": "2025-06-14T07:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_fc9ebee3-3729-44e8-849d-294da4b2af72_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 63,
+  "SeasonNo": 12,
+  "EpisodeNumber": "117",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "comedy"
+  ],
+  "LongDescription": "Actress Dakota Johnson; actor Jonathan Groff; Matt Berninger performs.",
+  "TopCast": [
+    "jimmy fallon",
+    "dakota johnson",
+    "jonathan groff"
+  ],
+  "Directors": []
+}

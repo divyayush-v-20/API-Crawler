@@ -1,0 +1,41 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "Firebird Fire Up",
+  "Desc": "",
+  "StartTime": "2025-06-14T10:30:00+00:00",
+  "EndTime": "2025-06-14T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_b9b3e972-3aa2-4ceb-8186-4487e33db639_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "The '67 Firebird is ready for fire-up and does not disappoint. Brad works on Dave's hot rod, while a '69 Charger gets some gap work before heading to the paint shop. Ron tasks Kalev with modifying the '35 Plymouth's headlights to fit a modern bulb.",
+  "TopCast": [
+    "david grainger",
+    "peter james haworth",
+    "paolo pininfarina"
+  ],
+  "Directors": []
+}

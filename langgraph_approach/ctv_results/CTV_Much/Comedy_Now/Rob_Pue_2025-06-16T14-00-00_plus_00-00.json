@@ -1,0 +1,41 @@
+{
+  "Name": "Comedy Now!",
+  "Title": "Rob Pue",
+  "Desc": "Comedian Rob Pue performs.",
+  "StartTime": "2025-06-16T14:00:00+00:00",
+  "EndTime": "2025-06-16T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_bd4a7123-9665-480a-bf47-e8e164f8b8b0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "variety",
+    "standup",
+    "comedy"
+  ],
+  "LongDescription": "Comedian Rob Pue performs.",
+  "TopCast": [
+    "james cunningham"
+  ],
+  "Directors": []
+}

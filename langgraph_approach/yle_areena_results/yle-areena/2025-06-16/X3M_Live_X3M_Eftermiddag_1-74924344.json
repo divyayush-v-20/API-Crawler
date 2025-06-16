@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T14:00:00+03:00",
+  "program_data": {
+    "title": "X3M Live: X3M Eftermiddag",
+    "description": "Märta och Emilie är ditt favoritsällskap varje eftermiddag på X3M. Hör av dig till studion via Whatsapp på numret 044 7800 180 eller via samtal på numret 0600 147311.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74924344"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.00",
+        "raw": "2025-06-16T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T16:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 30 min",
+        "raw": "PT9000S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-62004565"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Color Me Lonely",
+  "Desc": "Kris goes overboard trying to make sure Bruce isn't lonely; Scott and Kourtney inherit a painting.",
+  "StartTime": "2025-06-16T03:30:00+00:00",
+  "EndTime": "2025-06-16T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_8a7b1b85-32c4-4628-8e8e-2d293ba803be_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 9,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kris goes overboard trying to make sure Bruce isn't getting lonely; Scott and Kourtney inherit a painting that might be worth millions.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

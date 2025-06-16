@@ -1,0 +1,40 @@
+{
+  "Name": "Jamie's 15 Minute Meals",
+  "Title": "Crispy Duck and Chicken Cacciatore",
+  "Desc": "Crispy duck and hoi sin lettuce parcels; chicken cacciatore; spaghetti; tomato sauce.",
+  "StartTime": "2025-06-12T11:30:00+00:00",
+  "EndTime": "2025-06-12T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_76972521-23a3-449e-9fba-974591bfd7fa_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Jamie cooks crispy duck and hoi sin lettuce parcels, chicken cacciatore, and spaghetti and smoky tomato sauce.",
+  "TopCast": [
+    "jamie oliver"
+  ],
+  "Directors": [
+    "mike matthews"
+  ]
+}

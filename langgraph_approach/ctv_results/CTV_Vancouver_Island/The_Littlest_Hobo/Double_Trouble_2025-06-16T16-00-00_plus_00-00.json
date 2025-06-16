@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Double Trouble",
+  "Desc": "Hobo saves two draft horses from the glue factory.",
+  "StartTime": "2025-06-16T16:00:00+00:00",
+  "EndTime": "2025-06-16T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b9ff504b-ee9e-41bb-bb9d-23e87ecaa91a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1979",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo hides two horses destined to be destroyed and uses them to save a busload of children during a violent storm.",
+  "TopCast": [
+    "nini balogh",
+    "david bolt",
+    "brenda devine"
+  ],
+  "Directors": [
+    "richard gilbert"
+  ]
+}

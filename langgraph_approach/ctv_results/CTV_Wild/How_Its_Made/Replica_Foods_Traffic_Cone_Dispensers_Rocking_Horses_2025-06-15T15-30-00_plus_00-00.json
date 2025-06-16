@@ -1,0 +1,37 @@
+{
+  "Name": "How It's Made",
+  "Title": "Replica Foods; Traffic Cone Dispensers; Rocking Horses",
+  "Desc": "Replica foods, traffic cone dispensers, rocking horses, London taxis.",
+  "StartTime": "2025-06-15T15:30:00+00:00",
+  "EndTime": "2025-06-15T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_3854056f-8d59-4fcd-aca4-bbcde252fc29_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 15,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Replica foods, traffic cone dispensers, rocking horses, London taxis.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

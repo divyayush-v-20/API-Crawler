@@ -1,0 +1,36 @@
+{
+  "Name": "It Is Written: Canada",
+  "Title": "Surviving the Cambodian Killing Fields",
+  "Desc": "Straightforward, Christ-centered presentations that inspire and encourage.",
+  "StartTime": "2025-06-15T09:30:00+00:00",
+  "EndTime": "2025-06-15T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_0501b19c-a281-43cc-ba70-f05e5a76ac17_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "religious"
+  ],
+  "LongDescription": "Straightforward, Christ-centered presentations that inspire and encourage.",
+  "TopCast": [
+    "chris holland"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: The Next Generation",
+  "Title": "Sarek",
+  "Desc": "A visit by Sarek, the famous Vulcan ambassador, sparks violent outbursts aboard the Enterprise.",
+  "StartTime": "2025-06-11T05:00:00+00:00",
+  "EndTime": "2025-06-11T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_08fba112-a6ae-418f-b783-4d5e1a01f94a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "23",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1990",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure",
+    "drama"
+  ],
+  "LongDescription": "Vulcan ambassador Sarek becomes temperamental while on the Enterprise with his wife; Picard must mind-meld with the venerable Vulcan to soothe his emotional outbursts.",
+  "TopCast": [
+    "patrick stewart",
+    "jonathan frakes",
+    "levar burton"
+  ],
+  "Directors": [
+    "les landau"
+  ]
+}

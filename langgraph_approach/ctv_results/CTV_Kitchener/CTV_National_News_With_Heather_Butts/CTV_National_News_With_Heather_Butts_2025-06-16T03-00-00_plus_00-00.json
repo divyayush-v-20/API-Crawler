@@ -1,0 +1,37 @@
+{
+  "Name": "CTV National News With Heather Butts",
+  "Title": "CTV National News With Heather Butts",
+  "Desc": "Heather Butts presents the day's top news stories.",
+  "StartTime": "2025-06-16T03:00:00+00:00",
+  "EndTime": "2025-06-16T03:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_f6e2a0ce-c6d2-4371-8fdd-f4be4786bf5f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "75",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Heather Butts presents the day's top news stories.",
+  "TopCast": [
+    "heather butts"
+  ],
+  "Directors": []
+}

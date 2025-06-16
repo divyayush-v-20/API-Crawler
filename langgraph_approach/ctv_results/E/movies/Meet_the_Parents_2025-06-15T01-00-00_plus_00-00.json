@@ -1,0 +1,40 @@
+{
+  "Name": "Meet the Parents",
+  "Title": "Meet the Parents",
+  "Desc": "A woman's father (Robert De Niro) thinks her boyfriend (Ben Stiller) is unworthy.",
+  "StartTime": "2025-06-15T01:00:00+00:00",
+  "EndTime": "2025-06-15T03:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_88ef203d-12c3-48ca-9f30-15101a97349b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2000",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy"
+  ],
+  "LongDescription": "Everything that can possibly go wrong for groom-to-be Greg Focker (Ben Stiller) does. The problems begin with Greg's disastrous first meeting with his girlfriend's family -- most notably her intimidating father Jack Byrnes (Robert De Niro) and it's all downhill from there.",
+  "TopCast": [
+    "robert de niro",
+    "ben stiller",
+    "blythe danner"
+  ],
+  "Directors": [
+    "jay roach"
+  ]
+}

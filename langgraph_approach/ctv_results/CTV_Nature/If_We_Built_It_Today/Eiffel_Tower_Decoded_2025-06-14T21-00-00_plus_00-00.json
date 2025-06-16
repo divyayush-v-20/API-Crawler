@@ -1,0 +1,35 @@
+{
+  "Name": "If We Built It Today",
+  "Title": "Eiffel Tower Decoded",
+  "Desc": "Architects and engineers explore if modern innovations could be applied to re-create buildings.",
+  "StartTime": "2025-06-14T21:00:00+00:00",
+  "EndTime": "2025-06-14T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_a9e92348-db6d-42bb-88fd-3eb093f7e1c5_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science"
+  ],
+  "LongDescription": "Architects, historians and engineers explore if modern day innovations could be applied to re-create iconic building projects, or if fundamental construction techniques have been lost to time.",
+  "TopCast": [],
+  "Directors": []
+}

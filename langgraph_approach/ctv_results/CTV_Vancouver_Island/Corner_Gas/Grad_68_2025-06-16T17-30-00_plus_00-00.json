@@ -1,0 +1,38 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Grad '68",
+  "Desc": "Rookie cop Karen makes it her mission to find out who spray-painted \"Grad 68\" on the water tower.",
+  "StartTime": "2025-06-16T17:30:00+00:00",
+  "EndTime": "2025-06-16T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_81181c18-2e03-48f3-8b56-80c79c875298_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Rookie cop Karen makes it her mission to find out who spray-painted \"Grad 68\" on the water tower.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

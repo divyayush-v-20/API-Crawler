@@ -1,0 +1,38 @@
+{
+  "Name": "Megaspeed",
+  "Title": "Mojave Mile",
+  "Desc": "Virgil Benton looks to become the first to go 200 miles per hour in a Shelby Cobra.",
+  "StartTime": "2025-06-14T09:00:00+00:00",
+  "EndTime": "2025-06-14T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_e55e66b2-8df3-4beb-ace2-e93775eeeb84_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "auto"
+  ],
+  "LongDescription": "Virgil Benton looks to become the first to go 200 miles per hour in a Shelby Cobra; two-time European Top Fuel champion Anita Makela.",
+  "TopCast": [
+    "steve anthony"
+  ],
+  "Directors": []
+}

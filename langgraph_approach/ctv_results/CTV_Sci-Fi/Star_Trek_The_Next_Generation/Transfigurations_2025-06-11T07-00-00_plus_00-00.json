@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: The Next Generation",
+  "Title": "Transfigurations",
+  "Desc": "An amnesiac humanoid brings healing and danger to the Enterprise.",
+  "StartTime": "2025-06-11T07:00:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_832ff0a5-c4d8-4ca4-86b9-a0877045c2e3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "25",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1990",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure",
+    "drama"
+  ],
+  "LongDescription": "The Enterprise crew saves a badly injured humanoid who possesses remarkable powers, but danger follows behind him.",
+  "TopCast": [
+    "patrick stewart",
+    "jonathan frakes",
+    "levar burton"
+  ],
+  "Directors": [
+    "tom benko"
+  ]
+}

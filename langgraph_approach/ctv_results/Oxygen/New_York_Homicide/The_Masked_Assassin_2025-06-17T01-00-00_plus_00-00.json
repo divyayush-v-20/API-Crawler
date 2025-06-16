@@ -1,0 +1,38 @@
+{
+  "Name": "New York Homicide",
+  "Title": "The Masked Assassin",
+  "Desc": "After a CEO is found dismembered, detectives must utilize technology to identify his masked killer.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_11_dc357106-db7c-4dae-be8f-3d39fe9854dc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime",
+    "mystery"
+  ],
+  "LongDescription": "After a celebrated and beloved young tech CEO is found dismembered in his Lower East Side penthouse during the height of the COVID-19 pandemic, detectives must utilize technology themselves to identify and apprehend his masked killer.",
+  "TopCast": [],
+  "Directors": []
+}

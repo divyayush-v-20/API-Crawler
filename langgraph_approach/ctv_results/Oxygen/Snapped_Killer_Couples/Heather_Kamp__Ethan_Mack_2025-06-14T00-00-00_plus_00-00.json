@@ -1,0 +1,41 @@
+{
+  "Name": "Snapped: Killer Couples",
+  "Title": "Heather Kamp & Ethan Mack",
+  "Desc": "The disappearance of a young socialite in Charleston prompts a team of private investigators.",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_01269345-a8af-48c6-9d50-428178d6682f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 16,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "docudrama",
+    "crime"
+  ],
+  "LongDescription": "The disappearance of a young socialite in Charleston prompts a team of private investigators to unearth a betrayal at the hands of her two best friends, one of whom is a con artist with a secret.",
+  "TopCast": [
+    "anna vocino"
+  ],
+  "Directors": [
+    "christopher mitchell"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Name": "2025 U.S. Open Golf Championship",
+  "Title": "Final Round",
+  "Desc": "The 125th U.S. Open comes to an end with the final round from Oakmont Country Club in Pennsylvania.",
+  "StartTime": "2025-06-15T16:00:00+00:00",
+  "EndTime": "2025-06-15T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_29d45481-cb38-461e-bb24-cd3ee22e0b69_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 420,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Sports",
+  "SubType": "Sports event",
+  "Genres": [
+    "golf"
+  ],
+  "LongDescription": "The 125th U.S. Open comes to an end with the final round from Oakmont Country Club. In 1973, Johnny Miller shot the first 63 in major championship history to erase a six-stroke, 54-hole deficit and claim his only U.S. Open title at Oakmont.",
+  "TopCast": [],
+  "Directors": []
+}

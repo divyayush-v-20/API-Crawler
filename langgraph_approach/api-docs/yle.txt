@@ -1,0 +1,247 @@
+# YLE Areena API Documentation
+
+Based on the comprehensive network traffic analysis, I've documented the key APIs for crawling TV schedule data from YLE Areena, Finland's public broadcasting service. This documentation enables systematic extraction of TV program metadata.
+
+## Common API Parameters and Headers
+
+### Common Query Parameters
+language=fi - Sets language to Finnish
+v=10 - API version
+client=yle-areena-web - Client identifier
+country=IN - Country code
+app_id=areena-web-items - Application ID
+app_key=wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN - API key
+
+### Common Headers
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Referer: https://areena.yle.fi/
+
+### Common Cookies
+yle_selva=1749181611342597482
+
+## API Hierarchy and Dependency Map
+
+1. **TV Guide Navigation API** - Provides date navigation structure
+2. **Channel Schedule APIs** - Retrieves program schedules for specific channels and dates
+3. **Location API** - Determines user's geographic location (supporting role)
+
+## 1. TV Schedule APIs
+
+### API NAME AND ENDPOINT: GET Channel Schedule
+GET https://areena.api.yle.fi/v1/ui/schedules/{channel_id}/{date}.json
+
+**PURPOSE:** Retrieves the TV program schedule for a specific channel on a specific date.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns a list of TV programs scheduled for broadcast on the specified channel and date. Each program entry includes title, description, broadcast time, and program identifier. The program identifier can be used to access detailed content information.
+
+**PATH VARIABLES AND PARAMETERS:**
+channel_id (required): The channel identifier. Possible values:
+  - yle-areena - YLE Areena
+  - yle-tv1 - YLE TV1
+  - yle-tv2 - YLE TV2
+  - yle-teema-fem - YLE Teema/Fem
+  - tv-finland - TV Finland
+date (required): Date in YYYY-MM-DD format (e.g., 2025-06-09)
+
+**QUERY PARAMETERS:**
+yleReferer (required): Referrer string in format tv.guide.{date}.tv_opas.{channel_id}.untitled_list
+offset (optional): Starting index for pagination (default: 0)
+limit (optional): Maximum number of items to return (default: 100)
+
+**REAL EXAMPLE OF ENDPOINT:**
+https://areena.api.yle.fi/v1/ui/schedules/yle-tv1/2025-06-09.json?yleReferer=tv.guide.2025-06-09.tv_opas.yle_tv1.untitled_list&language=fi&v=10&client=yle-areena-web&offset=0&limit=100&country=IN&app_id=areena-web-items&app_key=wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN
+
+**SAMPLE REQUEST:**
+bash
+curl -X GET "https://areena.api.yle.fi/v1/ui/schedules/yle-tv1/2025-06-09.json?yleReferer=tv.guide.2025-06-09.tv_opas.yle_tv1.untitled_list&language=fi&v=10&client=yle-areena-web&offset=0&limit=100&country=IN&app_id=areena-web-items&app_key=wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN" \
+  -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" \
+  -H "Referer: https://areena.yle.fi/" \
+  -H "sec-ch-ua: \"Not.A/Brand\";v=\"99\", \"Chromium\";v=\"136\"" \
+  -H "sec-ch-ua-mobile: ?0" \
+  -H "sec-ch-ua-platform: \"Linux\"" \
+  --cookie "yle_selva=1749181611342597482"
+
+**SAMPLE RESPONSE:**
+json
+{
+  "apiVersion": "1.3.7106",
+  "meta": {
+    "offset": 0,
+    "limit": 100,
+    "count": 34,
+    "analytics": {
+      "context": {
+        "comscore": {
+          "yle_referer": "tv.guide.2025-06-09.tv_opas.yle_tv1.untitled_list"
+        },
+        "yle": {
+          "source_ref": "tv.guide.2025-06-09.tv_opas.yle_tv1.untitled_list"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "title": "Suomi on suomalainen",
+      "description": "6/10 Ylpeys ja häpeä. Jos suomalaisuus olisi tunne, millainen tunne se olisi? Suomalaisuuden emotionaalisesta ytimestä keskustelemassa mm. muusikko Maija Vilkkumaa ja psykiatri Sami Pirkola. (U)",
+      "pointer": {
+        "type": "program",
+        "uri": "yleareena://items/1-4058136"
+      },
+      "labels": [
+        {
+          "type": "broadcastStartDate",
+          "formatted": "6.55",
+          "raw": "2025-06-09T06:55:00+03:00",
+          "rawType": "date"
+        },
+        {
+          "type": "broadcastEndDate",
+          "raw": "2025-06-09T07:25:00+03:00",
+          "rawType": "date"
+        }
+      ],
+      "presentation": "scheduleCard",
+      "type": "card"
+    }
+    // Additional programs...
+  ]
+}
+
+**PAGINATION HANDLING:**
+The API supports offset-based pagination with the following parameters:
+offset: Starting index (0-based)
+limit: Number of items per page (default 100)
+Response includes meta.count showing total items in the result set
+To get all items, make multiple requests incrementing the offset by the limit value until you've retrieved meta.count items
+
+## 2. TV Guide Navigation API
+
+### API NAME AND ENDPOINT: GET TV Guide Date Navigation
+GET https://areena.yle.fi/_next/data/{build_id}/fi/tv/opas.json
+
+**PURPOSE:** Provides the structure for navigating between different dates in the TV guide and accessing channel schedules.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns the TV guide interface structure including navigation controls for different dates and channels. This API is essential for discovering available dates for TV schedules.
+
+**PATH VARIABLES AND PARAMETERS:**
+build_id (required): The build identifier for the Next.js application (e.g., Q_35nL8jUwGOhxPC9wVX5)
+  - Note: This value changes with application updates and must be extracted from the current page HTML or a previous response
+
+**QUERY PARAMETERS:**
+t (optional): Target date in YYYY-MM-DD format (e.g., 2025-06-10)
+  - When provided, returns the guide structure for that specific date
+  - When omitted, returns the guide for the current date
+
+**REAL EXAMPLE OF ENDPOINT:**
+https://areena.yle.fi/_next/data/Q_35nL8jUwGOhxPC9wVX5/fi/tv/opas.json?t=2025-06-10
+
+**SAMPLE REQUEST:**
+bash
+curl -X GET "https://areena.yle.fi/_next/data/Q_35nL8jUwGOhxPC9wVX5/fi/tv/opas.json?t=2025-06-10" \
+  -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" \
+  -H "Referer: https://areena.yle.fi/tv/opas?t=2025-06-09" \
+  -H "x-nextjs-data: 1" \
+  -H "sec-ch-ua: \"Not.A/Brand\";v=\"99\", \"Chromium\";v=\"136\"" \
+  -H "sec-ch-ua-mobile: ?0" \
+  -H "sec-ch-ua-platform: \"Linux\"" \
+  --cookie "yle_selva=1749181611342597482"
+
+## 3. Location API
+
+### API NAME AND ENDPOINT: GET User Location
+GET https://locations.api.yle.fi/v4/address/current
+
+**PURPOSE:** Determines the user's geographic location for content availability and regional restrictions.
+
+**RESPONSE CONTENT DESCRIPTION:**
+Returns information about the user's location including country code, continent, and region. This information is used by the platform to determine content availability.
+
+**QUERY PARAMETERS:**
+app_id (required): Application identifier (e.g., analytics-sdk)
+app_key (required): API key (e.g., RVaxtSmiGRRUDos7uAmOCh6fReH9SEyg)
+
+**REAL EXAMPLE OF ENDPOINT:**
+https://locations.api.yle.fi/v4/address/current?app_id=analytics-sdk&app_key=RVaxtSmiGRRUDos7uAmOCh6fReH9SEyg
+
+**SAMPLE REQUEST:**
+bash
+curl -X GET "https://locations.api.yle.fi/v4/address/current?app_id=analytics-sdk&app_key=RVaxtSmiGRRUDos7uAmOCh6fReH9SEyg" \
+  -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" \
+  -H "Referer: https://areena.yle.fi/" \
+  -H "Content-Type: application/json" \
+  -H "sec-ch-ua: \"Not.A/Brand\";v=\"99\", \"Chromium\";v=\"136\"" \
+  -H "sec-ch-ua-mobile: ?0" \
+  -H "sec-ch-ua-platform: \"Linux\"" \
+  --cookie "yle_selva=1749181611342597482"
+
+**SAMPLE RESPONSE:**
+json
+{
+  "country_code": "IN",
+  "continent": "AS",
+  "asnum": "38266",
+  "is_portability_region": false,
+  "city": "Mumbai",
+  "city_region": "Maharashtra"
+}
+
+## Content Traversal Strategy
+
+To systematically extract all TV schedule data from YLE Areena:
+
+1. **Initial Setup**:
+   - Obtain the current build_id by making a request to the main page or examining the HTML source
+   - Call the location API to establish geographic context (optional but recommended)
+
+2. **Date Discovery**:
+   - Use the TV Guide Navigation API to identify available dates
+   - Start with the current date and navigate forward/backward as needed
+   - The response will contain navigation elements that indicate available dates
+
+3. **Channel Iteration**:
+   - For each date, iterate through all available channels:
+     - yle-tv1
+     - yle-tv2
+     - yle-teema-fem
+     - tv-finland
+     - yle-areena
+
+4. **Schedule Retrieval**:
+   - For each channel-date combination, call the Channel Schedule API
+   - Extract program metadata from the response
+   - Pay special attention to the pointer.uri field which contains the program identifier (format: yleareena://items/{id})
+
+5. **Pagination Handling**:
+   - Check the meta.count value in the response
+   - If meta.count > limit (typically 100), make additional requests with incremented offset values
+   - Continue until all programs are retrieved
+
+6. **Data Processing**:
+   - Parse broadcast times from the labels array
+   - Extract program titles, descriptions, and IDs
+   - Organize data by channel and date for structured access
+
+This approach ensures comprehensive coverage of all TV schedule data available in the YLE Areena system.
+
+## Implementation Notes
+
+1. **API Key Management**:
+   - The API keys (app_id and app_key) appear to be static and shared across all users
+   - However, it's recommended to monitor for changes in these values
+
+2. **Build ID Handling**:
+   - The build_id in the Next.js URLs changes with application updates
+   - Implement a mechanism to extract this value dynamically from the page HTML
+
+3. **Error Handling**:
+   - Implement retry logic for network failures
+   - Handle rate limiting by adding delays between requests if necessary
+
+4. **Date Format**:
+   - All dates in the API use the YYYY-MM-DD format
+   - Broadcast times use the ISO 8601 format with timezone information (e.g., 2025-06-09T06:55:00+03:00)
+
+By following this documentation and strategy, developers can build a robust crawler to extract comprehensive TV schedule data from YLE Areena.

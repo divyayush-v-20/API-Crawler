@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Miracles",
+  "Desc": "A member of the family makes a life-changing announcement; Darlene continues to look for a job.",
+  "StartTime": "2025-06-12T03:30:00+00:00",
+  "EndTime": "2025-06-12T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_6115bee4-3b34-47d6-b296-d340d6c8bfc7_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "A member of the family makes a life-changing announcement; Dan suspects Becky isn't holding up her end of the bargain with regard to her drinking; Darlene continues to look for a job; Jackie offers English lessons to a busboy.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "bob koherr"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: The Next Generation",
+  "Title": "Lonely Among Us",
+  "Desc": "The Enterprise enters an energy cloud that affects the ship and crew.",
+  "StartTime": "2025-06-12T06:00:00+00:00",
+  "EndTime": "2025-06-12T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_e18b97e0-8784-4ec3-802b-1b474c402776_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1987",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure",
+    "drama"
+  ],
+  "LongDescription": "Transporting adversaries to a conference, the Enterprise enters an energy cloud that affects the ship and crew.",
+  "TopCast": [
+    "patrick stewart",
+    "jonathan frakes",
+    "levar burton"
+  ],
+  "Directors": [
+    "cliff bole"
+  ]
+}

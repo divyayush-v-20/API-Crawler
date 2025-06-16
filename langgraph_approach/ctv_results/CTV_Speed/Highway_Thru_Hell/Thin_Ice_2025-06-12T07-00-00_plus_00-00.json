@@ -1,0 +1,39 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Thin Ice",
+  "Desc": "A cliffside recovery on the banks of Coldwater River puts James and Adam on thin ice.",
+  "StartTime": "2025-06-12T07:00:00+00:00",
+  "EndTime": "2025-06-12T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_4dc142df-ec55-4b9f-bdc7-56f34194e23e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "A cliffside recovery on the banks of Coldwater River puts James and Adam on thin ice; Colin makes a roadside repair in the middle of a winter storm; Al and Gord race to move a house off a busy highway.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

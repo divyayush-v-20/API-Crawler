@@ -1,0 +1,37 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "Plan of Attack",
+  "Desc": "The Ross crew responds to an overturned wreck; the road to the boarder is shut down.",
+  "StartTime": "2025-06-11T18:00:00+00:00",
+  "EndTime": "2025-06-11T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_1bf3baae-7579-451e-9f07-c19e4b10a4e9_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "The Ross crew responds to an overturned wreck; the road to the boarder is shut down; John faces a steep ravine for a recovery.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

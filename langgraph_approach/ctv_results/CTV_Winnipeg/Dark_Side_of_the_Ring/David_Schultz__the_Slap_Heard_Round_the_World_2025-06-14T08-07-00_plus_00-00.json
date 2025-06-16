@@ -1,0 +1,39 @@
+{
+  "Name": "Dark Side of the Ring",
+  "Title": "David Schultz & the Slap Heard Round the World",
+  "Desc": "David Schultz's violent run-in with \"20/20\" reporter John Stossel sees him exiled from the business.",
+  "StartTime": "2025-06-14T08:07:00+00:00",
+  "EndTime": "2025-06-14T09:07:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_2a77ba62-1814-411f-8da6-e4ce1802e104_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "pro wrestling",
+    "documentary"
+  ],
+  "LongDescription": "The cautionary tale of David Schultz, set to become a superstar until his violent run-in with \"20/20\" reporter John Stossel saw him exiled from the business he'd sworn to protect.",
+  "TopCast": [
+    "chris jericho"
+  ],
+  "Directors": [
+    "jason eisener"
+  ]
+}

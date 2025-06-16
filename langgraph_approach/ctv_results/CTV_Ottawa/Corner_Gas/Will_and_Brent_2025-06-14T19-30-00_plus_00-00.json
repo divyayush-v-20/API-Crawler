@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Will and Brent",
+  "Desc": "Karen buys a new breathalyzer machine; Lacey puts up a new bulletin board.",
+  "StartTime": "2025-06-14T19:30:00+00:00",
+  "EndTime": "2025-06-14T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_c505d1ba-ba7f-4637-b8e9-af6bf25cf441_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Karen buys a new breathalyzer machine; Lacey puts up a new bulletin board.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

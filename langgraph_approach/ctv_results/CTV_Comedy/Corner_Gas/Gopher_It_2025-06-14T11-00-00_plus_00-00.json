@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Gopher It",
+  "Desc": "Corner Gas goes through a business boom after Hank comes up with an idea to increase tourism.",
+  "StartTime": "2025-06-14T11:00:00+00:00",
+  "EndTime": "2025-06-14T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_7ecc9426-37bc-4897-816e-aaf271f2b24f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Corner Gas goes through a business boom after Hank comes up with an idea to increase tourism.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

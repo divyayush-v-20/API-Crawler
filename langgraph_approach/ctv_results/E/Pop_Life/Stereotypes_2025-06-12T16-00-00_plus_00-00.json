@@ -1,0 +1,41 @@
+{
+  "Name": "Pop Life",
+  "Title": "Stereotypes",
+  "Desc": "Producer/actor Lena Waithe discusses stereotypes.",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_f8a638cf-859d-4f5a-b79e-71b78968c74d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "interview",
+    "entertainment",
+    "talk"
+  ],
+  "LongDescription": "Producer/actor Lena Waithe discusses stereotypes.",
+  "TopCast": [
+    "richard crouse",
+    "lena waithe"
+  ],
+  "Directors": []
+}

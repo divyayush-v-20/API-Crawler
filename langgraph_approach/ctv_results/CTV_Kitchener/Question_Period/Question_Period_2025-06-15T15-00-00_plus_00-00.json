@@ -1,0 +1,38 @@
+{
+  "Name": "Question Period",
+  "Title": "Question Period",
+  "Desc": "Discussions with key players in Canadian politics.",
+  "StartTime": "2025-06-15T15:00:00+00:00",
+  "EndTime": "2025-06-15T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_8e85043d-364a-4c62-980b-46335fb599a0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": "26",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "public affairs",
+    "newsmagazine"
+  ],
+  "LongDescription": "Discussions with key players in Canadian politics.",
+  "TopCast": [
+    "evan solomon"
+  ],
+  "Directors": []
+}

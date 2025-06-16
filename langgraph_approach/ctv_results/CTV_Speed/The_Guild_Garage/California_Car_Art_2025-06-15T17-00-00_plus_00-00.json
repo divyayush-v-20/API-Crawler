@@ -1,0 +1,39 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "California Car Art",
+  "Desc": "Keith Dean introduces Larry and David to the mind-blowing artwork in SoCal's Lowrider community.",
+  "StartTime": "2025-06-15T17:00:00+00:00",
+  "EndTime": "2025-06-15T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_90f19dda-7d9e-4db3-aa92-85b981af1df0_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "David takes Larry to visit his friend Keith Dean, a builder and unique restorer with a famous family history of creating movie cars; Keith introduces Larry and David to mind-blowing artwork in SoCal's Lowrider community.",
+  "TopCast": [
+    "david grainger"
+  ],
+  "Directors": []
+}

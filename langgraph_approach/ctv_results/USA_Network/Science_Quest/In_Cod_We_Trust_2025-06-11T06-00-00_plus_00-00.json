@@ -1,0 +1,35 @@
+{
+  "Name": "Science Quest",
+  "Title": "In Cod We Trust",
+  "Desc": "Scientists research the cod-population decline.",
+  "StartTime": "2025-06-11T06:00:00+00:00",
+  "EndTime": "2025-06-11T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_27e4cc57-6853-4b36-93dc-bba681cf76ec_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2001",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "science"
+  ],
+  "LongDescription": "Scientists research the cod-population decline.",
+  "TopCast": [],
+  "Directors": []
+}

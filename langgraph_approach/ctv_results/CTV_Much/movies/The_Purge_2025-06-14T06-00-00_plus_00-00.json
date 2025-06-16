@@ -1,0 +1,43 @@
+{
+  "Name": "The Purge",
+  "Title": "The Purge",
+  "Desc": "In a future society, the government holds an annual 12-hour period during which all crime is legal.",
+  "StartTime": "2025-06-14T06:00:00+00:00",
+  "EndTime": "2025-06-14T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_53a32c32-24c9-4778-bc56-58c4a2a98665_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "thriller",
+    "horror"
+  ],
+  "LongDescription": "In an America ravaged by crime and overcrowded prisons, the government sanctions an annual 12-hour period during which all criminal activity -- including murder -- is legal. James Sandin (Ethan Hawke) and his family face the ultimate test when an intruder drags the vicious outside world into their home. James, Mary (Lena Headey) and their two children struggle to survive the night while trying not to turn into monsters like the ones they are striving to avoid.",
+  "TopCast": [
+    "ethan hawke",
+    "lena headey",
+    "adelaide kane"
+  ],
+  "Directors": [
+    "james demonaco"
+  ]
+}

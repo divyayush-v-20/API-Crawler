@@ -1,0 +1,40 @@
+{
+  "Name": "Corner Gas Animated",
+  "Title": "Tag You're I.T.",
+  "Desc": "Brent, Hank and Emma have a viral video contest; Karen and Davis try to GPStag the locals.",
+  "StartTime": "2025-06-15T08:00:00+00:00",
+  "EndTime": "2025-06-15T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_eb9fc1f9-6390-467e-a207-50e6fdfab192_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Brent, Hank and Emma have a viral video contest; Karen and Davis try to GPStag the locals; Lacey asks Wanda to secure her WiFi.",
+  "TopCast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "Directors": []
+}

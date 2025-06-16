@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-14",
+  "broadcast_time": "2025-06-14T16:25:05+03:00",
+  "program_data": {
+    "title": "Höyhensarja",
+    "description": "2/8. Fuck yksinäisyys! Enkelit keksivät, että kaupunkilaiset ovat yksinäisiä ja päättävät auttaa. He järjestävät ravintolassa speed dating-illan. Heliel panee parastaan ja hermostuttaa Rafun.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50776838"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "16.25",
+        "raw": "2025-06-14T16:25:05+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T16:46:55+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "21 min",
+        "raw": "PT1310S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50776831"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50776838.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

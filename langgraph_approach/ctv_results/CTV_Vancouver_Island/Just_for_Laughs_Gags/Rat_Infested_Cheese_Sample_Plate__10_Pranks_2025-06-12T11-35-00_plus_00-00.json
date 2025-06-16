@@ -1,0 +1,35 @@
+{
+  "Name": "Just for Laughs: Gags",
+  "Title": "Rat Infested Cheese Sample Plate & 10+ Pranks",
+  "Desc": "Pranks include a mouse in cheese, a dog at a parking meter, a gorilla stealing and many more.",
+  "StartTime": "2025-06-12T11:35:00+00:00",
+  "EndTime": "2025-06-12T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_d91997e7-fb5a-487c-a809-c810e82e3a87_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 25,
+  "SeasonNo": 9,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Pranks involve a mouse in the cheese, a naughty dog at a parking meter, a thieving gorilla and many more.",
+  "TopCast": [],
+  "Directors": []
+}

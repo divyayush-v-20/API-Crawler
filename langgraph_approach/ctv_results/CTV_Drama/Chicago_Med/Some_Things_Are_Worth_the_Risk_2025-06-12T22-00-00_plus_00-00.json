@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago Med",
+  "Title": "Some Things Are Worth the Risk",
+  "Desc": "Archer and Choi respond to a scene that brings back some bad memories.",
+  "StartTime": "2025-06-12T22:00:00+00:00",
+  "EndTime": "2025-06-12T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_d240b99c-bb66-4ba0-afdd-c0ffb25fad7c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "medical",
+    "action"
+  ],
+  "LongDescription": "Archer and Choi respond to a scene that brings back some bad memories; when Carol's condition worsens, Manning is willing to do whatever it takes to get her mom feeling better.",
+  "TopCast": [
+    "oliver platt",
+    "s. epatha merkerson",
+    "nick gehlfuss"
+  ],
+  "Directors": [
+    "carl weathers"
+  ]
+}

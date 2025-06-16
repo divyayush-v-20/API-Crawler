@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Motorcycle Engines, Glass, Enamel Sculptures, Paper, and Vaulting",
+  "Desc": "Motorcycle engines; glass; enamel sculptures; handmade paper; vaulting poles.",
+  "StartTime": "2025-06-11T07:30:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_d9d42770-e77f-49d9-a6b0-37b44757e3b1_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 12,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Motorcycle engines; glass; enamel sculptures; handmade paper; vaulting poles.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

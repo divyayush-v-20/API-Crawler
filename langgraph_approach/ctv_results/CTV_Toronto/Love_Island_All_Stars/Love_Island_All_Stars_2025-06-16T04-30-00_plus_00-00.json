@@ -1,0 +1,39 @@
+{
+  "Name": "Love Island: All Stars",
+  "Title": "Love Island: All Stars",
+  "Desc": "The Islanders learn of the nation's opinions; the girls receive video calls from home.",
+  "StartTime": "2025-06-16T04:30:00+00:00",
+  "EndTime": "2025-06-16T05:45:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_bbf7c23c-30ef-455a-b5cb-13afc4355c8a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 75,
+  "SeasonNo": 2,
+  "EpisodeNumber": "31",
+  "Qualifiers": [
+    "hd unknown",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality"
+  ],
+  "LongDescription": "The Islanders find out the public's vote and not everyone likes what they hear; the boys go out for a game of padel; the girls receive video calls from home and find out what their loved ones think of the other Islanders.",
+  "TopCast": [
+    "maya jama",
+    "iain stirling"
+  ],
+  "Directors": []
+}

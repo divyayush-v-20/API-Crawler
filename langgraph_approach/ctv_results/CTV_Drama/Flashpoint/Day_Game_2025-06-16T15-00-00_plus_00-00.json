@@ -1,0 +1,41 @@
+{
+  "Name": "Flashpoint",
+  "Title": "Day Game",
+  "Desc": "A bold heist at a stadium lures Team One into an ex-cop's violent plan.",
+  "StartTime": "2025-06-16T15:00:00+00:00",
+  "EndTime": "2025-06-16T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_a4a898f5-57cc-41e0-b396-5713398b5b30_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "A bold heist at a stadium lures Team One into an ex-cop's violent plan to defeat the man he blames for ruining his life.",
+  "TopCast": [
+    "enrico colantoni",
+    "hugh dillon",
+    "amy jo johnson"
+  ],
+  "Directors": []
+}

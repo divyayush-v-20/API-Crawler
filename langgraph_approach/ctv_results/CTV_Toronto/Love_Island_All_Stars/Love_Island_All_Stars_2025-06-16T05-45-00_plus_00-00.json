@@ -1,0 +1,39 @@
+{
+  "Name": "Love Island: All Stars",
+  "Title": "Love Island: All Stars",
+  "Desc": "Some couples don't see eye to eye; the Islanders perform in the All-Star Talent Show.",
+  "StartTime": "2025-06-16T05:45:00+00:00",
+  "EndTime": "2025-06-16T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_87ec0eeb-88a6-406d-9d09-97880355a85e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 75,
+  "SeasonNo": 2,
+  "EpisodeNumber": "32",
+  "Qualifiers": [
+    "hd unknown",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality"
+  ],
+  "LongDescription": "The final is quickly approaching and the drama in the villa continues as some couples don't see eye to eye; it's time for the Islanders to perform in the All-Star Talent Show.",
+  "TopCast": [
+    "maya jama",
+    "iain stirling"
+  ],
+  "Directors": []
+}

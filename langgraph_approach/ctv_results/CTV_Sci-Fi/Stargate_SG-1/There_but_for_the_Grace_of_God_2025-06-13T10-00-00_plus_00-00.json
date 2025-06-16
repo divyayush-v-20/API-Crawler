@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "There but for the Grace of God",
+  "Desc": "Daniel is transported to an alternate Earth besieged by the Goa'uld.",
+  "StartTime": "2025-06-13T10:00:00+00:00",
+  "EndTime": "2025-06-13T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_ccd6f69e-7b4c-4ac5-a4b4-bc781d6d33c1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1998",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "Daniel is transported to an alternate Earth besieged by the Goa'uld.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "david warry-smith"
+  ]
+}

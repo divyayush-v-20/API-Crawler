@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Coming Distractions",
+  "Desc": "Lacey gets invited to join the Dog River Women's Club, but doesn't think it is right for her.",
+  "StartTime": "2025-06-15T00:00:00+00:00",
+  "EndTime": "2025-06-15T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_92e3a8ee-7612-408a-ad35-ef60d0ac83db_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Lacey gets invited to join the Dog River Women's Club, but soon realises that it isn't right for her.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Transplant",
+  "Title": "Heart",
+  "Desc": "Bash helps Mags with a favor and navigates a challenge with Karim.",
+  "StartTime": "2025-06-13T03:00:00+00:00",
+  "EndTime": "2025-06-13T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_3e87cac0-b084-4c5b-87b0-c753ffa16c88_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "medical",
+    "drama"
+  ],
+  "LongDescription": "Bash helps Mags with a favor and navigates a challenge with Karim.",
+  "TopCast": [
+    "hamza haq",
+    "laurence leboeuf",
+    "ayisha issa"
+  ],
+  "Directors": []
+}

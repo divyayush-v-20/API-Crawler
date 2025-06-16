@@ -1,0 +1,40 @@
+{
+  "Name": "The Bold and the Beautiful",
+  "Title": "The Bold and the Beautiful",
+  "Desc": "Luna's energy shifts to malice when Finn holds his ground; Hope urges Liam to share his diagnosis.",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_98c6e85a-be30-4b01-abba-f72d086b24ea_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "185",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "soap",
+    "drama",
+    "romance"
+  ],
+  "LongDescription": "Luna's energy shifts to malice when Finn holds his ground; Hope urges Liam to share his diagnosis with everybody.",
+  "TopCast": [
+    "katherine kelly lang",
+    "jacqueline macinnes wood",
+    "thorsten kaye"
+  ],
+  "Directors": []
+}

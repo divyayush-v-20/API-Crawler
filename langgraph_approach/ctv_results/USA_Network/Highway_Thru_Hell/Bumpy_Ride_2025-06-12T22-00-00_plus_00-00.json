@@ -1,0 +1,36 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Bumpy Ride",
+  "Desc": "Jamie takes The Python off road; Jamie's brother battles high winds; Gord Boyd picks up a wrecker.",
+  "StartTime": "2025-06-12T22:00:00+00:00",
+  "EndTime": "2025-06-12T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_4d15b8e9-2749-48cf-8ebd-a901e82e1a7b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Jamie takes The Python off road for the first time; Jamie's brother Kelly battles high winds and a power pole to save a semi loaded with pipes; Gord Boyd picks up a new heavy wrecker for Quiring Towing.",
+  "TopCast": [
+    "dave pettitt"
+  ],
+  "Directors": []
+}

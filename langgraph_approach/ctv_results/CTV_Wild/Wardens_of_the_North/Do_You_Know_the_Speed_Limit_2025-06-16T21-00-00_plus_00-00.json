@@ -1,0 +1,36 @@
+{
+  "Name": "Wardens of the North",
+  "Title": "Do You Know the Speed Limit?",
+  "Desc": "On a busy weekend, officers set up a speed patrol to track how fast boaters are traveling.",
+  "StartTime": "2025-06-16T21:00:00+00:00",
+  "EndTime": "2025-06-16T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_b07fc309-d71c-4b5b-9fb2-e7b433cf94c0_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors"
+  ],
+  "LongDescription": "On a busy weekend, officers set up a speed patrol to track how fast boaters are traveling; officers find that as waterfowl season begins, hunters don't always have the necessary permits.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Yes, Chef!",
+  "Title": "The Pursuit of Perfection",
+  "Desc": "The chefs make a dish worthy of a high-end restaurant, but won't be cooking the dish themselves.",
+  "StartTime": "2025-06-17T02:00:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_aae2e85d-9ccb-4345-a649-17a1056baa20_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality",
+    "cooking"
+  ],
+  "LongDescription": "The chefs make a dish worthy of a high-end restaurant that shows off their creativity and technique, but they won't be cooking these dishes themselves; will the chefs' high standards hinder their success or will their futures be left to fate?",
+  "TopCast": [
+    "jos\u00e9 andr\u00e9s",
+    "martha stewart"
+  ],
+  "Directors": []
+}

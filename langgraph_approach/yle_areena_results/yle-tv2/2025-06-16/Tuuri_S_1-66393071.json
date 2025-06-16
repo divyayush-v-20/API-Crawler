@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T07:52:12+03:00",
+  "program_data": {
+    "title": "Tuuri (S)",
+    "description": "Lepakko. On nukkumaanmenoaika, mutta Tuuria harmittaa että päivä on jo päätöksessä. Hän haluaisi muuttua lepakoksi ja valvoa kaikki yöt.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-66393071"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.52",
+        "raw": "2025-06-16T07:52:12+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T07:59:22+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "7 min",
+        "raw": "PT430S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-66393054"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-66393071.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

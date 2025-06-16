@@ -1,0 +1,37 @@
+{
+  "Name": "Dr. Keri: Prairie Vet",
+  "Title": "Dogs Just Want to Have Fun",
+  "Desc": "Trying some traditional and new dog sports to find out how to keep dogs fit and mentally healthy.",
+  "StartTime": "2025-06-16T04:00:00+00:00",
+  "EndTime": "2025-06-16T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_5f859320-e3eb-40d4-ac36-f8c3ee869b1e_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "Dr. Keri tries out some traditional and new dog sports to find out how to keep dogs fit and mentally healthy.",
+  "TopCast": [
+    "keri hudson reykdal"
+  ],
+  "Directors": []
+}

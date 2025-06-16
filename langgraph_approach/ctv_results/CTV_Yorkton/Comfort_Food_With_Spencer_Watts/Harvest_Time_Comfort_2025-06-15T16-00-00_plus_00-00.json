@@ -1,0 +1,36 @@
+{
+  "Name": "Comfort Food With Spencer Watts",
+  "Title": "Harvest Time Comfort",
+  "Desc": "Making black bean and kabocha squash soup with braised Swiss chard and chili pesto.",
+  "StartTime": "2025-06-15T16:00:00+00:00",
+  "EndTime": "2025-06-15T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_64c790ac-09ba-408e-a1c3-5848e9a974a4_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "The bounty of the fall means harvest time and that inspires Spencer to make black bean and kabocha squash soup with braised Swiss chard and chili pesto, as well as pumpkin gnudi smothered in a rich cream sauce.",
+  "TopCast": [
+    "spencer watts"
+  ],
+  "Directors": []
+}

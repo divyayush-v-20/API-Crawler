@@ -1,0 +1,94 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T19:48:10+03:00",
+  "program_data": {
+    "title": "Sportliv ",
+    "description": "Kaia Tanskanen on kasvanut voimisteluperheessä Yhdysvalloissa, maailman parhaassa naisten telinevoimistelumaassa. Kun hänen isänsä kuusi vuotta sitten ehdotti, että hän alkaisi edustaa Suomea Yhdysvaltojen sijaan, Kaia ei ollut lainkaan kiinnostunut. Hän kuitenkin muutti mielensä. Nykyään Kaia Tanskanen jakaa aikansa USA:n yliopisto-opintojen ja college-voimistelun, sekä Suomen harjoitusleirien välillä. Maajoukkueeseen hän haluaa tuoda annoksen äänekästä, amerikkalaista energiaa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-71968662"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "19.48",
+        "raw": "2025-06-15T19:48:10+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T20:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "11 min",
+        "raw": "PT709S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4650883"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-71968662.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Dr. Keri: Prairie Vet",
+  "Title": "Little Cats, Big Cats",
+  "Desc": "Dr. Keri treats small cats, and then sees firsthand how those issues can arise in big cats.",
+  "StartTime": "2025-06-16T02:30:00+00:00",
+  "EndTime": "2025-06-16T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_8b116682-ff56-4820-94e4-194a4db28f02_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "Dr. Keri treats ailments specific to cats, and then sees firsthand how those feline issues can also be a concern for big cats like cougars.",
+  "TopCast": [
+    "keri hudson reykdal"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Arrividerci, Roma",
+  "Desc": "A young model aircraft flyer attempts to compete against adults.",
+  "StartTime": "2025-06-16T09:00:00+00:00",
+  "EndTime": "2025-06-16T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b0c2bccc-5ff2-414d-9c1c-e60b0227e819_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "A young model aircraft flyer attempts to compete against adults.",
+  "TopCast": [
+    "john jarvis",
+    "clark johnson",
+    "harvey sokoloff"
+  ],
+  "Directors": [
+    "ken girotti"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "Whole Lot of Faith",
+  "Desc": "The crew responds to a wreck scene that stretches over half a kilometre.",
+  "StartTime": "2025-06-13T12:00:00+00:00",
+  "EndTime": "2025-06-13T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_ba51d345-7f88-4774-b1aa-89d5a5f2161e_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "The crew responds to a wreck scene that stretches over half a kilometre; Sonny takes on the role of mentor; Onne and the crew work to save a trailer.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

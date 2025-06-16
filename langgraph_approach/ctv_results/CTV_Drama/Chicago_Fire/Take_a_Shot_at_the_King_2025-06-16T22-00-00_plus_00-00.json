@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "Take a Shot at the King",
+  "Desc": "Boden, Ritter, Herrmann and Kidd work to take down a politician responsible for a chemical fire.",
+  "StartTime": "2025-06-16T22:00:00+00:00",
+  "EndTime": "2025-06-16T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_f3f54916-a543-4728-baa0-2a709f437f96_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Boden, Ritter, Herrmann and Kidd work together to take down a local politician responsible for a chemical fire; after his aunt's accident, Gallo worries about their future; Brett steps in to perform Dylan's magic show when he's out of town.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "stephen cragg"
+  ]
+}

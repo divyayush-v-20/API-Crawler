@@ -1,0 +1,39 @@
+{
+  "Name": "Mayday",
+  "Title": "Deadly Reputation",
+  "Desc": "TAM Airlines Flight 3054 slides off a runway and crashes into a warehouse next to a petrol station.",
+  "StartTime": "2025-06-11T08:00:00+00:00",
+  "EndTime": "2025-06-11T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_257fed6c-c824-4d60-aa13-5a229112d8dc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation",
+    "history"
+  ],
+  "LongDescription": "On July 17, 2007, TAM Airlines Flight 3054 slides off runway 35L at Congonhas Airport in S\u00e3o Paulo, Brazil, and crashes at high speed into a warehouse adjacent to a petrol station killing nearly 200 people.",
+  "TopCast": [
+    "stephen bogaert",
+    "jonathan aris"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Castle",
+  "Title": "The Last Seduction",
+  "Desc": "The brutal murder of a lothario prompts an investigation into New York's elite.",
+  "StartTime": "2025-06-11T14:00:00+00:00",
+  "EndTime": "2025-06-11T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_61d59aaa-712f-4f0b-a079-03e0a6a75d38_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "The brutal murder of a lothario prompts an investigation into New York's elite; Castle plans a surprise for Beckett in honor of their first wedding anniversary.",
+  "TopCast": [
+    "nathan fillion",
+    "stana katic",
+    "tamala jones"
+  ],
+  "Directors": [
+    "john terlesky"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "No Man's Land",
+  "Desc": "A storm forces officials to shut down The Coq; rescue crews help drivers out of the closure zone.",
+  "StartTime": "2025-06-14T16:00:00+00:00",
+  "EndTime": "2025-06-14T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_13577516-e372-4dba-985f-f97990f9eb46_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "One of the worst winter storms in years forces officials to shut down The Coq; working through blinding snow, freezing rain and even an avalanche threat, heavy rescue crews help truckers and drivers out of the closure zone.",
+  "TopCast": [
+    "dave pettitt"
+  ],
+  "Directors": []
+}

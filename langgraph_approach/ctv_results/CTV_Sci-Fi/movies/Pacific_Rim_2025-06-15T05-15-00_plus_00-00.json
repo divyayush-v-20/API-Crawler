@@ -1,0 +1,44 @@
+{
+  "Name": "Pacific Rim",
+  "Title": "Pacific Rim",
+  "Desc": "Human pilots use gigantic robots in a long-term war against legions of monstrous creatures.",
+  "StartTime": "2025-06-15T05:15:00+00:00",
+  "EndTime": "2025-06-15T07:45:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_10da9693-2b63-4503-9e78-1b0a0ffb89fe_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "science fiction",
+    "action",
+    "adventure"
+  ],
+  "LongDescription": "Long ago, legions of monstrous creatures called Kaiju arose from the sea, bringing with them all-consuming war. To fight the Kaiju, mankind developed giant robots called Jaegers, designed to be piloted by two humans locked together in a neural bridge. However, even the Jaegers are not enough to defeat the Kaiju, and humanity is on the verge of defeat. Mankind's last hope now lies with a washed-up ex-pilot (Charlie Hunnam), an untested trainee (Rinko Kikuchi) and an old, obsolete Jaeger.",
+  "TopCast": [
+    "charlie hunnam",
+    "diego klattenhoff",
+    "idris elba"
+  ],
+  "Directors": [
+    "guillermo del toro"
+  ]
+}

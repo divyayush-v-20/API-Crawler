@@ -1,0 +1,35 @@
+{
+  "Name": "Paid Programming",
+  "Title": "Paid Programming",
+  "Desc": "Paid programming.",
+  "StartTime": "2025-06-14T14:00:00+00:00",
+  "EndTime": "2025-06-14T14:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_bde6937f-11b4-47a6-9d9a-5903a020168a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Show",
+  "SubType": "Paid Programming",
+  "Genres": [
+    "shopping",
+    "consumer",
+    "variety"
+  ],
+  "LongDescription": "Paid programming.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Mary Makes It Easy",
+  "Title": "Side Show",
+  "Desc": "Mary Berg takes it step by step through recipes guaranteed to impress without the stress.",
+  "StartTime": "2025-06-12T17:30:00+00:00",
+  "EndTime": "2025-06-12T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_c3ecac91-8cc9-406c-91be-f51e753ff2d8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Join Mary Berg as she takes it step by step through recipes guaranteed to impress without the stress.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

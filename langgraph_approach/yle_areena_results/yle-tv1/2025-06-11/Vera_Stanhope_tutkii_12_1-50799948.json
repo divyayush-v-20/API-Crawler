@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-11",
+  "broadcast_time": "2025-06-11T12:30:00+03:00",
+  "program_data": {
+    "title": "Vera Stanhope tutkii (12)",
+    "description": "Kausi 11, 10/12. Elämän merkit 2/2. Uhrin tausta alkaa selvitä Veralle. Jokunen kauna työn puolesta nousee esiin, mutta onkohan lääkäriaseman muulla väelläkään puhtaat paperit? (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50799948"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.30",
+        "raw": "2025-06-11T12:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T13:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "45 min",
+        "raw": "PT2700S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2503613"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50799948.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

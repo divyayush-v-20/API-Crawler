@@ -1,0 +1,36 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "The Worst Place",
+  "Desc": "The OPP must manage a chaotic scene after a thirty-vehicle pileup shuts down the 401.",
+  "StartTime": "2025-06-15T22:00:00+00:00",
+  "EndTime": "2025-06-15T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_3d4b8588-7509-4961-8f69-ff105af9b776_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "The OPP must manage a chaotic scene after a thirty-vehicle pileup shuts down the 401; Mitch sets a tight deadline in his first job as leader of the heavy crew; a semi smashes into a culvert, the Ross's try out their newest operator.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

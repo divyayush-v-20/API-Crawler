@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Manhunt",
+  "Desc": "A traveler accidentally kills a local bully.",
+  "StartTime": "2025-06-16T09:00:00+00:00",
+  "EndTime": "2025-06-16T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0426b65c-1348-4a7f-bbe2-c95ebe9fbad1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1979",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo helps a man escape a town's vengeance only to risk capture when they stop to help an injured man.",
+  "TopCast": [
+    "bob aaron",
+    "charlotte blunt",
+    "richard donat"
+  ],
+  "Directors": [
+    "allan eastman"
+  ]
+}

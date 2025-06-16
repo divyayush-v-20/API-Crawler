@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Get the F off My Lawn",
+  "Desc": "Lacey loses the letters from the sign on the roof during a windstorm.",
+  "StartTime": "2025-06-11T14:30:00+00:00",
+  "EndTime": "2025-06-11T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_39b24c60-829d-48f1-868e-709b5b509cc7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "As a windstorm creates havoc, Lacey's sign on her rooftop begins to lose all of the letters one by one.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

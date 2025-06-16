@@ -1,0 +1,40 @@
+{
+  "Name": "etalk",
+  "Title": "etalk",
+  "Desc": "Actors Mark Hamill and Chiwetel Ejiofor (\"Life of Chuck\"); actor Owen Wilson (\"Stick\").",
+  "StartTime": "2025-06-11T07:37:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_d4e69285-fc40-42d4-92a0-a70b369c27ae_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 23,
+  "SeasonNo": null,
+  "EpisodeNumber": "104",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "left in progress",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "entertainment"
+  ],
+  "LongDescription": "Actors Mark Hamill and Chiwetel Ejiofor (\"Life of Chuck\"); actor Owen Wilson (\"Stick\").",
+  "TopCast": [
+    "tyrone edwards",
+    "lainey lui",
+    "traci melchor"
+  ],
+  "Directors": []
+}

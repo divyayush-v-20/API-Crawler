@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Buzz Driver",
+  "Desc": "Oscar is asked to be a driver; the kids may not be the only ones who need a lesson in good behavior.",
+  "StartTime": "2025-06-15T23:30:00+00:00",
+  "EndTime": "2025-06-16T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_313651e7-13e4-4664-8670-ce0cbec79782_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Oscar is asked to be a school bus driver for the day; the kids may not be the only ones who need a lesson in good behavior.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

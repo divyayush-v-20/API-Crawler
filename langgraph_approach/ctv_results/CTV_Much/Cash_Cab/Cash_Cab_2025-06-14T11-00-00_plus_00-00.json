@@ -1,0 +1,38 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Unassuming people expecting a normal taxi ride, find out that they are contestants on a game show.",
+  "StartTime": "2025-06-14T11:00:00+00:00",
+  "EndTime": "2025-06-14T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_49998b03-e6fa-4a31-9fa6-e9c9560f98e0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "26",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Unassuming people enter a taxi cab as simple passengers taking a normal ride, only to be surprised when they discover that they're instant contestants; Adam Grove, asks the passengers trivia questions as he escorts them to their destination.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

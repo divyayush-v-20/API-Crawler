@@ -1,0 +1,37 @@
+{
+  "Name": "Spencer's BIG 30",
+  "Title": "Meatballs and Shakshuka",
+  "Desc": "Spencer guides through a series of small simple steps to create a Moroccan dinner for four.",
+  "StartTime": "2025-06-13T12:30:00+00:00",
+  "EndTime": "2025-06-13T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_dd3c62d9-83ac-475a-91ff-5d492bf63420_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Spencer guides through a series of small simple steps to create a Moroccan dinner for four; beginning with a pearl couscous salad to pair with the shakshuka.",
+  "TopCast": [
+    "spencer watts"
+  ],
+  "Directors": []
+}

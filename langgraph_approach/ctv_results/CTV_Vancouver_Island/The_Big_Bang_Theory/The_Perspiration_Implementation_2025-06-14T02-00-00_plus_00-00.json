@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Perspiration Implementation",
+  "Desc": "Barry Kripke expresses interest in Amy while leading a fencing lesson for the guys.",
+  "StartTime": "2025-06-14T02:00:00+00:00",
+  "EndTime": "2025-06-14T02:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_927c0b95-0282-4d86-a1ec-578f5e8efba1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Barry Kripke expresses interest in Amy while leading a fencing lesson for the guys; when Stuart tries to attract female customers to the store, Penny, Amy and Bernadette help out.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

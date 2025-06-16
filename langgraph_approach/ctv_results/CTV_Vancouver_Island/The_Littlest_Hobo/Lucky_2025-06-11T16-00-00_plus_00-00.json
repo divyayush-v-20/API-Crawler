@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Lucky",
+  "Desc": "Hobo helps a stuntman get work and confidence.",
+  "StartTime": "2025-06-11T16:00:00+00:00",
+  "EndTime": "2025-06-11T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_cafaf432-0ca6-48cc-bb3c-b491a3cb3c7c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo helps a stuntman get work and confidence.",
+  "TopCast": [
+    "mario azzopardi",
+    "michael hogan",
+    "brent myers"
+  ],
+  "Directors": [
+    "ken girotti"
+  ]
+}

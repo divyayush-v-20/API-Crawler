@@ -1,0 +1,38 @@
+{
+  "Name": "Mary Makes It Easy",
+  "Title": "Sandwich Bored",
+  "Desc": "Mary thinks that sandwich possibilities are endless; Tuna Ni\u00e7oise sandwich; a French Riviera salad.",
+  "StartTime": "2025-06-15T14:30:00+00:00",
+  "EndTime": "2025-06-15T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_33f49750-4946-4605-992e-5f365f203222_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Mary believes that sandwich possibilities are endless; never get bored with her stacked recipe lineup, like the Tuna Ni\u00e7oise sandwich; a French Riviera salad staple thrown onto crusty ciabatta; the classic charcuterie board on a bun.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": [
+    "jan mccharles"
+  ]
+}

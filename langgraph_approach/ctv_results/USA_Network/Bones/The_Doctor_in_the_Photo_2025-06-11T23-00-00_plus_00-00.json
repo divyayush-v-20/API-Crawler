@@ -1,0 +1,41 @@
+{
+  "Name": "Bones",
+  "Title": "The Doctor in the Photo",
+  "Desc": "A brilliant surgeon is found dead in a rough neighborhood; Brennan makes a discovery about herself.",
+  "StartTime": "2025-06-11T23:00:00+00:00",
+  "EndTime": "2025-06-12T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_24e136f7-71ae-4f81-808a-c99419d0ae39_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "A brilliant and career-driven surgeon is found dead in a rough neighborhood; a new friend helps Brennan make a discovery about herself.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": []
+}

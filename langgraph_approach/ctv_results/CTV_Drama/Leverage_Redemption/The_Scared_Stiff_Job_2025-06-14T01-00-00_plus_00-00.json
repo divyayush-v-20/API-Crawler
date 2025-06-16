@@ -1,0 +1,43 @@
+{
+  "Name": "Leverage: Redemption",
+  "Title": "The Scared Stiff Job",
+  "Desc": "Running the \"Christmas Carol\" con on a wannabe mogul who coerces dying patients into contracts.",
+  "StartTime": "2025-06-14T01:00:00+00:00",
+  "EndTime": "2025-06-14T02:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_8ad348cb-0e63-497e-a756-3b994aa41a5d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 65,
+  "SeasonNo": 3,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "LongDescription": "Our team runs the \"Christmas Carol\" con on a wannabe cryonics mogul who coerces dying patients into exploitative contracts bankrupting the loved ones they leave behind.",
+  "TopCast": [
+    "noah wyle",
+    "beth riesgraf",
+    "gina bellman"
+  ],
+  "Directors": [
+    "jonathan frakes"
+  ]
+}

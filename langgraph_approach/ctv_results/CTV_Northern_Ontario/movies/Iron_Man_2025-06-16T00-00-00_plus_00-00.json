@@ -1,0 +1,42 @@
+{
+  "Name": "Iron Man",
+  "Title": "Iron Man",
+  "Desc": "A wealthy industrialist (Robert Downey Jr.) builds an armored suit and uses it to fight criminals.",
+  "StartTime": "2025-06-16T00:00:00+00:00",
+  "EndTime": "2025-06-16T02:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_11_aeee19e4-0b9c-4235-9a54-eb49fa93ff4a_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "action",
+    "adventure",
+    "science fiction",
+    "fantasy"
+  ],
+  "LongDescription": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.",
+  "TopCast": [
+    "robert downey",
+    "terrence howard",
+    "gwyneth paltrow"
+  ],
+  "Directors": [
+    "jon favreau"
+  ]
+}

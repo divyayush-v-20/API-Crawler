@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Ghost Station",
+  "Desc": "Hobo becomes involved in a subterranean manhunt.",
+  "StartTime": "2025-06-11T09:00:00+00:00",
+  "EndTime": "2025-06-11T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_ab7cd855-b058-437f-be00-f4c444cb6786_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo becomes involved in a subterranean manhunt.",
+  "TopCast": [
+    "j. winston carroll",
+    "james edmond",
+    "lori hallier"
+  ],
+  "Directors": [
+    "jack nixon-browne"
+  ]
+}

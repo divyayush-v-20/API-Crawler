@@ -1,0 +1,38 @@
+{
+  "Name": "Monster Garage",
+  "Title": "Ultimate Tailgater",
+  "Desc": "The team turns a Cadillac into a tailgate vehicle with a plasma screen and a beverage dispenser.",
+  "StartTime": "2025-06-12T22:00:00+00:00",
+  "EndTime": "2025-06-12T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_c7fe0104-5de6-4f4d-a3c7-1be8b9776dfc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2003",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto"
+  ],
+  "LongDescription": "A Cadillac Escalade is converted into a tailgating vehicle that includes a 42-inch plasma screen and a beverage dispenser.",
+  "TopCast": [
+    "jesse james"
+  ],
+  "Directors": []
+}

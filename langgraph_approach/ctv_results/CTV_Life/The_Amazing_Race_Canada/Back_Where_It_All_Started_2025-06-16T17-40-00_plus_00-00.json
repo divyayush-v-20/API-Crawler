@@ -1,0 +1,43 @@
+{
+  "Name": "The Amazing Race Canada",
+  "Title": "Back Where It All Started",
+  "Desc": "As teams face their first challenges, some get pushed over the edge and others face their fears.",
+  "StartTime": "2025-06-16T17:40:00+00:00",
+  "EndTime": "2025-06-16T18:40:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_a4b6a556-dbde-4c8d-9eab-2da4e0d4bf01_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "adventure",
+    "travel",
+    "competition reality"
+  ],
+  "LongDescription": "Returning to where it all began as 11 teams start the adventure of a lifetime in Niagara Falls, Ont.; as teams face their first challenges, some get pushed over the edge, others face their fears, and everyone lights up the night.",
+  "TopCast": [
+    "jon montgomery",
+    "jet black",
+    "dave schram"
+  ],
+  "Directors": []
+}

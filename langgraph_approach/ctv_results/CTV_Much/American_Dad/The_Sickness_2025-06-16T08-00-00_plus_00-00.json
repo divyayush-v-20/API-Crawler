@@ -1,0 +1,44 @@
+{
+  "Name": "American Dad!",
+  "Title": "The Sickness",
+  "Desc": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+  "StartTime": "2025-06-16T08:00:00+00:00",
+  "EndTime": "2025-06-16T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_dce6ff09-b912-42b9-975a-872ff8c3c0d6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 19,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+  "TopCast": [
+    "seth macfarlane",
+    "wendy schaal",
+    "rachael macfarlane"
+  ],
+  "Directors": [
+    "jansen yee"
+  ]
+}

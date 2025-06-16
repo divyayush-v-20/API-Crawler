@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "A Very Merry Christmas",
+  "Desc": "The members of the Kardashian family shoot the annual Christmas card photo and exchange gifts.",
+  "StartTime": "2025-06-16T00:00:00+00:00",
+  "EndTime": "2025-06-16T01:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_e203ea14-b48c-4a62-8e72-9a5eef45e6f1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": 8,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "holiday",
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "The members of the Kardashian family shoot the annual Christmas card photo and exchange gifts.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

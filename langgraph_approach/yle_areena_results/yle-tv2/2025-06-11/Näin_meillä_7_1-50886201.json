@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-11",
+  "broadcast_time": "2025-06-11T08:36:25+03:00",
+  "program_data": {
+    "title": "Näin meillä (7)",
+    "description": "Reviirikiista. Kustin pelit ja pizza on Luukaksen kaveriporukan suosikkipaikka. He eivät halua jakaa sitä kenenkään muun kanssa, varsinkaan Lenin teinikavereiden.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50886201"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.36",
+        "raw": "2025-06-11T08:36:25+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T08:50:05+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "13 min",
+        "raw": "PT820S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808447"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50886201.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

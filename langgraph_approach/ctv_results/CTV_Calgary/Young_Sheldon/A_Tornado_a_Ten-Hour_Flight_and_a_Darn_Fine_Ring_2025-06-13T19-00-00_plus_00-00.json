@@ -1,0 +1,42 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "A Tornado, a Ten-Hour Flight and a Darn Fine Ring",
+  "Desc": "The Cooper family braves a tornado that is heading straight for Medford.",
+  "StartTime": "2025-06-13T19:00:00+00:00",
+  "EndTime": "2025-06-13T19:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_c07b70d9-d355-4788-ae78-3605be14df9c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "22",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom",
+    "comedy"
+  ],
+  "LongDescription": "Sheldon and Mary head to Germany while the rest of the Cooper family braves a tornado that is heading straight for Medford.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "alex reid"
+  ]
+}

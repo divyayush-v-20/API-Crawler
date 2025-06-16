@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Misinterpretation Agitation",
+  "Desc": "The guys try to help when Penny is faced with an awkward dilemma at work.",
+  "StartTime": "2025-06-16T21:00:00+00:00",
+  "EndTime": "2025-06-16T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0526aaed-a500-4d75-8142-8ecbe3854895_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "The guys try to help when Penny is faced with an awkward dilemma at work; Bernadette and Amy discuss sexuality and female scientists.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

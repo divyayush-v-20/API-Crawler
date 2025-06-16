@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Everything Must Go",
+  "Desc": "Barney and Abby go to a bar together to rub their relationship in Ted's face.",
+  "StartTime": "2025-06-12T21:00:00+00:00",
+  "EndTime": "2025-06-12T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_e02bf0cd-2860-4284-b16e-0e831c4641ee_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "When Barney and Abby (Britney Spears) realize they share a hatred of Ted, they go to a bar together to rub their relationship in Ted's face.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "alyson hannigan"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

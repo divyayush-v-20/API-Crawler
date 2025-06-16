@@ -1,0 +1,39 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Lives On The Line",
+  "Desc": "A crash shocks Team Reliable; Cam races to rescue a fellow tow operator stuck on a blind corner.",
+  "StartTime": "2025-06-13T05:00:00+00:00",
+  "EndTime": "2025-06-13T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_70053a93-12d7-4270-a743-cba5ef47bf26_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "A terrifying crash involving one of their own shocks Team Reliable; Dylan and Merv pair up to lift a heavy load of steel pilings off a highway; Cam races to rescue a fellow tow operator stuck on a blind corner.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

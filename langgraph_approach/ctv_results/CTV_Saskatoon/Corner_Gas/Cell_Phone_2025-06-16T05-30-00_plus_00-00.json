@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Cell Phone",
+  "Desc": "Davis tries to keep up with Brent; Lacey tries to prove she has community spirit.",
+  "StartTime": "2025-06-16T05:30:00+00:00",
+  "EndTime": "2025-06-16T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_394e963e-ce5f-465c-bb81-a92993d75e8a_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Davis tries to keep up with Brent; Lacey tries to prove she has community spirit by trying to save one of the town's historic landmarks.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

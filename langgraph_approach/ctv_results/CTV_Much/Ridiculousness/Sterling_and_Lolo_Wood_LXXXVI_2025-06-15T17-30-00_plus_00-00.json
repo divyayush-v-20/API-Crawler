@@ -1,0 +1,39 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Lolo Wood LXXXVI",
+  "Desc": "Rob, Steelo and guest host Lolo Wood get a double shot of agony and meet some mean mutts.",
+  "StartTime": "2025-06-15T17:30:00+00:00",
+  "EndTime": "2025-06-15T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_4443804b-f3ea-4ca5-b6a6-e18e84eaa1d0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and guest host Lolo Wood get a double shot of agony with \"Pain Echoes\"; meeting some mean mutts that are \"Kid Hatin' Canines\"; getting flicked off with some \"Random Birds.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

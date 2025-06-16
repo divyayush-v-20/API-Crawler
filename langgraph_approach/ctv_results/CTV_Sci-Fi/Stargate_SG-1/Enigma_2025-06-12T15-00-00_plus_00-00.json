@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "Enigma",
+  "Desc": "The SG-1 team lands on Tollan, a planet almost destroyed by war.",
+  "StartTime": "2025-06-12T15:00:00+00:00",
+  "EndTime": "2025-06-12T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_f2d79979-dd6c-496a-87e0-c5f131335e52_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1998",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "After the SG-1 team rescues refugees from war-torn Tollan, they risk court-martial to protect the planet from self-destruction.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "william gereghty"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Corner Gas Animated",
+  "Title": "Bait and Click",
+  "Desc": "Wanda and Lacey entice the residents of Dog River with clickbait texts, while Oscar sets up a shop.",
+  "StartTime": "2025-06-12T11:00:00+00:00",
+  "EndTime": "2025-06-12T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_c52a75b0-b6ef-4cb0-847c-4994b9474ba5_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Wanda and Lacey entice the residents of Dog River with clickbait texts, while Oscar sets up a bait shop across the street from Corner Gas to teach Brent a business lesson; Davis and Karen involve Hank in a training exercise with chaotic results.",
+  "TopCast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "Directors": []
+}

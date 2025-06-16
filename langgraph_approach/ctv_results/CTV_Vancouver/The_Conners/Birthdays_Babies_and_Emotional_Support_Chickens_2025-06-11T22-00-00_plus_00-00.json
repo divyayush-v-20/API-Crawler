@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Birthdays, Babies and Emotional Support Chickens",
+  "Desc": "It's Beverly Rose's birthday, but Becky and Emilio disagree on what kind of party they should have.",
+  "StartTime": "2025-06-11T22:00:00+00:00",
+  "EndTime": "2025-06-11T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_992ae154-e735-4eb8-bcf0-4714414c572f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "It's Beverly Rose's first birthday -- but it's not all cake and candles -- when Becky and Emilio disagree on what kind of party they should have; Jackie is introduced to someone who wants to be more than friends.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "fred savage"
+  ]
+}

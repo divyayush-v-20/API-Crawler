@@ -1,0 +1,40 @@
+{
+  "Name": "Jamie's 15 Minute Meals",
+  "Title": "Swedish Meatballs and Pasta Pesto",
+  "Desc": "Swedish meatballs; celeriac and spinach rice; pasta pesto; garlic and rosemary chicken.",
+  "StartTime": "2025-06-16T17:00:00+00:00",
+  "EndTime": "2025-06-16T17:40:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_e28ae27d-1613-485c-ba74-6949ae38125c_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 40,
+  "SeasonNo": 1,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Jamie cooks Swedish meatballs, celeriac and spinach rice, plus pasta pesto, and garlic and rosemary chicken.",
+  "TopCast": [
+    "jamie oliver"
+  ],
+  "Directors": [
+    "mike matthews"
+  ]
+}

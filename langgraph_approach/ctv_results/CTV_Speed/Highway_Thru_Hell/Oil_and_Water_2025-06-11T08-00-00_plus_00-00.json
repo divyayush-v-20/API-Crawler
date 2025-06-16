@@ -1,0 +1,39 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Oil and Water",
+  "Desc": "Jamie's crew recovers a rolled semi blocking the highway and a trailer full of cooking oil.",
+  "StartTime": "2025-06-11T08:00:00+00:00",
+  "EndTime": "2025-06-11T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_bf29e927-e8c9-43b7-a9dc-284fc7a42fae_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "In Hope, Jamie, Colin and Cam battle heavy rains to recover a rolled semi blocking the highway through town; with traffic to The Coq cut off and a trailer full of cooking oil starting to rip, Jamie's crew must get the road open.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

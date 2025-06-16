@@ -1,0 +1,40 @@
+{
+  "Name": "Jamie's 15 Minute Meals",
+  "Title": "Moroccan Bream and British Burgers",
+  "Desc": "Moroccan bream; couscous salad; pomegranate and harissa; British burgers.",
+  "StartTime": "2025-06-13T17:00:00+00:00",
+  "EndTime": "2025-06-13T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_dac42a09-78a7-4c8b-8210-cd8eb2a5a911_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Moroccan bream; couscous salad; pomegranate and harissa; British burgers; shred salad; pickles and things.",
+  "TopCast": [
+    "jamie oliver"
+  ],
+  "Directors": [
+    "mike matthews"
+  ]
+}

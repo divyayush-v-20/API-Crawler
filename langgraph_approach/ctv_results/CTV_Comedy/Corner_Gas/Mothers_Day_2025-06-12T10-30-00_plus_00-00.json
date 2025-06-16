@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Mothers Day",
+  "Desc": "Brent is in the doghouse when Hank proves to be a better son to Emma.",
+  "StartTime": "2025-06-12T10:30:00+00:00",
+  "EndTime": "2025-06-12T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_9562e9d3-7fad-4e80-90a5-bb6f91fa0761_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent is in the doghouse when Hank proves to be a better son to Emma.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

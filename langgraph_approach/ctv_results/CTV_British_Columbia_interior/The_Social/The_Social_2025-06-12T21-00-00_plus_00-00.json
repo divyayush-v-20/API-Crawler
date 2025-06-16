@@ -1,0 +1,39 @@
+{
+  "Name": "The Social",
+  "Title": "The Social",
+  "Desc": "Dipping into the fisherman look.",
+  "StartTime": "2025-06-12T21:00:00+00:00",
+  "EndTime": "2025-06-12T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_1234a059-d4a6-46ee-9cb3-e19994e8dc40_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "173",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Dipping into the fisherman look.",
+  "TopCast": [
+    "melissa grelo",
+    "cynthia loyst",
+    "andrea bain"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago Med",
+  "Title": "What a Tangled Web We Weave",
+  "Desc": "An auto accident sends Goodwin into a spiral as she tries to help a young boy and his mother.",
+  "StartTime": "2025-06-12T23:00:00+00:00",
+  "EndTime": "2025-06-13T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_00aab565-b2ce-4d87-b199-da86aeaecc78_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "medical",
+    "action"
+  ],
+  "LongDescription": "An auto accident sends Goodwin into a spiral as she tries to help a young boy and his mother; Manning's secretive behavior begins to draw the attention of Marcel and Halstead.",
+  "TopCast": [
+    "oliver platt",
+    "s. epatha merkerson",
+    "nick gehlfuss"
+  ],
+  "Directors": [
+    "bethany rooney"
+  ]
+}

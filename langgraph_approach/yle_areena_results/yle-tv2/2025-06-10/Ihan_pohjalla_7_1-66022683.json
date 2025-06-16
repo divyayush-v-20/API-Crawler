@@ -1,0 +1,70 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T08:20:37+03:00",
+  "program_data": {
+    "title": "Ihan pohjalla (7)",
+    "description": "Talenttikisa / Lemmikki / Tulikala. Koulussa valmistaudutaan kuumeisesti talenttikisaan. Timi tuo kotiin lemmikin. Tulikala joutuu tulikokeeseen.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-66022683"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "8.20",
+        "raw": "2025-06-10T08:20:37+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T08:25:55+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "5 min",
+        "raw": "PT318S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-66022431"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

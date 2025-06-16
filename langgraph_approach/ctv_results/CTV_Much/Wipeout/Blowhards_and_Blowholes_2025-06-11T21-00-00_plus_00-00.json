@@ -1,0 +1,43 @@
+{
+  "Name": "Wipeout",
+  "Title": "Blowhards and Blowholes",
+  "Desc": "A look at who will triumph with no one to rely on but themselves.",
+  "StartTime": "2025-06-11T21:00:00+00:00",
+  "EndTime": "2025-06-11T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_99dd1176-b360-4af2-9846-ee1c3582b48c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show",
+    "reality",
+    "action"
+  ],
+  "LongDescription": "A look at who will triumph with no one to rely on but themselves, Sergeant Stripper, the Swallower, the Cruise Director, or Dances with Whales.",
+  "TopCast": [
+    "john cena",
+    "nicole byer",
+    "camille kostek"
+  ],
+  "Directors": []
+}

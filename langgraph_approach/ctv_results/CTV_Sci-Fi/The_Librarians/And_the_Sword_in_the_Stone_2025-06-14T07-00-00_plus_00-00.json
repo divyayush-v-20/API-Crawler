@@ -1,0 +1,44 @@
+{
+  "Name": "The Librarians",
+  "Title": "And the Sword in the Stone",
+  "Desc": "Flynn, Col. Baird and the potential librarians must stop the Serpent Brotherhood.",
+  "StartTime": "2025-06-14T07:00:00+00:00",
+  "EndTime": "2025-06-14T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_031335be-a0c5-4883-ae7e-7f223cc2bc9f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure"
+  ],
+  "LongDescription": "Flynn, Col. Baird and the potential librarians must stop the Serpent Brotherhood from returning magic to the world.",
+  "TopCast": [
+    "rebecca romijn",
+    "christian kane",
+    "lindy booth"
+  ],
+  "Directors": [
+    "dean devlin"
+  ]
+}

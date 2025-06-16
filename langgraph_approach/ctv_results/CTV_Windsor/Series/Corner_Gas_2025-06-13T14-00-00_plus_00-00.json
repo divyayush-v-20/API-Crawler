@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Corner Gas",
+  "Desc": "An ensemble comedy group does a whole lot of nothing in the town of Dog River, Saskatchewan.",
+  "StartTime": "2025-06-13T14:00:00+00:00",
+  "EndTime": "2025-06-13T14:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_316441b1-a676-4c02-a645-d80e07c32616_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "The sleepy Saskatchewan town of Dog River is in the middle of nowhere, and the residents like it that way just fine. Brent's the guy who owns the only gas station around, and it happens to be attached to the only coffee shop. Police officers Davis and Karen are always on the prowl in this little nook of a prairie town.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

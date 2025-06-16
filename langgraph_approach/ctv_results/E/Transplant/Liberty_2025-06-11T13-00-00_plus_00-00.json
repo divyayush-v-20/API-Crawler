@@ -1,0 +1,42 @@
+{
+  "Name": "Transplant",
+  "Title": "Liberty",
+  "Desc": "Bash faces an ethical dilemma with a gang member and the police officer looking for him.",
+  "StartTime": "2025-06-11T13:00:00+00:00",
+  "EndTime": "2025-06-11T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_1188ddce-9aa2-4ef6-b8fd-86060545168b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "medical",
+    "drama"
+  ],
+  "LongDescription": "Bash faces an ethical dilemma, caught between a gang member with a gunshot wound and the police officer looking for him.",
+  "TopCast": [
+    "hamza haq",
+    "laurence leboeuf",
+    "john hannah"
+  ],
+  "Directors": []
+}

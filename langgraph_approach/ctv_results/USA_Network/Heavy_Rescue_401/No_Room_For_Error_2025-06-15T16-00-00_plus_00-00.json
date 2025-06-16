@@ -1,0 +1,36 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "No Room For Error",
+  "Desc": "A compromised trailer breaks apart in Chatham; John Allen maneuvers a truckload of water.",
+  "StartTime": "2025-06-15T16:00:00+00:00",
+  "EndTime": "2025-06-15T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_8245b1fb-9ad1-4f32-9132-a7fdd7000215_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "A compromised trailer breaks apart in Chatham; John Allen maneuvers a truckload of water.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

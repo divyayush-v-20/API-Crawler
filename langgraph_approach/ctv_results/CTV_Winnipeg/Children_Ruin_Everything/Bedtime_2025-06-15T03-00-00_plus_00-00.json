@@ -1,0 +1,40 @@
+{
+  "Name": "Children Ruin Everything",
+  "Title": "Bedtime",
+  "Desc": "When James finds an old game console, he and Astrid attempt to find free time to play.",
+  "StartTime": "2025-06-15T03:00:00+00:00",
+  "EndTime": "2025-06-15T03:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_2b5be279-5f20-49db-b7e8-eff67a4458b1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "When James finds an old game console, he and Astrid attempt to find free time to play; but a bedtime routine threatens to eat up all the time between when the kids are supposed to be in bed and when Astrid and James have to go to bed themselves.",
+  "TopCast": [
+    "meaghan rath",
+    "aaron abrams",
+    "nazneen contractor"
+  ],
+  "Directors": [
+    "vanessa matsui"
+  ]
+}

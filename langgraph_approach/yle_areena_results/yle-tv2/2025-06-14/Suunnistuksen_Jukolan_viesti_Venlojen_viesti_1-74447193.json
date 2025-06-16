@@ -1,0 +1,79 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-14",
+  "broadcast_time": "2025-06-14T13:15:00+03:00",
+  "program_data": {
+    "title": "Suunnistuksen Jukolan viesti: Venlojen viesti",
+    "description": "Suora lähetys suunnistuksen Venlojen viestistä, selostus Timo Saarinen, asiantuntija Antti Harju, Mikkeli. Ruotsinkielinen selostus Magnus Eklöv, asiantuntija Fredric Portin.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74447193"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.15",
+        "raw": "2025-06-14T13:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T17:19:54+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "4 h 4 min",
+        "raw": "PT14694S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4113091"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-74447193.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

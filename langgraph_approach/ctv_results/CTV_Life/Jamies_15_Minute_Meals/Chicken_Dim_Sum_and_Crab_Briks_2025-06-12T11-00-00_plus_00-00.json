@@ -1,0 +1,40 @@
+{
+  "Name": "Jamie's 15 Minute Meals",
+  "Title": "Chicken Dim Sum and Crab Briks",
+  "Desc": "Chicken dim sum; coconut buns; cucumber pickles; crab briks; couscous salad; salsa.",
+  "StartTime": "2025-06-12T11:00:00+00:00",
+  "EndTime": "2025-06-12T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_77ade7c2-6c49-4fa3-8215-d1367ab47ebf_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "On the menu this time is chicken dim sum, coconut buns, cucumber pickle and hoi sin sauce; crackin' crab briks, couscous salad and salsa.",
+  "TopCast": [
+    "jamie oliver"
+  ],
+  "Directors": [
+    "mike matthews"
+  ]
+}

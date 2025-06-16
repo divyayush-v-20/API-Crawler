@@ -1,0 +1,69 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T14:36:38+03:00",
+  "program_data": {
+    "title": "Elävä arkisto: Radio tuo kisat kotiin  (S)",
+    "description": "Radiomainos ennen Helsingin olympiakisojen alkamista. (Suomi-Filmi). (Mv) (1952)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50765812"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.36",
+        "raw": "2025-06-10T14:36:38+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T14:40:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT209S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "aspectRatio",
+        "formatted": "kuvasuhde 4:3",
+        "raw": "4:3"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

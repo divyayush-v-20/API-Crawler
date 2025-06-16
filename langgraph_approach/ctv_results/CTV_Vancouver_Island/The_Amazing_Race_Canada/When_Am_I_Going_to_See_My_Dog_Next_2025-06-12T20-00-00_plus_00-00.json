@@ -1,0 +1,41 @@
+{
+  "Name": "The Amazing Race Canada",
+  "Title": "When Am I Going to See My Dog Next?",
+  "Desc": "Tensions are high during a Face Off as teams sweep into a Switch Back in Trois-Rivi\u00e8res, Que.",
+  "StartTime": "2025-06-12T20:00:00+00:00",
+  "EndTime": "2025-06-12T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_0238f6be-3208-4258-b95a-45f9579052ec_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "adventure",
+    "travel",
+    "competition reality"
+  ],
+  "LongDescription": "Tensions are high during a Face Off as teams sweep into a Switch Back in Trois-Rivi\u00e8res, Que.; the detour leaves some tongue tied, while others get into a paper jam; at the roadblock teams struggle to hold their horses.",
+  "TopCast": [
+    "jon montgomery",
+    "jet black",
+    "dave schram"
+  ],
+  "Directors": []
+}

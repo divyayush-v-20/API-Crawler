@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: The Next Generation",
+  "Title": "M\u00e9nage \u00e0 Troi",
+  "Desc": "Previously spurned by Troi's mother, Lwaxana, a Ferengi kidnaps her, Troi and Riker.",
+  "StartTime": "2025-06-11T06:00:00+00:00",
+  "EndTime": "2025-06-11T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_b0c6ff31-af55-4a24-935d-6ffe65e4d253_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "24",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1990",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "fantasy",
+    "adventure",
+    "drama"
+  ],
+  "LongDescription": "After Lwaxana spurns a DaiMon's affections, the Ferengi kidnap Riker and the Trois from Betazed; Picard must act the part of Lwaxana's scorned lover to secure their freedom.",
+  "TopCast": [
+    "patrick stewart",
+    "jonathan frakes",
+    "levar burton"
+  ],
+  "Directors": [
+    "robert legato"
+  ]
+}

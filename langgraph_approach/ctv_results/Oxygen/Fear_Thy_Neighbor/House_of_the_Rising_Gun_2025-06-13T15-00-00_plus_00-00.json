@@ -1,0 +1,37 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "House of the Rising Gun",
+  "Desc": "For neighbors, a robbery leads to a misunderstanding, then to paranoia, conflict and bloodshed.",
+  "StartTime": "2025-06-13T15:00:00+00:00",
+  "EndTime": "2025-06-13T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4d5ef498-ffa5-44b8-8431-5b2b0ee67360_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "A single mother of four children finds the perfect house in New Orleans, then a robbery at a neighbor's home leads to a misunderstanding, then to paranoia, conflict and bloodshed.",
+  "TopCast": [],
+  "Directors": [
+    "brian rice"
+  ]
+}

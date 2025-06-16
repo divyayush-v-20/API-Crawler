@@ -1,0 +1,45 @@
+{
+  "Name": "Suits",
+  "Title": "Character and Fitness",
+  "Desc": "Mike needs Harvey and Rachel's help to overcome an obstacle; Donna's new venture hits a snag.",
+  "StartTime": "2025-06-12T06:37:00+00:00",
+  "EndTime": "2025-06-12T07:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_a4b691e3-a26c-4a91-a63e-7f835db82053_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "crime drama",
+    "law",
+    "comedy"
+  ],
+  "LongDescription": "Mike needs Harvey and Rachel's help to overcome an impossible obstacle and achieve his dream of becoming a real lawyer; Donna's new venture hits a snag; Louis tries to patch things up with Tara.",
+  "TopCast": [
+    "patrick j. adams",
+    "gabriel macht",
+    "meghan markle"
+  ],
+  "Directors": [
+    "kevin bray",
+    "anton cropper"
+  ]
+}

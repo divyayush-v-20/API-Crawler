@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Skye Townsend",
+  "Desc": "Rob Dyrdek, Steelo Brim and Skye Townsend look at getting some new rides in \"Losing Value.\"",
+  "StartTime": "2025-06-11T22:30:00+00:00",
+  "EndTime": "2025-06-11T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_ae36f363-5c6e-4029-8db9-26080e2ab2a9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob Dyrdek, Steelo Brim and Skye Townsend get even with some \"Dumb Joke Justice,\" get down with \"Club Tumbles\" and look at getting some new rides in \"Losing Value.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

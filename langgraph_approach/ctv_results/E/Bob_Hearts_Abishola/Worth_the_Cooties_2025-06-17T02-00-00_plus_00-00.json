@@ -1,0 +1,44 @@
+{
+  "Name": "Bob Hearts Abishola",
+  "Title": "Worth the Cooties",
+  "Desc": "Christina kicks Abishola and Dottie out for making light of her pre-pregnancy preparations.",
+  "StartTime": "2025-06-17T02:00:00+00:00",
+  "EndTime": "2025-06-17T02:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_cf4c2f40-f38e-4e19-986e-b3c8dd24a71b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Christina kicks Abishola and Dottie out for making light of her pre-pregnancy preparations; Christina bonds with Douglas; Abishola spends a fun day with Dottie.",
+  "TopCast": [
+    "billy gardell",
+    "folake olowofoyeku",
+    "christine ebersole"
+  ],
+  "Directors": [
+    "beth mccarthy-miller",
+    "rhiannon o'harra"
+  ]
+}

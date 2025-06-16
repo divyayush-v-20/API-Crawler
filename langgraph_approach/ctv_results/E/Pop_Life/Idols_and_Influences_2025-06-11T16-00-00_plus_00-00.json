@@ -1,0 +1,39 @@
+{
+  "Name": "Pop Life",
+  "Title": "Idols and Influences",
+  "Desc": "Randy Bachman and the pop life panel talk idols and influences.",
+  "StartTime": "2025-06-11T16:00:00+00:00",
+  "EndTime": "2025-06-11T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_776cbf1b-127e-42c6-94bf-96f1549c7d11_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "interview",
+    "entertainment",
+    "talk"
+  ],
+  "LongDescription": "Randy Bachman and the pop life panel talk idols and influences.",
+  "TopCast": [
+    "richard crouse",
+    "randy bachman"
+  ],
+  "Directors": []
+}

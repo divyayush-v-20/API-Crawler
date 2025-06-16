@@ -1,0 +1,43 @@
+{
+  "Name": "Castle",
+  "Title": "The Blame Game",
+  "Desc": "Castle is abducted and forced to solve deranged puzzles and mind games with strangers.",
+  "StartTime": "2025-06-17T03:00:00+00:00",
+  "EndTime": "2025-06-17T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_a7368bd0-77ef-443e-b4c0-0bd64b3354e1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "Castle is abducted and forced to solve deranged puzzles and mind games with strangers; Beckett and the 12th precinct race to save Castle.",
+  "TopCast": [
+    "nathan fillion",
+    "stana katic",
+    "tamala jones"
+  ],
+  "Directors": [
+    "jessica yu"
+  ]
+}

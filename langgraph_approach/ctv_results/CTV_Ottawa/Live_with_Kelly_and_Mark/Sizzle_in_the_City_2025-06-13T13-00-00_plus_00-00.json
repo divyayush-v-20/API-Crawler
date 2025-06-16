@@ -1,0 +1,39 @@
+{
+  "Name": "Live with Kelly and Mark",
+  "Title": "Sizzle in the City",
+  "Desc": "Jon Hamm (\"Your Friends & Neighbors\"); Michael Symon brings recipes; The Doobie Brothers perform.",
+  "StartTime": "2025-06-13T13:00:00+00:00",
+  "EndTime": "2025-06-13T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_15bff5ce-a910-405a-8af9-82bf7eff9e13_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "204",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Jon Hamm (\"Your Friends & Neighbors\"); Michael Symon brings summer recipes; ways to keep kids active in the summer; Steve Patterson hits the streets, Father's Day style; The Doobie Brothers perform.",
+  "TopCast": [
+    "kelly ripa",
+    "mark consuelos",
+    "jon hamm"
+  ],
+  "Directors": []
+}

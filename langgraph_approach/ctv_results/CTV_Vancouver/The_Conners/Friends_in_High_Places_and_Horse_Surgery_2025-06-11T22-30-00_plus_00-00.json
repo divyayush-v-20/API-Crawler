@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Friends in High Places and Horse Surgery",
+  "Desc": "Darlene's friendship with a manager at Wellman Plastics lands her in an awkward situation.",
+  "StartTime": "2025-06-11T22:30:00+00:00",
+  "EndTime": "2025-06-11T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_fe825eb5-10ad-4653-a217-fe401f429e22_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Darlene's friendship with a manager at Wellman Plastics lands her in an awkward situation; Louise's brother tries to win over Jackie by making a thoughtful gesture, creating uncomfortable tension.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "fred savage"
+  ]
+}

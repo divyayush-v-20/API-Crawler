@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Women With Guns",
+  "Desc": "A reporter friend of Frank's is almost attacked while investigating a story.",
+  "StartTime": "2025-06-16T05:00:00+00:00",
+  "EndTime": "2025-06-16T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_4c88a456-ba54-4d44-b381-955dc27197ac_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "When a reporter friend of Frank's is almost attacked while investigating a story, Danny and Jackie try to find the would-be attacker; Jamie makes headway in his undercover case.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "martha mitchell"
+  ]
+}

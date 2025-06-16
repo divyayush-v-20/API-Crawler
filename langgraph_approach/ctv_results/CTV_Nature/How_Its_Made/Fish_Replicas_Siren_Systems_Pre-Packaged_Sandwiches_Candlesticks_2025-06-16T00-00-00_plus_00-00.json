@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Fish Replicas, Siren Systems, Pre-Packaged Sandwiches, Candlesticks",
+  "Desc": "Fish replicas; siren systems; candlesticks.",
+  "StartTime": "2025-06-16T00:00:00+00:00",
+  "EndTime": "2025-06-16T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_32d7ee24-1eb3-42f2-a73c-178f2ba03c25_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 18,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Fish replicas; siren systems; candlesticks.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

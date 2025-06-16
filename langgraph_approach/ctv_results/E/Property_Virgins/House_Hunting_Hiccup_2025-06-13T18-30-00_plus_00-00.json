@@ -1,0 +1,38 @@
+{
+  "Name": "Property Virgins",
+  "Title": "House Hunting Hiccup",
+  "Desc": "Megan and Chris are determined to get out of their cramped basement apartment.",
+  "StartTime": "2025-06-13T18:30:00+00:00",
+  "EndTime": "2025-06-13T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_5ebceb6b-e041-425c-880c-a365775d5076_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 19,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "house/garden"
+  ],
+  "LongDescription": "Megan and Chris are determined to get out of their cramped basement apartment, but they don't see eye to eye on their starter home wish list.",
+  "TopCast": [
+    "wendy wolfe"
+  ],
+  "Directors": []
+}

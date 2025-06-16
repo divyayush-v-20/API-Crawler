@@ -1,0 +1,40 @@
+{
+  "Name": "Corner Gas Animated",
+  "Title": "Pioneer and Deer",
+  "Desc": "Wanda uncovers a shocking truth; Oscar tries to sneak into the fair despite being banned.",
+  "StartTime": "2025-06-15T07:30:00+00:00",
+  "EndTime": "2025-06-15T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_3870e006-2a19-4d0e-971e-47f690970c5e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Hank wants to change methods; Wanda uncovers a shocking truth about founding pioneer woman Jane T. Wright; Oscar tries to sneak into the fair despite being banned.",
+  "TopCast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "Directors": []
+}

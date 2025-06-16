@@ -1,0 +1,44 @@
+{
+  "Name": "The Rookie",
+  "Title": "Mother's Day",
+  "Desc": "Sgt. Grey rides with Officer Nolan to get him ready for becoming a training officer.",
+  "StartTime": "2025-06-14T19:00:00+00:00",
+  "EndTime": "2025-06-14T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_a566a29c-f2c2-4c86-a444-730f58aadddd_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action"
+  ],
+  "LongDescription": "Sgt. Grey supports Officer Nolan's desire to become a training officer and offers to ride with him for the day to get him ready; Tim and Lucy decide on their plans for Mother's Day and a romantic vacation.",
+  "TopCast": [
+    "nathan fillion",
+    "mekia cox",
+    "alyssa diaz"
+  ],
+  "Directors": [
+    "lisa demaine"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Gordon Ramsay's Secret Service",
+  "Title": "MacGregor's",
+  "Desc": "Gordon must orchestrate a fresh start for the owner of a fish-focused restaurant in Chesapeake Bay.",
+  "StartTime": "2025-06-12T04:02:00+00:00",
+  "EndTime": "2025-06-12T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_5596e9d4-15b8-4830-b58e-6aa9f8847ea3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 58,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "cooking"
+  ],
+  "LongDescription": "Gordon must orchestrate a fresh start for the owner of a fish-focused restaurant in Chesapeake Bay.",
+  "TopCast": [
+    "gordon ramsay"
+  ],
+  "Directors": []
+}

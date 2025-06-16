@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Trains",
+  "Title": "The Canadian",
+  "Desc": "VIA Rail's passenger train travels between Vancouver and Toronto on four-day, four-night journey.",
+  "StartTime": "2025-06-14T17:00:00+00:00",
+  "EndTime": "2025-06-14T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_4f9b473d-e949-40b5-a82e-764352e9c6cf_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel"
+  ],
+  "LongDescription": "VIA Rail's passenger train travels between Vancouver and Toronto on four-day, four-night journey that cater to everyone.",
+  "TopCast": [
+    "teddy wilson"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,36 @@
+{
+  "Name": "CTV National News With Sandie Rinaldo",
+  "Title": "CTV National News With Sandie Rinaldo",
+  "Desc": "The biggest news stories of the day with discussions and chat panels.",
+  "StartTime": "2025-06-12T00:30:00+00:00",
+  "EndTime": "2025-06-12T00:59:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_ad29c6e5-a52f-4bb3-97c1-087c096ff7f1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 29,
+  "SeasonNo": null,
+  "EpisodeNumber": "131",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "The biggest news stories of the day with discussions and chat panels.",
+  "TopCast": [
+    "sandie rinaldo"
+  ],
+  "Directors": []
+}

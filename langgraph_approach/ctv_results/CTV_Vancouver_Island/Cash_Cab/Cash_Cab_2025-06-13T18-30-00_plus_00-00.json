@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Four dudes out for a night on the town; the party doesn't stop when they get into Adam's cab.",
+  "StartTime": "2025-06-13T18:30:00+00:00",
+  "EndTime": "2025-06-13T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_577f0fbc-cdc5-4d7d-9277-f71a87faf175_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "25",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Sam, David, Yuri and Pierre are four dudes out for a night on the town, and when they get into Adam's cab, their partying doesn't stop.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Dark Side of the Ring",
+  "Title": "Cocaine & Cowboy Boots: The Herb Abrams Story",
+  "Desc": "One man's fanatical attempt to build a wrestling empire to rival Vince McMahon's goes haywire.",
+  "StartTime": "2025-06-14T11:07:00+00:00",
+  "EndTime": "2025-06-14T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_1f95fbdb-0754-4e74-96a2-718c4f26e03b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 53,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "pro wrestling",
+    "documentary"
+  ],
+  "LongDescription": "One man's fanatical attempt to build a wrestling empire to rival Vince McMahon's goes tragically haywire as his ego and cocaine addiction kills his dream -- and him along with it.",
+  "TopCast": [
+    "chris jericho"
+  ],
+  "Directors": []
+}

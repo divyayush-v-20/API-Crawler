@@ -1,0 +1,36 @@
+{
+  "Name": "CTV National News With Omar Sachedina",
+  "Title": "CTV National News With Omar Sachedina",
+  "Desc": "",
+  "StartTime": "2025-06-17T03:00:00+00:00",
+  "EndTime": "2025-06-17T03:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_7acbc375-a902-404f-b8bb-d349d735c8e3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "123",
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": null,
+  "TopCast": [],
+  "Directors": []
+}

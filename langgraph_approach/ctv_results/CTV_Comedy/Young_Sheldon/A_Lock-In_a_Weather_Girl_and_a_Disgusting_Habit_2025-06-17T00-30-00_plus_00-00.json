@@ -1,0 +1,41 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "A Lock-In, a Weather Girl and a Disgusting Habit",
+  "Desc": "Sheldon acts as Mary's spy during a youth lock-in at church; Georgie is attracted to an older woman.",
+  "StartTime": "2025-06-17T00:30:00+00:00",
+  "EndTime": "2025-06-17T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_8950b9c2-f085-49cb-9790-4251e2243c1c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon acts as Mary's spy during a youth lock-in at church; Georgie is attracted to an older woman.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "alex reid"
+  ]
+}

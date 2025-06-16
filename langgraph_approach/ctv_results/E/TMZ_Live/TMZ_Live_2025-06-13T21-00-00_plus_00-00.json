@@ -1,0 +1,40 @@
+{
+  "Name": "TMZ Live",
+  "Title": "TMZ Live",
+  "Desc": "Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.",
+  "StartTime": "2025-06-13T21:00:00+00:00",
+  "EndTime": "2025-06-13T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_138d25c7-1752-473c-8d37-45bc9a60015e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 13,
+  "EpisodeNumber": "205",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "newsmagazine",
+    "entertainment"
+  ],
+  "LongDescription": "Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.",
+  "TopCast": [
+    "harvey levin"
+  ],
+  "Directors": []
+}

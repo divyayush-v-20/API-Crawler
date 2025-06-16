@@ -1,0 +1,32 @@
+{
+  "Name": "Just for Laughs: Gags",
+  "Title": "Just for Laughs: Gags",
+  "Desc": "Hidden cameras record responses to practical jokes.",
+  "StartTime": "2025-06-16T20:00:00+00:00",
+  "EndTime": "2025-06-16T20:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_34b2ca22-e9eb-4098-8079-fd050af31536_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 25,
+  "EpisodeNumber": "2",
+  "Qualifiers": [],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "There's no sound, but there sure are plenty of laughs; this crazy Quebec-based troupe uses the city as its stage, and its inhabitants, or victims, as characters.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Lolo Wood XC",
+  "Desc": "Rob, Steelo and Lolo Wood hop on some bikes but forget to \"Hold That Bar.\"",
+  "StartTime": "2025-06-17T03:30:00+00:00",
+  "EndTime": "2025-06-17T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_a9c6d9d7-a59e-4eb6-b5e3-446edd7f707d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "22",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and guest host Lolo Wood hop on some bikes but forget to \"Hold That Bar;\" they find belts for some \"Pantless Playmakers\", and have lunch at some scary restaurants that are \"Serving Fear.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

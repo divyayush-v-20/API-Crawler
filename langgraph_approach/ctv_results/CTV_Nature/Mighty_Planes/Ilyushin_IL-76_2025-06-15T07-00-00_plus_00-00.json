@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Planes",
+  "Title": "Ilyushin IL-76",
+  "Desc": "Volga-Dnepr's Ilyushin-76 delivers equipment to a remote mine in Nunavut.",
+  "StartTime": "2025-06-15T07:00:00+00:00",
+  "EndTime": "2025-06-15T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_917c104a-50a7-4730-b630-4f3cb00bc42c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation"
+  ],
+  "LongDescription": "Baffinland Mines needs to get equipment to a remote mine in Nunavut to support shipping operations for the summer and have hired one of Volga-Dnepr's Ilyushin-76.",
+  "TopCast": [
+    "mike goral"
+  ],
+  "Directors": []
+}

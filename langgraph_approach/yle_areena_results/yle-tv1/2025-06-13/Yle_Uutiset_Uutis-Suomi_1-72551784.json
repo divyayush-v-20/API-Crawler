@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T18:12:01+03:00",
+  "program_data": {
+    "title": "Yle Uutiset Uutis-Suomi",
+    "description": "Kiinnostavia uutisia eri puolelta Suomea",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72551784"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.12",
+        "raw": "2025-06-13T18:12:01+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T18:20:01+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "8 min",
+        "raw": "PT480S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3703566"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72551784.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

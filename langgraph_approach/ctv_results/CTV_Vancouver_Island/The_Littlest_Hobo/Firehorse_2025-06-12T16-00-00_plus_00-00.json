@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Firehorse",
+  "Desc": "Teamed up with a firefighter, Hobo rescues victims from a blazing factory.",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_04bc2abb-c428-43ec-8d9f-2567e6d29c91_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Teamed up with a firefighter, Hobo rescues victims from a blazing factory.",
+  "TopCast": [
+    "neil dainard",
+    "james edmond",
+    "billy van"
+  ],
+  "Directors": [
+    "al waxman"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Icons Unearthed: Harry Potter",
+  "Title": "Growing Up",
+  "Desc": "As the franchise grows more adult, fame starts to take a toll on the stars.",
+  "StartTime": "2025-06-11T09:00:00+00:00",
+  "EndTime": "2025-06-11T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_5bc62ef8-6124-4bf8-9045-113fc72069d5_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary"
+  ],
+  "LongDescription": "As the franchise grows more adult, fame starts to take a toll on the stars; with the kids struggling to grow up and another new director at the helm, the magic might be lost.",
+  "TopCast": [
+    "flick miles"
+  ],
+  "Directors": [
+    "benjamin j. frost"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "The Toll",
+  "Desc": "Al tackles a unique spin out; an unlikely duo take on a bizarre crash.",
+  "StartTime": "2025-06-12T03:00:00+00:00",
+  "EndTime": "2025-06-12T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_17b62173-c43f-4583-9b48-c22698417f92_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Al tackles a unique spin out; an unlikely duo take on a bizarre crash; Brian finds himself in the danger zone; the Mission team responds to a backcountry recovery; James Luke is pushed to the brink.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

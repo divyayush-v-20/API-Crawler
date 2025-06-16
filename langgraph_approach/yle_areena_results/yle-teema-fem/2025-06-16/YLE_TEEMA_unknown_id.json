@@ -1,0 +1,27 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T12:00:00+03:00",
+  "program_data": {
+    "title": "YLE TEEMA",
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "12.00",
+        "raw": "2025-06-16T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

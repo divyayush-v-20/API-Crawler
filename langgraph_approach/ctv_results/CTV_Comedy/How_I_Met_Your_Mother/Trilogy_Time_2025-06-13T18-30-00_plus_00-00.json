@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Trilogy Time",
+  "Desc": "Ted, Marshall and Barney watch the \"Star Wars\" trilogy and consider their futures.",
+  "StartTime": "2025-06-13T18:30:00+00:00",
+  "EndTime": "2025-06-13T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_0eef2ec4-605a-42c8-9753-a23d4b2bcce7_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 7,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Ted, Marshall and Barney get together to watch the \"Star Wars\" trilogy and consider their futures; Barney and Quinn move in together.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "neil patrick harris"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

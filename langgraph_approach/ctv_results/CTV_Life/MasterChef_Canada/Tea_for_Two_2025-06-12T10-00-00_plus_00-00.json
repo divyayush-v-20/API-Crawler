@@ -1,0 +1,42 @@
+{
+  "Name": "MasterChef Canada",
+  "Title": "Tea for Two",
+  "Desc": "The remaining cooks face a cook-along challenge; an afternoon tea tag-team challenge.",
+  "StartTime": "2025-06-12T10:00:00+00:00",
+  "EndTime": "2025-06-12T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_16c7bc1e-289d-4bbb-8d8e-c6c4c6a09233_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking",
+    "competition reality"
+  ],
+  "LongDescription": "The remaining cooks face a cook-along challenge; an afternoon tea tag-team challenge.",
+  "TopCast": [
+    "michael bonacini",
+    "alvin leung",
+    "claudio aprile"
+  ],
+  "Directors": []
+}

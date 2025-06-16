@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Farhampton",
+  "Desc": "Ted recounts a story in hope of calming Robin, who is anxious on her and Barney's wedding day.",
+  "StartTime": "2025-06-13T23:30:00+00:00",
+  "EndTime": "2025-06-14T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_d7c21779-1a3e-425d-ac06-1e7b8ec498ed_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Ted recounts a story about leaving a note for Victoria's ex-fiance (Thomas Lennon) in hope of calming Robin, who is anxious on her and Barney's wedding day.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "cobie smulders"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

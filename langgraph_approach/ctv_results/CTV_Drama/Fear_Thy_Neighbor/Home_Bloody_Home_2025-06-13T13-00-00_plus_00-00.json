@@ -1,0 +1,41 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Home Bloody Home",
+  "Desc": "A dog bite causes a long-held grudge to explode into a frenzy of violence.",
+  "StartTime": "2025-06-13T13:00:00+00:00",
+  "EndTime": "2025-06-13T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_2ed22556-8c90-4ce8-963b-bd95bf3c4fdf_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "When neighbors stand up to a bully after his dog bites their son, a grudge he's been nursing for decades finally explodes into a frenzy of violence.",
+  "TopCast": [
+    "herbert davis",
+    "carlos fortin",
+    "brandon knox"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Flashpoint",
+  "Title": "A Call to Arms",
+  "Desc": "Team One must figure out how to get a Chinatown gang to release a local shop owner.",
+  "StartTime": "2025-06-12T18:00:00+00:00",
+  "EndTime": "2025-06-12T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_5d199846-7966-4be0-89a6-49a41016d0a2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "Team One must figure out how to get a Chinatown gang to release a local shop owner.",
+  "TopCast": [
+    "enrico colantoni",
+    "hugh dillon",
+    "amy jo johnson"
+  ],
+  "Directors": []
+}

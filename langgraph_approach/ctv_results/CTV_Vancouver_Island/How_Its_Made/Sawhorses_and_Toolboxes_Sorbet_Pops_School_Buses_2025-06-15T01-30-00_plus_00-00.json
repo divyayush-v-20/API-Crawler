@@ -1,0 +1,37 @@
+{
+  "Name": "How It's Made",
+  "Title": "Sawhorses and Toolboxes; Sorbet Pops; School Buses",
+  "Desc": "Discover how sawhorses and toolboxes, sorbet pops and school buses are made.",
+  "StartTime": "2025-06-15T01:30:00+00:00",
+  "EndTime": "2025-06-15T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_3322bf10-c822-4679-a109-821a7988943f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 22,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "More everyday items are put under the microscope as we discover how sawhorses and toolboxes, sorbet pops and school buses are made.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

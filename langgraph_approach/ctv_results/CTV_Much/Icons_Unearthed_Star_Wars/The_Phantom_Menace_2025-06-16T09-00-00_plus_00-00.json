@@ -1,0 +1,36 @@
+{
+  "Name": "Icons Unearthed: Star Wars",
+  "Title": "The Phantom Menace",
+  "Desc": "After more than a decade on ice, \"Star Wars\" returns with impossible expectations.",
+  "StartTime": "2025-06-16T09:00:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_932111d5-9260-42ed-8a63-1cba2712a032_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "anthology",
+    "documentary"
+  ],
+  "LongDescription": "After more than a decade on ice, \"Star Wars\" returns with impossible expectations; the new \"Star Wars\" trilogy attempts to re-create the original magic without George Lucas' partner, Marcia, at his side.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "Split Second",
+  "Desc": "A string of jewelry store robberies shakes Atwater's confidence.",
+  "StartTime": "2025-06-15T05:00:00+00:00",
+  "EndTime": "2025-06-15T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_951da56e-4a76-4b6d-8c13-67c4ab72b0dc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Atwater turns to an unlikely source of support when a string of jewelry store robberies shakes his confidence.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "eric laneuville"
+  ]
+}

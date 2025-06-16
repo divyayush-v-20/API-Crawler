@@ -1,0 +1,41 @@
+{
+  "Name": "The Sisterhood",
+  "Title": "The Sisterhood",
+  "Desc": "After going through a difficult year, Ashley Shields decides to join a women's group.",
+  "StartTime": "2025-06-15T08:00:00+00:00",
+  "EndTime": "2025-06-15T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_bd335e48-f94c-493d-9471-e27e5a3c3d2e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Movie",
+  "SubType": "TV Movie",
+  "Genres": [
+    "thriller"
+  ],
+  "LongDescription": "After going through a difficult year, Ashley Shields decides to join a women's group in the hopes of feeling empowered enough to change her life.",
+  "TopCast": [
+    "claire coffee",
+    "lisa berry",
+    "siobhan murphy"
+  ],
+  "Directors": [
+    "jean-fran\u00e7ois rivard"
+  ]
+}

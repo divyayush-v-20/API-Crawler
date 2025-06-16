@@ -1,0 +1,39 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Greg McKeown",
+  "Desc": "Rob, Steelo and Lolo welcome author Greg McKeown to make the difficult look easy in effortlessness.",
+  "StartTime": "2025-06-15T22:00:00+00:00",
+  "EndTime": "2025-06-15T22:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_3ee9a7e0-4cb3-4e47-a652-a81c96d07808_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "30",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and Lolo Wood welcome author Greg McKeown to make the difficult look easy in effortlessness.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

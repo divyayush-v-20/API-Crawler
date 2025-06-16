@@ -1,0 +1,44 @@
+{
+  "Name": "Criminal Minds",
+  "Title": "Strange Fruit",
+  "Desc": "When skeletons are discovered in the backyard of a home in Virginia, family secrets are revealed.",
+  "StartTime": "2025-06-11T05:07:00+00:00",
+  "EndTime": "2025-06-11T06:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_67d2e4d7-e9a5-495d-8f1d-5a2c75ace875_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 58,
+  "SeasonNo": 9,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "When skeletons are discovered in the backyard of a home in Virginia, family secrets and past racial divisions are brought to light.",
+  "TopCast": [
+    "joe mantegna",
+    "thomas gibson",
+    "shemar moore"
+  ],
+  "Directors": [
+    "constantine makris"
+  ]
+}

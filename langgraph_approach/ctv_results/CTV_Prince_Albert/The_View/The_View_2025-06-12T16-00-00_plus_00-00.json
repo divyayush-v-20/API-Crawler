@@ -1,0 +1,41 @@
+{
+  "Name": "The View",
+  "Title": "The View",
+  "Desc": "Actor Gerard Butler; Bob the Drag Queen.",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_2ea3bc46-0047-4ab4-85da-b30092fb02f4_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "182",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Actor Gerard Butler; Bob the Drag Queen.",
+  "TopCast": [
+    "whoopi goldberg",
+    "joy behar",
+    "sunny hostin"
+  ],
+  "Directors": [
+    "sarah de la o"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Bones",
+  "Title": "The Daredevil in the Mold",
+  "Desc": "The team analyzes a BMX rider's remains, discovered on the roof of a warehouse.",
+  "StartTime": "2025-06-13T23:00:00+00:00",
+  "EndTime": "2025-06-14T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_ef289c9b-5aa4-48aa-881f-820447bdf9ae_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "The team analyzes a BMX rider's remains, discovered on the roof of a warehouse; Sweets asks Booth for advice; Booth makes a decision about Hannah.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": []
+}

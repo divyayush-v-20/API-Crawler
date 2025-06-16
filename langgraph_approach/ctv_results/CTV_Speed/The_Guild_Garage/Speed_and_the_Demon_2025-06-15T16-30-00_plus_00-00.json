@@ -1,0 +1,39 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "Speed and the Demon",
+  "Desc": "A '16 Bugatti Chiron and a Dodge Demon; a '60s Westfalia Volkswagen Van and a 1983 Mercedes G Wagon.",
+  "StartTime": "2025-06-15T16:30:00+00:00",
+  "EndTime": "2025-06-15T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_2cd4cb96-20f1-4e29-b8e7-4d90c745adfb_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "David visits his friend Tim \"The Hapi Hipi\" again to check out his latest purchases: a '16 4-turbo, 1500 horsepower Bugatti Chiron and a Dodge Demon; Bart works on a '60s Westfalia Volkswagen Van and a 1983 Mercedes G Wagon.",
+  "TopCast": [
+    "david grainger"
+  ],
+  "Directors": []
+}

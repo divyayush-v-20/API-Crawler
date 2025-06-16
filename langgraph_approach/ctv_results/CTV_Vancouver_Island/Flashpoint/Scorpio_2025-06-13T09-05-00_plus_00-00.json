@@ -1,0 +1,42 @@
+{
+  "Name": "Flashpoint",
+  "Title": "Scorpio",
+  "Desc": "The team rushes to save a woman when a disturbed man holds her hostage outside an office building.",
+  "StartTime": "2025-06-13T09:05:00+00:00",
+  "EndTime": "2025-06-13T10:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_44660393-cc33-4ee9-a3a5-409cb1eaf63b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "The team rushes to save a woman when a disturbed man holds her hostage outside an office building.",
+  "TopCast": [
+    "enrico colantoni",
+    "hugh dillon",
+    "amy jo johnson"
+  ],
+  "Directors": [
+    "david frazee"
+  ]
+}

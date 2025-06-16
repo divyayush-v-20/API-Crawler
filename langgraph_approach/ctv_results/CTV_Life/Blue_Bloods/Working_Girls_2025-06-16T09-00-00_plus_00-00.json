@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Working Girls",
+  "Desc": "An attempt is made on the life of a witness in Danny and Jackie's care.",
+  "StartTime": "2025-06-16T09:00:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_cbc2197e-1ba8-428c-8cee-b332f3a2fd63_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "When an attempt is made on the life of a witness in Danny and Jackie's care, they realize the task force has a leak; Erin receives a job offer that would have her working with her father.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "james whitmore"
+  ]
+}

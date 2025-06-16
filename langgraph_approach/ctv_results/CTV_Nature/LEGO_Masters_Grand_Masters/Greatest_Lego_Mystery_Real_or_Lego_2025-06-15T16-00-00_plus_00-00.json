@@ -1,0 +1,39 @@
+{
+  "Name": "LEGO Masters: Grand Masters",
+  "Title": "Greatest Lego Mystery: Real or Lego?",
+  "Desc": "The winning team gains immunity in the third and final challenge of Brick Week.",
+  "StartTime": "2025-06-15T16:00:00+00:00",
+  "EndTime": "2025-06-15T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_3bce0c3e-3d3e-4b78-86e9-29b6c5123c98_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": 5,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show",
+    "reality"
+  ],
+  "LongDescription": "The winning team gains immunity in the third and final challenge of Brick Week.",
+  "TopCast": [
+    "hamish blake",
+    "ryan mcnaught"
+  ],
+  "Directors": []
+}

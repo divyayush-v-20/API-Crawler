@@ -1,0 +1,35 @@
+{
+  "Name": "Just for Laughs: Gags",
+  "Title": "Disappearing Purse",
+  "Desc": "Pranks involve a flirty old man, a nasty fart box, a mousetrap on a shelf and many more.",
+  "StartTime": "2025-06-13T11:35:00+00:00",
+  "EndTime": "2025-06-13T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4fbf7156-de5e-49bd-92ef-2164c65c54cc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 25,
+  "SeasonNo": 9,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Prank masters create gags; pranks involve a flirty old man, a nasty fart box, a mousetrap on a shelf and many more.",
+  "TopCast": [],
+  "Directors": []
+}

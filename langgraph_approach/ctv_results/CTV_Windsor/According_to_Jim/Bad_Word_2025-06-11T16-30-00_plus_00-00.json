@@ -1,0 +1,40 @@
+{
+  "Name": "According to Jim",
+  "Title": "Bad Word",
+  "Desc": "The girls use profanity they heard from Jim.",
+  "StartTime": "2025-06-11T16:30:00+00:00",
+  "EndTime": "2025-06-11T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_ae281e3b-00ca-4852-8aec-ba279717d114_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2002",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Jim blurts out profanity while watching a Bears game, and it's repeated by the girls and their little friend.",
+  "TopCast": [
+    "jim belushi",
+    "courtney thorne-smith",
+    "kimberly williams-paisley"
+  ],
+  "Directors": [
+    "gil junger"
+  ]
+}

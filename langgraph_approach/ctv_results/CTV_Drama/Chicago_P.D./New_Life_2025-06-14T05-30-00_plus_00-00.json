@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "New Life",
+  "Desc": "Torres finds himself in the midst of a murder case that threatens to expose his troubled past.",
+  "StartTime": "2025-06-14T05:30:00+00:00",
+  "EndTime": "2025-06-14T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_62215439-3996-4100-bbb7-35ee83ddc307_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Torres finds himself in the midst of a murder case that hits close to home and threatens to expose his troubled past; as he struggles to reconcile his old life with his new one, Voight keeps a watchful eye.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "carl seaton"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Dog Tales Rescue",
+  "Title": "A Special Case",
+  "Desc": "A dog with amputated front paws arrives; Ilana trims an energetic foal's hooves.",
+  "StartTime": "2025-06-13T02:30:00+00:00",
+  "EndTime": "2025-06-13T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_2e5f3dab-863e-4f77-8d12-aa8240eee624_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "A dog with amputated front paws arrives; Ilana trims an energetic foal's hooves; Danielle gets a special visit.",
+  "TopCast": [
+    "daniell eden-scheinberg",
+    "rob scheinberg"
+  ],
+  "Directors": []
+}

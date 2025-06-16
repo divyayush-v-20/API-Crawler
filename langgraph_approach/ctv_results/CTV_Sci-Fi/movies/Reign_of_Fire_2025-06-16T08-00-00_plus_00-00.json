@@ -1,0 +1,46 @@
+{
+  "Name": "Reign of Fire",
+  "Title": "Reign of Fire",
+  "Desc": "Two men (Christian Bale, Matthew McConaughey) fight dragons in post-apocalyptic London.",
+  "StartTime": "2025-06-16T08:00:00+00:00",
+  "EndTime": "2025-06-16T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_0c475146-1b97-4e14-b481-ec8437b3f49b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 240,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2002",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "fantasy",
+    "adventure",
+    "action",
+    "science fiction"
+  ],
+  "LongDescription": "In present-day London, 12-year-old Quinn watches as his mother wakes an enormous fire-breathing beast from its centuries-long slumber. Twenty years later, much of the world has been scarred by the beast and its offspring. As a fire chief, Quinn (Christian Bale) is responsible for warding off the beasts and keeping a community alive as they eke out a meager existence. Into their midst comes a hotshot American, Van Zan (Matthew McConaughey), who says he has a way to kill the beasts.",
+  "TopCast": [
+    "christian bale",
+    "matthew mcconaughey",
+    "izabella scorupco"
+  ],
+  "Directors": [
+    "rob bowman"
+  ]
+}

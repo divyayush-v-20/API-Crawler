@@ -1,0 +1,41 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Torque",
+  "Desc": "Hobo helps a go-cart driver who is trying a earn a position on the national racing team.",
+  "StartTime": "2025-06-13T09:00:00+00:00",
+  "EndTime": "2025-06-13T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e7bb15ad-a6a2-49c5-87da-7c6d9201bfc2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1985",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo helps a go-cart driver who is trying a earn a position on the national racing team.",
+  "TopCast": [
+    "bryan genesse",
+    "quinn george",
+    "allan royal"
+  ],
+  "Directors": [
+    "alan simmonds"
+  ]
+}

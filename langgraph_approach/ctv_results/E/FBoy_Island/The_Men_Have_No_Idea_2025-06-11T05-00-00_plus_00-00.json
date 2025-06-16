@@ -1,0 +1,43 @@
+{
+  "Name": "FBoy Island",
+  "Title": "The Men Have No Idea",
+  "Desc": "After their second 24-hour date, the girls must decide which of their final two is \"the one.\"",
+  "StartTime": "2025-06-11T05:00:00+00:00",
+  "EndTime": "2025-06-11T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_07136d58-b882-4b9d-9a32-bb4f6c4d923b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": 2,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "After returning from their second 24-hour date, Mia, Louise, and Tamaris must decide which of their final two is really \"the one,\" until a surprise twist at elimination threatens to change everything.",
+  "TopCast": [
+    "nikki glaser",
+    "mia emani jones",
+    "louise barnard"
+  ],
+  "Directors": [
+    "michael shea"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Angela, Ashley and Brian are surprised and excited to be in the Cash Cab, until they get stumped.",
+  "StartTime": "2025-06-11T18:30:00+00:00",
+  "EndTime": "2025-06-11T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_22499007-ec40-4c18-ac9f-df00816a47e0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Angela, Ashley and Brian are super surprised and excited to be in the Cash Cab; they're riding high until they get stumped.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

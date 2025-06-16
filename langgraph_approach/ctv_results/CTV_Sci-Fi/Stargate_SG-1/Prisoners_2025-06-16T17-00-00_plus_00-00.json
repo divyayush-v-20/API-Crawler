@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "Prisoners",
+  "Desc": "The SG team is sentenced to serve on a prison planet whose ruler holds the key to their release.",
+  "StartTime": "2025-06-16T17:00:00+00:00",
+  "EndTime": "2025-06-16T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_7d13de86-e687-4f72-a69d-cf84dd5a5e54_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1998",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "The SG team is sentenced to serve on a prison planet whose ruler holds the key to their release.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "david warry-smith"
+  ]
+}

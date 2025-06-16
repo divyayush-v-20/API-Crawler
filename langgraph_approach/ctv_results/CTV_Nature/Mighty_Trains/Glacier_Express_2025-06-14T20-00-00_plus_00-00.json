@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Trains",
+  "Title": "Glacier Express",
+  "Desc": "The Glacier Express features cutting-edge technology to pull the train up steep slopes.",
+  "StartTime": "2025-06-14T20:00:00+00:00",
+  "EndTime": "2025-06-14T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_c4a62bb4-7574-41ce-96da-90166c993b3d_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel"
+  ],
+  "LongDescription": "The Glacier Express features cutting-edge technology to pull the train up the steepest slopes on its route across the Swiss Alps.",
+  "TopCast": [
+    "teddy wilson"
+  ],
+  "Directors": []
+}

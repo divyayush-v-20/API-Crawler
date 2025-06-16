@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "The Pre-Nup",
+  "Desc": "When Barney prepares a pre-nup, the other guys decide to propose their own relationship amendments.",
+  "StartTime": "2025-06-14T07:00:00+00:00",
+  "EndTime": "2025-06-14T07:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_84f3c51a-d18f-466f-9cdd-74476bf21d80_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "When Barney prepares a comprehensive pre-nup, the other guys decide to propose relationship amendments to their significant others; Quinn is furious and makes a pre-nup of her own.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "cobie smulders"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

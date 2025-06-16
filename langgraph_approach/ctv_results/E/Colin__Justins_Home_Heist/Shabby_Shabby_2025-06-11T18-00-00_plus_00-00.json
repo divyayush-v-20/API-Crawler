@@ -1,0 +1,41 @@
+{
+  "Name": "Colin & Justin's Home Heist",
+  "Title": "Shabby Shabby",
+  "Desc": "A single mother gets help with the remodeling of the bedroom and the main floor.",
+  "StartTime": "2025-06-11T18:00:00+00:00",
+  "EndTime": "2025-06-11T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_16a8f76a-3fdc-43af-99c0-0e6b48019e9f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "house/garden",
+    "home improvement"
+  ],
+  "LongDescription": "A single mother gets help with the remodeling of the bedroom and the main floor.",
+  "TopCast": [
+    "colin mcallister",
+    "justin ryan"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Technical Glass; Washing Machines",
+  "Desc": "Technical glass; washing machines; playing cards; crossbows.",
+  "StartTime": "2025-06-11T11:00:00+00:00",
+  "EndTime": "2025-06-11T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_b26d2e4a-4e78-4d15-8381-15f6ccb14828_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 11,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Technical glass; washing machines; playing cards; crossbows.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

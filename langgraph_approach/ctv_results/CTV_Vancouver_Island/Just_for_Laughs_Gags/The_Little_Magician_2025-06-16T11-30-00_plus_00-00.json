@@ -1,0 +1,35 @@
+{
+  "Name": "Just for Laughs: Gags",
+  "Title": "The Little Magician",
+  "Desc": "Pranks involve a retractable drinking fountain, a dog in the potatoes and many more.",
+  "StartTime": "2025-06-16T11:30:00+00:00",
+  "EndTime": "2025-06-16T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_be9af254-e7ea-4901-a019-9e0330e1c90e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Pranks involve a rabbit police, a retractable drinking fountain, a dog in the potatoes and many more.",
+  "TopCast": [],
+  "Directors": []
+}

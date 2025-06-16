@@ -1,0 +1,39 @@
+{
+  "Name": "Last Stop Garage",
+  "Title": "Labrador Hunting Truck",
+  "Desc": "Collin and Corey repurpose a Daihatsu Hijet mini truck as a mobile hunting blind.",
+  "StartTime": "2025-06-17T00:30:00+00:00",
+  "EndTime": "2025-06-17T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_4f931a42-efce-4eec-89b8-b946e4bf863d_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto"
+  ],
+  "LongDescription": "Collin and Corey repurpose a Daihatsu Hijet mini truck as a mobile hunting blind for a hunter to drive through the backwoods of Labrador in all conditions.",
+  "TopCast": [
+    "collin baikie",
+    "corey webber"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Indian Summer",
+  "Desc": "Hobo helps four elderly people who \"escaped\" from an improperly run retirement home.",
+  "StartTime": "2025-06-11T05:30:00+00:00",
+  "EndTime": "2025-06-11T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_9f1e0546-ce65-43b2-bb25-92cc303e52a4_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo helps four elderly people who \"escaped\" from an improperly run retirement home.",
+  "TopCast": [
+    "helen carscallen",
+    "robert christie",
+    "charles jolliffe"
+  ],
+  "Directors": [
+    "mario azzopardi"
+  ]
+}

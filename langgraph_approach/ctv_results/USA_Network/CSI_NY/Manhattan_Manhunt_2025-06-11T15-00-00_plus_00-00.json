@@ -1,0 +1,44 @@
+{
+  "Name": "CSI: NY",
+  "Title": "Manhattan Manhunt",
+  "Desc": "A serial killer evades capture in Miami and goes to New York with a hostage.",
+  "StartTime": "2025-06-11T15:00:00+00:00",
+  "EndTime": "2025-06-11T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_07aa684f-7683-4a2d-bbaf-501c691d8651_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller",
+    "mystery"
+  ],
+  "LongDescription": "A serial killer evades capture in Miami and goes to New York with a hostage, so Mac teams with Florida officers to recapture the perpetrator and save his captive.",
+  "TopCast": [
+    "gary sinise",
+    "melina kanakaredes",
+    "carmine giovinazzo"
+  ],
+  "Directors": [
+    "rob bailey"
+  ]
+}

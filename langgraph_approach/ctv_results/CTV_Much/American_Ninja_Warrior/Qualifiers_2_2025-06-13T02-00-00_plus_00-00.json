@@ -1,0 +1,44 @@
+{
+  "Name": "American Ninja Warrior",
+  "Title": "Qualifiers 2",
+  "Desc": "Qualifiers continue in Las Vegas with a special \"How to Train Your Dragon\" episode.",
+  "StartTime": "2025-06-13T02:00:00+00:00",
+  "EndTime": "2025-06-13T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_2e980c9d-d06b-4dee-b8c9-b6f34632e50f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": 17,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "action sports",
+    "action",
+    "adventure",
+    "competition reality"
+  ],
+  "LongDescription": "Qualifiers continue in Las Vegas with a special \"How to Train Your Dragon\" episode; dragons Toothless and Stormfly join the ninjas, and the film's star, Mason Thames, joins Matt and Akbar in the booth.",
+  "TopCast": [
+    "matt iseman",
+    "akbar gbajabiamila",
+    "zuri hall"
+  ],
+  "Directors": []
+}

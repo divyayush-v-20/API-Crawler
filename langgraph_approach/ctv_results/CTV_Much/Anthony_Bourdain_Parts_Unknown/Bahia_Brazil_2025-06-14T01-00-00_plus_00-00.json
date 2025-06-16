@@ -1,0 +1,43 @@
+{
+  "Name": "Anthony Bourdain: Parts Unknown",
+  "Title": "Bahia, Brazil",
+  "Desc": "Visiting Bahia, the African heart of Brazil; the dance/martial art of Capoeira.",
+  "StartTime": "2025-06-14T01:00:00+00:00",
+  "EndTime": "2025-06-14T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_46a062f0-8357-46ec-92cd-ee1ebd708539_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel",
+    "cooking"
+  ],
+  "LongDescription": "Visiting Bahia, the African heart of Brazil; the dance/martial art of Capoeira; legendary food vendors; Salvadoran fishing neighborhoods.",
+  "TopCast": [
+    "anthony bourdain",
+    "tom vitale"
+  ],
+  "Directors": [
+    "tom vitale"
+  ]
+}

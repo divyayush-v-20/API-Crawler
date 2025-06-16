@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "This gang is stoked and full of confidence when they find out that they have entered the Cash Cab.",
+  "StartTime": "2025-06-12T18:30:00+00:00",
+  "EndTime": "2025-06-12T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_dd0b2cab-beb8-4c75-8dcd-41a1a51d9c12_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "This gang is stoked and full of confidence when they find out that they have entered the Cash Cab.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

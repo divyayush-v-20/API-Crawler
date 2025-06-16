@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Game Set and Mouse",
+  "Desc": "Oscar tries to catch a mouse; Brent and Hank invent a new game.",
+  "StartTime": "2025-06-15T12:30:00+00:00",
+  "EndTime": "2025-06-15T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_f4f47018-9ecd-4392-8e99-f30243156890_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Oscar tries to catch a mouse; Brent and Hank invent a new game.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

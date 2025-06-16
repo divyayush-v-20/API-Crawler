@@ -1,0 +1,43 @@
+{
+  "Name": "Castle",
+  "Title": "Tone Death",
+  "Desc": "Castle and Beckett investigate when a corpse is discovered in the theater of Martha's latest show.",
+  "StartTime": "2025-06-13T03:58:00+00:00",
+  "EndTime": "2025-06-13T04:56:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e205548f-5783-47b4-b3ea-f424dfdd6ea9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 58,
+  "SeasonNo": 8,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "When a corpse is discovered in the theater of Martha's latest show, Castle and Beckett's investigation reveals surprising details about the world of competitive a capella.",
+  "TopCast": [
+    "nathan fillion",
+    "stana katic",
+    "tamala jones"
+  ],
+  "Directors": [
+    "hanelle culpepper"
+  ]
+}

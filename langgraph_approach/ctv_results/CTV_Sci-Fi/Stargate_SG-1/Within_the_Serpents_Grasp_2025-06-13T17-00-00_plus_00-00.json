@@ -1,0 +1,43 @@
+{
+  "Name": "Stargate SG-1",
+  "Title": "Within the Serpent's Grasp",
+  "Desc": "SG-1 sneaks aboard a Goa'uld attack ship and learns Earth is in danger.",
+  "StartTime": "2025-06-13T17:00:00+00:00",
+  "EndTime": "2025-06-13T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e56d7156-2fbd-438d-ba4e-e7dc351175db_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "22",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1998",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "LongDescription": "SG-1 sneaks aboard a Goa'uld attack ship and learns Earth is in danger.",
+  "TopCast": [
+    "richard dean anderson",
+    "michael shanks",
+    "amanda tapping"
+  ],
+  "Directors": [
+    "david warry-smith"
+  ]
+}

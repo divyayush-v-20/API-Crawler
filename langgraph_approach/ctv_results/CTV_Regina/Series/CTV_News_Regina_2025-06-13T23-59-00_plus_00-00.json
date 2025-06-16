@@ -1,0 +1,35 @@
+{
+  "Name": "CTV News Regina",
+  "Title": "CTV News Regina",
+  "Desc": "Breaking news, headlines and top stories from Regina.",
+  "StartTime": "2025-06-13T23:59:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_1c9fd1ca-a24e-475c-aa44-6ddd0e17d7c3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 61,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "live",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Regina.",
+  "TopCast": [],
+  "Directors": []
+}

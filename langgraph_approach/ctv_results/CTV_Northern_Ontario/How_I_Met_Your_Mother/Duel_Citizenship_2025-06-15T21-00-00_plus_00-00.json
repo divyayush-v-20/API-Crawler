@@ -1,0 +1,41 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Duel Citizenship",
+  "Desc": "Barney wants Robin to become an American citizen; Lily joins Marshall and Ted on their road trip.",
+  "StartTime": "2025-06-15T21:00:00+00:00",
+  "EndTime": "2025-06-15T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_12_ef816c87-98cd-4b80-8546-62f68523c7d5_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Barney wants Robin to become an American citizen; Lily joins Marshall and Ted on their road trip.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "neil patrick harris"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

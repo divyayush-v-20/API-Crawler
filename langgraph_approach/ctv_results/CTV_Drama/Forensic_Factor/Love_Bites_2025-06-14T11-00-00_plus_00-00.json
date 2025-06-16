@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "Love Bites",
+  "Desc": "Police discover a murdered teenage girl was involved in a love triangle.",
+  "StartTime": "2025-06-14T11:00:00+00:00",
+  "EndTime": "2025-06-14T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_c9b28f8e-4006-422f-beaf-c1b5246d5b7f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 7,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "Police discover a murdered teenage girl was involved in a love triangle.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

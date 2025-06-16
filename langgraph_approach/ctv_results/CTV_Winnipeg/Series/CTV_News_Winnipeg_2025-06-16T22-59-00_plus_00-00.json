@@ -1,0 +1,34 @@
+{
+  "Name": "CTV News Winnipeg",
+  "Title": "CTV News Winnipeg",
+  "Desc": "Breaking news, headlines and top stories from Winnipeg.",
+  "StartTime": "2025-06-16T22:59:00+00:00",
+  "EndTime": "2025-06-17T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_df4cb821-814c-4aa4-8801-59ec25ab1ea2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 61,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Winnipeg.",
+  "TopCast": [],
+  "Directors": []
+}

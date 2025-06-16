@@ -1,0 +1,84 @@
+{
+  "channel_id": "tv-finland",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T13:30:00+03:00",
+  "program_data": {
+    "title": "Lauman uusi jäsen",
+    "description": "Osa 2/8. Backströmin perheen lapset saavat kuulla jännittävän uutisen. Ines on vegaani, mutta hänen uusi kissanpentunsa Koivu on puhdas lihansyöjä. Onko kissan tai koiran hankkiminen eettisesti oikein? Tuotanto: Five Corners Production, 2021. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50647651"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.30",
+        "raw": "2025-06-15T13:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T14:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "30 min",
+        "raw": "PT1800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50849424"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50647651.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

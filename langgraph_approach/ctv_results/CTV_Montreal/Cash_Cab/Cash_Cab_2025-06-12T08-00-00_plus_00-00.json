@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "As they enter the taxi, these contestants mutter \"too bad this wasn't the Cash Cab.\"",
+  "StartTime": "2025-06-12T08:00:00+00:00",
+  "EndTime": "2025-06-12T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_fbb1dcee-07b3-4bea-a8f2-8fa11ccbdf50_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "As they enter the taxi, these contestants mutter \"too bad this wasn't the Cash Cab,\" and are completely delighted to find out where they are.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

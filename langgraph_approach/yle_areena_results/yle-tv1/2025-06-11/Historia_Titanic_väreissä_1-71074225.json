@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-11",
+  "broadcast_time": "2025-06-11T19:00:00+03:00",
+  "program_data": {
+    "title": "Historia: Titanic väreissä",
+    "description": "2/2 Viimeiset hetket. Miten Titanicin viimeinen päivä ennen uppoamista sujui? Miten matkustajat viettivät aikaansa? Ohjelmassa perehdytään väritetyn arkistomateriaalin avulla Titanicin sisustukseen, sen matkustajiin, henkilökuntaan ja elämään laivalla. Kun Titanic upposi 15.4.1912 koko maailma oli kauhuissaan, miten näin loistelias alus saattoi upota meren syvyyksiin vieden mukanaan noin 1500 ihmistä.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-71074225"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "19.00",
+        "raw": "2025-06-11T19:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T19:48:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "48 min",
+        "raw": "PT2880S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-71069251"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-71074225.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Vintage Tech Hunters",
+  "Title": "Bohus and Shaun Go on An Odyssey",
+  "Desc": "On a road trip across the American Midwest, Bohus and Shaun discover a Magnavox Odyssey.",
+  "StartTime": "2025-06-17T01:30:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_f594f078-5477-44a2-9030-750505753598_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "documentary"
+  ],
+  "LongDescription": "On a road trip across the American Midwest, Bohus and Shaun discover a Magnavox Odyssey, the world's first commercial video game; they set out on a hunt for missing parts they need to sell the game as a complete package.",
+  "TopCast": [
+    "shaun hatton",
+    "bohus blahut"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Martin and Karl are super pumped to be in the Cash Cab, but their street shout out lets them down.",
+  "StartTime": "2025-06-13T08:00:00+00:00",
+  "EndTime": "2025-06-13T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_595df4ab-d5ae-4cd6-99c7-2a0dc69c45c1_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "22",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Martin and Karl are super pumped to be in the Cash Cab, but their street shout out lets them down.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

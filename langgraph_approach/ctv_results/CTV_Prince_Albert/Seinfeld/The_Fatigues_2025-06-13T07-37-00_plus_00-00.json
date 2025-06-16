@@ -1,0 +1,39 @@
+{
+  "Name": "Seinfeld",
+  "Title": "The Fatigues",
+  "Desc": "Jerry's new girlfriend has a mentor; Elaine must fire a troubled employee.",
+  "StartTime": "2025-06-13T07:37:00+00:00",
+  "EndTime": "2025-06-13T08:07:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_6ead3607-8c23-4509-8958-4309994b2f6e_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1996",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "The mentor of Jerry's latest girlfriend (A.J. Langer) is dating a rival (Steve Hytner); Elaine must fire a troubled employee.",
+  "TopCast": [
+    "jerry seinfeld",
+    "julia louis-dreyfus",
+    "jason alexander"
+  ],
+  "Directors": []
+}

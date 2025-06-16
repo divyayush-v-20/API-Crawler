@@ -1,0 +1,44 @@
+{
+  "Name": "The Rookie",
+  "Title": "Crossfire",
+  "Desc": "Officer John Nolan and Celina witness a shooting and realize the victim was already dead.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_71aa4adb-0a05-4829-8273-f7c216b47096_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action"
+  ],
+  "LongDescription": "Officer John Nolan and Celina witness a shooting and realize the victim was already dead; Bailey has been feeling off-center since the proposal, leaving Nolan to wonder what he can do to make her feel better.",
+  "TopCast": [
+    "nathan fillion",
+    "mekia cox",
+    "alyssa diaz"
+  ],
+  "Directors": [
+    "jon huertas"
+  ]
+}

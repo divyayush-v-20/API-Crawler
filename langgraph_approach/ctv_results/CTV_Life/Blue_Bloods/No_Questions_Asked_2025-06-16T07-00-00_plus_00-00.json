@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "No Questions Asked",
+  "Desc": "Danny struggles with the \"no questions asked\" policy when a gun linked to a crime is turned in.",
+  "StartTime": "2025-06-16T07:00:00+00:00",
+  "EndTime": "2025-06-16T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_c788190d-82f5-4b73-83e2-10911d074bd4_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "When a weapon linked to a crime is brought into the NYPD's gun buyback program, Danny must decide whether to arrest the suspect or follow the \"no questions asked\" policy.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "christine moore"
+  ]
+}

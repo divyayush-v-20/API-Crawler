@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Leap of Faith",
+  "Desc": "After a woman dies of a heart attack, her daughter claims God said murder was the cause of death.",
+  "StartTime": "2025-06-15T18:00:00+00:00",
+  "EndTime": "2025-06-15T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_b0fb1e90-5d38-40fa-804f-f97b786c0d14_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "After a wealthy woman dies of a heart attack, the daughter claims God told her that murder was the true cause of her parent's demise; Frank investigates a rumor about a priest.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "dave barrett"
+  ]
+}

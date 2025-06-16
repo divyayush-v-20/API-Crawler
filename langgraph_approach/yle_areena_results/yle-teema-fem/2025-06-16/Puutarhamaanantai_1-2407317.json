@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T07:44:31+03:00",
+  "program_data": {
+    "title": "Puutarhamaanantai",
+    "description": "1/11. Taimien kasvatus alkaa. Tässä jaksossa kaikki mullasta, ruukuista ja siemenistä. Pernilla korjaa kevätsipulia. John tekee lämpöpenkkiä, ja Tareq laittaa ruokaa edellisvuoden sadosta. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2407317"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.44",
+        "raw": "2025-06-16T07:44:31+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T08:13:37+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "29 min",
+        "raw": "PT1746S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808474"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-2407317.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

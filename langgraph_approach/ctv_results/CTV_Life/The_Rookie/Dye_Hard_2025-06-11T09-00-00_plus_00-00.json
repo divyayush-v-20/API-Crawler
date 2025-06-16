@@ -1,0 +1,44 @@
+{
+  "Name": "The Rookie",
+  "Title": "Dye Hard",
+  "Desc": "Officer Nolan's first rookie has an unconventional approach to police work.",
+  "StartTime": "2025-06-11T09:00:00+00:00",
+  "EndTime": "2025-06-11T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_82bfe468-e80f-46a6-aba4-3c6614050a4a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action"
+  ],
+  "LongDescription": "Officer John Nolan is assigned his first rookie, Officer Celina Juarez, whose unconventional approach to police work poses a unique challenge for him.",
+  "TopCast": [
+    "nathan fillion",
+    "mekia cox",
+    "alyssa diaz"
+  ],
+  "Directors": [
+    "bethany rooney"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Murder In The Outback",
+  "Desc": "Flooding in Australian wine country raises an argument over an old fence separating neighbors.",
+  "StartTime": "2025-06-15T01:00:00+00:00",
+  "EndTime": "2025-06-15T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_397d494a-4ada-478d-9e35-87572195d76d_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "Flooding in Australian wine country raises an argument over an old fence separating neighbors; the dispute escalates from repeated screaming matches and threats to physical fighting and vandalism, culminating in a brutal stabbing death.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

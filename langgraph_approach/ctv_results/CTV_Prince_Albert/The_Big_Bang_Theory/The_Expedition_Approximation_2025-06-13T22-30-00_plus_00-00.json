@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Expedition Approximation",
+  "Desc": "Raj and Sheldon try to simulate a dark-matter research expedition; Penny and Leonard have a fight.",
+  "StartTime": "2025-06-13T22:30:00+00:00",
+  "EndTime": "2025-06-13T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_5e051c1a-1230-452f-a847-c878e7f376d7_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Raj and Sheldon try to simulate a dark-matter research expedition; after a fight about money, Penny and Leonard turn to Bernadette and Wolowitz for advice.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

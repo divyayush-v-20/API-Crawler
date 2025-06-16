@@ -1,0 +1,36 @@
+{
+  "Name": "Honestly Cavallari: The Headline Tour",
+  "Title": "Honestly Cavallari: The Headline Tour",
+  "Desc": "Kristin Cavallari takes her hit podcast \"Let's Be Honest\" on the road.",
+  "StartTime": "2025-06-12T02:00:00+00:00",
+  "EndTime": "2025-06-12T02:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_545bf06d-6d30-4d2d-a03b-1f67cdb081db_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "TV personality Kristin Cavallari takes her hit podcast \"Let's Be Honest\" on the road. Each episode of the series will feature candid conversations with famous friends, Bravolebrities, memorable exes and other notable celebs from Kristin's life as they unfold the stories behind their buzziest headlines - and make new ones - with jaw-dropping revelations that set the record straight. Guests will be revealed in real time as they surprise the audience at each live show. With stops in Atlanta, Chicago, Boston and New York, the series will also follow Kristin off the stage as she explores local hot spots in each city with her friends and podcast guests.",
+  "TopCast": [
+    "kristin cavallari"
+  ],
+  "Directors": []
+}

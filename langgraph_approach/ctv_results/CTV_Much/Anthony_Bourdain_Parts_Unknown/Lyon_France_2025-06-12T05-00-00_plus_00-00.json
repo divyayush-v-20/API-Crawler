@@ -1,0 +1,44 @@
+{
+  "Name": "Anthony Bourdain: Parts Unknown",
+  "Title": "Lyon, France",
+  "Desc": "Anthony and Daniel Boulud travel to Lyon, France, to visit the city's rich food culture.",
+  "StartTime": "2025-06-12T05:00:00+00:00",
+  "EndTime": "2025-06-12T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_f35af74c-3dd6-4179-a2a6-8a7e0e3d9a31_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel",
+    "cooking"
+  ],
+  "LongDescription": "Anthony and Daniel Boulud travel to Lyon, France, to visit the city's rich food culture and legendary chefs.",
+  "TopCast": [
+    "anthony bourdain",
+    "paul bocuse",
+    "daniel boulud"
+  ],
+  "Directors": [
+    "toby oppenheimer"
+  ]
+}

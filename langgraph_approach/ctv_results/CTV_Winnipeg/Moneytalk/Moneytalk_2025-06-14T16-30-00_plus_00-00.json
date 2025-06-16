@@ -1,0 +1,38 @@
+{
+  "Name": "Moneytalk",
+  "Title": "Moneytalk",
+  "Desc": "Industry players provide vital finance information.",
+  "StartTime": "2025-06-14T16:30:00+00:00",
+  "EndTime": "2025-06-14T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_b8d94fc7-0a93-4580-9092-ab15ca7b8aa7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "23",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "bus./financial"
+  ],
+  "LongDescription": "Industry players provide vital finance information.",
+  "TopCast": [
+    "kim parlee"
+  ],
+  "Directors": []
+}

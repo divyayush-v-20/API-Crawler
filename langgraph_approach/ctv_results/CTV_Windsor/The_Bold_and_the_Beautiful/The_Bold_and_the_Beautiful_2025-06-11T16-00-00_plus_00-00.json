@@ -1,0 +1,40 @@
+{
+  "Name": "The Bold and the Beautiful",
+  "Title": "The Bold and the Beautiful",
+  "Desc": "Remy is stunned when Luna confesses why she has a vendetta against Steffy.",
+  "StartTime": "2025-06-11T16:00:00+00:00",
+  "EndTime": "2025-06-11T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_c7f1a4d1-06ab-411b-a446-79ccd6857e34_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "184",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "soap",
+    "drama",
+    "romance"
+  ],
+  "LongDescription": "Remy is stunned when Luna confesses why she has a vendetta against Steffy; Luna thinks of Steffy as the only thing between her and her happiness.",
+  "TopCast": [
+    "katherine kelly lang",
+    "jacqueline macinnes wood",
+    "thorsten kaye"
+  ],
+  "Directors": []
+}

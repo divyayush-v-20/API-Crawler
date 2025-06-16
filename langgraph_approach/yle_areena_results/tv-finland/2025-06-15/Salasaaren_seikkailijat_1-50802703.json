@@ -1,0 +1,84 @@
+{
+  "channel_id": "tv-finland",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T09:31:48+03:00",
+  "program_data": {
+    "title": "Salasaaren seikkailijat",
+    "description": "Kausi 2. Ding dong! Seikkailijat Saku ja Lauri selvittävät, kenelle kuuluu merkillinen matkalaukku, jossa on taikasauva ja partasaippuaa. Maja-Akka tahtoo ottaa omaa aikaa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50802703"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.31",
+        "raw": "2025-06-15T09:31:48+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T09:57:33+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "25 min",
+        "raw": "PT1545S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50472977"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50802703.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

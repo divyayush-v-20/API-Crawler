@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Shawnie Vel Young",
+  "Desc": "After the body of a small-town Mississippi woman is found in her garage, police must investigate.",
+  "StartTime": "2025-06-16T09:00:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b4315910-7300-4ae0-ac53-9cdb1320ab76_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 35,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "After the body of a small-town Mississippi woman is found in her garage and a mystery woman is caught red-handed on scene, police must work to identify a romantic rival obsessed with getting rid of the competition.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

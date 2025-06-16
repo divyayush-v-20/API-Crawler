@@ -1,0 +1,40 @@
+{
+  "Name": "Inside Taronga Zoo",
+  "Title": "Lion Move",
+  "Desc": "Sydney's Taronga Zoo welcomes royalty back; pygmy marmosets show off their big personalities.",
+  "StartTime": "2025-06-14T21:00:00+00:00",
+  "EndTime": "2025-06-14T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_5523048c-5895-48fd-8d78-c02ae78c89d6_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "Sydney's Taronga Zoo welcomes royalty back - two lions are ready to occupy the recently completed enclosure; a growing number of injured green sea turtles need veterinary attention; pygmy marmosets show off their big personalities.",
+  "TopCast": [
+    "naomi watts"
+  ],
+  "Directors": [
+    "david grusovin"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago Med",
+  "Title": "Better Is the Enemy of Good",
+  "Desc": "Halstead runs into trouble when one of his trial patients falls ill.",
+  "StartTime": "2025-06-11T07:00:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_7565c2f6-7b0d-4f3f-9539-f362fc114a6e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "medical",
+    "action"
+  ],
+  "LongDescription": "Halstead runs into trouble when one of his trial patients falls ill; his own stress and symptoms have Choi struggling to get through the day.",
+  "TopCast": [
+    "oliver platt",
+    "s. epatha merkerson",
+    "nick gehlfuss"
+  ],
+  "Directors": [
+    "charles carroll"
+  ]
+}

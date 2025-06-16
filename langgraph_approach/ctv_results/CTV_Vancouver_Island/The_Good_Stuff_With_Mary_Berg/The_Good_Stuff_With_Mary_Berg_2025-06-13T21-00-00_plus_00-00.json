@@ -1,0 +1,38 @@
+{
+  "Name": "The Good Stuff With Mary Berg",
+  "Title": "The Good Stuff With Mary Berg",
+  "Desc": "Summer style makeovers; trending summer accessories; frizzy hair makeovers; the Blairstown Diner.",
+  "StartTime": "2025-06-13T21:00:00+00:00",
+  "EndTime": "2025-06-13T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_b9fb6c0c-8617-40b7-9abd-11588c905f93_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "153",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "entertainment"
+  ],
+  "LongDescription": "Summer style makeovers; trending summer accessories; frizzy hair makeovers; the Blairstown Diner from the \"Friday The 13th\" movie.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

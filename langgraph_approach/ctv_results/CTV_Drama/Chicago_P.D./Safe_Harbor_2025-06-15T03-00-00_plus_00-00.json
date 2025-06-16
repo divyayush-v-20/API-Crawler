@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "Safe Harbor",
+  "Desc": "Burgess gets caught in the middle of a drive-by attack on refugees; the team investigates the case.",
+  "StartTime": "2025-06-15T03:00:00+00:00",
+  "EndTime": "2025-06-15T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_c1e13930-79b8-4c8f-a8a1-1552b5d630f9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Burgess works an extra shift at the 13th District and gets caught in the middle of a drive-by attack on refugees; the team works together to track down the shooter and uncover the true motive behind the attack.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "takashi doscher"
+  ]
+}

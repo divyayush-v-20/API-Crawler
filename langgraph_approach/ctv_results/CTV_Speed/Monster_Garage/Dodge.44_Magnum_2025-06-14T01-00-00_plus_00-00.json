@@ -1,0 +1,38 @@
+{
+  "Name": "Monster Garage",
+  "Title": "Dodge/.44 Magnum",
+  "Desc": "The team transform a sleek speedster into a speeding train with Dodge's new Magnum RT.",
+  "StartTime": "2025-06-14T01:00:00+00:00",
+  "EndTime": "2025-06-14T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_506c0c52-3824-448b-b5bc-57760fa6ecdc_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto"
+  ],
+  "LongDescription": "The team transform a sleek speedster into a speeding train, and there's no better vehicle out there to do this than Dodge's new Magnum RT, the coolest car to hold a Hemi.",
+  "TopCast": [
+    "jesse james"
+  ],
+  "Directors": []
+}

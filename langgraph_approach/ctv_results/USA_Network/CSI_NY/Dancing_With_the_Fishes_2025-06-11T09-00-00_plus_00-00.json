@@ -1,0 +1,44 @@
+{
+  "Name": "CSI: NY",
+  "Title": "Dancing With the Fishes",
+  "Desc": "A young dancer seems to fall from the sky, hitting a car near the Queensboro Bridge.",
+  "StartTime": "2025-06-11T09:00:00+00:00",
+  "EndTime": "2025-06-11T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_88e196fd-0f24-4c8d-b088-47a9d7a8c183_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller",
+    "mystery"
+  ],
+  "LongDescription": "A young dancer seems to have fallen from the sky, hitting a car near the Queensboro Bridge; the team determines that her competitors at a famous dance school are the most-likely suspects in her death.",
+  "TopCast": [
+    "gary sinise",
+    "melina kanakaredes",
+    "carmine giovinazzo"
+  ],
+  "Directors": [
+    "john peters"
+  ]
+}

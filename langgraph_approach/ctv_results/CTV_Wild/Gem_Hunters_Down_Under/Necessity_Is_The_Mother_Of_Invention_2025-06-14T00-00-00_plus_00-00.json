@@ -1,0 +1,36 @@
+{
+  "Name": "Gem Hunters Down Under",
+  "Title": "Necessity Is The Mother Of Invention",
+  "Desc": "Following the highs and lows of sapphire hunters working in Central Queensland, Australia.",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4d38c63a-6d74-48b1-8a56-1cf61a27ee28_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary"
+  ],
+  "LongDescription": "Following the highs and lows of sapphire hunters working in extreme conditions in the heart of Central Queensland, Australia.",
+  "TopCast": [
+    "dan brumm"
+  ],
+  "Directors": []
+}

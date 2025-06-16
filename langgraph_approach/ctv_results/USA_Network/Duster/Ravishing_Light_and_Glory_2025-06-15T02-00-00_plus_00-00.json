@@ -1,0 +1,39 @@
+{
+  "Name": "Duster",
+  "Title": "Ravishing Light and Glory",
+  "Desc": "In the 1970s, a getaway driver encounters an FBI agent who wants to take his crime family down.",
+  "StartTime": "2025-06-15T02:00:00+00:00",
+  "EndTime": "2025-06-15T03:15:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_c99cbd20-e39f-465c-831d-35a842c225c7_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 75,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "In the 1970s, a getaway driver encounters a tenacious FBI agent who wants to take his crime family down.",
+  "TopCast": [
+    "josh holloway",
+    "rachel hilson",
+    "keith david"
+  ],
+  "Directors": []
+}

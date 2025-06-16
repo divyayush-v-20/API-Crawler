@@ -1,0 +1,38 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Four guys hail a cab after dinner only to end up on a quiz show.",
+  "StartTime": "2025-06-16T09:30:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_05095ffa-2504-4045-9bfa-3480758b6e66_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "When four guys hail a cab after dinner at a trendy Eglinton pub, the last thing they expect is to end up on a quiz show; once they're in the cash cab, the last thing this bunch expects is to be kicked out.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

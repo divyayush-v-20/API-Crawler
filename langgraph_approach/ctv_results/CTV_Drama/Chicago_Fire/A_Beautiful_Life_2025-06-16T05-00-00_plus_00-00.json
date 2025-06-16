@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "A Beautiful Life",
+  "Desc": "Detective Pryma asks for Severide's help on a case involving explosives; Gallo and Carver clash.",
+  "StartTime": "2025-06-16T05:00:00+00:00",
+  "EndTime": "2025-06-16T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_2ecc7785-df9e-427e-833b-0b77710938ca_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Detective Pryma asks for Severide's help on a case involving explosives; Gallo and Carver clash.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "lisa robinson"
+  ]
+}

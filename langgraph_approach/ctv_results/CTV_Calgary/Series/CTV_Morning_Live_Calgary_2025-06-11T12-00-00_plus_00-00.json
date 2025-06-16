@@ -1,0 +1,36 @@
+{
+  "Name": "CTV Morning Live Calgary",
+  "Title": "CTV Morning Live Calgary",
+  "Desc": "Calgary's top stories, traffic and weather.",
+  "StartTime": "2025-06-11T12:00:00+00:00",
+  "EndTime": "2025-06-11T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_e9c63ebb-ccb2-43c5-a7e1-d3a16a773e66_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 180,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Calgary's top stories, traffic and weather.",
+  "TopCast": [],
+  "Directors": []
+}

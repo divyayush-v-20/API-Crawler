@@ -1,0 +1,35 @@
+{
+  "Name": "The Real Murders of Atlanta",
+  "Title": "Holy Hell",
+  "Desc": "A member of one of Atlanta's most beloved religious dynasties is brutally gunned down.",
+  "StartTime": "2025-06-15T11:00:00+00:00",
+  "EndTime": "2025-06-15T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_8626b426-7053-4c8e-9171-e27c40c438cf_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "When a member of one of Atlanta's most beloved religious dynasties is brutally gunned down while protecting his family, detectives piece together a complicated puzzle to track down the killers.",
+  "TopCast": [],
+  "Directors": []
+}

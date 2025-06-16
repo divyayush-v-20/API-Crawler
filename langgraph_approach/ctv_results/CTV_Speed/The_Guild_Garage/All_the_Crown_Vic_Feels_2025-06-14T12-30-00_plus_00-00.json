@@ -1,0 +1,41 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "All the Crown Vic Feels",
+  "Desc": "It's finally time to fire up the Model T, before some extensive bodywork that will keep Kalev busy.",
+  "StartTime": "2025-06-14T12:30:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_3c2987ee-eeea-4a99-bbb6-403168779a24_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "It's finally time to fire up the Model T, before some extensive bodywork that will keep Kalev busy for a while. The Crown Vic gets a visit from her owners, before Greg goes on her final road test. Dave and Janice visit the Lane Motor Museum in Nashv.",
+  "TopCast": [
+    "david grainger",
+    "peter james haworth",
+    "paolo pininfarina"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "Pyromaniac",
+  "Desc": "Series of fires in Sam Joaquin Valley.",
+  "StartTime": "2025-06-13T10:00:00+00:00",
+  "EndTime": "2025-06-13T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_06f1929e-4255-49c8-be80-ad4203bb6888_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "Investigating a series of fires in California's Sam Joaquin Valley that killed four, investigators determine a respected arson investigator may be the arsonist.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

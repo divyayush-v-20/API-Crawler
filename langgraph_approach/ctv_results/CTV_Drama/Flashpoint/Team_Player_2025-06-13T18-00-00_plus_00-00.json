@@ -1,0 +1,41 @@
+{
+  "Name": "Flashpoint",
+  "Title": "Team Player",
+  "Desc": "A violent patient takes a guard hostage and injures a fellow patient.",
+  "StartTime": "2025-06-13T18:00:00+00:00",
+  "EndTime": "2025-06-13T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_0291c127-eba6-44f4-a1cb-5039e3aa8059_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "A violent patient takes a guard hostage and injures a fellow patient.",
+  "TopCast": [
+    "enrico colantoni",
+    "hugh dillon",
+    "amy jo johnson"
+  ],
+  "Directors": []
+}

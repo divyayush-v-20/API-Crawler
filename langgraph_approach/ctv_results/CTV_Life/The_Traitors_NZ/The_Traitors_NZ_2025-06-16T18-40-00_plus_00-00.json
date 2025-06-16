@@ -1,0 +1,39 @@
+{
+  "Name": "The Traitors NZ",
+  "Title": "The Traitors NZ",
+  "Desc": "The Faithful become desperate to catch a Traitor after another murder; embarking on a mission.",
+  "StartTime": "2025-06-16T18:40:00+00:00",
+  "EndTime": "2025-06-16T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_d93f832a-f5ab-49cf-9609-692f933ec091_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 80,
+  "SeasonNo": 2,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality"
+  ],
+  "LongDescription": "The Faithful become desperate to catch a Traitor after another murder; the players embark on a mission with a game-changing prize up for grabs; with the victory line edging closer, the pressure is on to banish a Traitor.",
+  "TopCast": [
+    "paul henry"
+  ],
+  "Directors": [
+    "claudine maclean"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Name": "Battle of the Generations",
+  "Title": "Battle 24",
+  "Desc": "Four contestants from different generations compete for a chance to win up to $25,000.",
+  "StartTime": "2025-06-12T02:00:00+00:00",
+  "EndTime": "2025-06-12T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_c55deb42-213a-4768-b678-33463264582f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Four contestants from different generations compete for a chance to win up to $25,000.",
+  "TopCast": [
+    "lilly singh"
+  ],
+  "Directors": []
+}

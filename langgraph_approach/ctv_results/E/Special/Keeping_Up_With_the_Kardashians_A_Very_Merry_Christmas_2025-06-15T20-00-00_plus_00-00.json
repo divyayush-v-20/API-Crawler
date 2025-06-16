@@ -1,0 +1,36 @@
+{
+  "Name": "Keeping Up With the Kardashians: A Very Merry Christmas",
+  "Title": "Keeping Up With the Kardashians: A Very Merry Christmas",
+  "Desc": "The Kardashian family shoots its annual famous Christmas card photo and exchanges gifts.",
+  "StartTime": "2025-06-15T20:00:00+00:00",
+  "EndTime": "2025-06-15T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_4c5df02c-b1fe-4d8c-8215-fe23f514b211_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Show",
+  "SubType": "Special",
+  "Genres": [
+    "holiday",
+    "special",
+    "reality"
+  ],
+  "LongDescription": "The Kardashian family shoots its annual famous Christmas card photo and exchanges gifts.",
+  "TopCast": [],
+  "Directors": []
+}

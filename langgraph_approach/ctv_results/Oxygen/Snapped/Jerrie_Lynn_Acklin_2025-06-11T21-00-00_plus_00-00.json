@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Jerrie Lynn Acklin",
+  "Desc": "The disappearance of a nurse leads Arkansas investigators down a twisted path of familial betrayal.",
+  "StartTime": "2025-06-11T21:00:00+00:00",
+  "EndTime": "2025-06-11T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_8a9ae121-77f0-4972-8d97-432d7281ae68_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "The mysterious disappearance of a beloved nurse leads Arkansas investigators down a twisted path of familial betrayal; as detectives hunt for the missing woman, evidence upturned along the way points toward deadly foul play.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

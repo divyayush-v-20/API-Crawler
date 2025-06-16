@@ -1,0 +1,36 @@
+{
+  "Name": "Wardens of the North",
+  "Title": "Searching for the Illicit",
+  "Desc": "The bear season has some hunters covering their tracks, while others are hiding recreational drugs.",
+  "StartTime": "2025-06-12T13:00:00+00:00",
+  "EndTime": "2025-06-12T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_137b0221-a57f-44cc-b267-412cdb679bd6_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors"
+  ],
+  "LongDescription": "A major search warrant has officers investigating a suspect who's allegedly been hunting deer illegally for years; the bear season has some hunters covering their tracks, while others are hiding recreational drugs.",
+  "TopCast": [],
+  "Directors": []
+}

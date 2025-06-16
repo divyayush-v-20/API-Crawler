@@ -1,0 +1,42 @@
+{
+  "Name": "Bones",
+  "Title": "The Blackout in the Blizzard",
+  "Desc": "During a blizzard that causes a citywide blackout, the team must solve a murder case.",
+  "StartTime": "2025-06-16T14:00:00+00:00",
+  "EndTime": "2025-06-16T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_8e14e016-1866-401d-b494-5ddb9dad04a5_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "During a blizzard that causes a citywide blackout, the team must solve a murder case that could be connected to a possible viral outbreak; Sweets starts a touchy conversation about Brennan and Booth's relationship.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": []
+}

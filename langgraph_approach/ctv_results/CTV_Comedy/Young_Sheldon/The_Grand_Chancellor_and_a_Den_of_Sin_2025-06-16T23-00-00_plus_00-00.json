@@ -1,0 +1,41 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "The Grand Chancellor and a Den of Sin",
+  "Desc": "Sheldon battles President Hagemeyer's mysterious boss over the university's science requirements.",
+  "StartTime": "2025-06-16T23:00:00+00:00",
+  "EndTime": "2025-06-16T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b3efff1f-748d-4921-bac6-d4869cc7719f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon battles President Hagemeyer's mysterious boss over the university's science requirements; Mary discovers that Georgie is working at Meemaw's illegal gambling room.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "alex reid"
+  ]
+}

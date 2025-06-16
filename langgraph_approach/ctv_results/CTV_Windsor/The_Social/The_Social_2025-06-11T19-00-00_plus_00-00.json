@@ -1,0 +1,39 @@
+{
+  "Name": "The Social",
+  "Title": "The Social",
+  "Desc": "Score party-guest points with these easy dishes.",
+  "StartTime": "2025-06-11T19:00:00+00:00",
+  "EndTime": "2025-06-11T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_de2c205e-18dc-4c86-98dc-7849a0b9ceb9_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "172",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Score party-guest points with these easy dishes.",
+  "TopCast": [
+    "melissa grelo",
+    "cynthia loyst",
+    "andrea bain"
+  ],
+  "Directors": []
+}

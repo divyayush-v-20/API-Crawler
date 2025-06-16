@@ -1,0 +1,41 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "German for Beginners and a Crazy Old Man With a Bat",
+  "Desc": "The gambling room gets broken into; Sheldon wants to study abroad; Missy makes a new friend.",
+  "StartTime": "2025-06-11T19:00:00+00:00",
+  "EndTime": "2025-06-11T19:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_8e81ef04-3787-4602-b5a7-3ca0008ab18c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "The gambling room gets broken into; Sheldon wants to study abroad; Missy makes a new friend.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "nikki lorre"
+  ]
+}

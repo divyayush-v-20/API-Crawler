@@ -1,0 +1,38 @@
+{
+  "Name": "Flour Power",
+  "Title": "Fall",
+  "Desc": "Jessica prepares some treats using autumn-inspired ingredients.",
+  "StartTime": "2025-06-12T18:00:00+00:00",
+  "EndTime": "2025-06-12T18:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_598d3bc3-83ba-494e-a771-0c1d959ef3c3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Jessica prepares some treats using autumn-inspired ingredients.",
+  "TopCast": [
+    "jessica mcgovern"
+  ],
+  "Directors": []
+}

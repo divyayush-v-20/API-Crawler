@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: Strange New Worlds",
+  "Title": "Strange New Worlds",
+  "Desc": "When one of Pike's officers goes missing on a secret mission, Pike comes out of self-imposed exile.",
+  "StartTime": "2025-06-12T23:30:00+00:00",
+  "EndTime": "2025-06-13T00:45:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_1b866e9a-9429-492b-bf3f-84e165b017b6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 75,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "drama",
+    "action",
+    "adventure"
+  ],
+  "LongDescription": "When one of Pike's officers goes missing while on a secret mission for Starfleet, Pike has to come out of self-imposed exile; he must navigate how to rescue his officer, while struggling with what to do with the vision of the future he's been given.",
+  "TopCast": [
+    "anson mount",
+    "rebecca romijn",
+    "ethan peck"
+  ],
+  "Directors": [
+    "akiva goldsman"
+  ]
+}

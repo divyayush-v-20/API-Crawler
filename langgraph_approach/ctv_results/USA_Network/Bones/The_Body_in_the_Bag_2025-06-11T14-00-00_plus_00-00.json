@@ -1,0 +1,42 @@
+{
+  "Name": "Bones",
+  "Title": "The Body in the Bag",
+  "Desc": "A body is found in the shower of a home belonging to a young socialite.",
+  "StartTime": "2025-06-11T14:00:00+00:00",
+  "EndTime": "2025-06-11T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_d3205c81-3263-4e18-b6e9-d03fd4c1e05a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "A body is found in the shower of a home belonging to a young socialite; Hodgins and Angela talk about their future; Booth talks to Hannah about Brennan's feeling for him.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": []
+}

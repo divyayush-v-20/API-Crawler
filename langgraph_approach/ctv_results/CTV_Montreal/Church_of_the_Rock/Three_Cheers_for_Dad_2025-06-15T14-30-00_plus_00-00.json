@@ -1,0 +1,36 @@
+{
+  "Name": "Church of the Rock",
+  "Title": "Three Cheers for Dad",
+  "Desc": "Helping people to know God, live free, and find purpose; with pastor Mark Hughes.",
+  "StartTime": "2025-06-15T14:30:00+00:00",
+  "EndTime": "2025-06-15T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_1ca7d7e1-4717-4849-86e2-c25dd2220e82_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "religious"
+  ],
+  "LongDescription": "Helping people to know God, live free, and find purpose; with pastor Mark Hughes.",
+  "TopCast": [
+    "mark hughes"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T10:00:00+03:00",
+  "program_data": {
+    "title": "Uuden musiikin X: Ella Ossi",
+    "description": "YleX:n musiikkitoimittaja Ella Ossi soittaa tärkeimmät uutuusjulkaisut tulevaisuuden hiteistä kiinnostavimpiin vaihtoehtoihin sekä haastattelevat ajankohtaisimmat artistivieraat.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74861252"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.00",
+        "raw": "2025-06-12T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T12:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069899"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

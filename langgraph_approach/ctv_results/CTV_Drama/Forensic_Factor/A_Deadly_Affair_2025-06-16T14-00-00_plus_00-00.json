@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "A Deadly Affair",
+  "Desc": "In 1988, motorists discover human body parts dumped along the highway.",
+  "StartTime": "2025-06-16T14:00:00+00:00",
+  "EndTime": "2025-06-16T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_7ee7049f-f7bf-4800-9228-b479fcf961d8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "In 1988, motorists discover human body parts dumped along the highway.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

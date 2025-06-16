@@ -1,0 +1,40 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Nannies",
+  "Desc": "Marshall and Lily discover their trouble finding a nanny is a result of one of Barney's schemes.",
+  "StartTime": "2025-06-14T07:30:00+00:00",
+  "EndTime": "2025-06-14T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_c90222ab-e3ef-46b1-a789-89d25ef5db95_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 8,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Marshall and Lily discover their trouble finding a nanny is a result of one of Barney's schemes; Ted and Robin argue over whose relationship is more serious.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "cobie smulders"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

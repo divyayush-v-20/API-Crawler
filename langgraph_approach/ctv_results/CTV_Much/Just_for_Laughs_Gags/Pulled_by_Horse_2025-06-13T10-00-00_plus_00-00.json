@@ -1,0 +1,36 @@
+{
+  "Name": "Just for Laughs: Gags",
+  "Title": "Pulled by Horse",
+  "Desc": "Witness a grandma being upset at the royal guard.",
+  "StartTime": "2025-06-13T10:00:00+00:00",
+  "EndTime": "2025-06-13T10:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_b47e0c74-12bd-437b-8c56-2d63074d365e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 15,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Witness a grandma being upset at the royal guard.",
+  "TopCast": [],
+  "Directors": []
+}

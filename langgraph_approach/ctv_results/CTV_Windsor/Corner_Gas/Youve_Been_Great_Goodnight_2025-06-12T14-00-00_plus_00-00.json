@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "You've Been Great, Goodnight",
+  "Desc": "Brent has an opportunity to pursue his dream, but his weekly disappearances cause rumors.",
+  "StartTime": "2025-06-12T14:00:00+00:00",
+  "EndTime": "2025-06-12T14:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_52389655-7b62-42b5-93d1-cab0dfc5bb61_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent has an opportunity to pursue his dream, but his weekly disappearances causes rumours to circulate.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

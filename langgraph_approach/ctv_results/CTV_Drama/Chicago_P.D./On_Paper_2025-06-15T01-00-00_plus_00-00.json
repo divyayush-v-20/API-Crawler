@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "On Paper",
+  "Desc": "Upton brings SVU detective Petrovic in to help with the investigation of a tender-age kidnapping.",
+  "StartTime": "2025-06-15T01:00:00+00:00",
+  "EndTime": "2025-06-15T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_371c1ac6-0b8e-46cc-a70a-73915f2f8c5a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Upton brings SVU detective Petrovic back into the fold to help with the investigation of a tender-age kidnapping.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "nicole rubio"
+  ]
+}

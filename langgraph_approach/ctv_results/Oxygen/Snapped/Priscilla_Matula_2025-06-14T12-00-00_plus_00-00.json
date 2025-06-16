@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Priscilla Matula",
+  "Desc": "Authorities are puzzled when a beloved Georgia grandmother is shot execution style.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_e025c613-f280-41b8-a4e9-6ed493debb7e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 30,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "Authorities are puzzled when a beloved Georgia grandmother is shot execution style, but as the investigation unfolds, a once close-knit family turns against itself.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,36 @@
+{
+  "Name": "Dog's Best Friend",
+  "Title": "Rose & Biscuit, June & Waffles",
+  "Desc": "Rose outweighs her best friend Biscuit but that hasn't stopped these two from forming a close bond.",
+  "StartTime": "2025-06-12T20:30:00+00:00",
+  "EndTime": "2025-06-12T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_bb143465-f2eb-43ef-8463-575ea336dc7f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "animals",
+    "pets"
+  ],
+  "LongDescription": "Rose, the rescued chicken, outweighs her best friend Biscuit, a rescued chihuahua, but that hasn't stopped these two from forming a close bond; a rescue raccoon becomes the favorite playmate of her friend and protector, a dog named Waffles.",
+  "TopCast": [],
+  "Directors": []
+}

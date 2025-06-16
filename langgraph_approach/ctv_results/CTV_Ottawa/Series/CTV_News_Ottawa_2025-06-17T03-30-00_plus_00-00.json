@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Ottawa",
+  "Title": "CTV News Ottawa",
+  "Desc": "Breaking news, headlines and top stories from Ottawa.",
+  "StartTime": "2025-06-17T03:30:00+00:00",
+  "EndTime": "2025-06-17T04:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_e42db67c-7764-4269-9bdb-c62811fdd660_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 35,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Ottawa.",
+  "TopCast": [],
+  "Directors": []
+}

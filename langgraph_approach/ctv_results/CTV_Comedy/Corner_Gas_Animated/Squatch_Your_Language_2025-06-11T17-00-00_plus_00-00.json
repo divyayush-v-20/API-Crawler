@@ -1,0 +1,38 @@
+{
+  "Name": "Corner Gas Animated",
+  "Title": "Squatch Your Language",
+  "Desc": "Wanda, Hank and Lacey attempt to terrorize Brent; Davis and Emma's obsession with a fantasy TV show.",
+  "StartTime": "2025-06-11T17:00:00+00:00",
+  "EndTime": "2025-06-11T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_54340b7e-ff3f-48f9-8582-4db98b799d0e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Wanda, Hank, and Lacey attempt to terrorize Brent with a Sasquatch hoax; Davis and Emma's obsession with a fantasy TV show called THRONE STRIFE forces Karen and Oscar to spend time together.",
+  "TopCast": [
+    "brent butt",
+    "nancy robertson",
+    "eric peterson"
+  ],
+  "Directors": []
+}

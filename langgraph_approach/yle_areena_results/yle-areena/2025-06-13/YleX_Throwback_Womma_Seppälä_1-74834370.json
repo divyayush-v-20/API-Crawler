@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T17:00:00+03:00",
+  "program_data": {
+    "title": "YleX Throwback: Womma Seppälä",
+    "description": "Womma Seppälä käynnistää YleX:n perjantai-illan etkot 2000-luvun kovimpien Throwback-biisien tahtiin. Biisejä joiden lyriikoilla täytit mesestatuksesi, kappaleita joiden musavideot näit aikoinaan MTV:ltä ja artisteja, joille löytyi oma galtsuyhteisö. Throwback-hittejä, joita et edes muistanut haluavasi kuulla!",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74834370"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.00",
+        "raw": "2025-06-13T17:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T20:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 0 min",
+        "raw": "PT10800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069917"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

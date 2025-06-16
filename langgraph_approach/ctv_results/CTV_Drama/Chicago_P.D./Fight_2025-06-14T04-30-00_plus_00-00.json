@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "Fight",
+  "Desc": "Upton is drawn into a deadly betrayal; the team scrambles to find her before it's too late.",
+  "StartTime": "2025-06-14T04:30:00+00:00",
+  "EndTime": "2025-06-14T05:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_99fbca01-fe99-40ee-be8f-3d0d5b3e9874_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "Upton is unwittingly drawn into a deadly betrayal and finds herself in a fight for her life; with minimal leads, Voight and the team scramble to find her before it's too late.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "victor macias"
+  ]
+}

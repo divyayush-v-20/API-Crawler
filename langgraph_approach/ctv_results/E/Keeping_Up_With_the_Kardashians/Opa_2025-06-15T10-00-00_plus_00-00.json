@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Opa!",
+  "Desc": "Scott shows up in Greece with only one day left; Kendall feels like she's being left out.",
+  "StartTime": "2025-06-15T10:00:00+00:00",
+  "EndTime": "2025-06-15T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_af37e3d0-0398-4301-aace-ab7f0dd34028_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Scott shows up in Greece with only one day left; Kendall feels like she's being left out; a putting green at the Jenner home.",
+  "TopCast": [
+    "scott disick",
+    "brody jenner",
+    "bruce jenner"
+  ],
+  "Directors": []
+}

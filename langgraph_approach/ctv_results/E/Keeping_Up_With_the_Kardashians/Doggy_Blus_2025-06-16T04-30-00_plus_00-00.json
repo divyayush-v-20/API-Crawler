@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Doggy Blu's",
+  "Desc": "Khlo\u00e9 must reconsider her attitude; Kendall's lack of responsibility; Scott's newest vehicle.",
+  "StartTime": "2025-06-16T04:30:00+00:00",
+  "EndTime": "2025-06-16T05:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_4562d744-9115-44d1-8268-23e1a144dcd8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 9,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Khlo\u00e9 must reconsider her attitude when she sees it rubbing off on her sweet little sister. Kendall's lack of responsibility for her dog leaves her and Kris in a messy situation. Scott reveals his newest luxury vehicle.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

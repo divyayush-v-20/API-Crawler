@@ -1,0 +1,39 @@
+{
+  "Name": "Mayday",
+  "Title": "The Plane That Flew Too High",
+  "Desc": "The West Caribbean Airways Flight 708 crash ultimately leads to bankruptcy of the troubled airline.",
+  "StartTime": "2025-06-15T10:00:00+00:00",
+  "EndTime": "2025-06-15T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_1d450079-d6c8-4f9d-b16f-f987f12c24d9_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation",
+    "history"
+  ],
+  "LongDescription": "West Caribbean Airways Flight 708 crashes down killing 160 people in 2005, ultimately leading to the bankruptcy of the troubled airline.",
+  "TopCast": [
+    "stephen bogaert",
+    "jonathan aris"
+  ],
+  "Directors": []
+}

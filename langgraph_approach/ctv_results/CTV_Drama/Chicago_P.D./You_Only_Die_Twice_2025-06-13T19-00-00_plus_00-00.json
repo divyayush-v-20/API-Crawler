@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago P.D.",
+  "Title": "You Only Die Twice",
+  "Desc": "A tragic crime leads the team closer to the Beck family and their deadly ideology.",
+  "StartTime": "2025-06-13T19:00:00+00:00",
+  "EndTime": "2025-06-13T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_ca74e09a-29c5-4284-8ea9-58e9adb118ef_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action",
+    "thriller"
+  ],
+  "LongDescription": "A tragic crime leads the team closer to the Beck family and their deadly ideology; Ruzek makes progress infiltrating the Becks, earning Samantha and Richard's trust with a bold move.",
+  "TopCast": [
+    "jason beghe",
+    "patrick john flueger",
+    "laroyce hawkins"
+  ],
+  "Directors": [
+    "jon cassar"
+  ]
+}

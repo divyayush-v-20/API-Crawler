@@ -1,0 +1,40 @@
+{
+  "Name": "Mayday",
+  "Title": "Munich Air Disaster",
+  "Desc": "Manchester United football team's plane crashes while returning from Yugoslavia, killing 23 aboard.",
+  "StartTime": "2025-06-15T14:00:00+00:00",
+  "EndTime": "2025-06-15T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_2a6e6f59-c2f7-478f-8de3-ff2f5707c40a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation",
+    "history"
+  ],
+  "LongDescription": "A plane with members of the Manchester United football team crashes while heading home from Yugoslavia, killing 23 aboard.",
+  "TopCast": [
+    "stephen bogaert",
+    "jonathan aris"
+  ],
+  "Directors": []
+}

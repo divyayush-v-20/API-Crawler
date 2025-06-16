@@ -1,0 +1,38 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Two nice guys are caught off guard when they find out their trip to downtown is actually a game.",
+  "StartTime": "2025-06-14T11:30:00+00:00",
+  "EndTime": "2025-06-14T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_4f2e51ae-d654-4ed8-b3d2-a7d590529668_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Two nice guys are caught off guard when they find out their trip to downtown is actually a game; they've heard of the show and so it doesn't take them long to collect themselves; will they collect some cash?",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

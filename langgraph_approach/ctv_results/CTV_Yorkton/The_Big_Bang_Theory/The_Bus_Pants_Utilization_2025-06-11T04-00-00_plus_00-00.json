@@ -1,0 +1,39 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Bus Pants Utilization",
+  "Desc": "Leonard's idea for a smartphone application causes friction in his friendship with Sheldon.",
+  "StartTime": "2025-06-11T04:00:00+00:00",
+  "EndTime": "2025-06-11T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_d09e534e-b3ad-4837-82b9-68969af1d903_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Leonard's idea for a smartphone application causes friction in his friendship with Sheldon.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": []
+}

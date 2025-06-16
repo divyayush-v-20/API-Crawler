@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "When Garth, Aaron and John get in the Cash Cab, it's braniac time.",
+  "StartTime": "2025-06-12T08:30:00+00:00",
+  "EndTime": "2025-06-12T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_fbfc5b6d-7c72-49f5-81ef-11b58840970a_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "When Garth, Aaron and John get in the Cash Cab, it's time for these braniacs to use their brains to get them to their destination.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

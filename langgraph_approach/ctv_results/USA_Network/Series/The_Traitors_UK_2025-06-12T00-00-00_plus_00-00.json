@@ -1,0 +1,39 @@
+{
+  "Name": "The Traitors UK",
+  "Title": "The Traitors UK",
+  "Desc": "Twenty-two strangers play the reality game of detection, backstabbing and trust.",
+  "StartTime": "2025-06-12T00:00:00+00:00",
+  "EndTime": "2025-06-12T01:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_fddcbe48-aec7-4984-a6e3-b20b4cb9ce17_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 90,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality"
+  ],
+  "LongDescription": "Psychological competition where twenty-two strangers play the reality game of detection, backstabbing and trust, in the hope of winning up to \u00a3120,000.",
+  "TopCast": [
+    "claudia winkleman"
+  ],
+  "Directors": [
+    "ben archard"
+  ]
+}

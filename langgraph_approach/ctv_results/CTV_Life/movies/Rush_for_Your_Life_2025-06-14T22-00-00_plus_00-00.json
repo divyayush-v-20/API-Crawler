@@ -1,0 +1,41 @@
+{
+  "Name": "Rush for Your Life",
+  "Title": "Rush for Your Life",
+  "Desc": "Tasha goes under cover as a sorority pledge to expose the people responsible for a student's death.",
+  "StartTime": "2025-06-14T22:00:00+00:00",
+  "EndTime": "2025-06-15T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_fb989c46-8dd3-4d02-baa6-5727b2ac00ff_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Movie",
+  "SubType": "TV Movie",
+  "Genres": [
+    "thriller"
+  ],
+  "LongDescription": "Journalism student Tasha goes under cover as a sorority pledge to expose the people responsible for the death of a student the prior year. She quickly finds herself completing dangerous hazing rituals to secure a spot in the sorority.",
+  "TopCast": [
+    "keeya king",
+    "keara graves",
+    "kayleigh shikanai"
+  ],
+  "Directors": [
+    "alpha nicky mulowa"
+  ]
+}

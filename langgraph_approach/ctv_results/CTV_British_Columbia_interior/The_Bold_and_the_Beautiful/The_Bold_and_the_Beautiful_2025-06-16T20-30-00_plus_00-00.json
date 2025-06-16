@@ -1,0 +1,41 @@
+{
+  "Name": "The Bold and the Beautiful",
+  "Title": "The Bold and the Beautiful",
+  "Desc": "At the beach house, a silent observer hides in the shadows through a long lens.",
+  "StartTime": "2025-06-16T20:30:00+00:00",
+  "EndTime": "2025-06-16T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_de5a853b-4167-47dc-80ce-557e16009dee_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "188",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "soap",
+    "drama",
+    "romance"
+  ],
+  "LongDescription": "His unannounced arrival sets the stage for a charged encounter between Brooke and Nick; at the beach house, a silent observer hides in the shadows through a long lens.",
+  "TopCast": [
+    "katherine kelly lang",
+    "jacqueline macinnes wood",
+    "thorsten kaye"
+  ],
+  "Directors": []
+}

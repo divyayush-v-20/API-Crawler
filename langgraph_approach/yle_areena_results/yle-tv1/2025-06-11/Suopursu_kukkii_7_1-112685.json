@@ -1,0 +1,74 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-11",
+  "broadcast_time": "2025-06-11T13:15:00+03:00",
+  "program_data": {
+    "title": "Suopursu kukkii (7)",
+    "description": "Salaperäinen kulkuri kietoo maalla sijaitsevan täysihoitolan naiset pauloihinsa. O: Toivo Särkkä. N: Rauli Tuomi, Ritva Arvelo, Ghedi Lönnberg, Eeva-Kaarina Volanen. T: SF (1947) (Mv) (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-112685"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.15",
+        "raw": "2025-06-11T13:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T14:33:49+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 18 min",
+        "raw": "PT4729S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "aspectRatio",
+        "formatted": "kuvasuhde 4:3",
+        "raw": "4:3"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "highlight",
+        "formatted": "ELOKUVA",
+        "raw": "movie"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Gilded Newport Mysteries",
+  "Title": "Murder at the Breakers",
+  "Desc": "A society page writer becomes an amateur sleuth when she witnesses a murder while attending a ball.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_da17eea5-5bde-4e76-b493-3e5c4363c77e_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "mystery"
+  ],
+  "LongDescription": "In 1895 a society page writer witnesses a murder while attending a ball at a mansion in Rhode Island. She soon gets drawn into the investigation when her brother is arrested.",
+  "TopCast": [
+    "ali skovbye",
+    "danny griffin",
+    "nathan witte"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "The Conners",
+  "Title": "Possums, Pregnancy and Patriarchy",
+  "Desc": "Harris makes a big announcement; Ben is overwhelmed with family responsibilities.",
+  "StartTime": "2025-06-14T20:30:00+00:00",
+  "EndTime": "2025-06-14T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_cd4f0451-1c60-4116-bff5-1036ab2e2e23_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Harris makes a big announcement; Ben is overwhelmed with family responsibilities.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": []
+}

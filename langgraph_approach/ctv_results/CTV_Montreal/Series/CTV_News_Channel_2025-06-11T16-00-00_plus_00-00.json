@@ -1,0 +1,35 @@
+{
+  "Name": "CTV News Channel",
+  "Title": "CTV News Channel",
+  "Desc": "Delivering breaking news the second it happens.",
+  "StartTime": "2025-06-11T16:00:00+00:00",
+  "EndTime": "2025-06-11T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_e6dd978c-a482-4a1e-94c0-51306ba92817_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "CTV News Channel draws on the vast resources of Canada's number one news organization, CTV News, to deliver breaking news the second it happens.",
+  "TopCast": [],
+  "Directors": []
+}

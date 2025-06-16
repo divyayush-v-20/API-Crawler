@@ -1,0 +1,40 @@
+{
+  "Name": "According to Jim",
+  "Title": "Model Behavior",
+  "Desc": "Jim has big plans for Ruby when she is hired for a cookies advertisement.",
+  "StartTime": "2025-06-12T19:30:00+00:00",
+  "EndTime": "2025-06-12T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_d64889a1-7147-48b5-8441-f2a12b2b6d57_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2002",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Jim has big plans for Ruby when she is hired for a cookies advertisement.",
+  "TopCast": [
+    "jim belushi",
+    "courtney thorne-smith",
+    "kimberly williams-paisley"
+  ],
+  "Directors": [
+    "gil junger"
+  ]
+}

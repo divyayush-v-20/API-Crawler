@@ -1,0 +1,39 @@
+{
+  "Name": "This Is Pop",
+  "Title": "Festival Rising",
+  "Desc": "The evolution of the music festival as told by artists, organizers and attendees.",
+  "StartTime": "2025-06-13T11:00:00+00:00",
+  "EndTime": "2025-06-13T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_d32efb66-c2ac-4452-b83b-0d6e58d5b35a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "music",
+    "pop",
+    "documentary"
+  ],
+  "LongDescription": "From the Human Be-In to Glastonbury, music festivals become a pop rite of passage as onstage electricity connects with an enormous crowd's energy.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,44 @@
+{
+  "Name": "How It's Made",
+  "Title": "Wooden Golf Clubs; Aircraft Wings",
+  "Desc": "Ice cream treats; wooden golf clubs; aircraft wings; car battery recycling.",
+  "StartTime": "2025-06-13T11:00:00+00:00",
+  "EndTime": "2025-06-13T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_9c8adc80-481a-42e9-98ab-306cef33ac15_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 10,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Ice cream treats; wooden golf clubs; aircraft wings; car battery recycling.",
+  "TopCast": [
+    "lynne adams",
+    "tony hirst"
+  ],
+  "Directors": [
+    "yves martin allard",
+    "jean-francois despres",
+    "gabriel hoss",
+    "gr\u00e9goire viau"
+  ]
+}

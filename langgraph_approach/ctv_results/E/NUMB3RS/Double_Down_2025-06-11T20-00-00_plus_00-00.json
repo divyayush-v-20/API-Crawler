@@ -1,0 +1,46 @@
+{
+  "Name": "NUMB3RS",
+  "Title": "Double Down",
+  "Desc": "A murder of a young student at a card club leads the FBI to uncover a deadly card-counting scheme.",
+  "StartTime": "2025-06-11T20:00:00+00:00",
+  "EndTime": "2025-06-11T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_4c519be6-fe2f-4f61-aa3d-504d7ae7d387_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "When the FBI is called to investigate a murder at a Los Angeles card club, it leads Don and his agents to unravel a complicated card-counting scheme involving a group of college students whose lives may now be at risk.",
+  "TopCast": [
+    "rob morrow",
+    "david krumholtz",
+    "peter macnicol"
+  ],
+  "Directors": [
+    "alex zakrzewski"
+  ]
+}

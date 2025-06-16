@@ -1,0 +1,46 @@
+{
+  "Name": "Star Trek: Strange New Worlds",
+  "Title": "Ghosts of Illyria",
+  "Desc": "The Enterprise finds a contagion that ravages the ship, incapacitating everyone except Number One.",
+  "StartTime": "2025-06-13T05:56:00+00:00",
+  "EndTime": "2025-06-13T07:01:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_82ee869e-bde0-4ff1-a3d6-9d7d36e2a834_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 65,
+  "SeasonNo": 1,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "drama",
+    "action",
+    "adventure"
+  ],
+  "LongDescription": "The U.S.S. Enterprise encounters a contagion that ravages the ship; one by one, the entire crew is incapacitated except for Number One, Una Chin-Riley, who must now confront a secret she's been hiding as she races to find a cure.",
+  "TopCast": [
+    "anson mount",
+    "rebecca romijn",
+    "ethan peck"
+  ],
+  "Directors": [
+    "leslie hope"
+  ]
+}

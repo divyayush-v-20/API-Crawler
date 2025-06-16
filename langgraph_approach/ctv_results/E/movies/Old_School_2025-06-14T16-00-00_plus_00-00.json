@@ -1,0 +1,42 @@
+{
+  "Name": "Old School",
+  "Title": "Old School",
+  "Desc": "Three friends (Luke Wilson, Will Ferrell, Vince Vaughn) try to relive their college years.",
+  "StartTime": "2025-06-14T16:00:00+00:00",
+  "EndTime": "2025-06-14T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_7db3fe4d-d83f-4f2c-94f0-22349ed0bafa_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2003",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy"
+  ],
+  "LongDescription": "After discovering his girlfriend (Juliette Lewis) has been participating in group sex, attorney Mitch (Luke Wilson) feels his world come undone. He moves into a new place, which happens to be near a college campus, and tries to get his life back together. Two of his best friends, Frank (Will Ferrell) and Beanie (Vince Vaughn), start hanging out at Mitch's house, eventually turning the place into a wild party pad, much to the ire of the college's dean, Gordon \"Cheese\" Pritchard (Jeremy Piven).",
+  "TopCast": [
+    "luke wilson",
+    "will ferrell",
+    "vince vaughn"
+  ],
+  "Directors": [
+    "todd phillips"
+  ]
+}

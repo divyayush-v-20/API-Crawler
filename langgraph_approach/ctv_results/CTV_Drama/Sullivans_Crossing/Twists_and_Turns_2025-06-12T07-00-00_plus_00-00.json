@@ -1,0 +1,39 @@
+{
+  "Name": "Sullivan's Crossing",
+  "Title": "Twists and Turns",
+  "Desc": "Everyone at the Crossing bands unite to find Lola and Jacob, who never made it home from the woods.",
+  "StartTime": "2025-06-12T07:00:00+00:00",
+  "EndTime": "2025-06-12T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_66fc65bc-9310-4dd7-8bde-e947c1fbfa67_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama"
+  ],
+  "LongDescription": "Everyone at the Crossing bands together to look for Lola and Jacob when it comes to light that the two never made it home from the woods.",
+  "TopCast": [
+    "morgan kohan",
+    "chad michael murray",
+    "scott patterson"
+  ],
+  "Directors": []
+}

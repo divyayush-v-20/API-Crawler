@@ -1,0 +1,41 @@
+{
+  "Name": "Revival",
+  "Title": "Don't Tell Dad",
+  "Desc": "As the dead return to life in a small town, Officer Dana Cypress unearths a new deadly mystery.",
+  "StartTime": "2025-06-13T02:00:00+00:00",
+  "EndTime": "2025-06-13T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_95e5972c-051f-4b27-8029-ce3f68402fee_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "thriller",
+    "horror"
+  ],
+  "LongDescription": "As the dead return to life in a small town, Officer Dana Cypress unearths a new deadly mystery.",
+  "TopCast": [
+    "melanie scrofano",
+    "romy weltman",
+    "david james elliott"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "MasterChef Australia",
+  "Title": "1st Team Challenge",
+  "Desc": "The winning teams from the service challenge are one step closer to immunity from Sunday.",
+  "StartTime": "2025-06-13T02:00:00+00:00",
+  "EndTime": "2025-06-13T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_f46b37be-98ba-4b60-a032-76e06fafad6d_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 14,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "cooking"
+  ],
+  "LongDescription": "The winning teams from the service challenge are one step closer to immunity from Sunday.",
+  "TopCast": [
+    "andy allen",
+    "melissa leong",
+    "jock zonfrillo"
+  ],
+  "Directors": []
+}

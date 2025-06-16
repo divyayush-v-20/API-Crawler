@@ -1,0 +1,36 @@
+{
+  "Name": "Wardens of the North",
+  "Title": "Fishing for Trouble",
+  "Desc": "Conservation officers set up a three-point patrol along tributaries that channel into Lake Michigan.",
+  "StartTime": "2025-06-13T21:00:00+00:00",
+  "EndTime": "2025-06-13T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_14b214f7-419f-4d6c-86d8-30433ddf1d56_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors"
+  ],
+  "LongDescription": "An undercover patrol catches law-breaking anglers red-handed; conservation officers set up a three-point patrol along tributaries that channel into Lake Michigan, and they uncover a number of foul-hooked lake whitefish.",
+  "TopCast": [],
+  "Directors": []
+}

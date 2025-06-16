@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The 2003 Approximation",
+  "Desc": "An impending change inspires Sheldon to revert to 2003, before he met Penny and Leonard.",
+  "StartTime": "2025-06-13T02:00:00+00:00",
+  "EndTime": "2025-06-13T02:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_8bd07ad3-4f40-480c-a847-78feeddf73b4_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "An impending change to his living arrangements inspires Sheldon to revert to 2003, before he met Penny and Leonard; Raj and Howard form a band.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

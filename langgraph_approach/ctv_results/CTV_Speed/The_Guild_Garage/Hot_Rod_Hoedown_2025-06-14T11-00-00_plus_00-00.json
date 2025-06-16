@@ -1,0 +1,41 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "Hot Rod Hoedown",
+  "Desc": "Barry starts removing the lacquer on the Model T; Talon finishes up the Camaro engine.",
+  "StartTime": "2025-06-14T11:00:00+00:00",
+  "EndTime": "2025-06-14T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_70bee3f2-eaa5-4cdc-a123-dc29c74ddebf_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "Ron gets busy replacing valves in the Model T engine; Talon installs a camshaft in an '85 Camaro Z28; Barry starts removing the lacquer on the Model T; Talon finishes up the Camaro engine; \"Bring Your Hot Rod to Work\" day.",
+  "TopCast": [
+    "david grainger",
+    "peter james haworth",
+    "paolo pininfarina"
+  ],
+  "Directors": []
+}

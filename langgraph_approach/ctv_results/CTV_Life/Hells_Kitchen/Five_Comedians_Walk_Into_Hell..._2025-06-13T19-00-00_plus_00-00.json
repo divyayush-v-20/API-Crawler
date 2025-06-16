@@ -1,0 +1,42 @@
+{
+  "Name": "Hell's Kitchen",
+  "Title": "Five Comedians Walk Into Hell...",
+  "Desc": "Each chef must teach a comedian how to prepare a signature chef Ramsay recipe.",
+  "StartTime": "2025-06-13T19:00:00+00:00",
+  "EndTime": "2025-06-13T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_70666b46-2ee7-4a30-9ece-62960be91f9f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 23,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking",
+    "competition reality"
+  ],
+  "LongDescription": "Each chef must teach a comedian how to prepare a signature chef Ramsay recipe; the final five must prove they have what it takes to proceed to the final four.",
+  "TopCast": [
+    "gordon ramsay",
+    "druski",
+    "jeff dye"
+  ],
+  "Directors": []
+}

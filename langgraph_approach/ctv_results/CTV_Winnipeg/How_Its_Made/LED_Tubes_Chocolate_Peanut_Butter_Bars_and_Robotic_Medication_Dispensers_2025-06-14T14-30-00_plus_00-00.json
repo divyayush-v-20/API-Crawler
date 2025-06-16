@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "LED Tubes, Chocolate Peanut Butter Bars, and Robotic Medication Dispensers",
+  "Desc": "LED tubes; chocolate peanut butter bars; robotic medication dispensers.",
+  "StartTime": "2025-06-14T14:30:00+00:00",
+  "EndTime": "2025-06-14T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_5f078c60-f4c9-456a-a12d-1fa151b7d538_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 27,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "LED tubes; chocolate peanut butter bars; robotic medication dispensers.",
+  "TopCast": [
+    "lynne adams",
+    "brooks moore"
+  ],
+  "Directors": []
+}

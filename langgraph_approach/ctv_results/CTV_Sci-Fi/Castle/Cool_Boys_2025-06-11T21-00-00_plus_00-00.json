@@ -1,0 +1,43 @@
+{
+  "Name": "Castle",
+  "Title": "Cool Boys",
+  "Desc": "Detective Slaughter asks Castle for help solving a high-stakes robbery case.",
+  "StartTime": "2025-06-11T21:00:00+00:00",
+  "EndTime": "2025-06-11T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_a475c1bb-91a5-4673-91df-d8e74e61332b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "Detective Slaughter (Adam Baldwin) asks Castle for help solving a high-stakes robbery case; a corpse connected to the case makes Slaughter look guilty.",
+  "TopCast": [
+    "nathan fillion",
+    "stana katic",
+    "tamala jones"
+  ],
+  "Directors": [
+    "paul holahan"
+  ]
+}

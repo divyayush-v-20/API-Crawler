@@ -1,0 +1,43 @@
+{
+  "Name": "Castle",
+  "Title": "Dead Red",
+  "Desc": "The son of a Russian diplomat is slain; a security guard is more involved in the case than expected.",
+  "StartTime": "2025-06-13T14:00:00+00:00",
+  "EndTime": "2025-06-13T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_306bca2b-1673-4f4a-9f04-c254a6406dd4_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "The son of a Russian diplomat is murdered; during the investigation, Castle entertains a jovial Russian security guard, who turns out to be more involved in the case than expected.",
+  "TopCast": [
+    "nathan fillion",
+    "stana katic",
+    "tamala jones"
+  ],
+  "Directors": [
+    "jeannot szwarc"
+  ]
+}

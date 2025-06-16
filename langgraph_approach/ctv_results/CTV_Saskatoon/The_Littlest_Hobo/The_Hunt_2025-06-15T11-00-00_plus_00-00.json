@@ -1,0 +1,43 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "The Hunt",
+  "Desc": "Hobo foils a criminal plot by disrupting a fox hunt.",
+  "StartTime": "2025-06-15T11:00:00+00:00",
+  "EndTime": "2025-06-15T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_07b0102e-3993-4aac-b008-46942e942bb8_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1980",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo foils a criminal plot by disrupting a fox hunt.",
+  "TopCast": [
+    "nicholas campbell",
+    "hollis mclaren",
+    "cameron mitchell"
+  ],
+  "Directors": [
+    "peter pearson"
+  ]
+}

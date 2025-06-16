@@ -1,0 +1,37 @@
+{
+  "Name": "Mighty Ships",
+  "Title": "Ibn Battuta",
+  "Desc": "Ibn Battuta is capable of breaking up the hardest subsea soil as it deepens the Son Duong Port.",
+  "StartTime": "2025-06-12T16:00:00+00:00",
+  "EndTime": "2025-06-12T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_fbdc2cd2-bb4c-4f10-b24a-035f93fa02aa_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 7,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science"
+  ],
+  "LongDescription": "Ibn Battuta is capable of breaking up the hardest subsea soil as it deepens the Son Duong Port in Vietnam's poorest province.",
+  "TopCast": [
+    "barbara budd"
+  ],
+  "Directors": []
+}

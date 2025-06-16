@@ -1,0 +1,73 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T16:19:12+03:00",
+  "program_data": {
+    "title": "Matkalla sukulaisten luo Haminaan (S)",
+    "description": "Juha Koirasen lyhytelokuvassa parisuhteen ja auton kipinä on kadoksissa. Päättyykö matka, vai onko luvassa vielä jotain, jotain villiä, ehkä jopa makeaa? Pääosissa Tiina Pirhonen ja Pertti Sveholm. T: Kimey Oy, 2025",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-70148122"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "16.19",
+        "raw": "2025-06-15T16:19:12+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T16:30:18+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "11 min",
+        "raw": "PT666S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-70148122.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

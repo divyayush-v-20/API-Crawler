@@ -1,0 +1,39 @@
+{
+  "Name": "Canada's Worst Driver",
+  "Title": "Look Where You Wanna Go",
+  "Desc": "The country's most horrendous drivers navigate a series of skill-testing challenges.",
+  "StartTime": "2025-06-15T10:30:00+00:00",
+  "EndTime": "2025-06-15T11:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_4c9bcd55-6e8e-442d-8153-143120ed806d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 14,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "The country's most horrendous drivers navigate a series of skill-testing challenges that will help determine who is truly Canada's worst driver.",
+  "TopCast": [
+    "andrew younghusband",
+    "darris wilderman",
+    "brandon wilkins"
+  ],
+  "Directors": []
+}

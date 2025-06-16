@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Nina Agdal LXVI",
+  "Desc": "Rob, Steelo and Nina Agdal head to the court; watching people couple up and go down.",
+  "StartTime": "2025-06-15T21:30:00+00:00",
+  "EndTime": "2025-06-15T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_c1b5a3cd-2706-4ffe-b070-e57261bfb20e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 39,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob, Steelo and Nina Agdal head to the court to get \"Pickleball'd\"; watching people couple up and go down in \"Love Tumbles\"; finding out why sometimes it's better to \"Just Join a Gym.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

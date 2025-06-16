@@ -1,0 +1,46 @@
+{
+  "Name": "NUMB3RS",
+  "Title": "The O.G.",
+  "Desc": "A fellow FBI agent working under cover is killed in a gang retaliation.",
+  "StartTime": "2025-06-12T07:00:00+00:00",
+  "EndTime": "2025-06-12T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_c7efd35d-1e09-4a2d-955b-a20d091ec1a0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "When a fellow FBI agent working under cover is killed in a gang retaliation, Don and his team must investigate.",
+  "TopCast": [
+    "rob morrow",
+    "david krumholtz",
+    "peter macnicol"
+  ],
+  "Directors": [
+    "rod holcomb"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "Dateline NBC",
+  "Title": "The House on Shalimar Way",
+  "Desc": "Insiders speak out about the latest developments in the suspicious death of a New York woman.",
+  "StartTime": "2025-06-13T00:00:00+00:00",
+  "EndTime": "2025-06-13T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_40e7aa0e-7134-42af-a60c-9411ca62e09f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": 30,
+  "EpisodeNumber": "27",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "newsmagazine",
+    "mystery",
+    "crime"
+  ],
+  "LongDescription": "When Leslie Neulander dies after what appears to be an accidental fall in the shower in her New York home, two friends join forces to seek justice on her behalf; insiders speak out on the latest twists and the final chapter in the case.",
+  "TopCast": [
+    "lester holt",
+    "andrea canning",
+    "josh mankiewicz"
+  ],
+  "Directors": []
+}

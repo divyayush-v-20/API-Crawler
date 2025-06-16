@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-areena",
+  "broadcast_date": "2025-06-10",
+  "broadcast_time": "2025-06-10T20:00:00+03:00",
+  "program_data": {
+    "title": "YleX Dream: Lina Schiffer ja Taika Mannila",
+    "description": "Dream-ohjelmassa Taika Mannila ja Lina Schiffer soittavat sulle tulevat lempparibiisisi ja huomisen seksikkäimmät soundit ensimmäistä kertaa. Dream radio-ohjelman juuret ovat rnb:n ja hip hopin maailmassa, mutta nykyään ohjelmassa kuullaan kaikkea hyperpopista jersey clubiin. Taika ja Lina analysoivat viikoittain fiilistelemäänsä musiikkia, eivätkä unohda tehdä sitä nauramatta itselleen.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74830995"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "20.00",
+        "raw": "2025-06-10T20:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-10T22:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 0 min",
+        "raw": "PT7200S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-72069911"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "OndemandService"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

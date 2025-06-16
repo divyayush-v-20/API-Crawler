@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Baby Shower Blues",
+  "Desc": "Kim doesn't want a baby shower; Kris and Kylie plot against Bruce; Khlo\u00e9 gets self-conscious.",
+  "StartTime": "2025-06-15T15:00:00+00:00",
+  "EndTime": "2025-06-15T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_727a323e-1c9b-4ee9-b1e8-51b573a0ed45_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kourtney and Khlo\u00e9 can't believe that Kim doesn't want a baby shower; Kris and Kylie plot to get rid of Bruce's gun; Khlo\u00e9 gets self-conscious about her body.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

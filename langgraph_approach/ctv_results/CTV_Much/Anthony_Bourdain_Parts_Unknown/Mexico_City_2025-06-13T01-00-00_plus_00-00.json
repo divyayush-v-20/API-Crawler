@@ -1,0 +1,40 @@
+{
+  "Name": "Anthony Bourdain: Parts Unknown",
+  "Title": "Mexico City",
+  "Desc": "Anthony travels to Mexico City, to talk with local residents who express their passion through food.",
+  "StartTime": "2025-06-13T01:00:00+00:00",
+  "EndTime": "2025-06-13T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_a1186adb-6b9f-4a38-bdf7-4031639ab91e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel",
+    "cooking"
+  ],
+  "LongDescription": "Anthony travels to Mexico City, Oaxaca, and Cuernavacato to talk with local residents who express their passion through food and later to journalist Anabel Hernandez on the drug trade-related violence's impact.",
+  "TopCast": [
+    "anthony bourdain"
+  ],
+  "Directors": []
+}

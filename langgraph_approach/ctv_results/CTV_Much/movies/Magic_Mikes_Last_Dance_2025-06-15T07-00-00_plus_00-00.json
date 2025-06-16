@@ -1,0 +1,43 @@
+{
+  "Name": "Magic Mike's Last Dance",
+  "Title": "Magic Mike's Last Dance",
+  "Desc": "Mike Lane finds himself in London trying to whip a hot new roster of talented dancers into shape.",
+  "StartTime": "2025-06-15T07:00:00+00:00",
+  "EndTime": "2025-06-15T09:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_285b29f7-1a3a-48d1-8f54-8be6bb2515e8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy drama",
+    "romance"
+  ],
+  "LongDescription": "Mike Lane takes to the stage once again when a business deal that went bust leaves him broke and bartending in Florida. Hoping for one last hurrah, Mike heads to London with a wealthy socialite who lures him with an offer he can't refuse -- and an agenda all her own. With everything on the line, he soon finds himself trying to whip a hot new roster of talented dancers into shape.",
+  "TopCast": [
+    "channing tatum",
+    "salma hayek pinault",
+    "ayub khan din"
+  ],
+  "Directors": [
+    "steven soderbergh"
+  ]
+}

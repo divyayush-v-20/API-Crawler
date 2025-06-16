@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Spin Cycle",
+  "Desc": "Karen feels like she is a school kid again when she takes up spin class.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T12:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_5da05948-e80e-4155-aa63-d2b1c186b686_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Karen remembers what it feels like to be a school kid again when she takes up a new form of exercise.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

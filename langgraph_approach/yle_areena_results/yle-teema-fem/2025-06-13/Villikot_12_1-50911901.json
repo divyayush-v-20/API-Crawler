@@ -1,0 +1,75 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T18:36:39+03:00",
+  "program_data": {
+    "title": "Villikot (12)",
+    "description": "1/13. Säpinää satamassa. Joku tönäisee Olen mereen, kylään on muuttanut uusi poika, ja maantiejyrään on jäänyt tauon ajaksi avaimet. Siitä syntyy säpinää satamassa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50911901"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.36",
+        "raw": "2025-06-13T18:36:39+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T18:50:09+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "13 min",
+        "raw": "PT810S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-50952003"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

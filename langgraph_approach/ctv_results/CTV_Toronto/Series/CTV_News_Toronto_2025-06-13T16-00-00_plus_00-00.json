@@ -1,0 +1,38 @@
+{
+  "Name": "CTV News Toronto",
+  "Title": "CTV News Toronto",
+  "Desc": "Breaking news, headlines and top stories from Toronto.",
+  "StartTime": "2025-06-13T16:00:00+00:00",
+  "EndTime": "2025-06-13T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_50e9185b-278b-446d-91bb-bc0d16fc83f8_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Toronto.",
+  "TopCast": [],
+  "Directors": []
+}

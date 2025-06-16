@@ -1,0 +1,35 @@
+{
+  "Name": "Bush Wreck Rescue",
+  "Title": "D-Day",
+  "Desc": "Peter and Jason enter a demolition derby for in hopes of winning a truck from the current champ.",
+  "StartTime": "2025-06-12T00:00:00+00:00",
+  "EndTime": "2025-06-12T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_523fbca2-bee1-4fae-a73a-f440cbc9ba67_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "auto"
+  ],
+  "LongDescription": "Peter and Jason enter a demolition derby for the first time in hopes of winning a free truck from the current champ; Wreckless Restorations take on their biggest build yet, turning an old Ford work truck into a high-performance hot rod.",
+  "TopCast": [],
+  "Directors": []
+}

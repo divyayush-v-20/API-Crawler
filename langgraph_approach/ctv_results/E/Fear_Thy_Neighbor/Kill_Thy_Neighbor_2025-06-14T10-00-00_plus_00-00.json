@@ -1,0 +1,40 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Kill Thy Neighbor",
+  "Desc": "Gunfire ensues when a man rejects the romantic advances of his next door neighbor.",
+  "StartTime": "2025-06-14T10:00:00+00:00",
+  "EndTime": "2025-06-14T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_69741b64-2314-4a6f-8301-0731de4b97e1_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "Enmity, treachery and gunfire ensue when a man rejects the romantic advances of his next door neighbor.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

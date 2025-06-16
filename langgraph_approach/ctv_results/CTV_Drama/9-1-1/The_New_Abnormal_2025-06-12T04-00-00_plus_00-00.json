@@ -1,0 +1,40 @@
+{
+  "Name": "9-1-1",
+  "Title": "The New Abnormal",
+  "Desc": "The Hollywood Reservoir dam breaks; the team adjusts to life during the pandemic.",
+  "StartTime": "2025-06-12T04:00:00+00:00",
+  "EndTime": "2025-06-12T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_32253d55-9ca8-47cc-9d1e-39b26186db52_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "When the Hollywood Reservoir dam breaks, Bobby and the 118 race into action to save passengers on a city bus that has crashed into a building several stories in the air; the team adjusts to life as first responders during the pandemic.",
+  "TopCast": [
+    "angela bassett",
+    "peter krause",
+    "oliver stark"
+  ],
+  "Directors": []
+}

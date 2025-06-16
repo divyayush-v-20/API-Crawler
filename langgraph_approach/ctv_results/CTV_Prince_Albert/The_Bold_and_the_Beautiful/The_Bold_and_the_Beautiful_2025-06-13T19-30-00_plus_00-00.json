@@ -1,0 +1,41 @@
+{
+  "Name": "The Bold and the Beautiful",
+  "Title": "The Bold and the Beautiful",
+  "Desc": "Past history links two Los Angeles families.",
+  "StartTime": "2025-06-13T19:30:00+00:00",
+  "EndTime": "2025-06-13T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_03e20dc5-a277-458d-86c0-de0d2cd60f45_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "188",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "soap",
+    "drama",
+    "romance"
+  ],
+  "LongDescription": "Past history links two Los Angeles families.",
+  "TopCast": [
+    "katherine kelly lang",
+    "jacqueline macinnes wood",
+    "thorsten kaye"
+  ],
+  "Directors": []
+}

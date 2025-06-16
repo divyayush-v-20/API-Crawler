@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Reagan V. Reagan",
+  "Desc": "As Erin prosecutes a woman accused of murder, the defendant's attorney is slain.",
+  "StartTime": "2025-06-16T06:00:00+00:00",
+  "EndTime": "2025-06-16T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_31c2fa75-7521-4836-aea8-22198e04b1e0_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "As Erin prosecutes a woman accused of murder, the defendant's attorney is slain, and Danny is asked to investigate; things get heated when Danny is questioned on the stand.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "jim mckay"
+  ]
+}

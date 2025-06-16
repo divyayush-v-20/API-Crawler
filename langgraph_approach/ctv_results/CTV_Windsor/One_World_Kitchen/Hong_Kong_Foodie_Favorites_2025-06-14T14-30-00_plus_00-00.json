@@ -1,0 +1,37 @@
+{
+  "Name": "One World Kitchen",
+  "Title": "Hong Kong Foodie Favorites",
+  "Desc": "Talented home cook Mary Tang showcases popular culinary delights from Hong Kong.",
+  "StartTime": "2025-06-14T14:30:00+00:00",
+  "EndTime": "2025-06-14T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_60bdf829-6b12-4e69-aebe-10c54a23b17a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Home cook Mary Tang makes popular Hong Kong culinary delights, including Pineapple Buns, a sweet treat bun that doesn't have pineapples.",
+  "TopCast": [
+    "natalia machado",
+    "vijaya selvaraju",
+    "vanessa gianfrancesco"
+  ],
+  "Directors": []
+}

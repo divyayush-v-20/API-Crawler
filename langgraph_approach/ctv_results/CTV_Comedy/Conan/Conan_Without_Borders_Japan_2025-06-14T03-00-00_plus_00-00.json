@@ -1,0 +1,36 @@
+{
+  "Name": "Conan",
+  "Title": "Conan Without Borders: Japan",
+  "Desc": "Conan travels to Japan to learn about the country's culture.",
+  "StartTime": "2025-06-14T03:00:00+00:00",
+  "EndTime": "2025-06-14T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_08a1ecd4-dc1c-4b67-b1dd-0daebf032084_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "117",
+  "Qualifiers": [
+    "cc"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "comedy"
+  ],
+  "LongDescription": "Conan travels to Japan to learn about the country's culture.",
+  "TopCast": [
+    "conan o'brien"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "Next Generation Restoration",
+  "Desc": "",
+  "StartTime": "2025-06-14T10:00:00+00:00",
+  "EndTime": "2025-06-14T10:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_ba7d2c93-f3b1-454a-a7f6-84d7f00f28e9_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "New kid Tommy has some major work on a '72 Alfa Romeo, and Dan and Kalev work patiently to get the '67 Firebird's vinyl roof perfect. Talon relocates the alternator on the '35 Plymouth, and Dave tests Tommy's work, joining Greg on the Alfa road test.",
+  "TopCast": [
+    "david grainger",
+    "peter james haworth",
+    "paolo pininfarina"
+  ],
+  "Directors": []
+}

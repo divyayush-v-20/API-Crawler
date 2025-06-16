@@ -1,0 +1,40 @@
+{
+  "Name": "9-1-1",
+  "Title": "Future Tense",
+  "Desc": "The team races to save a man under siege by his high-tech smart home.",
+  "StartTime": "2025-06-12T06:00:00+00:00",
+  "EndTime": "2025-06-12T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_ae8b16c8-38e2-48da-b224-df3a7f26eb76_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "The team races to save a man under siege by his high-tech smart home; a yoga teacher loses her vision; Athena hunts down a bank robber disguised by COVID-19 protocols; members of the 118's crew prepare for an out-of-state mission.",
+  "TopCast": [
+    "angela bassett",
+    "peter krause",
+    "oliver stark"
+  ],
+  "Directors": []
+}

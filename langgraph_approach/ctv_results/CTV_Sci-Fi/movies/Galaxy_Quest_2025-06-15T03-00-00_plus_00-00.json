@@ -1,0 +1,46 @@
+{
+  "Name": "Galaxy Quest",
+  "Title": "Galaxy Quest",
+  "Desc": "Aliens kidnap actors from an old sci-fi TV series to fight a war.",
+  "StartTime": "2025-06-15T03:00:00+00:00",
+  "EndTime": "2025-06-15T05:15:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_beaa05a5-dc94-4ca4-8a15-fd2c3a8684ae_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 135,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1999",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy",
+    "science fiction",
+    "adventure",
+    "action"
+  ],
+  "LongDescription": "The stars of a 1970s sci-fi show -- now scraping a living through re-runs and sci-fi conventions are beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the ailing celebrities for help in their quest to overcome the oppressive regime in their solar system.",
+  "TopCast": [
+    "tim allen",
+    "sigourney weaver",
+    "alan rickman"
+  ],
+  "Directors": [
+    "dean parisot"
+  ]
+}

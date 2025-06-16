@@ -1,0 +1,38 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Cousin Carl",
+  "Desc": "Dog River prepares for its annual talent show; Brent's cousin, Carl, comes for a visit.",
+  "StartTime": "2025-06-15T04:30:00+00:00",
+  "EndTime": "2025-06-15T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_9_10fa8057-e613-4b9b-a07c-a1b5fdbc80da_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Dog River prepares for its annual talent show; Brent's cousin Carl, whom everyone seems to love, except Brent, comes for a visit.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

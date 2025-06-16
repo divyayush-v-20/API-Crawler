@@ -1,0 +1,39 @@
+{
+  "Name": "Love Island: All Stars",
+  "Title": "Love Island: All Stars",
+  "Desc": "A couple's clash creates more problems; Maya enters the villa to deliver the public vote.",
+  "StartTime": "2025-06-16T06:30:00+00:00",
+  "EndTime": "2025-06-16T07:45:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_ca750373-8f98-4b3e-8c60-7860030c6d9a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 75,
+  "SeasonNo": 2,
+  "EpisodeNumber": "29",
+  "Qualifiers": [
+    "hd unknown",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality"
+  ],
+  "LongDescription": "A couple's clash creates more problems than it solves; someone plans a fruity birthday surprise for an Islander; Maya enters the villa to deliver the public vote.",
+  "TopCast": [
+    "maya jama",
+    "iain stirling"
+  ],
+  "Directors": []
+}

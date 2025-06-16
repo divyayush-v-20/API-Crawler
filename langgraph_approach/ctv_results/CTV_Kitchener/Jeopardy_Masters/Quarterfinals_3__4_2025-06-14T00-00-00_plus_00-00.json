@@ -1,0 +1,40 @@
+{
+  "Name": "Jeopardy! Masters",
+  "Title": "Quarterfinals 3 & 4",
+  "Desc": "Yogesh Raut; Victoria Groce; Roger Craig; Juveria Zaheer; Isaac Hirsch; Matt Amodio.",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_1f51b220-5e64-498e-994f-6cc3b635f826_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Quarterfinal games three and four feature Yogesh Raut, Victoria Groce, Roger Craig, Juveria Zaheer, Isaac Hirsch and Matt Amodio.",
+  "TopCast": [
+    "ken jennings",
+    "yogesh raut",
+    "victoria groce"
+  ],
+  "Directors": []
+}

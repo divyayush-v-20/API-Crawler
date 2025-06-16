@@ -1,0 +1,40 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Spock Resonance",
+  "Desc": "Sheldon struggles to keep his emotions in check when he is interviewed for a documentary.",
+  "StartTime": "2025-06-17T02:00:00+00:00",
+  "EndTime": "2025-06-17T02:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_1625c3b6-19ca-444b-9e97-25ac423959db_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 9,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon struggles to keep his emotions in check when he is interviewed for a documentary about Spock; Penny and Leonard make a surprising discovery; Wolowitz and Bernadette get into a disagreement about remodeling his childhood home.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "nikki lorre"
+  ]
+}

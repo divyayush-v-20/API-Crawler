@@ -1,0 +1,36 @@
+{
+  "Name": "Formula 1 Grand Prix Sunday",
+  "Title": "Canadian Grand Prix",
+  "Desc": "Featuring pre-race predictions and analysis leading up to today's Formula 1 racing action.",
+  "StartTime": "2025-06-15T16:30:00+00:00",
+  "EndTime": "2025-06-15T17:55:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_00a5800d-f981-47fe-9af5-6035a098dba8_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 85,
+  "SeasonNo": null,
+  "EpisodeNumber": "33",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Sports non-event",
+  "Genres": [
+    "auto racing"
+  ],
+  "LongDescription": "Featuring pre-race predictions and analysis leading up to today's Formula 1 racing action.",
+  "TopCast": [],
+  "Directors": []
+}

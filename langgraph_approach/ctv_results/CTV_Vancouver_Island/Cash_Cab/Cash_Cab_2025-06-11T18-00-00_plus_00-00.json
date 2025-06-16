@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Anthony, Frank and Andrew are three buddies feeling confident in the Cash Cab.",
+  "StartTime": "2025-06-11T18:00:00+00:00",
+  "EndTime": "2025-06-11T18:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_4ff22cc4-d2a7-4e25-affa-2ee54a40b33f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Anthony, Frank and Andrew are three buddies feeling confident in the Cash Cab; they make it to their destination.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

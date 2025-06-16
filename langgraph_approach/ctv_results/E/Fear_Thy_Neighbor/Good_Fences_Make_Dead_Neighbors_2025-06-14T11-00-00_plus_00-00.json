@@ -1,0 +1,38 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Good Fences Make Dead Neighbors",
+  "Desc": "A man finds himself embroiled in a feud with a neighbor that concludes with blasts from a shotgun.",
+  "StartTime": "2025-06-14T11:00:00+00:00",
+  "EndTime": "2025-06-14T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_2411008b-4646-427a-9d59-8356d1ba98e7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "When a man moves to Canyon Country, Calif., he finds himself embroiled in a bizarre and increasingly acrimonious 8-year feud with a neighbor that terminates with blasts from a shotgun.",
+  "TopCast": [],
+  "Directors": [
+    "brian rice"
+  ]
+}

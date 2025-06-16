@@ -1,0 +1,39 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Two brothers try to impress their gorgeous friend with their cash cab wits.",
+  "StartTime": "2025-06-16T01:00:00+00:00",
+  "EndTime": "2025-06-16T01:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_1fe362d7-7a06-48a7-80f1-e382c275df9f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Two brothers try to impress their gorgeous friend with their cash cab wits; but it's possible it will be Marcia who will be the impressive one, all the way to their destination.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

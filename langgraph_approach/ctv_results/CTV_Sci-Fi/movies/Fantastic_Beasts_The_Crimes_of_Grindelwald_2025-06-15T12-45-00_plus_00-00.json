@@ -1,0 +1,44 @@
+{
+  "Name": "Fantastic Beasts: The Crimes of Grindelwald",
+  "Title": "Fantastic Beasts: The Crimes of Grindelwald",
+  "Desc": "Magizoologist Newt Scamander teams up with wizard Albus Dumbledore to battle Gellert Grindelwald.",
+  "StartTime": "2025-06-15T12:45:00+00:00",
+  "EndTime": "2025-06-15T15:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_d3fae36d-8d40-4f9c-ab83-307f9c35481a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 165,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "LongDescription": "In an effort to thwart Grindelwald's plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided world.",
+  "TopCast": [
+    "eddie redmayne",
+    "katherine waterston",
+    "dan fogler"
+  ],
+  "Directors": [
+    "david yates"
+  ]
+}

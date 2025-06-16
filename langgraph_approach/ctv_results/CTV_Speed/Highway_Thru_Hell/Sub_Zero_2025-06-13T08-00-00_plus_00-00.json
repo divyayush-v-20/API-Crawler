@@ -1,0 +1,39 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Sub Zero",
+  "Desc": "Colin fights to recover a frozen rig; Cam has a dilemma with one of Jamie's classic wreckers.",
+  "StartTime": "2025-06-13T08:00:00+00:00",
+  "EndTime": "2025-06-13T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_578e45f1-faba-4e0c-bf78-4fb7d80fd588_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "A polar vortex brings extreme cold and brutal working conditions to truck drivers and heavy wrecker operators on The Coq; Colin fights to recover a frozen rig; Cam finds himself in a dilemma with one of Jamie's classic wreckers.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

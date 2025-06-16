@@ -1,0 +1,37 @@
+{
+  "Name": "The Quiz With Balls",
+  "Title": "Island Vibe vs. Turkish Pride",
+  "Desc": "Contestants test their knowledge of sports, movies and music.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_85fb2ba0-1920-421e-af05-127bef667a1c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Contestants test their knowledge of sports, movies and music.",
+  "TopCast": [
+    "jay pharoah"
+  ],
+  "Directors": []
+}

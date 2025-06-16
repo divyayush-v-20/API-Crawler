@@ -1,0 +1,42 @@
+{
+  "Name": "Flashpoint",
+  "Title": "First in Line",
+  "Desc": "A man holds doctors at gunpoint until his daughter gets a new heart.",
+  "StartTime": "2025-06-14T09:05:00+00:00",
+  "EndTime": "2025-06-14T10:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_9e1e6c3a-5da6-4ef8-ad99-98ec9da12ed4_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "Sgt. Parker is forced to confront his feelings about his child when a desperate man at a hospital holds doctors at gunpoint until his dying daughter gets a new heart.",
+  "TopCast": [
+    "enrico colantoni",
+    "sergio di zio",
+    "hugh dillon"
+  ],
+  "Directors": [
+    "david frazee"
+  ]
+}

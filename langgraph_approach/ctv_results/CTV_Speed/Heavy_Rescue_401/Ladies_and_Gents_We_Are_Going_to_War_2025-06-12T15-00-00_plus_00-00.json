@@ -1,0 +1,37 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "Ladies and Gents, We Are Going to War",
+  "Desc": "The crew from Herb's faces a night of non-stop recoveries; a veteran fights a tough battle.",
+  "StartTime": "2025-06-12T15:00:00+00:00",
+  "EndTime": "2025-06-12T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_7a535f01-0eb0-45d0-a0ee-93ce5efbdb83_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "The crew from Herb's faces a night of non-stop recoveries when a blizzard hits; a veteran fights the toughest battle of his career at a multi-semi pileup.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

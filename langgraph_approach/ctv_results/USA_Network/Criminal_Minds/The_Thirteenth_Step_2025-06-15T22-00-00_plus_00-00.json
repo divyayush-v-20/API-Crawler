@@ -1,0 +1,44 @@
+{
+  "Name": "Criminal Minds",
+  "Title": "The Thirteenth Step",
+  "Desc": "The team pursues two young lovers on a killing spree; Prentiss receives frightening news.",
+  "StartTime": "2025-06-15T22:00:00+00:00",
+  "EndTime": "2025-06-15T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_3e13db7c-43ac-4f13-af7f-20e59cdb1d67_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "The team pursues two young lovers on a killing spree; Prentiss receives frightening news.",
+  "TopCast": [
+    "joe mantegna",
+    "thomas gibson",
+    "paget brewster"
+  ],
+  "Directors": [
+    "doug aarniokoski"
+  ]
+}

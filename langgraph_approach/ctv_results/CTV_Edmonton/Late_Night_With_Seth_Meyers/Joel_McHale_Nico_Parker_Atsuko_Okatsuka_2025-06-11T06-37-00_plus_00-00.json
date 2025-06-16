@@ -1,0 +1,41 @@
+{
+  "Name": "Late Night With Seth Meyers",
+  "Title": "Joel McHale; Nico Parker; Atsuko Okatsuka",
+  "Desc": "Actor Joel McHale; actress Nico Parker; actress Atsuko Okatsuka.",
+  "StartTime": "2025-06-11T06:37:00+00:00",
+  "EndTime": "2025-06-11T07:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_82941e28-f443-472b-9230-715f92290529_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "100",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "comedy",
+    "political news satire & talk"
+  ],
+  "LongDescription": "Actor Joel McHale; actress Nico Parker; actress Atsuko Okatsuka.",
+  "TopCast": [
+    "seth meyers",
+    "joel mchale",
+    "nico parker"
+  ],
+  "Directors": []
+}

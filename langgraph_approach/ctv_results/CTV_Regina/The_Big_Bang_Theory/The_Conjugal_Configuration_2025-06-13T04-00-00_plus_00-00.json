@@ -1,0 +1,42 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Conjugal Configuration",
+  "Desc": "Penny and Leonard discover they are uncomfortably similar to Amy's parents.",
+  "StartTime": "2025-06-13T04:00:00+00:00",
+  "EndTime": "2025-06-13T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_22229b6e-9556-4e7b-add2-0d16a06da750_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 12,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon and Amy's honeymoon runs aground in New York; Penny and Leonard discover they are uncomfortably similar to Amy's parents; Koothrappali insults physicist Neil deGrasse Tyson and starts a Twitter war.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

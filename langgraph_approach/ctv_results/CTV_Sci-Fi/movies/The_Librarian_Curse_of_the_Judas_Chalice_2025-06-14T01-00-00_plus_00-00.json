@@ -1,0 +1,44 @@
+{
+  "Name": "The Librarian: Curse of the Judas Chalice",
+  "Title": "The Librarian: Curse of the Judas Chalice",
+  "Desc": "A librarian and a beautiful singer must prevent vampires from taking over the world.",
+  "StartTime": "2025-06-14T01:00:00+00:00",
+  "EndTime": "2025-06-14T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_8726ad25-de25-4753-9507-798651609a2e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Movie",
+  "SubType": "TV Movie",
+  "Genres": [
+    "adventure",
+    "fantasy"
+  ],
+  "LongDescription": "Unlikely adventurer Flynn Carsen sets out to protect a precious chalice from vampire Prince Vlad Dracul.",
+  "TopCast": [
+    "noah wyle",
+    "bob newhart",
+    "jane curtin"
+  ],
+  "Directors": [
+    "jonathan frakes"
+  ]
+}

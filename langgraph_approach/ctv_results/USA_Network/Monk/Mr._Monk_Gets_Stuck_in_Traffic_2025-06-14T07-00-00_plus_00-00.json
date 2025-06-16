@@ -1,0 +1,41 @@
+{
+  "Name": "Monk",
+  "Title": "Mr. Monk Gets Stuck in Traffic",
+  "Desc": "Monk discovers a traffic jam has been caused by the murder of an environmentalist.",
+  "StartTime": "2025-06-14T07:00:00+00:00",
+  "EndTime": "2025-06-14T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_071559d0-3ae2-46b1-9a58-778ed5d59718_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "comedy"
+  ],
+  "LongDescription": "Monk must deal with being in a traffic jam, caused by a car, containing a corpse, abandoned in the middle of the road.",
+  "TopCast": [
+    "tony shalhoub",
+    "ted levine",
+    "traylor howard"
+  ],
+  "Directors": [
+    "jerry levine"
+  ]
+}

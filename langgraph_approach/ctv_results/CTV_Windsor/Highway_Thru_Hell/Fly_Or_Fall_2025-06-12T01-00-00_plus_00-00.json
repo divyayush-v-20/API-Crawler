@@ -1,0 +1,37 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Fly Or Fall",
+  "Desc": "Greg takes charge on his biggest recovery; Gord hustles to open the Coq's steepest stretch.",
+  "StartTime": "2025-06-12T01:00:00+00:00",
+  "EndTime": "2025-06-12T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_68c11b7b-f377-490b-b402-fa72e932b52e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 10,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Team Reliable is in foggy chaos; Ken turns an off-road recovery into a joyride; Greg takes charge on his biggest recovery without the boss; Gord hustles to open the Coq's steepest stretch.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

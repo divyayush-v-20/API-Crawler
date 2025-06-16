@@ -1,0 +1,39 @@
+{
+  "Name": "Cold Water Cowboys",
+  "Title": "Passing the Torch",
+  "Desc": "Capelin seining season arrives, but finding the fish is easier said than done.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_ea66cf18-ce78-425c-89c7-b612a916c56b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Capelin seining season arrives, but finding the fish is easier said than done; Conway skippers the Sea Doo for the first time; Justin takes his crew into dangerous weather.",
+  "TopCast": [
+    "richard gillett",
+    "conway caines",
+    "rick caines"
+  ],
+  "Directors": []
+}

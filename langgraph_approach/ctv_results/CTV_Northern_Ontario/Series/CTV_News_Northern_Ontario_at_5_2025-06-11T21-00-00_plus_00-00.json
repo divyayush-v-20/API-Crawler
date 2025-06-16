@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Northern Ontario at 5",
+  "Title": "CTV News Northern Ontario at 5",
+  "Desc": "Breaking news and headlines, local weather forecasts, sports and traffic reports.",
+  "StartTime": "2025-06-11T21:00:00+00:00",
+  "EndTime": "2025-06-11T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_55ef6d10-aa82-4a37-a1a9-7fe43b017212_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news and headlines, local weather forecasts, sports and traffic reports.",
+  "TopCast": [],
+  "Directors": []
+}

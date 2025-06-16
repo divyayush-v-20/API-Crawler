@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Edmonton at 11:30",
+  "Title": "CTV News Edmonton at 11:30",
+  "Desc": "Edmonton's top stories.",
+  "StartTime": "2025-06-13T05:30:00+00:00",
+  "EndTime": "2025-06-13T06:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_003ef58c-7bf0-4f69-b47d-941d8b70524d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 35,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Edmonton's top stories.",
+  "TopCast": [],
+  "Directors": []
+}

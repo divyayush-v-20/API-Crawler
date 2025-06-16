@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "The Good Shepherd",
+  "Desc": "Hobo discovers the hiding place of priceless contraband.",
+  "StartTime": "2025-06-12T12:00:00+00:00",
+  "EndTime": "2025-06-12T12:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_12c0ec0c-7b26-45e2-b685-3dd3f0812488_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo discovers the hiding place of priceless contraband.",
+  "TopCast": [
+    "harvey atkin",
+    "alan fawcett",
+    "michael fletcher"
+  ],
+  "Directors": [
+    "mario azzopardi"
+  ]
+}

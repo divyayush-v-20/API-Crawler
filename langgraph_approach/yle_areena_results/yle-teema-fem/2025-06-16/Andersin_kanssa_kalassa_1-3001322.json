@@ -1,0 +1,75 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T10:51:17+03:00",
+  "program_data": {
+    "title": "Andersin kanssa kalassa",
+    "description": "1/12. Anders lähtee käymään Philipin luona, jolla onkin ikioma saari. Hän myös pilkkii nieriää Allyn ja Stoffen kanssa Ruotsin Lapissa. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-3001322"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.51",
+        "raw": "2025-06-16T10:51:17+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T11:20:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "28 min",
+        "raw": "PT1722S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-65246217"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

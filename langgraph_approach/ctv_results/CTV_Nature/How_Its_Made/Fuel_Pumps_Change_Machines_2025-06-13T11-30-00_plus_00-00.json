@@ -1,0 +1,44 @@
+{
+  "Name": "How It's Made",
+  "Title": "Fuel Pumps; Change Machines",
+  "Desc": "Automotive fuel pumps; cricket bats; change machines; ductile iron pipe.",
+  "StartTime": "2025-06-13T11:30:00+00:00",
+  "EndTime": "2025-06-13T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_2c0462b7-5924-49f2-ba29-5a1d2d8072bb_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 10,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Automotive fuel pumps; cricket bats; change machines; ductile iron pipe.",
+  "TopCast": [
+    "lynne adams",
+    "tony hirst"
+  ],
+  "Directors": [
+    "yves martin allard",
+    "jean-francois despres",
+    "gabriel hoss",
+    "gr\u00e9goire viau"
+  ]
+}

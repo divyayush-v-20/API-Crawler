@@ -1,0 +1,38 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Two guys are obviously Discovery Channel buffs who are not easily stumped by questions.",
+  "StartTime": "2025-06-15T15:30:00+00:00",
+  "EndTime": "2025-06-15T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_8f4e2849-1cdc-4405-bd71-b45c34409177_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "Two guys are obviously Discovery Channel buffs who are not easily stumped by Discovery Channel questions.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

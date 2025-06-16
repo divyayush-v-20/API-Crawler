@@ -1,0 +1,35 @@
+{
+  "Name": "WWE's Greatest Moments",
+  "Title": "DX",
+  "Desc": "Counting down the top moments of the controversial Degeneration X.",
+  "StartTime": "2025-06-14T23:30:00+00:00",
+  "EndTime": "2025-06-15T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_490fba7d-9f4b-422d-9543-6271450020cd_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "pro wrestling"
+  ],
+  "LongDescription": "Counting down the top moments of the controversial Degeneration X; they pushed the envelope with their sophomoric shenanigans and lewd humor, but in doing so, they revolutionized professional wrestling.",
+  "TopCast": [],
+  "Directors": []
+}

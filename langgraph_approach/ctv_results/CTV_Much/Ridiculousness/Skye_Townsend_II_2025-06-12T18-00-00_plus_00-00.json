@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Skye Townsend II",
+  "Desc": "Rob Dyrdek, Steelo Brim and Skye Townsend get heated about sports with \"Fantru.\"",
+  "StartTime": "2025-06-12T18:00:00+00:00",
+  "EndTime": "2025-06-12T18:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_77862c33-4911-44f5-9bec-e474084fe619_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 42,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob Dyrdek, Steelo Brim and Skye Townsend get down on the dance floor with \"Takedown Dancers,\" take some fatherhood tips from \"Inventive Dads,\" and get heated about sports with \"Fantru.\"",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

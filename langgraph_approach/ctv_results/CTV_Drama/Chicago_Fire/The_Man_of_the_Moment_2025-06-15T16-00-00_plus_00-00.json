@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "The Man of the Moment",
+  "Desc": "Firehouse 51 helps Herrmann put on a school fundraiser; Carver's troubled brother comes to town.",
+  "StartTime": "2025-06-15T16:00:00+00:00",
+  "EndTime": "2025-06-15T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_ca916bc0-67da-41bc-b69c-be2b37b88f47_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Firehouse 51 helps Herrmann put on a school fundraiser; Carver's troubled brother comes to town; a grateful citizen is determined to thank Brett and Severide for saving his life.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "matt earl beesley"
+  ]
+}

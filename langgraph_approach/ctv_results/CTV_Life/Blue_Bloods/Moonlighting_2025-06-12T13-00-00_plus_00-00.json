@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Moonlighting",
+  "Desc": "A dangerous ex-mobster helps Danny with cold cases in exchange for leniency for his son.",
+  "StartTime": "2025-06-12T13:00:00+00:00",
+  "EndTime": "2025-06-12T14:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_f639ed8f-4ea0-4400-8611-8f2071948e82_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "A dangerous ex-mobster helps Danny with cold cases in exchange for leniency for his son; Jamie searches for a secret about the Sanfino family.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "robert harmon"
+  ]
+}

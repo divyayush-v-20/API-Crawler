@@ -1,0 +1,79 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T18:15:00+03:00",
+  "program_data": {
+    "title": "Superpesis",
+    "description": "Perjantaipesis: Naisten superpesiksen ottelu Pesäkarhut - Manse PP, selostus Henri Pitkänen, Pori.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-73682836"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.15",
+        "raw": "2025-06-13T18:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T20:42:24+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 27 min",
+        "raw": "PT8844S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-65370990"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-73682836.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

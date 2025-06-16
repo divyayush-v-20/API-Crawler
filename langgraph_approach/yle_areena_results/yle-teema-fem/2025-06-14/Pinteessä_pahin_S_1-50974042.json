@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-14",
+  "broadcast_time": "2025-06-14T18:21:32+03:00",
+  "program_data": {
+    "title": "Pinteessä pahin (S)",
+    "description": "Kausi 1, osa 8/8. Deittisovellus. Aksel on tehnyt itse deittisovelluksen, ja Vibeke ja Håkon ovat luvanneet kokeilla sitä. Saga on kuitenkin huolissaan. Eivät kai vain vanhemmat löydä nyt uusia kumppaneita?",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-50974042"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "18.21",
+        "raw": "2025-06-14T18:21:32+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T18:41:48+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "20 min",
+        "raw": "PT1216S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-62376106"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-50974042.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

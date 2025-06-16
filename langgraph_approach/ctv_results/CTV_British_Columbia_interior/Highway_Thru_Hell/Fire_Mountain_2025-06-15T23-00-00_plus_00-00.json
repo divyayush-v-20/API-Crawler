@@ -1,0 +1,38 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Fire Mountain",
+  "Desc": "After surviving a near-fatal heart attack, Ken leads the Mission crew on its most daunting recovery.",
+  "StartTime": "2025-06-15T23:00:00+00:00",
+  "EndTime": "2025-06-16T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_f0f3858f-98a3-4cbb-b18b-324c1836b372_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "After surviving a near-fatal heart attack, Ken leads the Mission crew on its most daunting recovery in years; lodged in the trees, 200 feet below a mountain road, the damaged dump truck pushes Ken's team to the edge of disaster.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

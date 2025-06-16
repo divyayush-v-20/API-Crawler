@@ -1,0 +1,40 @@
+{
+  "Name": "Sullivan's Crossing",
+  "Title": "Blindsided",
+  "Desc": "Maggie thinks there may be a connection to a firefighter who collapsed during renovations.",
+  "StartTime": "2025-06-16T01:00:00+00:00",
+  "EndTime": "2025-06-16T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_f2557d63-1e4f-4f2d-9149-21d72b53838c_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama"
+  ],
+  "LongDescription": "As Glenn condition deteriorates, Maggie thinks there may be a connection to a firefighter who collapsed during renovations at the lodge.",
+  "TopCast": [
+    "morgan kohan",
+    "chad michael murray",
+    "scott patterson"
+  ],
+  "Directors": []
+}

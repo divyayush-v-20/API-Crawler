@@ -1,0 +1,42 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "A Romantic Getaway and a Germanic Meat-Based Diet",
+  "Desc": "Mandy surprises Georgie with a spa weekend; Sheldon prepares for his summer in Germany.",
+  "StartTime": "2025-06-12T17:00:00+00:00",
+  "EndTime": "2025-06-12T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_ecbea3c2-e555-426b-bd6a-eea522b62200_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "21",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom",
+    "comedy"
+  ],
+  "LongDescription": "Mandy surprises Georgie with a spa weekend; Sheldon prepares for his summer in Germany.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "michael judd"
+  ]
+}

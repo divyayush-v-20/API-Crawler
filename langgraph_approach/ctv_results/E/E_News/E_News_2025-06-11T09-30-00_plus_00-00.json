@@ -1,0 +1,39 @@
+{
+  "Name": "E! News",
+  "Title": "E! News",
+  "Desc": "The premiere late-night destination for entertainment and celebrity news.",
+  "StartTime": "2025-06-11T09:30:00+00:00",
+  "EndTime": "2025-06-11T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_8899605b-499f-4db9-ba35-b504aae49bde_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 25,
+  "EpisodeNumber": "88",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "news",
+    "entertainment"
+  ],
+  "LongDescription": "The late-night destination for movie, music, television and pop culture fans; breaking down the entertainment news of the day with in-studio celebrity interviews, the trends and scoops.",
+  "TopCast": [
+    "justin sylvester",
+    "keltie knight"
+  ],
+  "Directors": []
+}

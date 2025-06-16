@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Move It or Lose It",
+  "Desc": "Khlo\u00e9 struggles with moving; Bruce attempts to bond with Brody; Kourtney, Kim, and Khlo\u00e9 head to NY.",
+  "StartTime": "2025-06-16T07:30:00+00:00",
+  "EndTime": "2025-06-16T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_b45832f7-ab14-4345-9ebe-a821a27f8867_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 9,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Khlo\u00e9 struggles with moving out of her house; Bruce attempts to bond with Brody; Kourtney, Kim, and Khlo\u00e9 head to NY to check on DASH.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

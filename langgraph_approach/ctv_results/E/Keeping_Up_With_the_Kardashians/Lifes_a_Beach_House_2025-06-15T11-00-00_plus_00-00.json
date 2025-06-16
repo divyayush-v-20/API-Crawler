@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Life's a Beach (House)",
+  "Desc": "Kris disagrees with Kendall's plan to find a beach house for the summer; a putting green.",
+  "StartTime": "2025-06-15T11:00:00+00:00",
+  "EndTime": "2025-06-15T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_630a8868-7302-4e0d-b3ef-fcb154a79cc7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Kris disagrees with Kendall's plan to find a beach house for the summer; Brandon and Brody start work on a putting green; Khlo\u00e9 worries about a sexy photoshoot.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "khlo\u00e9 kardashian"
+  ],
+  "Directors": []
+}

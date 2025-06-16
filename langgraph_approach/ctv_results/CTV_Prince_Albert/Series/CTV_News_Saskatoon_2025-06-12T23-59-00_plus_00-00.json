@@ -1,0 +1,36 @@
+{
+  "Name": "CTV News Saskatoon",
+  "Title": "CTV News Saskatoon",
+  "Desc": "Breaking news, headlines and top stories from Saskatoon.",
+  "StartTime": "2025-06-12T23:59:00+00:00",
+  "EndTime": "2025-06-13T01:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_e1381473-fe14-4f84-8c46-dab605f561d2_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 91,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Breaking news, headlines and top stories from Saskatoon.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Aussie Gold Hunters",
+  "Title": "Aussie Gold Hunters",
+  "Desc": "History is made as one team unearths the biggest gold nugget ever found on television.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_f873ce8b-100a-4bbe-9ff7-629eee652fe3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary"
+  ],
+  "LongDescription": "History is made as one team breaks all records by unearthing the biggest gold nugget ever found on television; Neville and Mick have a run-in with a deadly snake.",
+  "TopCast": [
+    "jake larsen",
+    "matt dickson",
+    "christine clark"
+  ],
+  "Directors": [
+    "claire leeman"
+  ]
+}

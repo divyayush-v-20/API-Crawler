@@ -1,0 +1,45 @@
+{
+  "Name": "Criminal Minds",
+  "Title": "Corazon",
+  "Desc": "A series of bizarre, ritualistic murders brings the team to Miami.",
+  "StartTime": "2025-06-15T17:00:00+00:00",
+  "EndTime": "2025-06-15T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_6b4f0981-aad8-4777-9d1f-a2139627be21_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "A series of bizarre, ritualistic murders brings the team to Miami; Reid experiences hallucinations and blinding headaches.",
+  "TopCast": [
+    "joe mantegna",
+    "thomas gibson",
+    "paget brewster"
+  ],
+  "Directors": [
+    "john gallagher"
+  ]
+}

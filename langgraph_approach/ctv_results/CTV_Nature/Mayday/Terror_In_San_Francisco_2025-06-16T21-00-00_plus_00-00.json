@@ -1,0 +1,40 @@
+{
+  "Name": "Mayday",
+  "Title": "Terror In San Francisco",
+  "Desc": "Asiana Flight 214 slams into a seawall just short of the runway in San Francisco.",
+  "StartTime": "2025-06-16T21:00:00+00:00",
+  "EndTime": "2025-06-16T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_2aefffad-fd66-4701-85cd-88f73c4853a5_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 15,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation",
+    "history"
+  ],
+  "LongDescription": "Asiana Flight 214 slams into a seawall just short of the runway in San Francisco.",
+  "TopCast": [
+    "stephen bogaert",
+    "jonathan aris"
+  ],
+  "Directors": []
+}

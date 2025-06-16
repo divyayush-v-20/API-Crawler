@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Liar, Liar",
+  "Desc": "Hobo forces a young boy to face up to his crime.",
+  "StartTime": "2025-06-13T16:30:00+00:00",
+  "EndTime": "2025-06-13T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_be791da9-7ad1-4986-89f6-3391e8db0eee_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1985",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Hobo forces a young boy to face up to his crime.",
+  "TopCast": [
+    "linda goranson",
+    "colleen o'neill",
+    "ron singer"
+  ],
+  "Directors": [
+    "jack nixon-browne"
+  ]
+}

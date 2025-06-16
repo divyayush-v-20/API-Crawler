@@ -1,0 +1,43 @@
+{
+  "Name": "What Men Want",
+  "Title": "What Men Want",
+  "Desc": "A sports agent uses her ability to hear men's thoughts to turn the tables on her rude colleagues.",
+  "StartTime": "2025-06-14T19:30:00+00:00",
+  "EndTime": "2025-06-14T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_be25b5e4-edb3-4df5-85d1-0f4ee83156e7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 150,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "romantic comedy",
+    "fantasy"
+  ],
+  "LongDescription": "Passed up for a well-deserved promotion, sports agent Ali Davis wonders what else she needs to do to succeed in a man's world. Hoping to find answers from a psychic, Ali drinks a weird concoction that suddenly allows her to hear what men are thinking. Using her newfound ability, Ali starts to turn the tables on her obnoxious male colleagues while racing to sign the next basketball superstar.",
+  "TopCast": [
+    "taraji p. henson",
+    "tracy morgan",
+    "aldis hodge"
+  ],
+  "Directors": [
+    "adam shankman"
+  ]
+}

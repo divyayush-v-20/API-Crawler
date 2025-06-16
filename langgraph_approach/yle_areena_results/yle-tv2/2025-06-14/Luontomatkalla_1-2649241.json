@@ -1,0 +1,80 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-14",
+  "broadcast_time": "2025-06-14T10:30:00+03:00",
+  "program_data": {
+    "title": "Luontomatkalla",
+    "description": "Kausi 1, 3/8. Kaupungin betoniviidakossakin vilisee luonnonvaraisia eläimiä. Martin Emtenäs tutustuu New Yorkin uusimpiin asukkaisiin, kojootteihin. Yvette Hermundstad tapaa Tukholmassa lintumaailman jätehuoltajan, kanahaukan. Tuotanto: SVT, 2014. (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2649241"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.30",
+        "raw": "2025-06-14T10:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-14T11:25:02+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "55 min",
+        "raw": "PT3302S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3810112"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (ruotsi)",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

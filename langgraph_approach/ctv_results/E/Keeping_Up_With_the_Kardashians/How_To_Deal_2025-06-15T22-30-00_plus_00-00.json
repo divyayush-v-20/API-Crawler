@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "How To Deal",
+  "Desc": "Khlo\u00e9 is hurt by an interview; Kris gets Jonathan to sneak away from Kim; Scott takes up karate.",
+  "StartTime": "2025-06-15T22:30:00+00:00",
+  "EndTime": "2025-06-15T23:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_c7e5d78f-88ba-4dcc-b345-43d5e0dff882_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 9,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Khlo\u00e9 is hurt by an interview; Kris gets Jonathan to sneak away from Kim; Scott takes up karate.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

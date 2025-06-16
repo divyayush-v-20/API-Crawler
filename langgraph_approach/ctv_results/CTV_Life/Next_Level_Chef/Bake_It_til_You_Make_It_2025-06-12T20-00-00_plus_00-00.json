@@ -1,0 +1,42 @@
+{
+  "Name": "Next Level Chef",
+  "Title": "Bake It 'til You Make It",
+  "Desc": "The chefs are faced with their toughest challenge yet, baking a next-level dessert.",
+  "StartTime": "2025-06-12T20:00:00+00:00",
+  "EndTime": "2025-06-12T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_c0e89740-50d6-40e0-837f-70ae1f9b9841_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "cooking"
+  ],
+  "LongDescription": "The chefs are faced with their toughest challenge yet, baking a next-level dessert that looks as delicious as it tastes.",
+  "TopCast": [
+    "gordon ramsay",
+    "nyesha arrington",
+    "richard blais"
+  ],
+  "Directors": []
+}

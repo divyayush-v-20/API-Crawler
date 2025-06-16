@@ -1,0 +1,75 @@
+{
+  "channel_id": "yle-tv2",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T10:10:00+03:00",
+  "program_data": {
+    "title": "Riistametsällä",
+    "description": "Tavi. Jørgen ja Nikolaj ovat taas valmiina uusiin metsästysseikkailuihin. Marraskuinen sää ei haittaa, kun kaverukset lähtevät Pohjois-Jyllantiin tavijahtiin. Ellei pientä sorsalintua saada saaliiksi, syövät pojat lokkia.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-2183222"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "10.10",
+        "raw": "2025-06-16T10:10:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T10:50:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "40 min",
+        "raw": "PT2400S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3808725"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

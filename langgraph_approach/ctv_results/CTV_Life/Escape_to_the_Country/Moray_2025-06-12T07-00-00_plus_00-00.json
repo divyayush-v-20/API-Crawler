@@ -1,0 +1,39 @@
+{
+  "Name": "Escape to the Country",
+  "Title": "Moray",
+  "Desc": "A couple hope their \u00a3400,000 budget will buy them a slice of rural bliss in Scotland.",
+  "StartTime": "2025-06-12T07:00:00+00:00",
+  "EndTime": "2025-06-12T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_c76941fb-f5b3-4dbd-ae07-7edec4882afe_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 24,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "house/garden",
+    "home improvement",
+    "bus./financial"
+  ],
+  "LongDescription": "A couple hope their \u00a3400,000 budget will buy them a slice of rural bliss in Scotland.",
+  "TopCast": [
+    "jules hudson"
+  ],
+  "Directors": []
+}

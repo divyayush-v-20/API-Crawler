@@ -1,0 +1,42 @@
+{
+  "Name": "Chicago Fire",
+  "Title": "How Does It End?",
+  "Desc": "Truck and squad clash after rescuing a doomsday prepper; Herrmann struggles with Cindy's diagnosis.",
+  "StartTime": "2025-06-16T00:00:00+00:00",
+  "EndTime": "2025-06-16T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_39baaf38-f089-4d7a-b722-0d925af9786c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action"
+  ],
+  "LongDescription": "Truck and squad clash after a tense call rescuing a doomsday prepper; Herrmann struggles with Cindy's diagnosis; Violet gives Brett and Gallo dating advice.",
+  "TopCast": [
+    "jesse spencer",
+    "taylor kinney",
+    "eamonn walker"
+  ],
+  "Directors": [
+    "heather cappiello"
+  ]
+}

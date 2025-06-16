@@ -1,0 +1,40 @@
+{
+  "Name": "Mayday",
+  "Title": "Break Up Over Texas",
+  "Desc": "Continental Express Flight 2574 suffers wing damage and goes into a dive falling out of the sky.",
+  "StartTime": "2025-06-13T11:00:00+00:00",
+  "EndTime": "2025-06-13T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_3d8cd8e9-a2cd-40e1-8b8c-cfd40dfbdf6a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation",
+    "history"
+  ],
+  "LongDescription": "Near the end of its flight, Continental Express Flight 2574 suffers wing damage and goes into a dive falling out of the sky.",
+  "TopCast": [
+    "stephen bogaert",
+    "jonathan aris"
+  ],
+  "Directors": []
+}

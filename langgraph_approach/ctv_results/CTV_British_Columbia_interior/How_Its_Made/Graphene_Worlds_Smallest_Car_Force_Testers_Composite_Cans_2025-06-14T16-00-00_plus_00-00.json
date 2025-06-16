@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Graphene, World's Smallest Car; Force Testers; Composite Cans",
+  "Desc": "Graphene; world's smallest car; force testers; composite cans.",
+  "StartTime": "2025-06-14T16:00:00+00:00",
+  "EndTime": "2025-06-14T16:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_6c890d30-4f3a-4731-854a-7418c54c7fdc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 27,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Graphene; world's smallest car; force testers; composite cans.",
+  "TopCast": [
+    "lynne adams",
+    "brooks moore"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "Mary Makes It Easy",
+  "Title": "Pie in the Sky",
+  "Desc": "Mary provides a pastry crash course with three different types of dough.",
+  "StartTime": "2025-06-14T16:30:00+00:00",
+  "EndTime": "2025-06-14T17:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_64418e40-3572-4782-8057-0609124c9f2d_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "Pie making can be daunting, but Mary provides a pastry crash course with three different types of dough to make all of any pie in the sky dreams come true.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

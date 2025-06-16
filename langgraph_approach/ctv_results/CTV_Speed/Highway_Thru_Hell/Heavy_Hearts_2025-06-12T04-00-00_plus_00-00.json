@@ -1,0 +1,39 @@
+{
+  "Name": "Highway Thru Hell",
+  "Title": "Heavy Hearts",
+  "Desc": "Merv is dispatched in a 50-ton rotator to open the road after a collision in Fraser Valley.",
+  "StartTime": "2025-06-12T04:00:00+00:00",
+  "EndTime": "2025-06-12T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_d7e5dc5c-d62f-4def-8837-5ec7be958436_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Merv is dispatched in Aggressive Towing's 50-ton rotator to open the road after a collision in Fraser Valley; Jamie takes a classic wrecker on a 2,000-kilometre journey north; news about a key member of the Mission Towing family hits home.",
+  "TopCast": [
+    "dave pettitt",
+    "jamie davis",
+    "jason davis"
+  ],
+  "Directors": []
+}

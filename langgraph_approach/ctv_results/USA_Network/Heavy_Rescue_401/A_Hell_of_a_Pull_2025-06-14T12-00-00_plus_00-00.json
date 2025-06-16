@@ -1,0 +1,36 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "A Hell of a Pull",
+  "Desc": "A rolled-over load of scrap metal defies gravity and Kevin's patience; the Cornwall crew rides.",
+  "StartTime": "2025-06-14T12:00:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_2fe9a10a-5411-4e6a-8774-0b0bdbe7d62b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd unknown"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "A rolled-over load of scrap metal defies gravity and Kevin's patience; the Cornwall crew rides to the rescue of a fire truck; County Towing struggles to get a grip on an icy highway.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

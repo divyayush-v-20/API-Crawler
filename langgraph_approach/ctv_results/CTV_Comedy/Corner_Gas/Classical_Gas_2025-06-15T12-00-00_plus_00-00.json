@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Classical Gas",
+  "Desc": "Brent meets a new member of his extended family; Karen helps Wanda showcase her match skills.",
+  "StartTime": "2025-06-15T12:00:00+00:00",
+  "EndTime": "2025-06-15T12:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_38f06304-46fc-42fa-847d-7a123ad9813a_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent meets a new member of his extended family; Karen helps Wanda showcase her math skills; Ruby makes menu changes.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

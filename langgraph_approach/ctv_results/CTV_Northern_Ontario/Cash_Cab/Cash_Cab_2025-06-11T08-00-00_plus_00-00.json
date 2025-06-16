@@ -1,0 +1,37 @@
+{
+  "Name": "Cash Cab",
+  "Title": "Cash Cab",
+  "Desc": "Tim and Andrea feel it's their destiny that they managed to hail the Cash Cab.",
+  "StartTime": "2025-06-11T08:00:00+00:00",
+  "EndTime": "2025-06-11T08:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_b1ab7e35-2ddd-4589-9c1a-9543743ac871_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "After an amusing entrance, Tim and Andrea feel it's their destiny that they managed to hail the Cash Cab.",
+  "TopCast": [
+    "adam growe"
+  ],
+  "Directors": []
+}

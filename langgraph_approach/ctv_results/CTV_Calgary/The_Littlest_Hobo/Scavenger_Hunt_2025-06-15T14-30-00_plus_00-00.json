@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "Scavenger Hunt",
+  "Desc": "Fraternity brothers make Hobo a much sought-after item in their scavenger hunt.",
+  "StartTime": "2025-06-15T14:30:00+00:00",
+  "EndTime": "2025-06-15T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_696ae3f3-52d6-4499-a8d2-489c17b89f9f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1983",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Fraternity brothers make Hobo a much sought-after item in their scavenger hunt.",
+  "TopCast": [
+    "roger dunn",
+    "jesse collins",
+    "harvey atkin"
+  ],
+  "Directors": [
+    "mario azzopardi"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-11",
+  "broadcast_time": "2025-06-11T17:25:00+03:00",
+  "program_data": {
+    "title": "YLE FEM",
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.25",
+        "raw": "2025-06-11T17:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-11T17:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

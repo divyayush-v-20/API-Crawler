@@ -1,0 +1,38 @@
+{
+  "Name": "Megaspeed",
+  "Title": "Baja 1000",
+  "Desc": "Bryce Menzies attempts to win the one off-road event that has always eluded him, the Baja 1000.",
+  "StartTime": "2025-06-14T08:00:00+00:00",
+  "EndTime": "2025-06-14T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_f3f296cf-b226-43ce-b184-339b219513f3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "auto"
+  ],
+  "LongDescription": "Bryce Menzies attempts to win the one off-road event that has always eluded him, the Baja 1000; Barefoot Bobby Williams is out to capture the crown at the annual Swamp Buggy Championship.",
+  "TopCast": [
+    "steve anthony"
+  ],
+  "Directors": []
+}

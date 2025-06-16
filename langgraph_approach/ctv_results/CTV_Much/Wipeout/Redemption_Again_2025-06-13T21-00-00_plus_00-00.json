@@ -1,0 +1,43 @@
+{
+  "Name": "Wipeout",
+  "Title": "Redemption Again",
+  "Desc": "Following the three rounds and three-stage obstacle course, designed to wear out the competitors.",
+  "StartTime": "2025-06-13T21:00:00+00:00",
+  "EndTime": "2025-06-13T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_0e25241b-5c22-4e04-bc0d-574fc0fc7447_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show",
+    "reality",
+    "action"
+  ],
+  "LongDescription": "Following the three rounds and three-stage obstacle course, consisting of multiple strategy and decision points designed to further challenge and wear out the stamina of the competitors.",
+  "TopCast": [
+    "john cena",
+    "nicole byer",
+    "camille kostek"
+  ],
+  "Directors": []
+}

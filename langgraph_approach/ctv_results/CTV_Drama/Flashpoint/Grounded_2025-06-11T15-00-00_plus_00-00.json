@@ -1,0 +1,41 @@
+{
+  "Name": "Flashpoint",
+  "Title": "Grounded",
+  "Desc": "Hijackers commandeer a passenger jet to bargain for a prisoners release.",
+  "StartTime": "2025-06-11T15:00:00+00:00",
+  "EndTime": "2025-06-11T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_6ec0f461-5018-45db-8ed2-dcf85442d71a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "Hijackers commandeer a passenger jet to bargain for a prisoners release.",
+  "TopCast": [
+    "enrico colantoni",
+    "hugh dillon",
+    "amy jo johnson"
+  ],
+  "Directors": []
+}

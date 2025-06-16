@@ -1,0 +1,36 @@
+{
+  "Name": "Wardens of the North",
+  "Title": "The Snow Tells a Story",
+  "Desc": "Officers analyze a successful kill, tracking blood trails in the snow for potential violations.",
+  "StartTime": "2025-06-16T07:00:00+00:00",
+  "EndTime": "2025-06-16T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_11714226-624f-4615-9c69-79d1c8242ae9_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors"
+  ],
+  "LongDescription": "During the second elk hunting season, all harvested elk go to check stations, where conservation officers investigate kill sites; in District 3, officers analyze a successful kill, tracking blood trails in the snow for potential violations.",
+  "TopCast": [],
+  "Directors": []
+}

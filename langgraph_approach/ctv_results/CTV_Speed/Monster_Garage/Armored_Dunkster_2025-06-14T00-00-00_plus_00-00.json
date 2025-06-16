@@ -1,0 +1,38 @@
+{
+  "Name": "Monster Garage",
+  "Title": "Armored Dunkster",
+  "Desc": "Jesse and his team attempt to turn an armored truck into a dunking tank.",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_fd11497e-957f-4eff-a54d-611ee701235f_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2005",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto"
+  ],
+  "LongDescription": "Jesse and his team attempt to turn a money hauling armored truck into a crowd pleasing mobile dunk tank, complete with hydraulic doors and a power seat-trigger mechanism.",
+  "TopCast": [
+    "jesse james"
+  ],
+  "Directors": []
+}

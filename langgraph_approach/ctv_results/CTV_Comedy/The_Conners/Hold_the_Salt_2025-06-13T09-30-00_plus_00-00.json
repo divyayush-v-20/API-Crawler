@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Hold the Salt",
+  "Desc": "Mark and Mary write up their Christmas wish lists; Darlene receives advice from an unlikely source.",
+  "StartTime": "2025-06-13T09:30:00+00:00",
+  "EndTime": "2025-06-13T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_8ebb8087-69c8-44bf-9979-e91120d60b99_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Dan questions Peter's motives when he learns about the pricey Christmas gift Jackie purchased for her new, unemployed beau; Mark and Mary write up their Christmas wish lists; Darlene receives advice from an unlikely source.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "kimberly mccullough"
+  ]
+}

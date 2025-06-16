@@ -1,0 +1,42 @@
+{
+  "Name": "Easy A",
+  "Title": "Easy A",
+  "Desc": "The escape of a little white lie teaches a clean-cut teen to use the rumor mill for personal gain.",
+  "StartTime": "2025-06-14T22:00:00+00:00",
+  "EndTime": "2025-06-15T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_23a541c3-161e-4c76-b503-2a623b40e339_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy"
+  ],
+  "LongDescription": "Prompted by her popular best friend to spill details of her boring weekend, Olive, a clean-cut teen, decides to spice things up by telling a little lie about losing her virginity; when the high-school busybody overhears the conversation and spreads it all over campus, Olive is suddenly notorious but for the wrong reasons.",
+  "TopCast": [
+    "emma stone",
+    "penn badgley",
+    "amanda bynes"
+  ],
+  "Directors": [
+    "will gluck"
+  ]
+}

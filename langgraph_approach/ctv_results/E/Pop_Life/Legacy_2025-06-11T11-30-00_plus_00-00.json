@@ -1,0 +1,38 @@
+{
+  "Name": "Pop Life",
+  "Title": "Legacy",
+  "Desc": "Richard speaks with winemaker Alessia Antinori about legacy.",
+  "StartTime": "2025-06-11T11:30:00+00:00",
+  "EndTime": "2025-06-11T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_613bcd99-3195-45d8-baff-74be8ddb4d73_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "interview",
+    "entertainment",
+    "talk"
+  ],
+  "LongDescription": "Richard speaks with winemaker Alessia Antinori about legacy.",
+  "TopCast": [
+    "richard crouse"
+  ],
+  "Directors": []
+}

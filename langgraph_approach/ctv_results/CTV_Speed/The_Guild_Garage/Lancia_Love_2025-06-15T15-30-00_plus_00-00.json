@@ -1,0 +1,39 @@
+{
+  "Name": "The Guild Garage",
+  "Title": "Lancia Love",
+  "Desc": "David is shocked when a guy wants to pass over a 1966 Lancia Fulvia Zagato Sport for almost $0.",
+  "StartTime": "2025-06-15T15:30:00+00:00",
+  "EndTime": "2025-06-15T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_f7d21269-56bf-40f3-aa5a-a418d18c5a27_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "documentary"
+  ],
+  "LongDescription": "David is shocked when a guy shows up with his 1966 Lancia Fulvia Zagato Sport, and wants to pass over the stewardship to David for almost $0; Janice starts repairs on a 1940s Indian Motorcycle.",
+  "TopCast": [
+    "david grainger"
+  ],
+  "Directors": []
+}

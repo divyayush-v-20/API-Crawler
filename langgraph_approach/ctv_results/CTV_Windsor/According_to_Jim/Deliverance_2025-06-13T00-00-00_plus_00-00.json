@@ -1,0 +1,41 @@
+{
+  "Name": "According to Jim",
+  "Title": "Deliverance",
+  "Desc": "While Dana is in premature labor, Ryan is in a war-torn country, delivering a celebrity's baby.",
+  "StartTime": "2025-06-13T00:00:00+00:00",
+  "EndTime": "2025-06-13T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_ac3490b3-e77d-4828-bc10-fb18a6a9679b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "While Dana is in premature labor, Ryan is in a war-torn country, delivering a celebrity's baby.",
+  "TopCast": [
+    "jim belushi",
+    "courtney thorne-smith",
+    "kimberly williams-paisley"
+  ],
+  "Directors": [
+    "james widdoes"
+  ]
+}

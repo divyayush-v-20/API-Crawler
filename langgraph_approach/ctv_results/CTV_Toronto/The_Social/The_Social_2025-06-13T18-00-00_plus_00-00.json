@@ -1,0 +1,41 @@
+{
+  "Name": "The Social",
+  "Title": "The Social",
+  "Desc": "Actors Eric McCormack and Paula Brancati (\"Hell Motel\").",
+  "StartTime": "2025-06-13T18:00:00+00:00",
+  "EndTime": "2025-06-13T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_632dc465-a848-44c5-8d8e-b86405bb7456_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 12,
+  "EpisodeNumber": "174",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk"
+  ],
+  "LongDescription": "Actors Eric McCormack and Paula Brancati (\"Hell Motel\").",
+  "TopCast": [
+    "melissa grelo",
+    "cynthia loyst",
+    "andrea bain"
+  ],
+  "Directors": []
+}

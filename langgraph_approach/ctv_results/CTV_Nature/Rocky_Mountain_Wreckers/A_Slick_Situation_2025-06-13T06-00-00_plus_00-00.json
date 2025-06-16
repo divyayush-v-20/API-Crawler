@@ -1,0 +1,35 @@
+{
+  "Name": "Rocky Mountain Wreckers",
+  "Title": "A Slick Situation",
+  "Desc": "Heavy snowfall forces Charlie out of his comfort zone and into a much bigger truck than normal.",
+  "StartTime": "2025-06-13T06:00:00+00:00",
+  "EndTime": "2025-06-13T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_5a36daed-7b46-485f-8db7-587d2376fe7b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary"
+  ],
+  "LongDescription": "Intense winds and icy roads send a semi to the edge of a sheer drop; heavy snowfall forces Charlie out of his comfort zone and into a much bigger truck than normal; Bad Grandpa schools the boss in the art of recovery.",
+  "TopCast": [],
+  "Directors": []
+}

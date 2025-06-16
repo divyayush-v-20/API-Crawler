@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "The Uniform",
+  "Desc": "A murder witness claims a uniformed officer fled after shots were fired.",
+  "StartTime": "2025-06-14T04:30:00+00:00",
+  "EndTime": "2025-06-14T05:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_392a322f-f976-470f-81de-097085b4544a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "Jackie and Danny investigate a murder at a diner, where a witness claims a uniformed officer fled after shots were fired.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "alex zakrzewski"
+  ]
+}

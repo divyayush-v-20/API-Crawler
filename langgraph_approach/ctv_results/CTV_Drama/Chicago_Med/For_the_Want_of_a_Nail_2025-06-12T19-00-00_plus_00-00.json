@@ -1,0 +1,43 @@
+{
+  "Name": "Chicago Med",
+  "Title": "For the Want of a Nail",
+  "Desc": "As Manning deals with her own trauma, she steps in to help a mother in need; Dean stirs the pot.",
+  "StartTime": "2025-06-12T19:00:00+00:00",
+  "EndTime": "2025-06-12T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_3dd749da-7dd6-4217-95f3-0e46a2d6e280_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "medical",
+    "action"
+  ],
+  "LongDescription": "As Manning deals with her own trauma, she steps in to help a mother in need; Dean continues to stir the pot with more than one doctor; a patient comes to Med needing immediate treatment but doesn't want it from them.",
+  "TopCast": [
+    "oliver platt",
+    "s. epatha merkerson",
+    "nick gehlfuss"
+  ],
+  "Directors": [
+    "sj main mu\u00f1oz"
+  ]
+}

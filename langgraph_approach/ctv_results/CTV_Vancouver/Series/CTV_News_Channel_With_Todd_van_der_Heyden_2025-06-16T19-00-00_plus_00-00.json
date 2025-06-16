@@ -1,0 +1,37 @@
+{
+  "Name": "CTV News Channel With Todd van der Heyden",
+  "Title": "CTV News Channel With Todd van der Heyden",
+  "Desc": "Featuring host Todd van der Heyden.",
+  "StartTime": "2025-06-16T19:00:00+00:00",
+  "EndTime": "2025-06-16T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_7d97a055-0ceb-4ab9-930c-1223230293e6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Featuring host Todd van der Heyden.",
+  "TopCast": [
+    "todd van der heyden"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Accident, Suicide, or Murder",
+  "Title": "Blown Away",
+  "Desc": "A successful family man is discovered in the rubble of a deadly explosion.",
+  "StartTime": "2025-06-16T04:00:00+00:00",
+  "EndTime": "2025-06-16T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_7416490e-768e-4bd7-92ff-b4a216303afd_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime",
+    "mystery"
+  ],
+  "LongDescription": "When a successful family man is discovered in the rubble of a deadly explosion, investigators desperately try to determine if it was a planned hit, an attempted terrorist attack, or something else...",
+  "TopCast": [],
+  "Directors": [
+    "dominik rausch"
+  ]
+}

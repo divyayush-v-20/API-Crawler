@@ -1,0 +1,42 @@
+{
+  "Name": "MasterChef Canada",
+  "Title": "Walking on Eggshells",
+  "Desc": "Three eliminated cooks try to get back in the competition; one cook is sent home.",
+  "StartTime": "2025-06-11T10:00:00+00:00",
+  "EndTime": "2025-06-11T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_e4d7db17-d7de-448d-a05a-1510988dc533_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking",
+    "competition reality"
+  ],
+  "LongDescription": "Three eliminated cooks try to get back in the competition; one cook is sent home.",
+  "TopCast": [
+    "michael bonacini",
+    "alvin leung",
+    "claudio aprile"
+  ],
+  "Directors": []
+}

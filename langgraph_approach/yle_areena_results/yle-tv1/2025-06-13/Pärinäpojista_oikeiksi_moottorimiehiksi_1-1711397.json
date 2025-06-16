@@ -1,0 +1,83 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T14:27:00+03:00",
+  "program_data": {
+    "title": "Pärinäpojista oikeiksi moottorimiehiksi",
+    "description": "Tapaturmantorjuntayhdistyksen liikennejaoston filmissä opetetaan turvallista moottoripyöräilyä hurjasteleville koviksille. (1953)(U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-1711397"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "14.27",
+        "raw": "2025-06-13T14:27:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T14:37:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "10 min",
+        "raw": "PT600S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "aspectRatio",
+        "formatted": "kuvasuhde 4:3",
+        "raw": "4:3"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "SD",
+        "raw": "SD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-1711397.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Shoresy",
+  "Title": "Skill vs Will",
+  "Desc": "The Bulldogs prepare to play the new American team.",
+  "StartTime": "2025-06-17T02:30:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_13_1c678ad2-cb01-4c63-ba68-d1bba72bf402_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "The Bulldogs prepare to play the new American team.",
+  "TopCast": [
+    "jared keeso",
+    "tasya teles",
+    "harlan blayne kytwayhat"
+  ],
+  "Directors": [
+    "jacob tierney"
+  ]
+}

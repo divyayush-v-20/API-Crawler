@@ -1,0 +1,42 @@
+{
+  "Name": "MasterChef",
+  "Title": "Dinner Party Dish",
+  "Desc": "The top 12 duos must impress the judges with their finest dinner party dish.",
+  "StartTime": "2025-06-12T01:00:00+00:00",
+  "EndTime": "2025-06-12T02:02:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_0d7d0884-4cdf-4944-8127-4ef3aa126c07_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 62,
+  "SeasonNo": 24,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking",
+    "competition reality"
+  ],
+  "LongDescription": "The top 12 duos must impress the judges with their finest dinner party dish.",
+  "TopCast": [
+    "gordon ramsay",
+    "joe bastianich",
+    "tiffany derry"
+  ],
+  "Directors": []
+}

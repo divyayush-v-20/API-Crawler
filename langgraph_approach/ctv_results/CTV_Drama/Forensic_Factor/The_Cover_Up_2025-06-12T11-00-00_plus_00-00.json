@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "The Cover Up",
+  "Desc": "Killers attempt to use the elements to cover their crimes.",
+  "StartTime": "2025-06-12T11:00:00+00:00",
+  "EndTime": "2025-06-12T12:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_7feff385-2335-46e7-862a-b074dbe2ccdf_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2003",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "Killers attempt to use the elements to cover their crimes.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

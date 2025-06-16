@@ -1,0 +1,43 @@
+{
+  "Name": "Resident Alien",
+  "Title": "The Lonely Man",
+  "Desc": "Harry and Asta work together to try and get something Harry desperately needs.",
+  "StartTime": "2025-06-14T03:00:00+00:00",
+  "EndTime": "2025-06-14T04:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_b4d85194-1d19-47e4-84bd-dd0763a74c13_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "comedy drama"
+  ],
+  "LongDescription": "Harry and Asta work together to try and get something Harry desperately needs.",
+  "TopCast": [
+    "alan tudyk",
+    "sara tomko",
+    "corey reynolds"
+  ],
+  "Directors": [
+    "alan tudyk"
+  ]
+}

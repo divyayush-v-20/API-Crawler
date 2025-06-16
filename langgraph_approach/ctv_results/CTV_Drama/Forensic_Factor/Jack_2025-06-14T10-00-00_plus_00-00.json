@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "Jack",
+  "Desc": "A killer who leaves messages signed \"Jack\" terrorizes East Point, Ga.",
+  "StartTime": "2025-06-14T10:00:00+00:00",
+  "EndTime": "2025-06-14T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_16be61fc-72f1-4eab-b3a4-de47fd090b19_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 7,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "A killer who leaves messages signed \"Jack\" terrorizes East Point, Ga.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

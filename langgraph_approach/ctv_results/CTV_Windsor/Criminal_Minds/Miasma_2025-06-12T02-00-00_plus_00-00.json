@@ -1,0 +1,44 @@
+{
+  "Name": "Criminal Minds",
+  "Title": "Miasma",
+  "Desc": "The BAU is called when a mass grave inside a vandalized above-ground crypt is discovered.",
+  "StartTime": "2025-06-12T02:00:00+00:00",
+  "EndTime": "2025-06-12T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_c7d5a3db-0e21-4403-a020-8bb97dec92eb_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 13,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "The BAU is called when the New Orleans Police Department discovers a mass grave inside a vandalized above-ground crypt in a local cemetery.",
+  "TopCast": [
+    "joe mantegna",
+    "paget brewster",
+    "matthew gray gubler"
+  ],
+  "Directors": [
+    "leon ichaso"
+  ]
+}

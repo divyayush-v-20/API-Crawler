@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Planes",
+  "Title": "C2A Greyhound",
+  "Desc": "The C-2 Greyhound has a unique design; it provides critical logistics support for the U.S. Navy.",
+  "StartTime": "2025-06-15T05:00:00+00:00",
+  "EndTime": "2025-06-15T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_be2a70c7-82e1-45e3-bd13-1db7e2b55fbc_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "aviation"
+  ],
+  "LongDescription": "The C-2 Greyhound's design allows it a flexibility and access that few other fixed wing craft possess; for the U.S. Navy, it provides critical logistics support, flying 1,000 miles in a matter of hours and transporting high-priority cargo.",
+  "TopCast": [
+    "mike goral"
+  ],
+  "Directors": []
+}

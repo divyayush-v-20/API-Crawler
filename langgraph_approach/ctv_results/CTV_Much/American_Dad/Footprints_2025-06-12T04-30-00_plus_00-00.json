@@ -1,0 +1,42 @@
+{
+  "Name": "American Dad!",
+  "Title": "Footprints",
+  "Desc": "Stan and Roger go on a mission; Jeff finally deals with the reality of losing his signature hat.",
+  "StartTime": "2025-06-12T04:30:00+00:00",
+  "EndTime": "2025-06-12T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_4c18d72f-d4f0-4ea1-b759-680b4edd5ab6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 18,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Stan and Roger go on a mission to leave their mark on humanity; Jeff finally deals with the reality of losing his signature hat.",
+  "TopCast": [
+    "seth macfarlane",
+    "wendy schaal",
+    "rachael macfarlane"
+  ],
+  "Directors": []
+}

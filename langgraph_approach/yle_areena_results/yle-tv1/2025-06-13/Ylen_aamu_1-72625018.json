@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T07:25:00+03:00",
+  "program_data": {
+    "title": "Ylen aamu",
+    "description": "7.39 Yltyvätkö USA:n protestit? 7.45 Israelin ja Iranin kiristyneet välit 8.10 Vatsatautitapauksia kansallispuistoissa 8.15 Perussuomalaiset kokoontuvat puoluekokoukseen 8.40 Jälkiviisaat 9.12 Kesäkasvo: Arttu Wiskari",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72625018"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "7.25",
+        "raw": "2025-06-13T07:25:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T09:30:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "2 h 5 min",
+        "raw": "PT7500S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3251484"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72625018.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

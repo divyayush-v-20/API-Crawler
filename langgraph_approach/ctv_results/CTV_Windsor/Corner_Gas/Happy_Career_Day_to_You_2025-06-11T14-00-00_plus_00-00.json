@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Happy Career Day to You",
+  "Desc": "Emma causes tension at the elementary school after a teacher leaves her in charge.",
+  "StartTime": "2025-06-11T14:00:00+00:00",
+  "EndTime": "2025-06-11T14:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_e1579949-dcf6-4b38-9866-2511d2145807_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Emma causes tension at the elementary school after a teacher leaves her in charge.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

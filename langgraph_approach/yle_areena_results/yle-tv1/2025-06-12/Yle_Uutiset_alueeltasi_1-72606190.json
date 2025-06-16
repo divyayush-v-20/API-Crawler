@@ -1,0 +1,60 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-12",
+  "broadcast_time": "2025-06-12T17:06:15+03:00",
+  "program_data": {
+    "title": "Yle Uutiset alueeltasi",
+    "description": "Uutisia alueeltasi",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72606190"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "17.06",
+        "raw": "2025-06-12T17:06:15+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-12T17:10:11+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 min",
+        "raw": "PT235S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "norights"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-3831914"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

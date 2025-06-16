@@ -1,0 +1,35 @@
+{
+  "Name": "2026 FIFA World Cup: 1 Year to Go Special",
+  "Title": "2026 FIFA World Cup: 1 Year to Go Special",
+  "Desc": "",
+  "StartTime": "2025-06-11T22:00:00+00:00",
+  "EndTime": "2025-06-11T22:59:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_e16f30ed-c069-4991-b9db-bc5a2ddcb5d7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 59,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Show",
+  "SubType": "Special",
+  "Genres": [
+    "special",
+    "soccer"
+  ],
+  "LongDescription": null,
+  "TopCast": [],
+  "Directors": []
+}

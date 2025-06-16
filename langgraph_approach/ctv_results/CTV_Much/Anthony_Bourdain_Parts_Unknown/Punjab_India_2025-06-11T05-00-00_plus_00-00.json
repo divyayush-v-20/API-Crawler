@@ -1,0 +1,42 @@
+{
+  "Name": "Anthony Bourdain: Parts Unknown",
+  "Title": "Punjab, India",
+  "Desc": "Anthony samples food at roadside restaurants and connects with local residents in Amritsar, India.",
+  "StartTime": "2025-06-11T05:00:00+00:00",
+  "EndTime": "2025-06-11T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_4b6d6f2f-1875-4e63-85c9-5e3f0dd15432_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel",
+    "cooking"
+  ],
+  "LongDescription": "Anthony dives into the ever-changing state of Punjab with a trip to Amritsar, sampling cuisine at a roadside restaurants, a Sikh celebration and a free community vegetarian restaurant.",
+  "TopCast": [
+    "anthony bourdain"
+  ],
+  "Directors": [
+    "tom vitale"
+  ]
+}

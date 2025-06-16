@@ -1,0 +1,43 @@
+{
+  "Name": "How I Met Your Mother",
+  "Title": "Say Cheese",
+  "Desc": "Lily is upset when Ted brings a date to her birthday dinner celebration.",
+  "StartTime": "2025-06-14T21:00:00+00:00",
+  "EndTime": "2025-06-14T21:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_a3bcaf78-2ae4-4721-82ab-acffeeb57b15_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Lily is upset when Ted brings a date to her birthday dinner celebration.",
+  "TopCast": [
+    "josh radnor",
+    "jason segel",
+    "alyson hannigan"
+  ],
+  "Directors": [
+    "pamela fryman"
+  ]
+}

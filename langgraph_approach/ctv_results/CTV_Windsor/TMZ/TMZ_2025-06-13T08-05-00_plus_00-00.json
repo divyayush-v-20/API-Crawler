@@ -1,0 +1,38 @@
+{
+  "Name": "TMZ",
+  "Title": "TMZ",
+  "Desc": "The very latest celebrity news.",
+  "StartTime": "2025-06-13T08:05:00+00:00",
+  "EndTime": "2025-06-13T08:35:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_a36303ad-8a35-492b-b495-dfa3278c9da6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 18,
+  "EpisodeNumber": "244",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "newsmagazine",
+    "entertainment"
+  ],
+  "LongDescription": "The very latest celebrity news.",
+  "TopCast": [
+    "harvey levin"
+  ],
+  "Directors": []
+}

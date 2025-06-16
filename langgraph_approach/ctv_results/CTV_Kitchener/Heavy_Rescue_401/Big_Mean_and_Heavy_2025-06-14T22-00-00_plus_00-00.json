@@ -1,0 +1,36 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "Big, Mean and Heavy",
+  "Desc": "A load of lumber spills across the 401 in the heart of Toronto, John Allen heads into the storm.",
+  "StartTime": "2025-06-14T22:00:00+00:00",
+  "EndTime": "2025-06-14T23:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_ec1a8fdf-123d-4e96-ae0f-aca0d531bb8c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "A load of lumber spills across the 401 in the heart of Toronto, John Allen heads into the first storm of the season; after an injury on the job, Gary must lean on Collin for a heavy yet delicate recovery; Sonny makes a major change in his life.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

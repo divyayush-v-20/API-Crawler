@@ -1,0 +1,41 @@
+{
+  "Name": "Flashpoint",
+  "Title": "Keep the Peace",
+  "Desc": "Team One attempts to contain a radioactive threat with the help of firefighters, paramedics.",
+  "StartTime": "2025-06-12T09:05:00+00:00",
+  "EndTime": "2025-06-12T10:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_575a20ec-8e4a-4c9f-a836-533ad338a519_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 5,
+  "EpisodeNumber": "13",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "thriller",
+    "action"
+  ],
+  "LongDescription": "Team One attempts to contain a radioactive threat with the help of firefighters, paramedics and the military.",
+  "TopCast": [
+    "enrico colantoni",
+    "hugh dillon",
+    "amy jo johnson"
+  ],
+  "Directors": []
+}

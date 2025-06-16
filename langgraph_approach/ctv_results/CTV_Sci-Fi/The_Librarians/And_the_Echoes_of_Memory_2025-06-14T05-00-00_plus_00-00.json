@@ -1,0 +1,43 @@
+{
+  "Name": "The Librarians",
+  "Title": "And the Echoes of Memory",
+  "Desc": "The world is morphed into an unrecognizable place where the Library never existed.",
+  "StartTime": "2025-06-14T05:00:00+00:00",
+  "EndTime": "2025-06-14T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_b5790b06-d72a-49f6-b80d-c522907ec17d_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure"
+  ],
+  "LongDescription": "The world is morphed into an unrecognizable place where the Library never existed; Baird brings the Librarians together in an attempt to prevent the bleak, new world from becoming the new reality.",
+  "TopCast": [
+    "rebecca romijn",
+    "christian kane",
+    "lindy booth"
+  ],
+  "Directors": [
+    "dean devlin"
+  ]
+}

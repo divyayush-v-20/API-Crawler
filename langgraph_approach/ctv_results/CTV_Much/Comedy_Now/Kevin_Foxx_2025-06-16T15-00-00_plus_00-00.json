@@ -1,0 +1,41 @@
+{
+  "Name": "Comedy Now!",
+  "Title": "Kevin Foxx",
+  "Desc": "Comic Kevin Foxx performs.",
+  "StartTime": "2025-06-16T15:00:00+00:00",
+  "EndTime": "2025-06-16T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_09e089e8-73bf-4ab7-b29d-ec09fc7e526b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "variety",
+    "standup",
+    "comedy"
+  ],
+  "LongDescription": "Comic Kevin Foxx performs.",
+  "TopCast": [
+    "james cunningham"
+  ],
+  "Directors": []
+}

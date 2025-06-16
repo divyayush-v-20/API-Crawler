@@ -1,0 +1,40 @@
+{
+  "Name": "How It's Made",
+  "Title": "Mini GP Motorcycles; Fig Cookies; Tool Boxes",
+  "Desc": "Mini GP Motorcycle; fig cookies; tool boxes; pipe bends.",
+  "StartTime": "2025-06-14T01:30:00+00:00",
+  "EndTime": "2025-06-14T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_3089318c-2cb4-4b41-a263-06603ac0ecc2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 14,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2009",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Mini GP Motorcycle; fig cookies; tool boxes; pipe bends.",
+  "TopCast": [
+    "lynne adams",
+    "brooks moore"
+  ],
+  "Directors": [
+    "fran\u00e7ois sen\u00e9cal-tremblay"
+  ]
+}

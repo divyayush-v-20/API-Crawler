@@ -1,0 +1,38 @@
+{
+  "Name": "The Good Stuff With Mary Berg",
+  "Title": "The Good Stuff With Mary Berg",
+  "Desc": "Mary's pesto pizza; pack your carry-on like a pro; bedroom makeover from cluttered to relaxing.",
+  "StartTime": "2025-06-12T15:00:00+00:00",
+  "EndTime": "2025-06-12T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_6a499d5d-00cf-414f-9c15-abbed900a300_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "152",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "talk",
+    "entertainment"
+  ],
+  "LongDescription": "Mary's pesto pizza; pack your carry-on like a pro; bedroom makeover from cluttered to relaxing sanctuary; discover your organizing style.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

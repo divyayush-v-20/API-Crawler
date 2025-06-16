@@ -1,0 +1,42 @@
+{
+  "Name": "The Littlest Hobo",
+  "Title": "The Three Monkeys of Bah Roghar",
+  "Desc": "Valuable statues disappear from a hotel.",
+  "StartTime": "2025-06-13T09:30:00+00:00",
+  "EndTime": "2025-06-13T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_934d8a7d-8aa4-4773-9e1c-0e6f2f4bd947_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 6,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1984",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "animals"
+  ],
+  "LongDescription": "Valuable statues disappear from a hotel.",
+  "TopCast": [
+    "diana barrington",
+    "george buza",
+    "chas lawther"
+  ],
+  "Directors": [
+    "mario azzopardi"
+  ]
+}

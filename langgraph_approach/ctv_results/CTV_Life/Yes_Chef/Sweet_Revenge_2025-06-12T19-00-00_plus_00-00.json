@@ -1,0 +1,41 @@
+{
+  "Name": "Yes, Chef!",
+  "Title": "Sweet Revenge",
+  "Desc": "The chefs must come up with their best sweet dish to temper the visitors coming back for revenge.",
+  "StartTime": "2025-06-12T19:00:00+00:00",
+  "EndTime": "2025-06-12T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_554df6e2-543f-468e-a15a-3488381c63d8_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "competition reality",
+    "cooking"
+  ],
+  "LongDescription": "The chefs are forced to come up with their best sweet dish to help temper the visitors who are coming back and looking for revenge; Martha and Jos\u00e9 are judging blind; the chefs in the cook-off are fired up to stay in the competition.",
+  "TopCast": [
+    "jos\u00e9 andr\u00e9s",
+    "martha stewart"
+  ],
+  "Directors": []
+}

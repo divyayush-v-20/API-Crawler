@@ -1,0 +1,36 @@
+{
+  "Name": "If We Built It Today",
+  "Title": "Transcontinental Rail",
+  "Desc": "Cutting-edge engineering is behind high-tech railways to revolutionize travel across America.",
+  "StartTime": "2025-06-15T01:00:00+00:00",
+  "EndTime": "2025-06-15T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_1647211f-107d-45a0-988a-002544446680_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science"
+  ],
+  "LongDescription": "America's transcontinental railroad helped transform the United States into a global superpower; cutting-edge engineering is behind high-tech railways to once again revolutionize travel from sea to shining sea.",
+  "TopCast": [],
+  "Directors": []
+}

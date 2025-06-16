@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Parenthood",
+  "Desc": "A man's family is beaten and robbed in front of him; a college student is arrested at a rally.",
+  "StartTime": "2025-06-15T19:00:00+00:00",
+  "EndTime": "2025-06-15T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_10e127dd-68a0-4d93-8e1e-470c26b8d27f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "When a man's family is beaten and robbed in front of him, the Reagans debate how far they would go to protect the ones they love; Frank feels conflicted when a college student is arrested at a rally.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "john polson"
+  ]
+}

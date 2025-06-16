@@ -1,0 +1,35 @@
+{
+  "Name": "Formula 1 Racing",
+  "Title": "Canadian Grand Prix",
+  "Desc": "McLaren aim to keep up their dominant Formula One form for the Canadian Grand Prix.",
+  "StartTime": "2025-06-15T17:55:00+00:00",
+  "EndTime": "2025-06-15T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_8e404da8-4192-4735-8646-4947ee9570b8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 125,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "live",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Sports",
+  "SubType": "Sports event",
+  "Genres": [
+    "auto racing"
+  ],
+  "LongDescription": "McLaren aim to keep up their dominant Formula One form for the Canadian Grand Prix. Oscar Piastri and Lando Norris finished one-two in Spain. Max Verstappen moved within a single penalty point of a one-race ban for crashing into George Russell.",
+  "TopCast": [],
+  "Directors": []
+}

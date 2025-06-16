@@ -1,0 +1,41 @@
+{
+  "Name": "Ridiculousness",
+  "Title": "Sterling and Carly Aquilino LXXVII",
+  "Desc": "Heads together in head hammers; stepping outside for ice cold winter gymnastics; vomit fountains.",
+  "StartTime": "2025-06-11T07:00:00+00:00",
+  "EndTime": "2025-06-11T07:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_e31e8c1b-166e-4e04-ace0-d98d5d0eebda_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 38,
+  "EpisodeNumber": "35",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "comedy",
+    "entertainment"
+  ],
+  "LongDescription": "Rob Dyrdek, Steelo Brim, and Carly Aquilino put their heads together in head hammers; step outside for some ice cold winter gymnastics; throw it all up for vomit fountains.",
+  "TopCast": [
+    "rob dyrdek",
+    "sterling brim"
+  ],
+  "Directors": []
+}

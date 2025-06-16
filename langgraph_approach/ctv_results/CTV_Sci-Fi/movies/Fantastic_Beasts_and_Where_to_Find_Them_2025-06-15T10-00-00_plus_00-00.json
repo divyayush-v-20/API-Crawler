@@ -1,0 +1,44 @@
+{
+  "Name": "Fantastic Beasts and Where to Find Them",
+  "Title": "Fantastic Beasts and Where to Find Them",
+  "Desc": "Magizoologist Newt Scamander battles dark forces while tracking down magical creatures in 1926.",
+  "StartTime": "2025-06-15T10:00:00+00:00",
+  "EndTime": "2025-06-15T12:45:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_f6370a26-1964-4a1a-b74f-cc0775b45747_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 165,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "LongDescription": "The year is 1926, and Newt Scamander (Eddie Redmayne) has just completed a global excursion to find and document an extraordinary array of magical creatures. Arriving in New York for a brief stopover, he might have come and gone without incident, were it not for a No-Maj (American for Muggle) named Jacob, a misplaced magical case, and the escape of some of Newt's fantastic beasts, which could spell trouble for both the wizarding and No-Maj worlds.",
+  "TopCast": [
+    "eddie redmayne",
+    "katherine waterston",
+    "dan fogler"
+  ],
+  "Directors": [
+    "david yates"
+  ]
+}

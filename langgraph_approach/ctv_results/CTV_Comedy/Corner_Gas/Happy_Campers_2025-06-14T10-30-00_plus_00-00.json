@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Happy Campers",
+  "Desc": "Brent and Oscar take Davis on a camping trip; Hank finally wakes up with a good hair day.",
+  "StartTime": "2025-06-14T10:30:00+00:00",
+  "EndTime": "2025-06-14T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_38296ae7-9f81-4e1a-ae44-6111bd1c74a8_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "18",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Brent and Oscar take Davis on a camping trip; Hank finally wakes up with a good hair day.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Mighty Trains",
+  "Title": "North Rail Express",
+  "Desc": "The highly-specialized North Rail Express container train travels from Narvik to Oslo.",
+  "StartTime": "2025-06-14T19:00:00+00:00",
+  "EndTime": "2025-06-14T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_b9664557-a115-42a5-b614-0003937a2b28_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel"
+  ],
+  "LongDescription": "The highly-specialized North Rail Express container train travels from Narvik to Oslo, delivering cargo of fish as quickly as possible.",
+  "TopCast": [
+    "teddy wilson"
+  ],
+  "Directors": []
+}

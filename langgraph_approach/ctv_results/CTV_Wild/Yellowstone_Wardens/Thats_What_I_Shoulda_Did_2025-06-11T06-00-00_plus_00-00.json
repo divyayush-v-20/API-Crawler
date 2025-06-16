@@ -1,0 +1,37 @@
+{
+  "Name": "Yellowstone Wardens",
+  "Title": "That's What I Shoulda Did",
+  "Desc": "Tracking down hunters riding their ATV through farmers' crops; a claim of illegal hunting.",
+  "StartTime": "2025-06-11T06:00:00+00:00",
+  "EndTime": "2025-06-11T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_ccc4dac9-2407-4f49-8ff8-4a982c45cae3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors",
+    "animals"
+  ],
+  "LongDescription": "Warden Lesofski tracks down hunters riding their ATV through farmers' crops; Warden Taylor investigates a claim of illegal hunting on private property; Warden Golie races to find a hunter disobeying a landowner's rules.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "NUMB3RS",
+  "Title": "The Running Man",
+  "Desc": "An expensive piece of equipment is stolen from a college DNA lab.",
+  "StartTime": "2025-06-13T08:00:00+00:00",
+  "EndTime": "2025-06-13T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_054e1602-2d48-4a74-b178-8e85e10e9955_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "An expensive piece of equipment is stolen from a college DNA lab, and the prime suspect is a student at the school.",
+  "TopCast": [
+    "rob morrow",
+    "david krumholtz",
+    "peter macnicol"
+  ],
+  "Directors": [
+    "terrence o'hara"
+  ]
+}

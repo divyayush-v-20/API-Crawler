@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Whiner Takes All",
+  "Desc": "Brent, Lacey and Hank's game of golf turns into a game of aggravation.",
+  "StartTime": "2025-06-14T12:30:00+00:00",
+  "EndTime": "2025-06-14T13:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_d4d47bff-b556-4d3b-ac4f-adf3a134eaa5_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2007",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "An initially fun game of golf between Brent, Lacey and Hank quickly turns into a round robin of aggravation.",
+  "TopCast": [
+    "brent butt",
+    "eric peterson",
+    "janet wright"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Graveyard Carz",
+  "Title": "Bad to the Bone",
+  "Desc": "The tribute 1958 Plymouth Fury, famously known as Christine, gets a full restoration.",
+  "StartTime": "2025-06-11T06:00:00+00:00",
+  "EndTime": "2025-06-11T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_a07855c6-401b-47b0-a592-c3630a4e049b_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 11,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto",
+    "how-to"
+  ],
+  "LongDescription": "In a build too big for just one episode, the tribute 1958 Plymouth Fury, famously known as Christine, not only gets a full restoration with OE attention to detail, but gets a brand-new modern third-generation engine.",
+  "TopCast": [
+    "mark worman",
+    "royal yoakum",
+    "allysa rose"
+  ],
+  "Directors": []
+}

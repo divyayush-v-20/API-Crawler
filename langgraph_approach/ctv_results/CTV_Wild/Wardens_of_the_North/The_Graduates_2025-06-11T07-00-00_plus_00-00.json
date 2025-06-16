@@ -1,0 +1,36 @@
+{
+  "Name": "Wardens of the North",
+  "Title": "The Graduates",
+  "Desc": "",
+  "StartTime": "2025-06-11T07:00:00+00:00",
+  "EndTime": "2025-06-11T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_27f9d0b3-7609-47e7-955e-f2405fae0d07_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors"
+  ],
+  "LongDescription": "Recent graduates of the Conservation Academy get their feet wet in the real world. Officers crack down on hunters who illegally harvested deer over bait. Officers find boaters who didn't realize their new vessel isn't up to regulation.",
+  "TopCast": [],
+  "Directors": []
+}

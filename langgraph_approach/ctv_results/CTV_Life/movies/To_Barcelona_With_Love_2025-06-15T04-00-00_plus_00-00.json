@@ -1,0 +1,41 @@
+{
+  "Name": "To Barcelona, With Love",
+  "Title": "To Barcelona, With Love",
+  "Desc": "Erica, an American translator, secretly revises a novel set in Barcelona.",
+  "StartTime": "2025-06-15T04:00:00+00:00",
+  "EndTime": "2025-06-15T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_ad57b6d2-8c41-480e-989c-919c7e294530_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "romance"
+  ],
+  "LongDescription": "Erica, an American translator, secretly revises a novel set in Barcelona. Everything is fine until bookstore owner Nico invites the credited author, Anna, to the city for a book-signing. Stars Alison Sweeney, Ashley Williams.",
+  "TopCast": [
+    "alison sweeney",
+    "alejandro tous"
+  ],
+  "Directors": [
+    "ron oliver"
+  ]
+}

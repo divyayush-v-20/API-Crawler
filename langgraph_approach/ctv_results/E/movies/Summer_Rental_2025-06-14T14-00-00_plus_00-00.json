@@ -1,0 +1,40 @@
+{
+  "Name": "Summer Rental",
+  "Title": "Summer Rental",
+  "Desc": "An overworked air-traffic controller takes his family on a beach vacation.",
+  "StartTime": "2025-06-14T14:00:00+00:00",
+  "EndTime": "2025-06-14T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_74cccc16-57c7-426e-9072-9f1d0686b8b8_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1985",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "comedy"
+  ],
+  "LongDescription": "After air traffic controller Jack Chester loses a plane (it's covered on his screen by a fly), he's told to take a break. Jack books his family into a plush resort, but it turns out that their lodgings are in a hut by the beach, and that's as good as the vacation gets.",
+  "TopCast": [
+    "john candy",
+    "richard crenna",
+    "karen austin"
+  ],
+  "Directors": [
+    "carl reiner"
+  ]
+}

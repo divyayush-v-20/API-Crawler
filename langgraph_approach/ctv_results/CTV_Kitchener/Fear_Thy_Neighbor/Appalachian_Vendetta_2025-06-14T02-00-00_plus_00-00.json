@@ -1,0 +1,39 @@
+{
+  "Name": "Fear Thy Neighbor",
+  "Title": "Appalachian Vendetta",
+  "Desc": "Once-friendly neighbors on a mountain road become sworn enemies.",
+  "StartTime": "2025-06-14T02:00:00+00:00",
+  "EndTime": "2025-06-14T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_5777e746-6fe8-4f94-9a18-cdea727ca182_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime"
+  ],
+  "LongDescription": "Once-friendly neighbors on a mountain road become sworn enemies after one family calls police about a theft -- violating the unspoken tradition of leaving authorities out of disputes; years of conflict finally culminate with shots fired.",
+  "TopCast": [
+    "tish iceton"
+  ],
+  "Directors": [
+    "brian rice"
+  ]
+}

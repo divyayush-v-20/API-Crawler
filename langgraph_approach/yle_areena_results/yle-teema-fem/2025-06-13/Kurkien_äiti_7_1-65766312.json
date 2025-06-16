@@ -1,0 +1,83 @@
+{
+  "channel_id": "yle-teema-fem",
+  "broadcast_date": "2025-06-13",
+  "broadcast_time": "2025-06-13T13:40:00+03:00",
+  "program_data": {
+    "title": "Kurkien äiti (7)",
+    "description": "Ellen Vuosalo (1931 - 2025) eli uskomattoman elämän. Hän oli lintutieteilijä ja asui vuosikymmeniä Iranissa tehden itsenäisestä elämästään omannäköisensä seikkailun. O: Iiris Härmä (Suomi 2024) Kuvailutulkattu (U)",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-65766312"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "13.40",
+        "raw": "2025-06-13T13:40:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-13T15:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "1 h 20 min",
+        "raw": "PT4800S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-65766312.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Mary Makes It Easy",
+  "Title": "Scrap Cooking",
+  "Desc": "Making Parmesan corn chowder, twice baked potato casserole and cinnamon oat pancakes with scraps.",
+  "StartTime": "2025-06-12T17:00:00+00:00",
+  "EndTime": "2025-06-12T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_986c97a3-d083-427b-b856-49378ae6104a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking"
+  ],
+  "LongDescription": "To reduce food waste, Mary Berg shares how to use compost castoffs in recipes; using flavorful scraps like corn cobs and potato peels, Mary makes Parmesan corn chowder, twice baked potato casserole and cinnamon oat pancakes.",
+  "TopCast": [
+    "mary berg"
+  ],
+  "Directors": []
+}

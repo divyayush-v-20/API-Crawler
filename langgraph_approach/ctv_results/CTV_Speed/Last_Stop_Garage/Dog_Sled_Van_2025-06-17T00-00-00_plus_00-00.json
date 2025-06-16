@@ -1,0 +1,39 @@
+{
+  "Name": "Last Stop Garage",
+  "Title": "Dog Sled Van",
+  "Desc": "Collin and Corey help transport huskies and a sled across Labrador.",
+  "StartTime": "2025-06-17T00:00:00+00:00",
+  "EndTime": "2025-06-17T00:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_7c344d87-6d4f-474e-bc66-a0fbe25238c4_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto"
+  ],
+  "LongDescription": "Collin and Corey help transport huskies and a sled across Labrador.",
+  "TopCast": [
+    "collin baikie",
+    "corey webber"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Corner Gas",
+  "Title": "Physical Credit",
+  "Desc": "Davis shapes up; Brent and Lacey compete to get a secret from Karen.",
+  "StartTime": "2025-06-15T06:00:00+00:00",
+  "EndTime": "2025-06-15T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_17f029f9-76d0-4aef-ab7c-342be07c5c52_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "16",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Davis shapes up; Brent and Lacey compete to get a secret from Karen.",
+  "TopCast": [
+    "brent butt",
+    "janet wright",
+    "fred ewanuik"
+  ],
+  "Directors": []
+}

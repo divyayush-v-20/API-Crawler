@@ -1,0 +1,37 @@
+{
+  "Name": "Dr. Keri: Prairie Vet",
+  "Title": "How Do Your Puppies Grow?",
+  "Desc": "Breeder Kerry Nemet prepares a litter of Shetland Sheepdog puppies for their future lives.",
+  "StartTime": "2025-06-16T06:30:00+00:00",
+  "EndTime": "2025-06-16T07:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_4276be09-8a6f-477e-b00f-7fb2be3ccbd0_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 4,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animals",
+    "reality"
+  ],
+  "LongDescription": "Breeder Kerry Nemet prepares a litter of Shetland Sheepdog puppies for their future lives.",
+  "TopCast": [
+    "keri hudson reykdal"
+  ],
+  "Directors": []
+}

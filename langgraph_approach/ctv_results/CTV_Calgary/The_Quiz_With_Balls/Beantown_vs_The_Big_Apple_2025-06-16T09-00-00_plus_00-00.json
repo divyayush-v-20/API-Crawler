@@ -1,0 +1,37 @@
+{
+  "Name": "The Quiz With Balls",
+  "Title": "Beantown vs The Big Apple",
+  "Desc": "Quiz topics include girl groups, geography, famous authors and foods.",
+  "StartTime": "2025-06-16T09:00:00+00:00",
+  "EndTime": "2025-06-16T10:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_12_288e7425-5d41-47b7-9e80-e715a1f0ddd4_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "game show"
+  ],
+  "LongDescription": "The Harris's and the Wheatley's go head-to-head; quiz topics include girl groups, geography, famous authors and foods.",
+  "TopCast": [
+    "jay pharoah"
+  ],
+  "Directors": []
+}

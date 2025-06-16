@@ -1,0 +1,45 @@
+{
+  "Name": "Futurama",
+  "Title": "How Hermes Requisitioned His Groove Back",
+  "Desc": "Fry begins a romance with the new bureaucrat when Hermes is sent away.",
+  "StartTime": "2025-06-13T04:00:00+00:00",
+  "EndTime": "2025-06-13T04:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_fea8a76f-441f-43ba-91cb-d57d278f50a7_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "14",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2000",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom",
+    "science fiction"
+  ],
+  "LongDescription": "When Hermes goes on vacation, an attractive bureaucrat takes his place at Planet Express. Voices of Billy West, Katey Sagal, John Di Maggio, Phil LaMarr and Lauren Tom. Guest voice: Nora Dunn.",
+  "TopCast": [
+    "billy west",
+    "katey sagal",
+    "john dimaggio"
+  ],
+  "Directors": [
+    "mark ervin"
+  ]
+}

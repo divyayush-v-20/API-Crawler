@@ -1,0 +1,42 @@
+{
+  "Name": "Blue Bloods",
+  "Title": "Some Kind of Hero",
+  "Desc": "The son of a firefighter whose death was ruled a suicide convinces Danny to reopen the case.",
+  "StartTime": "2025-06-16T08:00:00+00:00",
+  "EndTime": "2025-06-16T09:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_3a508c6b-fe51-4080-972d-d53563e41692_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama"
+  ],
+  "LongDescription": "The son of a firefighter whose death was ruled a suicide convinces Danny to reopen the case; Jamie worries that the press coverage of him rescuing a baby from a burning building will compromise his cover.",
+  "TopCast": [
+    "tom selleck",
+    "donnie wahlberg",
+    "bridget moynahan"
+  ],
+  "Directors": [
+    "alex zakrzewski"
+  ]
+}

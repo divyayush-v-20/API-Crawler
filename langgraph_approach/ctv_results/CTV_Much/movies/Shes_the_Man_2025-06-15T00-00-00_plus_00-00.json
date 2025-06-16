@@ -1,0 +1,41 @@
+{
+  "Name": "She's the Man",
+  "Title": "She's the Man",
+  "Desc": "Romantic complications ensue when a student poses as her twin brother and takes his place at school.",
+  "StartTime": "2025-06-15T00:00:00+00:00",
+  "EndTime": "2025-06-15T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_473800ff-a382-4663-9cd2-5c28cd303aea_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "romantic comedy"
+  ],
+  "LongDescription": "Romantic complications ensue when a student poses as her twin brother and replaces him at his boarding school.",
+  "TopCast": [
+    "amanda bynes",
+    "james kirk",
+    "channing tatum"
+  ],
+  "Directors": [
+    "andy fickman"
+  ]
+}

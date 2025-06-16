@@ -1,0 +1,43 @@
+{
+  "Name": "Bones",
+  "Title": "The Bullet in the Brain",
+  "Desc": "The Jeffersonian team investigates when a notorious murderer is killed by a sniper.",
+  "StartTime": "2025-06-12T23:00:00+00:00",
+  "EndTime": "2025-06-13T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_b8d2f14a-33b7-450b-aa22-6950808befaf_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2011",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "medical"
+  ],
+  "LongDescription": "The Jeffersonian team investigates when a notorious murderer known as \"The Gravedigger\" (Deirdre Lovejoy) is killed by a sniper.",
+  "TopCast": [
+    "emily deschanel",
+    "david boreanaz",
+    "t.j. thyne"
+  ],
+  "Directors": [
+    "david boreanaz"
+  ]
+}

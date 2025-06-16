@@ -1,0 +1,84 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T22:01:20+03:00",
+  "program_data": {
+    "title": "Perjantai-dokkari",
+    "description": "\"Vaikka korvaushoidossa olisi loppuelämän, se ei ole epäonnistuminen.\" Arvi Kestilä käy pistoksella, jotta ei sortuisi huumeisiin. Hän saa palkkaa ja maksaa vuokransa, mutta B-luokan kansalaisen leima kummittelee.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-72691290"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "22.01",
+        "raw": "2025-06-16T22:01:20+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T22:15:45+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "14 min",
+        "raw": "PT865S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-4651034"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-72691290.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

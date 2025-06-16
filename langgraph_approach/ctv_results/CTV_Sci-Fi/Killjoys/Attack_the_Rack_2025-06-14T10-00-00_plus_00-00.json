@@ -1,0 +1,45 @@
+{
+  "Name": "Killjoys",
+  "Title": "Attack the Rack",
+  "Desc": "The Killjoy rebels take drastic measures to clean house with a secret attack against the Rack.",
+  "StartTime": "2025-06-14T10:00:00+00:00",
+  "EndTime": "2025-06-14T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_9fa23afe-3dfe-44af-87e1-2ee8f5bf26df_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "action",
+    "adventure",
+    "science fiction",
+    "crime"
+  ],
+  "LongDescription": "The Killjoy rebels take drastic measures to clean house with a secret attack against the Rack.",
+  "TopCast": [
+    "hannah john-kamen",
+    "aaron ashmore",
+    "luke macfarlane"
+  ],
+  "Directors": []
+}

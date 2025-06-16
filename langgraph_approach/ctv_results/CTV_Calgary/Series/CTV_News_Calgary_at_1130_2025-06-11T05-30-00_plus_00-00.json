@@ -1,0 +1,35 @@
+{
+  "Name": "CTV News Calgary at 11:30",
+  "Title": "CTV News Calgary at 11:30",
+  "Desc": "Calgary's top stories.",
+  "StartTime": "2025-06-11T05:30:00+00:00",
+  "EndTime": "2025-06-11T06:05:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_f5b93210-74ac-4180-8773-a7a1de49ab9a_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 35,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "new",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "news"
+  ],
+  "LongDescription": "Calgary's top stories.",
+  "TopCast": [],
+  "Directors": []
+}

@@ -1,0 +1,89 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-15",
+  "broadcast_time": "2025-06-15T09:03:07+03:00",
+  "program_data": {
+    "title": "Monsen ja kansallispuistot",
+    "description": "Kausi 1, 3/6. Gutulia - ikimetsän rauhaa. Monsen etsii rauhaa ja selvittää, miksi juuri tämä metsä on niin arvokas. Tänä vuonna luontoterapia on hänelle tärkeämpää kuin koskaan.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-73880305"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "9.03",
+        "raw": "2025-06-15T09:03:07+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-15T10:00:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "56 min",
+        "raw": "PT3413S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "current"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-73880405"
+        }
+      },
+      {
+        "type": "videoFormat",
+        "formatted": "HD",
+        "raw": "HD"
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "expired"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "Finland"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "suomi",
+        "raw": "fi"
+      },
+      {
+        "type": "subtitling",
+        "formatted": "ruotsi",
+        "raw": "sv"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "controls": [
+      {
+        "type": "navigator",
+        "destination": {
+          "type": "player",
+          "uri": "https://areena.api.yle.fi/v1/ui/players/1-73880305.json?language=fi&v=10&client=yle-areena-web",
+          "authentication": [
+            "yle-api"
+          ]
+        },
+        "title": "Katso alusta",
+        "backgroundColor": "#29CCDE"
+      }
+    ],
+    "type": "card"
+  }
+}

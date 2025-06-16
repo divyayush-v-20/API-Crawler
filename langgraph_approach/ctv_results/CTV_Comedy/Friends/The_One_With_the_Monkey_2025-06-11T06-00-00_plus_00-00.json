@@ -1,0 +1,39 @@
+{
+  "Name": "Friends",
+  "Title": "The One With the Monkey",
+  "Desc": "The friends renege on a promise not to bring dates to their New Year's Eve party.",
+  "StartTime": "2025-06-11T06:00:00+00:00",
+  "EndTime": "2025-06-11T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_3fca573e-93b6-41f7-9d3c-25ce8322cfdf_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "1994",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "holiday",
+    "sitcom"
+  ],
+  "LongDescription": "The friends renege on a promise not to bring dates to their New Year's Eve party.",
+  "TopCast": [
+    "jennifer aniston",
+    "courteney cox",
+    "lisa kudrow"
+  ],
+  "Directors": []
+}

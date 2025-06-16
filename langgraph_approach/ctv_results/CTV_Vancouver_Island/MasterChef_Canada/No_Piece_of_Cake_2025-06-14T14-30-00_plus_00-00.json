@@ -1,0 +1,40 @@
+{
+  "Name": "MasterChef Canada",
+  "Title": "No Piece of Cake",
+  "Desc": "The cooks are faced with a birthday cake mystery box; the cooks combine odd ingredients.",
+  "StartTime": "2025-06-14T14:30:00+00:00",
+  "EndTime": "2025-06-14T15:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_96992628-9eda-4a1f-b865-b22301b4f6ef_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "7",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2015",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "cooking",
+    "competition reality"
+  ],
+  "LongDescription": "The cooks are faced with a birthday cake mystery box; the cooks combine odd ingredients in the elimination challenge.",
+  "TopCast": [
+    "michael bonacini",
+    "alvin leung",
+    "claudio aprile"
+  ],
+  "Directors": []
+}

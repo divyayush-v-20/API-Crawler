@@ -1,0 +1,38 @@
+{
+  "Name": "Monster Garage",
+  "Title": "Champ Car Line Painter",
+  "Desc": "The team builds a fast street-line painter using an open-wheel car.",
+  "StartTime": "2025-06-13T19:00:00+00:00",
+  "EndTime": "2025-06-13T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_3_678c61dc-04f0-4f75-a528-39ef6a81df39_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "12",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2003",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "auto"
+  ],
+  "LongDescription": "The team builds a fast street-line painter using an open-wheel car.",
+  "TopCast": [
+    "jesse james"
+  ],
+  "Directors": []
+}

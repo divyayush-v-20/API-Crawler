@@ -1,0 +1,41 @@
+{
+  "Name": "Comedy Now!",
+  "Title": "Women of the Night",
+  "Desc": "Comedians Lori Ferguson-Ford, Diana Love, Larke Miller and Dawn Whitewill perform.",
+  "StartTime": "2025-06-13T14:00:00+00:00",
+  "EndTime": "2025-06-13T15:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_a27e0fc8-0444-446c-957c-1dc2306f22db_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2012",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "variety",
+    "standup",
+    "comedy"
+  ],
+  "LongDescription": "Comedians Lori Ferguson-Ford, Diana Love, Larke Miller and Dawn Whitewill perform.",
+  "TopCast": [
+    "james cunningham"
+  ],
+  "Directors": []
+}

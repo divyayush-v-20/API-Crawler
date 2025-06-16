@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Cine Cameras; Glass Ornaments",
+  "Desc": "Motion-picture cameras; glass Christmas ornaments; giant tires.",
+  "StartTime": "2025-06-11T17:30:00+00:00",
+  "EndTime": "2025-06-11T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_d67b5771-a2ed-4765-866b-efdf80cefd6f_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 11,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Motion-picture cameras; glass Christmas ornaments; giant tires.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

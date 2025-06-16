@@ -1,0 +1,37 @@
+{
+  "Name": "Heavy Rescue: 401",
+  "Title": "There is Nothing Else",
+  "Desc": "Gary and the team tackle a tanker wreck; Steve's crew fights to get a tall tractor off the highway.",
+  "StartTime": "2025-06-16T15:00:00+00:00",
+  "EndTime": "2025-06-16T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_aac4e00b-d7f1-469e-8b93-da732fd3cac9_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "10",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Gary and the team tackle a tanker wreck; Steve's crew fights to get a tall tractor off the highway.",
+  "TopCast": [
+    "david pettitt"
+  ],
+  "Directors": []
+}

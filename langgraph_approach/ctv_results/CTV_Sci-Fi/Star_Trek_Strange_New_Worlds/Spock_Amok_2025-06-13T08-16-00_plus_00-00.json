@@ -1,0 +1,44 @@
+{
+  "Name": "Star Trek: Strange New Worlds",
+  "Title": "Spock Amok",
+  "Desc": "A personal visit causes errors during Spock and Pike's negotiations with an unusual alien species.",
+  "StartTime": "2025-06-13T08:16:00+00:00",
+  "EndTime": "2025-06-13T09:26:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_f532f5ac-ea1b-4f69-a30f-404cb9622c04_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 70,
+  "SeasonNo": 1,
+  "EpisodeNumber": "5",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science fiction",
+    "drama",
+    "action",
+    "adventure"
+  ],
+  "LongDescription": "A personal visit causes a comedy of errors during Spock and Pike's crucial negotiations with an unusual alien species.",
+  "TopCast": [
+    "anson mount",
+    "rebecca romijn",
+    "ethan peck"
+  ],
+  "Directors": []
+}

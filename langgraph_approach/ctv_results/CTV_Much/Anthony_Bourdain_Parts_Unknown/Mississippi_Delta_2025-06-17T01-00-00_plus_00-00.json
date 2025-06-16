@@ -1,0 +1,44 @@
+{
+  "Name": "Anthony Bourdain: Parts Unknown",
+  "Title": "Mississippi Delta",
+  "Desc": "Anthony explores Mississippi food and history at the Big Apple Inn and Po' Monkey's Social Club.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_c3725310-8ba3-48df-ba80-bc2dbdc8fb2c_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel",
+    "cooking"
+  ],
+  "LongDescription": "Anthony explores Mississippi including the home of the \"Pig Ear Sandwich,\" downtown Jackson's Big Apple Inn, also known as a Civil Rights Era gathering place; then on to an old sharecropper structure turned juke joint, Po' Monkey's Social Club.",
+  "TopCast": [
+    "anthony bourdain",
+    "john currence",
+    "beth ann fennelly"
+  ],
+  "Directors": [
+    "ben selkow"
+  ]
+}

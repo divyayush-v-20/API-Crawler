@@ -1,0 +1,44 @@
+{
+  "Name": "American Dad!",
+  "Title": "The Pink Sphinx Holds Her Hearts on the Turn",
+  "Desc": "Francine enters the world of poker to learn how to hide her true feelings from Steve and Hayley.",
+  "StartTime": "2025-06-13T23:30:00+00:00",
+  "EndTime": "2025-06-14T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_3f3c33d4-eaeb-4149-b8a5-ccfbda16bd70_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 18,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Francine enters the strange and dangerous world of poker to learn how to hide her true feelings from Steve and Hayley.",
+  "TopCast": [
+    "seth macfarlane",
+    "wendy schaal",
+    "rachael macfarlane"
+  ],
+  "Directors": [
+    "chris bennett"
+  ]
+}

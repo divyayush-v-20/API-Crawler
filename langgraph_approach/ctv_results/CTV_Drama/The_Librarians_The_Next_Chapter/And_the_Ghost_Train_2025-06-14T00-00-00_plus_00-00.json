@@ -1,0 +1,41 @@
+{
+  "Name": "The Librarians: The Next Chapter",
+  "Title": "And the Ghost Train",
+  "Desc": "Half of the team gets trapped on a runaway ghost train; can the rest of the team help them?",
+  "StartTime": "2025-06-14T00:00:00+00:00",
+  "EndTime": "2025-06-14T01:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_91f83060-c675-42ea-8077-bffb8606b81e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "3",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "adventure",
+    "fantasy"
+  ],
+  "LongDescription": "Half of the Librarian team gets trapped on a runaway ghost train; can the rest of the team help in solving the unresolved business of the ghosts on board before the train completes a rampage of destruction?",
+  "TopCast": [
+    "callum mcgowan",
+    "olivia morris",
+    "bluey robinson"
+  ],
+  "Directors": []
+}

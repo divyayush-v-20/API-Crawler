@@ -1,0 +1,41 @@
+{
+  "Name": "The Conners",
+  "Title": "Promotions, Podcasts and Magic Tea",
+  "Desc": "Darlene earns a promotion at Wellman Plastics; Jackie has an emotional revelation.",
+  "StartTime": "2025-06-13T19:30:00+00:00",
+  "EndTime": "2025-06-13T20:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_f977ebb8-eeb2-42c3-9178-0dce0c1c090e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 3,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Darlene earns a promotion at Wellman Plastics, while Ben decides on a new career path; Jackie tries an herbal tea. and it leads to an emotional revelation.",
+  "TopCast": [
+    "john goodman",
+    "laurie metcalf",
+    "lecy goranson"
+  ],
+  "Directors": [
+    "gail mancuso"
+  ]
+}

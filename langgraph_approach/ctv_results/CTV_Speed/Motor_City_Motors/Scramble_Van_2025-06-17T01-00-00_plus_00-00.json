@@ -1,0 +1,39 @@
+{
+  "Name": "Motor City Motors",
+  "Title": "Scramble Van",
+  "Desc": "The brothers create a carnival-style scrambler made out of two mini-vans connected by an I-beam.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T02:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_c5a49de8-99d3-40fe-9672-c5189e190f5e_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2010",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "auto"
+  ],
+  "LongDescription": "The brothers create a carnival-style scrambler made out of two mini-vans connected by an I-beam.",
+  "TopCast": [
+    "jeremy brandt",
+    "dave kaye",
+    "james kaye"
+  ],
+  "Directors": []
+}

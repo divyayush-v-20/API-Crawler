@@ -1,0 +1,36 @@
+{
+  "Name": "Dog's Best Friend",
+  "Title": "Rose & Bindi, Shiva & Keiko",
+  "Desc": "Rose, a fox, and Bindi, a raccoon, love to play together and stir up loads of mischief.",
+  "StartTime": "2025-06-12T12:00:00+00:00",
+  "EndTime": "2025-06-12T12:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_8ab504b8-9c5e-4db6-9c8d-7f1fd7fcea25_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 2,
+  "EpisodeNumber": "11",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": null,
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "animals",
+    "pets"
+  ],
+  "LongDescription": "Rose, a fox, and Bindi, a raccoon, love to play together and stir up loads of mischief; a doberman puppy and a rescued coatimundi play together like besties and even get time outs when it gets a bit too rough.",
+  "TopCast": [],
+  "Directors": []
+}

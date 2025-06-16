@@ -1,0 +1,38 @@
+{
+  "Name": "Snapped",
+  "Title": "Wanda Haithcock",
+  "Desc": "When the body of a beloved father is discovered, detectives uncover a toxic love affair.",
+  "StartTime": "2025-06-11T05:00:00+00:00",
+  "EndTime": "2025-06-11T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_e83e22bf-f12d-465b-ae42-51b4c411fa84_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 28,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2020",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime",
+    "documentary"
+  ],
+  "LongDescription": "When the body of a beloved father is discovered in a South Carolina home, detectives uncover a toxic love affair that had deadly consequences.",
+  "TopCast": [
+    "jody flader"
+  ],
+  "Directors": []
+}

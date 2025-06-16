@@ -1,0 +1,41 @@
+{
+  "Name": "The Chronicle Mysteries: Recovered",
+  "Title": "The Chronicle Mysteries: Recovered",
+  "Desc": "The host of a podcast becomes interested in a cold-case disappearance.",
+  "StartTime": "2025-06-11T03:00:00+00:00",
+  "EndTime": "2025-06-11T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_4_6407534f-b747-42a1-9d58-8732ef9548d0_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2019",
+  "EntityType": "Movie",
+  "SubType": "TV Movie",
+  "Genres": [
+    "mystery",
+    "crime drama"
+  ],
+  "LongDescription": "The host of a podcast returns to her hometown seeking answers to the disappearance of her friend Gina DeSavio.",
+  "TopCast": [
+    "alison sweeney",
+    "benjamin ayres",
+    "dave collette"
+  ],
+  "Directors": [
+    "jason bourque"
+  ]
+}

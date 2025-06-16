@@ -1,0 +1,44 @@
+{
+  "Name": "King Richard",
+  "Title": "King Richard",
+  "Desc": "Richard Williams inspires his two daughters, Venus and Serena, to become tennis champions.",
+  "StartTime": "2025-06-16T03:00:00+00:00",
+  "EndTime": "2025-06-16T06:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_1_7022fd22-15cf-42f4-8ca5-cfea0beddc20_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 210,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "new",
+    "premiere",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "biography",
+    "drama"
+  ],
+  "LongDescription": "Armed with a clear vision and a brazen, 78-page plan, Richard Williams is determined to write his two daughters, Venus and Serena, into history. Training on tennis courts in Compton, Calif., Richard shapes the girls' unyielding commitment and keen intuition. Together, the Williams family defies seemingly insurmountable odds and the prevailing expectations laid before them.",
+  "TopCast": [
+    "will smith",
+    "aunjanue ellis",
+    "jon bernthal"
+  ],
+  "Directors": [
+    "reinaldo marcus green"
+  ]
+}

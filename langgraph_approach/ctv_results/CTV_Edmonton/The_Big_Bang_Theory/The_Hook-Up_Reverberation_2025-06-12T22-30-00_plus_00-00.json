@@ -1,0 +1,41 @@
+{
+  "Name": "The Big Bang Theory",
+  "Title": "The Hook-Up Reverberation",
+  "Desc": "Raj's honesty comes back to haunt him when his new girlfriend is unfriendly to Penny.",
+  "StartTime": "2025-06-12T22:30:00+00:00",
+  "EndTime": "2025-06-12T22:59:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_29_17150d13-3c64-4379-b8bf-6cc5b020a99f_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 29,
+  "SeasonNo": 8,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Raj's honesty comes back to haunt him when his new girlfriend is unfriendly to Penny; the guys think about becoming part owners in Stuart's store.",
+  "TopCast": [
+    "johnny galecki",
+    "jim parsons",
+    "kaley cuoco-sweeting"
+  ],
+  "Directors": [
+    "mark cendrowski"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "How It's Made",
+  "Title": "Javelins; Cuckoo Clocks",
+  "Desc": "Javelins; cuckoo clocks; hearts of palm; windshield wipers.",
+  "StartTime": "2025-06-12T05:30:00+00:00",
+  "EndTime": "2025-06-12T06:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_71625afe-c74d-4a9e-a68f-ed122bbad603_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 11,
+  "EpisodeNumber": "4",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "science",
+    "documentary"
+  ],
+  "LongDescription": "Javelins; cuckoo clocks; hearts of palm; windshield wipers.",
+  "TopCast": [
+    "lynne adams"
+  ],
+  "Directors": []
+}

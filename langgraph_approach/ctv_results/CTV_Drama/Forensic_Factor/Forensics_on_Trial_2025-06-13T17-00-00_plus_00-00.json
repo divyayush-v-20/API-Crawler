@@ -1,0 +1,38 @@
+{
+  "Name": "Forensic Factor",
+  "Title": "Forensics on Trial",
+  "Desc": "With four suspects, CSIs turns to the brand-new science of DNA to catch the killer.",
+  "StartTime": "2025-06-13T17:00:00+00:00",
+  "EndTime": "2025-06-13T18:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_303e7a1e-f310-4992-9e20-3d3dac990bb6_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "1",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2004",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "In fall 1991, Toronto was paralyzed by the story of a missing six-year-old girl found raped and murdered in the boiler room of her apartment building; with four suspects, CSIs turned to the brand-new science of DNA to catch the killer.",
+  "TopCast": [
+    "john robinson"
+  ],
+  "Directors": []
+}

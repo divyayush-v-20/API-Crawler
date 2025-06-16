@@ -1,0 +1,36 @@
+{
+  "Name": "Crime Scene Investigators",
+  "Title": "Crime Scene Investigators",
+  "Desc": "A fresh take on the true-crime docudrama, weaving forensic evidence into a single visual frame.",
+  "StartTime": "2025-06-16T07:00:00+00:00",
+  "EndTime": "2025-06-16T08:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_557b1fd5-fa32-46d9-bd53-b71f94b8a3c3_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2025",
+  "EntityType": "Show",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "crime"
+  ],
+  "LongDescription": "A fresh take on the true-crime docudrama, weaving forensic evidence into a single visual frame.",
+  "TopCast": [],
+  "Directors": []
+}

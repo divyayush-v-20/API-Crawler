@@ -1,0 +1,41 @@
+{
+  "Name": "Ferrari: Race to Immortality",
+  "Title": "Ferrari: Race to Immortality",
+  "Desc": "The story of the Scuderia Ferrari motor team, which was formed by race car driver Enzo Ferrari.",
+  "StartTime": "2025-06-17T01:00:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_821ed7b8-f8b8-45d9-ba0e-609f5a9fe758_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 120,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "hd unknown",
+    "new"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Movie",
+  "SubType": "Feature Film",
+  "Genres": [
+    "documentary"
+  ],
+  "LongDescription": "The true story of the Scuderia Ferrari motor team, which was formed by Italian race car driver Enzo Ferrari in the golden years of motor racing. He pushed the team's young drivers to their limit to achieve success.",
+  "TopCast": [
+    "doug nye",
+    "richard williams",
+    "peter windsor"
+  ],
+  "Directors": [
+    "daryl goodrich"
+  ]
+}

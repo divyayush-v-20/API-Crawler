@@ -1,0 +1,44 @@
+{
+  "Name": "The Rookie",
+  "Title": "Enervo",
+  "Desc": "The team races to stop bombs that have been scattered throughout the city by a suspected terrorist.",
+  "StartTime": "2025-06-14T18:00:00+00:00",
+  "EndTime": "2025-06-14T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_fbc9ffff-87fc-4116-980a-5d257df6a715_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 4,
+  "EpisodeNumber": "20",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2022",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "action"
+  ],
+  "LongDescription": "The team, alongside the LA division of the FBI, is in a race to stop bombs that have been scattered throughout the city by a suspected terrorist; the joint task force is suspicious of the CIA's involvement in the situation.",
+  "TopCast": [
+    "nathan fillion",
+    "mekia cox",
+    "alyssa diaz"
+  ],
+  "Directors": [
+    "bill roe"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Property Virgins",
+  "Title": "Movers and Shakers",
+  "Desc": "Tammy and Michael are ready to leave the city and settle down in a soundproof family-friendly home.",
+  "StartTime": "2025-06-13T12:00:00+00:00",
+  "EndTime": "2025-06-13T12:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_b41b761c-55c3-4bd6-b289-2777df77e268_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 19,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "house/garden"
+  ],
+  "LongDescription": "Now in their 30s--and getting serious about their future together--musical duo Tammy and Michael are ready to leave the city and settle down in a soundproof family-friendly home of their own.",
+  "TopCast": [
+    "wendy wolfe"
+  ],
+  "Directors": []
+}

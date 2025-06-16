@@ -1,0 +1,44 @@
+{
+  "Name": "American Dad!",
+  "Title": "Steve, Snot, and the Quest for the Og Four Loko",
+  "Desc": "Steve and Snot go on a quest together to find a Four Loko beer to get into a party.",
+  "StartTime": "2025-06-13T04:30:00+00:00",
+  "EndTime": "2025-06-13T05:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_6d0aa1a5-24b4-4663-a4f3-a8aee99463cc_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 18,
+  "EpisodeNumber": "19",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "animated",
+    "sitcom"
+  ],
+  "LongDescription": "Steve and Snot go on a quest together to find a Four Loko beer to get into a party.",
+  "TopCast": [
+    "seth macfarlane",
+    "wendy schaal",
+    "rachael macfarlane"
+  ],
+  "Directors": [
+    "tim parsons"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Cold Water Cowboys",
+  "Title": "Outwit, Outsmart, Outplay",
+  "Desc": "Richard Gillett loves the thrill of fishing for herring and the hefty paycheck that comes with it.",
+  "StartTime": "2025-06-14T10:00:00+00:00",
+  "EndTime": "2025-06-14T11:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_334f8c75-34cd-40af-8816-13d0a68ec79d_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2014",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality"
+  ],
+  "LongDescription": "Richard Gillett loves the thrill of fishing for herring and the hefty paycheck that comes with it; Paul Tiller looks to beat other boats to his favorite turbot spot; Justin Bridger dreams to take over the family business.",
+  "TopCast": [
+    "richard gillett",
+    "conway caines",
+    "rick caines"
+  ],
+  "Directors": []
+}

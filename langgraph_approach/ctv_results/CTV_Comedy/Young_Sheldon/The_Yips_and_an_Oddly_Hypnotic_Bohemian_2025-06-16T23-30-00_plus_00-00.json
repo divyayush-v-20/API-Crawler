@@ -1,0 +1,41 @@
+{
+  "Name": "Young Sheldon",
+  "Title": "The Yips and an Oddly Hypnotic Bohemian",
+  "Desc": "Sheldon gets the science yips and has to learn how to not think; George Sr. plays handyman.",
+  "StartTime": "2025-06-16T23:30:00+00:00",
+  "EndTime": "2025-06-17T00:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_2_46278c2e-e243-4494-b799-6a5e15ca867a_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 5,
+  "EpisodeNumber": "9",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2021",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "sitcom"
+  ],
+  "LongDescription": "Sheldon gets the science yips and has to learn how to not think; George Sr. plays handyman at Brenda Sparks' house.",
+  "TopCast": [
+    "iain armitage",
+    "zoe perry",
+    "lance barber"
+  ],
+  "Directors": [
+    "kabir akhtar"
+  ]
+}

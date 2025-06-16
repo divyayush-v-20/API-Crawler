@@ -1,0 +1,41 @@
+{
+  "Name": "Comedy Now!",
+  "Title": "Glen Foster",
+  "Desc": "Comic Glen Foster performs.",
+  "StartTime": "2025-06-11T15:00:00+00:00",
+  "EndTime": "2025-06-11T16:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_049a4389-3f32-4b09-af01-cacf8d4ae106_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": null,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2008",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "variety",
+    "standup",
+    "comedy"
+  ],
+  "LongDescription": "Comic Glen Foster performs.",
+  "TopCast": [
+    "james cunningham"
+  ],
+  "Directors": []
+}

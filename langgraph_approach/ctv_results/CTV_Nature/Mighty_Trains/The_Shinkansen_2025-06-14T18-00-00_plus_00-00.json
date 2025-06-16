@@ -1,0 +1,40 @@
+{
+  "Name": "Mighty Trains",
+  "Title": "The Shinkansen",
+  "Desc": "Japan's Tokaido Shinkansen operates on a dedicated railway line at up to 177 mph.",
+  "StartTime": "2025-06-14T18:00:00+00:00",
+  "EndTime": "2025-06-14T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_a497aa6b-fc8a-486e-8f66-8a4f02f9c589_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2016",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "travel"
+  ],
+  "LongDescription": "Japan's Tokaido Shinkansen, known as the bullet train, operates on a dedicated railway line at up to 177 mph.",
+  "TopCast": [
+    "teddy wilson"
+  ],
+  "Directors": [
+    "christine nielsen"
+  ]
+}

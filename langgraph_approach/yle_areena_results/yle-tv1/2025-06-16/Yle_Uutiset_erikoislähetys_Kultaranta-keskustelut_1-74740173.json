@@ -1,0 +1,65 @@
+{
+  "channel_id": "yle-tv1",
+  "broadcast_date": "2025-06-16",
+  "broadcast_time": "2025-06-16T11:15:00+03:00",
+  "program_data": {
+    "title": "Yle Uutiset erikoislähetys: Kultaranta-keskustelut",
+    "description": "Tasavallan presidentti Alexander Stubbin isännöimä ulko- ja turvallisuuspoliittinen keskustelutilaisuus Kultarannassa.",
+    "pointer": {
+      "type": "program",
+      "uri": "yleareena://items/1-74740173"
+    },
+    "labels": [
+      {
+        "type": "broadcastStartDate",
+        "formatted": "11.15",
+        "raw": "2025-06-16T11:15:00+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "broadcastEndDate",
+        "raw": "2025-06-16T15:05:15+03:00",
+        "rawType": "date"
+      },
+      {
+        "type": "duration",
+        "formatted": "3 h 50 min",
+        "raw": "PT13815S",
+        "rawType": "duration"
+      },
+      {
+        "type": "ondemandStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "seriesLink",
+        "pointer": {
+          "uri": "yleareena://items/1-2855851"
+        }
+      },
+      {
+        "type": "broadcastStatus",
+        "raw": "upcoming"
+      },
+      {
+        "type": "broadcastServiceType",
+        "raw": "TVChannel"
+      },
+      {
+        "type": "region",
+        "raw": "World"
+      },
+      {
+        "type": "mediaType",
+        "raw": "video"
+      },
+      {
+        "type": "hardOfHearingSubtitling",
+        "formatted": "ohjelmatekstitys (suomi)",
+        "raw": "fi"
+      }
+    ],
+    "presentation": "scheduleCard",
+    "type": "card"
+  }
+}

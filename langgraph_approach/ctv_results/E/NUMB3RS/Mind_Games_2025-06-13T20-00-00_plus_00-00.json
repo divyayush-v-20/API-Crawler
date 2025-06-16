@@ -1,0 +1,46 @@
+{
+  "Name": "NUMB3RS",
+  "Title": "Mind Games",
+  "Desc": "When a psychic leads authorities to a deadly crime scene, he offers to help Charlie.",
+  "StartTime": "2025-06-13T20:00:00+00:00",
+  "EndTime": "2025-06-13T21:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_30_958b58e3-046e-46cf-88ce-9376dfbfe58e_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 2,
+  "EpisodeNumber": "17",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "hd 1080i",
+    "hdtv",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2006",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "crime drama",
+    "mystery",
+    "thriller",
+    "drama"
+  ],
+  "LongDescription": "When a psychic, Kraft, leads authorities to a deadly crime scene, he offers to help Charlie, who resolves to prove that Kraft's abilities are no match for his mathematical findings.",
+  "TopCast": [
+    "rob morrow",
+    "david krumholtz",
+    "peter macnicol"
+  ],
+  "Directors": [
+    "peter markel"
+  ]
+}

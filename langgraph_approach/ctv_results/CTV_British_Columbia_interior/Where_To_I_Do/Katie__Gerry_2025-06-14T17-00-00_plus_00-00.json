@@ -1,0 +1,38 @@
+{
+  "Name": "Where To I Do?",
+  "Title": "Katie & Gerry",
+  "Desc": "Tommy helps foodies Katie and Gerry find the perfect city venue with a tight budget.",
+  "StartTime": "2025-06-14T17:00:00+00:00",
+  "EndTime": "2025-06-14T17:30:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_794a8630-de15-4a4f-a262-fcb85280dac2_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 30,
+  "SeasonNo": 1,
+  "EpisodeNumber": "6",
+  "Qualifiers": [
+    "cc",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2018",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "entertainment",
+    "romance",
+    "reality"
+  ],
+  "LongDescription": "Tommy helps foodies Katie and Gerry find the perfect city venue with a tight budget.",
+  "TopCast": [
+    "tommy smythe"
+  ],
+  "Directors": []
+}

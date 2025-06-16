@@ -1,0 +1,39 @@
+{
+  "Name": "Keeping Up With the Kardashians",
+  "Title": "Close Encounters of the Kardashian Kind",
+  "Desc": "Khlo\u00e9 uses Bruce's camping trip to hunt for aliens; Kris wants her family's support.",
+  "StartTime": "2025-06-15T18:00:00+00:00",
+  "EndTime": "2025-06-15T19:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_6_91210596-0adc-4d74-b0bc-3e36ed522eb3_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 8,
+  "EpisodeNumber": null,
+  "Qualifiers": [
+    "hd 1080i",
+    "hdtv"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2013",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "entertainment"
+  ],
+  "LongDescription": "Khlo\u00e9 uses Bruce's camping trip to hunt for aliens; Kris wants her family's support while launching her new talk show.",
+  "TopCast": [
+    "bruce jenner",
+    "kris jenner",
+    "kim kardashian"
+  ],
+  "Directors": []
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Last of the Giants: Wild Fish",
+  "Title": "Lost Lake Dinosaur",
+  "Desc": "Cyril's next mission is the invasive paiche, a giant, air-breathing monster fish.",
+  "StartTime": "2025-06-17T02:00:00+00:00",
+  "EndTime": "2025-06-17T03:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_6_10_0cff6e87-8cb8-40cd-b57d-294d7bbccfe2_jpg_1920x1080.jpg",
+      "Width": 1920,
+      "Height": 1080
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 3,
+  "EpisodeNumber": "8",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2024",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "documentary",
+    "science",
+    "nature",
+    "animals"
+  ],
+  "LongDescription": "Cyril's next mission is the invasive paiche, a giant, air-breathing monster fish.",
+  "TopCast": [
+    "cyril chauquet"
+  ],
+  "Directors": []
+}

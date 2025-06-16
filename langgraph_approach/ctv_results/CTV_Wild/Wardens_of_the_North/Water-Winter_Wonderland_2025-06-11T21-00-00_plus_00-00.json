@@ -1,0 +1,36 @@
+{
+  "Name": "Wardens of the North",
+  "Title": "Water-Winter Wonderland",
+  "Desc": "During snowmobile season, unsafe driving puts a damper on the fun for some drivers.",
+  "StartTime": "2025-06-11T21:00:00+00:00",
+  "EndTime": "2025-06-11T22:00:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_31_85444cf7-47d1-42f4-95dd-3872e3b76206_jpg_3840x2160.jpg",
+      "Width": 3840,
+      "Height": 2160
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 1,
+  "EpisodeNumber": "2",
+  "Qualifiers": [
+    "cc",
+    "hd 1080i"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2023",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "reality",
+    "crime",
+    "outdoors"
+  ],
+  "LongDescription": "A deer hunt results in shots fired into a nearby home; during snowmobile season, riders enjoy the winter wonderland, but unsafe driving puts a damper on the fun for some drivers.",
+  "TopCast": [],
+  "Directors": []
+}

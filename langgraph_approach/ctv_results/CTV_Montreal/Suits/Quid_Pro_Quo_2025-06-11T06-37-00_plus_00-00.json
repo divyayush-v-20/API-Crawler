@@ -1,0 +1,45 @@
+{
+  "Name": "Suits",
+  "Title": "Quid Pro Quo",
+  "Desc": "Mike's class action suit hits a snag; Harvey, Louis and Rachel consider getting their hands dirty.",
+  "StartTime": "2025-06-11T06:37:00+00:00",
+  "EndTime": "2025-06-11T07:37:00+00:00",
+  "IsBlackedOut": false,
+  "GameId": null,
+  "Images": [
+    {
+      "Type": "thumbnail",
+      "Url": "https://images2.9c9media.com/image_asset/2025_5_28_0db8b6e7-8a2f-4f48-b691-f0ad86f2308b_jpg_960x540.jpg",
+      "Width": 960,
+      "Height": 540
+    }
+  ],
+  "Duration": 60,
+  "SeasonNo": 6,
+  "EpisodeNumber": "15",
+  "Qualifiers": [
+    "cc",
+    "dvs",
+    "stereo"
+  ],
+  "Ratings": [],
+  "ReleaseYear": "2017",
+  "EntityType": "Episode",
+  "SubType": "Series",
+  "Genres": [
+    "drama",
+    "crime drama",
+    "law",
+    "comedy"
+  ],
+  "LongDescription": "Mike's class action suit hits a snag; Harvey, Louis and Rachel consider getting their hands dirty; Donna and Benjamin seek an investor.",
+  "TopCast": [
+    "patrick j. adams",
+    "gabriel macht",
+    "meghan markle"
+  ],
+  "Directors": [
+    "kevin bray",
+    "anton cropper"
+  ]
+}
